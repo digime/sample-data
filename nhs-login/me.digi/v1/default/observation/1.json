@@ -1,0 +1,26 @@
+[
+    {
+        "atlasmapversion": "1.0.0",
+        "objecttypeversion": "2.0.0",
+        "objects": [
+            {
+                "accountentityid": "41_4336029403",
+                "valuequantity": {},
+                "id": "f1c63732-7b6e-4e3a-9149-eb76504cd981",
+                "entityid": "41_4336029403_f1c63732-7b6e-4e3a-9149-eb76504cd981_1652832000000",
+                "createddate": 1652832000000,
+                "effectivedatetime": 1652832000000,
+                "code": {
+                    "coding": [
+                        {
+                            "display": "Standard ECG",
+                            "code": "256432014"
+                        }
+                    ],
+                    "text": "Standard ECG"
+                },
+                "component": []
+            }
+        ]
+    }
+]
