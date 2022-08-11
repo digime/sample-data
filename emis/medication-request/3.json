@@ -1,0 +1,101 @@
+[
+    {
+        "createddate": 1555286400000,
+        "id": "41fcde2a-96bb-4ac0-8f42-c4df2d37769d",
+        "entityid": "30_123456789_41fcde2a-96bb-4ac0-8f42-c4df2d37769d",
+        "accountentityid": "30_123456789",
+        "medicationreference": {
+            "status": "Active",
+            "code": {
+                "text": "Ibuprofen 10% gel",
+                "coding": [
+                    {
+                        "code": "1780141000033111",
+                        "display": "Ibuprofen 10% gel"
+                    }
+                ]
+            }
+        },
+        "dosageinstruction": [
+            {
+                "text": "Apply Up To Three Times A Day",
+                "dosequantity": {
+                    "value": 100,
+                    "code": "100 gram",
+                    "unit": "gram"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1555286400000
+            }
+        }
+    },
+    {
+        "createddate": 1555286400000,
+        "id": "05755c56-87c2-4ac6-9b05-3d7adb0f97fd",
+        "entityid": "30_123456789_05755c56-87c2-4ac6-9b05-3d7adb0f97fd",
+        "accountentityid": "30_123456789",
+        "medicationreference": {
+            "status": "Active",
+            "code": {
+                "text": "Aspirin 75mg gastro-resistant tablets",
+                "coding": [
+                    {
+                        "code": "83041000033115",
+                        "display": "Aspirin 75mg gastro-resistant tablets"
+                    }
+                ]
+            }
+        },
+        "dosageinstruction": [
+            {
+                "text": "One To Be Taken Each Day",
+                "dosequantity": {
+                    "value": 28,
+                    "code": "28 tablet",
+                    "unit": "tablet"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1555286400000
+            }
+        }
+    },
+    {
+        "createddate": 1555286400000,
+        "id": "edb1eb8f-9f1e-462b-9cac-ea8e9a2a8831",
+        "entityid": "30_123456789_edb1eb8f-9f1e-462b-9cac-ea8e9a2a8831",
+        "accountentityid": "30_123456789",
+        "medicationreference": {
+            "status": "Active",
+            "code": {
+                "text": "Ibuprofen 400mg tablets",
+                "coding": [
+                    {
+                        "code": "747441000033113",
+                        "display": "Ibuprofen 400mg tablets"
+                    }
+                ]
+            }
+        },
+        "dosageinstruction": [
+            {
+                "text": "One To Be Taken Three Times A Day After Food",
+                "dosequantity": {
+                    "value": 84,
+                    "code": "84 tablet",
+                    "unit": "tablet"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1555286400000
+            }
+        }
+    }
+]
