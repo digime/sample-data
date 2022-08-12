@@ -1,1 +1,452 @@
-{"content":{"version":"2.0.0","descriptor":{"createddate":1571239557123,"updateddate":1617708350165,"hash":"363059a36dd5471f3ca9eedc4204d884","objecttype":300,"accountjfsid":5,"atlasmapversions":[{"version":"1.0.0","count":10}],"dateshard":"D201904","dateshardmode":"D","objecttypeversions":[{"version":"1.0.0","count":10}],"servicegroup":4,"servicetype":18},"data":[{"atlasmapversion":"1.0.0","objecttypeversion":"1.0.0","objects":[{"createddate":1554404400000,"updateddate":1556533097000,"id":"21518529501","entityid":"18_7GYFKW_21518529501","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":96},{"name":"very","minutes":0}],"activityname":"Swim","activitytypeid":"90024","averageheartrate":0,"calories":449,"distance":0.32004,"durations":{"active":5724000,"original":5724000,"total":5724000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":0,"originalstartdate":1554404400000,"speed":0.201283},{"createddate":1556524800000,"updateddate":1556532612000,"id":"21518977630","entityid":"18_7GYFKW_21518977630","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":131},{"name":"fairly","minutes":0},{"name":"very","minutes":0}],"activityname":"Walk","activitytypeid":"90013","averageheartrate":0,"calories":458,"distance":8.04672,"durations":{"active":7855000,"original":7855000,"total":7855000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":11055,"originalstartdate":1556524800000,"speed":3.68787},{"createddate":1556517600000,"updateddate":1556532875000,"id":"21517032236","entityid":"18_7GYFKW_21517032236","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":0},{"name":"very","minutes":61}],"activityname":"Walk","activitytypeid":"90013","averageheartrate":0,"calories":573,"distance":8.04672,"durations":{"active":3655000,"original":3655000,"total":3655000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":11050,"originalstartdate":1556517600000,"speed":7.92563},{"createddate":1556304900000,"updateddate":1556533156000,"id":"21518405502","entityid":"18_7GYFKW_21518405502","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":91},{"name":"very","minutes":0}],"activityname":"Swim","activitytypeid":"90024","averageheartrate":0,"calories":425,"distance":0.18288,"durations":{"active":5428000,"original":5428000,"total":5428000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":0,"originalstartdate":1556304900000,"speed":0.121291},{"createddate":1556218800000,"updateddate":1556614379000,"id":"21515421187","entityid":"18_7GYFKW_21515421187","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":91},{"name":"very","minutes":0}],"activityname":"Swim","activitytypeid":"90024","averageheartrate":0,"calories":425,"distance":0.13716,"durations":{"active":5425000,"original":5425000,"total":5425000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":0,"originalstartdate":1556218800000,"speed":0.0910186},{"createddate":1555837200000,"updateddate":1556532745000,"id":"21519292519","entityid":"18_7GYFKW_21519292519","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":0},{"name":"very","minutes":31}],"activityname":"Run","activitytypeid":"90009","averageheartrate":0,"calories":358,"distance":4.82803,"durations":{"active":1825000,"original":1825000,"total":1825000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":3954,"originalstartdate":1555837200000,"speed":9.52379},{"createddate":1555695000000,"updateddate":1556533181000,"id":"21518977633","entityid":"18_7GYFKW_21518977633","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":240},{"name":"very","minutes":0}],"activityname":"Bike","activitytypeid":"90001","averageheartrate":0,"calories":1128,"distance":24.1402,"durations":{"active":14400000,"original":14400000,"total":14400000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":0,"originalstartdate":1555695000000,"speed":6.03504},{"createddate":1555480800000,"updateddate":1556532692000,"id":"21517013091","entityid":"18_7GYFKW_21517013091","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":476},{"name":"very","minutes":0}],"activityname":"Bike","activitytypeid":"90001","averageheartrate":0,"calories":2233,"distance":72.4205,"durations":{"active":28517000,"original":28517000,"total":28517000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":0,"originalstartdate":1555480800000,"speed":9.1424},{"createddate":1555010040000,"updateddate":1556533126000,"id":"21519292520","entityid":"18_7GYFKW_21519292520","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":120},{"name":"very","minutes":0}],"activityname":"Swim","activitytypeid":"90024","averageheartrate":0,"calories":564,"distance":0.1143,"durations":{"active":7200000,"original":7200000,"total":7200000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":0,"originalstartdate":1555010040000,"speed":0.05715},{"createddate":1554816600000,"updateddate":1556532644000,"id":"21515306006","entityid":"18_7GYFKW_21515306006","accountentityid":"18_7GYFKW","activitylevel":[{"name":"sedentary","minutes":0},{"name":"lightly","minutes":0},{"name":"fairly","minutes":197},{"name":"very","minutes":0}],"activityname":"Swim","activitytypeid":"90024","averageheartrate":0,"calories":923,"distance":0.50292,"durations":{"active":11780000,"original":11780000,"total":11780000},"elevationgain":0,"logtype":"manual","manualvaluesspecified":{"calories":false,"distance":true,"steps":false},"steps":0,"originalstartdate":1554816600000,"speed":0.153694}]}]},"signature":"012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef","signaturealgorithm":"RSA2048SHA512","version":1}
+[
+    {
+        "createddate": 1554404400000,
+        "updateddate": 1556533097000,
+        "id": "21518529501",
+        "entityid": "18_7GYFKW_21518529501",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 96
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Swim",
+        "activitytypeid": "90024",
+        "averageheartrate": 0,
+        "calories": 449,
+        "distance": 0.32004,
+        "durations": {
+            "active": 5724000,
+            "original": 5724000,
+            "total": 5724000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 0,
+        "originalstartdate": 1554404400000,
+        "speed": 0.201283
+    },
+    {
+        "createddate": 1556524800000,
+        "updateddate": 1556532612000,
+        "id": "21518977630",
+        "entityid": "18_7GYFKW_21518977630",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 131
+            },
+            {
+                "name": "fairly",
+                "minutes": 0
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Walk",
+        "activitytypeid": "90013",
+        "averageheartrate": 0,
+        "calories": 458,
+        "distance": 8.04672,
+        "durations": {
+            "active": 7855000,
+            "original": 7855000,
+            "total": 7855000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 11055,
+        "originalstartdate": 1556524800000,
+        "speed": 3.68787
+    },
+    {
+        "createddate": 1556517600000,
+        "updateddate": 1556532875000,
+        "id": "21517032236",
+        "entityid": "18_7GYFKW_21517032236",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 0
+            },
+            {
+                "name": "very",
+                "minutes": 61
+            }
+        ],
+        "activityname": "Walk",
+        "activitytypeid": "90013",
+        "averageheartrate": 0,
+        "calories": 573,
+        "distance": 8.04672,
+        "durations": {
+            "active": 3655000,
+            "original": 3655000,
+            "total": 3655000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 11050,
+        "originalstartdate": 1556517600000,
+        "speed": 7.92563
+    },
+    {
+        "createddate": 1556304900000,
+        "updateddate": 1556533156000,
+        "id": "21518405502",
+        "entityid": "18_7GYFKW_21518405502",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 91
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Swim",
+        "activitytypeid": "90024",
+        "averageheartrate": 0,
+        "calories": 425,
+        "distance": 0.18288,
+        "durations": {
+            "active": 5428000,
+            "original": 5428000,
+            "total": 5428000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 0,
+        "originalstartdate": 1556304900000,
+        "speed": 0.121291
+    },
+    {
+        "createddate": 1556218800000,
+        "updateddate": 1556614379000,
+        "id": "21515421187",
+        "entityid": "18_7GYFKW_21515421187",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 91
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Swim",
+        "activitytypeid": "90024",
+        "averageheartrate": 0,
+        "calories": 425,
+        "distance": 0.13716,
+        "durations": {
+            "active": 5425000,
+            "original": 5425000,
+            "total": 5425000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 0,
+        "originalstartdate": 1556218800000,
+        "speed": 0.0910186
+    },
+    {
+        "createddate": 1555837200000,
+        "updateddate": 1556532745000,
+        "id": "21519292519",
+        "entityid": "18_7GYFKW_21519292519",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 0
+            },
+            {
+                "name": "very",
+                "minutes": 31
+            }
+        ],
+        "activityname": "Run",
+        "activitytypeid": "90009",
+        "averageheartrate": 0,
+        "calories": 358,
+        "distance": 4.82803,
+        "durations": {
+            "active": 1825000,
+            "original": 1825000,
+            "total": 1825000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 3954,
+        "originalstartdate": 1555837200000,
+        "speed": 9.52379
+    },
+    {
+        "createddate": 1555695000000,
+        "updateddate": 1556533181000,
+        "id": "21518977633",
+        "entityid": "18_7GYFKW_21518977633",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 240
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Bike",
+        "activitytypeid": "90001",
+        "averageheartrate": 0,
+        "calories": 1128,
+        "distance": 24.1402,
+        "durations": {
+            "active": 14400000,
+            "original": 14400000,
+            "total": 14400000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 0,
+        "originalstartdate": 1555695000000,
+        "speed": 6.03504
+    },
+    {
+        "createddate": 1555480800000,
+        "updateddate": 1556532692000,
+        "id": "21517013091",
+        "entityid": "18_7GYFKW_21517013091",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 476
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Bike",
+        "activitytypeid": "90001",
+        "averageheartrate": 0,
+        "calories": 2233,
+        "distance": 72.4205,
+        "durations": {
+            "active": 28517000,
+            "original": 28517000,
+            "total": 28517000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 0,
+        "originalstartdate": 1555480800000,
+        "speed": 9.1424
+    },
+    {
+        "createddate": 1555010040000,
+        "updateddate": 1556533126000,
+        "id": "21519292520",
+        "entityid": "18_7GYFKW_21519292520",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 120
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Swim",
+        "activitytypeid": "90024",
+        "averageheartrate": 0,
+        "calories": 564,
+        "distance": 0.1143,
+        "durations": {
+            "active": 7200000,
+            "original": 7200000,
+            "total": 7200000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 0,
+        "originalstartdate": 1555010040000,
+        "speed": 0.05715
+    },
+    {
+        "createddate": 1554816600000,
+        "updateddate": 1556532644000,
+        "id": "21515306006",
+        "entityid": "18_7GYFKW_21515306006",
+        "accountentityid": "18_7GYFKW",
+        "activitylevel": [
+            {
+                "name": "sedentary",
+                "minutes": 0
+            },
+            {
+                "name": "lightly",
+                "minutes": 0
+            },
+            {
+                "name": "fairly",
+                "minutes": 197
+            },
+            {
+                "name": "very",
+                "minutes": 0
+            }
+        ],
+        "activityname": "Swim",
+        "activitytypeid": "90024",
+        "averageheartrate": 0,
+        "calories": 923,
+        "distance": 0.50292,
+        "durations": {
+            "active": 11780000,
+            "original": 11780000,
+            "total": 11780000
+        },
+        "elevationgain": 0,
+        "logtype": "manual",
+        "manualvaluesspecified": {
+            "calories": false,
+            "distance": true,
+            "steps": false
+        },
+        "steps": 0,
+        "originalstartdate": 1554816600000,
+        "speed": 0.153694
+    }
+]

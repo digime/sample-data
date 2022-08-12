@@ -1,1 +1,1682 @@
-{"content":{"version":"2.0.0","descriptor":{"createddate":1617708400961,"updateddate":1617708418420,"hash":"31aafb53a82794a31a0cf2fe3de1bb38","objecttype":301,"accountjfsid":5,"atlasmapversions":[{"version":"1.0.0","count":30}],"dateshard":"D201906","dateshardmode":"D","objecttypeversions":[{"version":"1.0.0","count":30}],"servicegroup":4,"servicetype":18},"data":[{"atlasmapversion":"1.0.0","objecttypeversion":"1.0.0","objects":[{"createddate":1560729600000,"id":"1560729600000","entityid":"18_7GYFKW_1560729600000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560643200000,"id":"1560643200000","entityid":"18_7GYFKW_1560643200000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560556800000,"id":"1560556800000","entityid":"18_7GYFKW_1560556800000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560470400000,"id":"1560470400000","entityid":"18_7GYFKW_1560470400000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560384000000,"id":"1560384000000","entityid":"18_7GYFKW_1560384000000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560297600000,"id":"1560297600000","entityid":"18_7GYFKW_1560297600000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560211200000,"id":"1560211200000","entityid":"18_7GYFKW_1560211200000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560124800000,"id":"1560124800000","entityid":"18_7GYFKW_1560124800000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560038400000,"id":"1560038400000","entityid":"18_7GYFKW_1560038400000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559952000000,"id":"1559952000000","entityid":"18_7GYFKW_1559952000000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559865600000,"id":"1559865600000","entityid":"18_7GYFKW_1559865600000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559779200000,"id":"1559779200000","entityid":"18_7GYFKW_1559779200000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559692800000,"id":"1559692800000","entityid":"18_7GYFKW_1559692800000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559606400000,"id":"1559606400000","entityid":"18_7GYFKW_1559606400000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559520000000,"id":"1559520000000","entityid":"18_7GYFKW_1559520000000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559433600000,"id":"1559433600000","entityid":"18_7GYFKW_1559433600000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1559347200000,"id":"1559347200000","entityid":"18_7GYFKW_1559347200000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561852800000,"id":"1561852800000","entityid":"18_7GYFKW_1561852800000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561766400000,"id":"1561766400000","entityid":"18_7GYFKW_1561766400000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561680000000,"id":"1561680000000","entityid":"18_7GYFKW_1561680000000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561593600000,"id":"1561593600000","entityid":"18_7GYFKW_1561593600000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561507200000,"id":"1561507200000","entityid":"18_7GYFKW_1561507200000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561420800000,"id":"1561420800000","entityid":"18_7GYFKW_1561420800000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561334400000,"id":"1561334400000","entityid":"18_7GYFKW_1561334400000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561248000000,"id":"1561248000000","entityid":"18_7GYFKW_1561248000000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561161600000,"id":"1561161600000","entityid":"18_7GYFKW_1561161600000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1561075200000,"id":"1561075200000","entityid":"18_7GYFKW_1561075200000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560988800000,"id":"1560988800000","entityid":"18_7GYFKW_1560988800000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560902400000,"id":"1560902400000","entityid":"18_7GYFKW_1560902400000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0},{"createddate":1560816000000,"id":"1560816000000","entityid":"18_7GYFKW_1560816000000","accountentityid":"18_7GYFKW","steps":0,"activescore":-1,"activitycalories":0,"caloriesbmr":1691,"caloriesout":1691,"distances":[{"distance":0,"activity":"total"},{"distance":0,"activity":"tracker"},{"distance":0,"activity":"loggedActivities"},{"distance":0,"activity":"veryActive"},{"distance":0,"activity":"moderatelyActive"},{"distance":0,"activity":"lightlyActive"},{"distance":0,"activity":"sedentaryActive"}],"elevation":0,"fairlyactiveminutes":0,"floors":0,"goals":{"distance":8.05,"steps":10000,"caloriesout":2820,"floors":10,"activeminutes":30},"lightlyactiveminutes":0,"marginalcalories":0,"restingheartrate":0,"sedentaryminutes":1440,"veryactiveminutes":0}]}]},"signature":"012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef012345678abcdef","signaturealgorithm":"RSA2048SHA512","version":1}
+[
+    {
+        "createddate": 1560729600000,
+        "id": "1560729600000",
+        "entityid": "18_7GYFKW_1560729600000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560643200000,
+        "id": "1560643200000",
+        "entityid": "18_7GYFKW_1560643200000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560556800000,
+        "id": "1560556800000",
+        "entityid": "18_7GYFKW_1560556800000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560470400000,
+        "id": "1560470400000",
+        "entityid": "18_7GYFKW_1560470400000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560384000000,
+        "id": "1560384000000",
+        "entityid": "18_7GYFKW_1560384000000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560297600000,
+        "id": "1560297600000",
+        "entityid": "18_7GYFKW_1560297600000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560211200000,
+        "id": "1560211200000",
+        "entityid": "18_7GYFKW_1560211200000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560124800000,
+        "id": "1560124800000",
+        "entityid": "18_7GYFKW_1560124800000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560038400000,
+        "id": "1560038400000",
+        "entityid": "18_7GYFKW_1560038400000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559952000000,
+        "id": "1559952000000",
+        "entityid": "18_7GYFKW_1559952000000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559865600000,
+        "id": "1559865600000",
+        "entityid": "18_7GYFKW_1559865600000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559779200000,
+        "id": "1559779200000",
+        "entityid": "18_7GYFKW_1559779200000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559692800000,
+        "id": "1559692800000",
+        "entityid": "18_7GYFKW_1559692800000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559606400000,
+        "id": "1559606400000",
+        "entityid": "18_7GYFKW_1559606400000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559520000000,
+        "id": "1559520000000",
+        "entityid": "18_7GYFKW_1559520000000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559433600000,
+        "id": "1559433600000",
+        "entityid": "18_7GYFKW_1559433600000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1559347200000,
+        "id": "1559347200000",
+        "entityid": "18_7GYFKW_1559347200000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561852800000,
+        "id": "1561852800000",
+        "entityid": "18_7GYFKW_1561852800000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561766400000,
+        "id": "1561766400000",
+        "entityid": "18_7GYFKW_1561766400000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561680000000,
+        "id": "1561680000000",
+        "entityid": "18_7GYFKW_1561680000000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561593600000,
+        "id": "1561593600000",
+        "entityid": "18_7GYFKW_1561593600000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561507200000,
+        "id": "1561507200000",
+        "entityid": "18_7GYFKW_1561507200000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561420800000,
+        "id": "1561420800000",
+        "entityid": "18_7GYFKW_1561420800000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561334400000,
+        "id": "1561334400000",
+        "entityid": "18_7GYFKW_1561334400000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561248000000,
+        "id": "1561248000000",
+        "entityid": "18_7GYFKW_1561248000000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561161600000,
+        "id": "1561161600000",
+        "entityid": "18_7GYFKW_1561161600000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1561075200000,
+        "id": "1561075200000",
+        "entityid": "18_7GYFKW_1561075200000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560988800000,
+        "id": "1560988800000",
+        "entityid": "18_7GYFKW_1560988800000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560902400000,
+        "id": "1560902400000",
+        "entityid": "18_7GYFKW_1560902400000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    },
+    {
+        "createddate": 1560816000000,
+        "id": "1560816000000",
+        "entityid": "18_7GYFKW_1560816000000",
+        "accountentityid": "18_7GYFKW",
+        "steps": 0,
+        "activescore": -1,
+        "activitycalories": 0,
+        "caloriesbmr": 1691,
+        "caloriesout": 1691,
+        "distances": [
+            {
+                "distance": 0,
+                "activity": "total"
+            },
+            {
+                "distance": 0,
+                "activity": "tracker"
+            },
+            {
+                "distance": 0,
+                "activity": "loggedActivities"
+            },
+            {
+                "distance": 0,
+                "activity": "veryActive"
+            },
+            {
+                "distance": 0,
+                "activity": "moderatelyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "lightlyActive"
+            },
+            {
+                "distance": 0,
+                "activity": "sedentaryActive"
+            }
+        ],
+        "elevation": 0,
+        "fairlyactiveminutes": 0,
+        "floors": 0,
+        "goals": {
+            "distance": 8.05,
+            "steps": 10000,
+            "caloriesout": 2820,
+            "floors": 10,
+            "activeminutes": 30
+        },
+        "lightlyactiveminutes": 0,
+        "marginalcalories": 0,
+        "restingheartrate": 0,
+        "sedentaryminutes": 1440,
+        "veryactiveminutes": 0
+    }
+]
