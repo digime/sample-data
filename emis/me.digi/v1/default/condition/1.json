@@ -1,0 +1,62 @@
+[
+    {
+        "createddate": 1532390400000,
+        "id": "365d5196-6e7f-4d63-9259-1b21006a81d9",
+        "entityid": "30_123456789_365d5196-6e7f-4d63-9259-1b21006a81d9",
+        "code": {
+            "text": "Surgical biopsy normal",
+            "coding": [
+                {
+                    "code": "256806011",
+                    "display": "Surgical biopsy normal"
+                }
+            ]
+        },
+        "accountentityid": "30_123456789",
+        "clinicalstatus": "Past",
+        "severity": {
+            "text": "Significant"
+        },
+        "onsetdatetime": 1532390400000
+    },
+    {
+        "createddate": 1532390400000,
+        "id": "0fb23a52-48da-4e22-b6e4-a17f7e9b42b3",
+        "entityid": "30_123456789_0fb23a52-48da-4e22-b6e4-a17f7e9b42b3",
+        "code": {
+            "text": "Acute gangrenous tonsillitis",
+            "coding": [
+                {
+                    "code": "301040015",
+                    "display": "Acute gangrenous tonsillitis"
+                }
+            ]
+        },
+        "accountentityid": "30_123456789",
+        "clinicalstatus": "Past",
+        "severity": {
+            "text": "Minor"
+        },
+        "onsetdatetime": 1532390400000
+    },
+    {
+        "createddate": 1532390400000,
+        "id": "a09a5d25-bebf-49f7-a553-b164b43df496",
+        "entityid": "30_123456789_a09a5d25-bebf-49f7-a553-b164b43df496",
+        "code": {
+            "text": "Ectopic bladder",
+            "coding": [
+                {
+                    "code": "636131000006115",
+                    "display": "Ectopic bladder"
+                }
+            ]
+        },
+        "accountentityid": "30_123456789",
+        "clinicalstatus": "Active",
+        "severity": {
+            "text": "Significant"
+        },
+        "onsetdatetime": 1532390400000
+    }
+]
