@@ -1,0 +1,33 @@
+[
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "createddate": 1628121600000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_Tl4dBMKo1Pv-mzMiUraACMKkV2saUNTCQEHHVIxor4XMB",
+        "id": "Tl4dBMKo1Pv-mzMiUraACMKkV2saUNTCQEHHVIxor4XMB",
+        "status": "final",
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "72166-2",
+                    "display": "Tobacco smoking status NHIS"
+                }
+            ],
+            "text": "Smoking History"
+        },
+        "component": [],
+        "category": [
+            {
+                "text": "Social History",
+                "coding": [
+                    {
+                        "system": "http://hl7.org/fhir/observation-category",
+                        "code": "social-history",
+                        "display": "Social History"
+                    }
+                ]
+            }
+        ],
+        "performer": []
+    }
+]

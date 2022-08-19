@@ -1,0 +1,450 @@
+[
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "clinicalstatus": "active",
+        "createddate": 1554768000000,
+        "asserteddate": 1554768000000,
+        "onsetdatetime": 1554768000000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_TxgN-LNHqNXDbPenMZURj3gB",
+        "id": "TxgN-LNHqNXDbPenMZURj3gB",
+        "asserter": {
+            "display": "",
+            "reference": {}
+        },
+        "code": {
+            "text": "Chronic cough",
+            "coding": [
+                {
+                    "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis",
+                    "code": "786.2",
+                    "display": "Chronic cough"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.6.90",
+                    "code": "R05",
+                    "display": "Chronic cough"
+                },
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "68154008",
+                    "display": "Chronic cough (finding)"
+                }
+            ]
+        },
+        "category": [
+            {
+                "text": "Diagnosis",
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "29308-4",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "439401001",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://hl7.org/fhir/condition-category",
+                        "code": "diagnosis",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://argonautwiki.hl7.org/extension-codes",
+                        "code": "problem",
+                        "display": "Problem"
+                    }
+                ]
+            }
+        ],
+        "severity": {
+            "text": ""
+        },
+        "verificationstatus": "confirmed"
+    },
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "clinicalstatus": "active",
+        "createddate": 1554768000000,
+        "asserteddate": 1554768000000,
+        "onsetdatetime": 1554768000000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_TNBVegGo63EqEs9x0ugqJZwB",
+        "id": "TNBVegGo63EqEs9x0ugqJZwB",
+        "asserter": {
+            "display": "",
+            "reference": {}
+        },
+        "code": {
+            "text": "Asthma",
+            "coding": [
+                {
+                    "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis",
+                    "code": "493.90",
+                    "display": "Asthma"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.6.90",
+                    "code": "J45.909",
+                    "display": "Asthma"
+                },
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "195967001",
+                    "display": "Asthma (disorder)"
+                }
+            ]
+        },
+        "category": [
+            {
+                "text": "Diagnosis",
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "29308-4",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "439401001",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://hl7.org/fhir/condition-category",
+                        "code": "diagnosis",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://argonautwiki.hl7.org/extension-codes",
+                        "code": "problem",
+                        "display": "Problem"
+                    }
+                ]
+            }
+        ],
+        "severity": {
+            "text": ""
+        },
+        "verificationstatus": "confirmed"
+    },
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "clinicalstatus": "active",
+        "createddate": 1554768000000,
+        "asserteddate": 1554768000000,
+        "onsetdatetime": 1554768000000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_TpQ3y0axeAgBy6ee7oUTTLgB",
+        "id": "TpQ3y0axeAgBy6ee7oUTTLgB",
+        "asserter": {
+            "display": "",
+            "reference": {}
+        },
+        "code": {
+            "text": "TB (pulmonary tuberculosis)",
+            "coding": [
+                {
+                    "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis",
+                    "code": "011.90",
+                    "display": "TB (pulmonary tuberculosis)"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.6.90",
+                    "code": "A15.0",
+                    "display": "TB (pulmonary tuberculosis)"
+                },
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "154283005",
+                    "display": "Pulmonary tuberculosis (disorder)"
+                }
+            ]
+        },
+        "category": [
+            {
+                "text": "Diagnosis",
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "29308-4",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "439401001",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://hl7.org/fhir/condition-category",
+                        "code": "diagnosis",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://argonautwiki.hl7.org/extension-codes",
+                        "code": "problem",
+                        "display": "Problem"
+                    }
+                ]
+            }
+        ],
+        "severity": {
+            "text": ""
+        },
+        "verificationstatus": "confirmed"
+    },
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "clinicalstatus": "active",
+        "createddate": 1554768000000,
+        "asserteddate": 1554768000000,
+        "onsetdatetime": 1554768000000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_TJ8aFaqXRcO7oNxvSHFQ1MgB",
+        "id": "TJ8aFaqXRcO7oNxvSHFQ1MgB",
+        "asserter": {
+            "display": "",
+            "reference": {}
+        },
+        "code": {
+            "text": "Zika virus disease",
+            "coding": [
+                {
+                    "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis",
+                    "code": "066.3",
+                    "display": "Zika virus disease"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.6.90",
+                    "code": "A92.5",
+                    "display": "Zika virus disease"
+                },
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "3928002",
+                    "display": "Zika virus disease (disorder)"
+                }
+            ]
+        },
+        "category": [
+            {
+                "text": "Diagnosis",
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "29308-4",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "439401001",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://hl7.org/fhir/condition-category",
+                        "code": "diagnosis",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://argonautwiki.hl7.org/extension-codes",
+                        "code": "problem",
+                        "display": "Problem"
+                    }
+                ]
+            }
+        ],
+        "severity": {
+            "text": ""
+        },
+        "verificationstatus": "confirmed"
+    },
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "clinicalstatus": "active",
+        "createddate": 1554768000000,
+        "asserteddate": 1554768000000,
+        "onsetdatetime": 1554768000000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_T.dUwSVhAMiuA7rzdhV.wSAB",
+        "id": "T.dUwSVhAMiuA7rzdhV.wSAB",
+        "asserter": {
+            "display": "",
+            "reference": {}
+        },
+        "code": {
+            "text": "Fear of open places",
+            "coding": [
+                {
+                    "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis",
+                    "code": "300.22",
+                    "display": "Agoraphobia"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.6.90",
+                    "code": "F40.00",
+                    "display": "Agoraphobia"
+                },
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "70691001",
+                    "display": "Agoraphobia (disorder)"
+                }
+            ]
+        },
+        "category": [
+            {
+                "text": "Diagnosis",
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "29308-4",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "439401001",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://hl7.org/fhir/condition-category",
+                        "code": "diagnosis",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://argonautwiki.hl7.org/extension-codes",
+                        "code": "problem",
+                        "display": "Problem"
+                    }
+                ]
+            }
+        ],
+        "severity": {
+            "text": ""
+        },
+        "verificationstatus": "confirmed"
+    },
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "clinicalstatus": "active",
+        "createddate": 1554768000000,
+        "asserteddate": 1554768000000,
+        "onsetdatetime": 1554768000000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_TkWzuybaxs2csXqHVo53vdwB",
+        "id": "TkWzuybaxs2csXqHVo53vdwB",
+        "asserter": {
+            "display": "",
+            "reference": {}
+        },
+        "code": {
+            "text": "Elevated hemoglobin A1c",
+            "coding": [
+                {
+                    "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis",
+                    "code": "790.29",
+                    "display": "Hemoglobin A1c above reference range"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.6.90",
+                    "code": "R73.09",
+                    "display": "Hemoglobin A1c above reference range"
+                },
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "444751005",
+                    "display": "Hemoglobin A1c above reference range (finding)"
+                }
+            ]
+        },
+        "category": [
+            {
+                "text": "Diagnosis",
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "29308-4",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "439401001",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://hl7.org/fhir/condition-category",
+                        "code": "diagnosis",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://argonautwiki.hl7.org/extension-codes",
+                        "code": "problem",
+                        "display": "Problem"
+                    }
+                ]
+            }
+        ],
+        "severity": {
+            "text": ""
+        },
+        "verificationstatus": "confirmed"
+    },
+    {
+        "accountentityid": "20_4336029403-8DvjtsLBdJsB",
+        "clinicalstatus": "active",
+        "createddate": 1554768000000,
+        "asserteddate": 1554768000000,
+        "onsetdatetime": 1554768000000,
+        "entityid": "20_4336029403-8DvjtsLBdJsB_T0ScCElKTIITpT72zaEiGEAB",
+        "id": "T0ScCElKTIITpT72zaEiGEAB",
+        "asserter": {
+            "display": "",
+            "reference": {}
+        },
+        "code": {
+            "text": "Bad breath",
+            "coding": [
+                {
+                    "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis",
+                    "code": "784.99",
+                    "display": "Halitosis"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.6.90",
+                    "code": "R19.6",
+                    "display": "Halitosis"
+                },
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "79879001",
+                    "display": "Breath smells unpleasant (finding)"
+                }
+            ]
+        },
+        "category": [
+            {
+                "text": "Diagnosis",
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "29308-4",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "439401001",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://hl7.org/fhir/condition-category",
+                        "code": "diagnosis",
+                        "display": "Diagnosis"
+                    },
+                    {
+                        "system": "http://argonautwiki.hl7.org/extension-codes",
+                        "code": "problem",
+                        "display": "Problem"
+                    }
+                ]
+            }
+        ],
+        "severity": {
+            "text": ""
+        },
+        "verificationstatus": "confirmed"
+    }
+]
