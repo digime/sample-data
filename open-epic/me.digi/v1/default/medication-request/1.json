@@ -1,0 +1,690 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "id": "20_123456789",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064861"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064861:1421288534"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "atorvastatin 80 MG tablet",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/Trdw.a5vDLN.Vb9PniWXjBQB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 tablet (80 mg total) by mouth 1 (one) time each day.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 80,
+                    "unit": "mg",
+                    "code": "mg",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000
+            }
+        },
+        "status": "active"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "TTa.556Rg9uJKdKiRMHP2CwB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_TTa.556Rg9uJKdKiRMHP2CwB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064862"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064862:1404510915"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "amphetamine-dextroamphetamine XR 15 MG 24 hr capsule",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/T-JzPsK7kGeEWuW9LPRtIJgB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 capsule (15 mg total) by mouth 1 (one) time each day in the morning. Do not crush or chew.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 15,
+                    "unit": "mg",
+                    "code": "mg",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000
+            }
+        },
+        "status": "active"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "TTJAVrU5RzjAq0fU4SoYs5gB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_TTJAVrU5RzjAq0fU4SoYs5gB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064863"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064863:1387733296"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "rosiglitazone 2 MG tablet",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/TUgrnZNafBcLyV3DlbkUGmQB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 tablet (2 mg total) by mouth 2 (two) times a day.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 2,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 2,
+                    "unit": "mg",
+                    "code": "mg",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000
+            }
+        },
+        "status": "active"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "TtMY9wpnL.-0jPhT3b6QO5AB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_TtMY9wpnL.-0jPhT3b6QO5AB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064864"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064864:1505176629"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "lisinopril 5 MG tablet",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/T49e9aHCYx4krWNmuVUlGXQB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 tablet (5 mg total) by mouth 1 (one) time each day.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 5,
+                    "unit": "mg",
+                    "code": "mg",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000
+            }
+        },
+        "status": "active"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "Ta6SEUXSmTbQ1iSJkJbUNoQB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_Ta6SEUXSmTbQ1iSJkJbUNoQB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064865"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064865:1488399010"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "ISOtretinoin 30 MG capsule",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/Tez3TCrD-QJPEkfGGVUtXAwB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 capsule (30 mg total) by mouth 2 (two) times a day with meals.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 2,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000,
+                            "end": 1559088000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 30,
+                    "unit": "mg",
+                    "code": "mg",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000,
+                "end": 1559088000000
+            }
+        },
+        "status": "completed"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "T0lFAVbT96TEVgTgYvOG4tgB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_T0lFAVbT96TEVgTgYvOG4tgB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064866"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064866:1471621391"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "amitriptyline 150 MG tablet",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/Tpryjo0oWG-bJCsq37bs03wB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 tablet (150 mg total) by mouth every night.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 150,
+                    "unit": "mg",
+                    "code": "mg",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000
+            }
+        },
+        "status": "active"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "TpXU6BLwWRnuBPuvw3V8h1wB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_TpXU6BLwWRnuBPuvw3V8h1wB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064867"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064867:1454843772"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "digoxin 125 MCG tablet",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/TmEg6ptYlscR6w6IOcU2vBwB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 tablet (125 mcg total) by mouth 1 (one) time each day.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 125,
+                    "unit": "mcg",
+                    "code": "ug",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000
+            }
+        },
+        "status": "active"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "TNMY9JUb9Mp0VLT9kBVImUQB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_TNMY9JUb9Mp0VLT9kBVImUQB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064868"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064868:1572287105"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "lisinopril-hydroCHLOROthiazide 10-12.5 MG per tablet",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/TycJuEYhGj3kH4a4WT1w13gB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 tablet by mouth 1 (one) time each day.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 1,
+                    "unit": "tablet",
+                    "code": "",
+                    "system": ""
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000
+            }
+        },
+        "status": "active"
+    },
+    {
+        "accountentityid": "20_123456789",
+        "id": "TuXbGuSusX5IuumjORU.vPQB",
+        "createddate": 1556496000000,
+        "entityid": "20_123456789_TuXbGuSusX5IuumjORU.vPQB",
+        "identifier": [
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "value": "1064869"
+            },
+            {
+                "use": "usual",
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.798268.801",
+                "value": "1064869:1555509486"
+            }
+        ],
+        "requester": {
+            "agent": {
+                "display": "Physician O. Cardiology, MD",
+                "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Practitioner/T7B2rL2DT2O29ClEz5ErfwAB"
+            }
+        },
+        "medicationreference": {
+            "display": "azithromycin 500 MG tablet",
+            "reference": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/DSTU2/Medication/T.ZzzeOorY1buOp7BO01ZJwB"
+        },
+        "dosageinstruction": [
+            {
+                "text": "Take 1 tablet (500 mg total) by mouth 1 (one) time each day for 3 days.",
+                "asneededboolean": false,
+                "route": {
+                    "text": "Oral",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.330",
+                            "code": "15",
+                            "display": "Oral"
+                        }
+                    ]
+                },
+                "method": {
+                    "text": "Take",
+                    "coding": [
+                        {
+                            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.798268.8600",
+                            "code": "11",
+                            "display": "Take"
+                        }
+                    ]
+                },
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d",
+                        "boundsperiod": {
+                            "start": 1556496000000,
+                            "end": 1556755200000
+                        }
+                    }
+                },
+                "dosequantity": {
+                    "value": 500,
+                    "unit": "mg",
+                    "code": "mg",
+                    "system": "http://unitsofmeasure.org"
+                }
+            }
+        ],
+        "dispenserequest": {
+            "validityperiod": {
+                "start": 1556496000000,
+                "end": 1556755200000
+            }
+        },
+        "status": "completed"
+    }
+]
