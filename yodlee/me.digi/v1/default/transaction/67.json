@@ -1,0 +1,80 @@
+{
+    "version": "2.0.0",
+    "data": [
+        {
+            "atlasmapversion": "1.0.0",
+            "objecttypeversion": "1.0.0",
+            "objects": [
+                {
+                    "accountentityid": "35_10086205",
+                    "accountid": 10086205,
+                    "amount": 3389.62,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Uncategorised",
+                    "categoryid": 1,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "UNCATEGORIZE",
+                    "originalref": "Payment Received - ThankYou",
+                    "highlevelcategoryid": 10000017,
+                    "entityid": "35_10086205_10224831",
+                    "id": "10224831",
+                    "interestamount": 890.83,
+                    "interestcurrency": "USD",
+                    "ismanual": false,
+                    "principalamount": 2498.79,
+                    "principalcurrency": "USD",
+                    "status": "POSTED",
+                    "sourceid": "48968171",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1569888000000,
+                    "transactiondate": 1569888000000
+                },
+                {
+                    "accountentityid": "35_10086205",
+                    "accountid": 10086205,
+                    "amount": 0,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Uncategorised",
+                    "categoryid": 1,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "UNCATEGORIZE",
+                    "originalref": "Payment Received - ThankYou",
+                    "highlevelcategoryid": 10000017,
+                    "entityid": "35_10086205_10224830",
+                    "id": "10224830",
+                    "ismanual": false,
+                    "status": "POSTED",
+                    "sourceid": "57405352",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1569888000000,
+                    "transactiondate": 1569888000000
+                }
+            ]
+        }
+    ],
+    "descriptor": {
+        "accountjfsid": 5,
+        "dateshard": "D201910",
+        "dateshardmode": "D",
+        "objecttype": 201,
+        "servicegroup": 3,
+        "servicetype": 35,
+        "hash": "6f5dbf68b36d6470d978b9354d5014fb",
+        "atlasmapversions": [
+            {
+                "version": "1.0.0",
+                "count": 2
+            }
+        ],
+        "objecttypeversions": [
+            {
+                "version": "1.0.0",
+                "count": 2
+            }
+        ],
+        "updateddate": 1661936431778,
+        "createddate": 1661936431778
+    }
+}

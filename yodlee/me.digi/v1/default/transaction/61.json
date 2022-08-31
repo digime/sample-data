@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "data": [
+        {
+            "atlasmapversion": "1.0.0",
+            "objecttypeversion": "1.0.0",
+            "objects": [
+                {
+                    "accountentityid": "35_10086205",
+                    "accountid": 10086205,
+                    "amount": 3389.62,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Uncategorised",
+                    "categoryid": 1,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "UNCATEGORIZE",
+                    "originalref": "Payment Received - ThankYou",
+                    "highlevelcategoryid": 10000017,
+                    "entityid": "35_10086205_10224837",
+                    "id": "10224837",
+                    "interestamount": 917.9,
+                    "interestcurrency": "USD",
+                    "ismanual": false,
+                    "principalamount": 2471.72,
+                    "principalcurrency": "USD",
+                    "status": "POSTED",
+                    "sourceid": "99203328",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1554076800000,
+                    "transactiondate": 1554076800000
+                }
+            ]
+        }
+    ],
+    "descriptor": {
+        "accountjfsid": 5,
+        "dateshard": "D201904",
+        "dateshardmode": "D",
+        "objecttype": 201,
+        "servicegroup": 3,
+        "servicetype": 35,
+        "hash": "46f4cd08a88b72c81d0ed40f7740b92e",
+        "atlasmapversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "objecttypeversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "updateddate": 1661936431783,
+        "createddate": 1661936431783
+    }
+}

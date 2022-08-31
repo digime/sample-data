@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "data": [
+        {
+            "atlasmapversion": "1.0.0",
+            "objecttypeversion": "1.0.0",
+            "objects": [
+                {
+                    "accountentityid": "35_10086208",
+                    "accountid": 10086208,
+                    "amount": 1207.98,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Uncategorised",
+                    "categoryid": 1,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "UNCATEGORIZE",
+                    "originalref": "Personal loan payment",
+                    "highlevelcategoryid": 10000017,
+                    "entityid": "35_10086208_10224946",
+                    "id": "10224946",
+                    "interestamount": 403.34,
+                    "interestcurrency": "USD",
+                    "ismanual": false,
+                    "principalamount": 804.64,
+                    "principalcurrency": "USD",
+                    "status": "POSTED",
+                    "sourceid": "40740690",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1564617600000,
+                    "transactiondate": 1564617600000
+                }
+            ]
+        }
+    ],
+    "descriptor": {
+        "accountjfsid": 2,
+        "dateshard": "D201908",
+        "dateshardmode": "D",
+        "objecttype": 201,
+        "servicegroup": 3,
+        "servicetype": 35,
+        "hash": "c4ae01496379ec0e9edd144c6a00f01e",
+        "atlasmapversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "objecttypeversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "updateddate": 1661936441095,
+        "createddate": 1661936441095
+    }
+}

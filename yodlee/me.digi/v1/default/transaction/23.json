@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "data": [
+        {
+            "atlasmapversion": "1.0.0",
+            "objecttypeversion": "1.0.0",
+            "objects": [
+                {
+                    "accountentityid": "35_10086207",
+                    "accountid": 10086207,
+                    "amount": 2783.54,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Loans",
+                    "categoryid": 17,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "EXPENSE",
+                    "originalref": "student loan payment",
+                    "highlevelcategoryid": 10000004,
+                    "entityid": "35_10086207_10224933",
+                    "id": "10224933",
+                    "interestamount": 522.6,
+                    "interestcurrency": "USD",
+                    "ismanual": false,
+                    "principalamount": 2260.94,
+                    "principalcurrency": "USD",
+                    "status": "POSTED",
+                    "sourceid": "6265333",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1543622400000,
+                    "transactiondate": 1543622400000
+                }
+            ]
+        }
+    ],
+    "descriptor": {
+        "accountjfsid": 3,
+        "dateshard": "D201812",
+        "dateshardmode": "D",
+        "objecttype": 201,
+        "servicegroup": 3,
+        "servicetype": 35,
+        "hash": "fbd04649e2bc79a38a86e1c9ae66cea2",
+        "atlasmapversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "objecttypeversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "updateddate": 1661936481448,
+        "createddate": 1661936481448
+    }
+}

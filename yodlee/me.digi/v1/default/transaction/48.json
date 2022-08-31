@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "data": [
+        {
+            "atlasmapversion": "1.0.0",
+            "objecttypeversion": "1.0.0",
+            "objects": [
+                {
+                    "accountentityid": "35_10086206",
+                    "accountid": 10086206,
+                    "amount": 525.76,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Uncategorised",
+                    "categoryid": 1,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "UNCATEGORIZE",
+                    "originalref": "loan payment",
+                    "highlevelcategoryid": 10000017,
+                    "entityid": "35_10086206_10224904",
+                    "id": "10224904",
+                    "interestamount": 121.11,
+                    "interestcurrency": "USD",
+                    "ismanual": false,
+                    "principalamount": 404.65,
+                    "principalcurrency": "USD",
+                    "status": "POSTED",
+                    "sourceid": "17233630",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1564617600000,
+                    "transactiondate": 1564617600000
+                }
+            ]
+        }
+    ],
+    "descriptor": {
+        "accountjfsid": 4,
+        "dateshard": "D201908",
+        "dateshardmode": "D",
+        "objecttype": 201,
+        "servicegroup": 3,
+        "servicetype": 35,
+        "hash": "2a3663fd02d91b5ba6e8efb74e09ad84",
+        "atlasmapversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "objecttypeversions": [
+            {
+                "version": "1.0.0",
+                "count": 1
+            }
+        ],
+        "updateddate": 1661936464811,
+        "createddate": 1661936464811
+    }
+}

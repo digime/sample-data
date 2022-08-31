@@ -1,0 +1,76 @@
+{
+    "version": "2.0.0",
+    "data": [
+        {
+            "atlasmapversion": "1.0.0",
+            "objecttypeversion": "1.0.0",
+            "objects": [
+                {
+                    "accountentityid": "35_10086208",
+                    "accountid": 10086208,
+                    "amount": 0,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Uncategorised",
+                    "categoryid": 1,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "UNCATEGORIZE",
+                    "originalref": "Personal loan payment",
+                    "highlevelcategoryid": 10000017,
+                    "entityid": "35_10086208_10224940",
+                    "id": "10224940",
+                    "ismanual": false,
+                    "status": "POSTED",
+                    "sourceid": "25911528",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1575158400000,
+                    "transactiondate": 1575158400000
+                },
+                {
+                    "accountentityid": "35_10086208",
+                    "accountid": 10086208,
+                    "amount": 0,
+                    "currency": "USD",
+                    "basetype": "CREDIT",
+                    "category": "Uncategorised",
+                    "categoryid": 1,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "UNCATEGORIZE",
+                    "originalref": "Personal loan payment",
+                    "highlevelcategoryid": 10000017,
+                    "entityid": "35_10086208_10224939",
+                    "id": "10224939",
+                    "ismanual": false,
+                    "status": "POSTED",
+                    "sourceid": "15922928",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1575158400000,
+                    "transactiondate": 1575158400000
+                }
+            ]
+        }
+    ],
+    "descriptor": {
+        "accountjfsid": 2,
+        "dateshard": "D201912",
+        "dateshardmode": "D",
+        "objecttype": 201,
+        "servicegroup": 3,
+        "servicetype": 35,
+        "hash": "91ca73318dc76c87e68c313b89624e76",
+        "atlasmapversions": [
+            {
+                "version": "1.0.0",
+                "count": 2
+            }
+        ],
+        "objecttypeversions": [
+            {
+                "version": "1.0.0",
+                "count": 2
+            }
+        ],
+        "updateddate": 1661936441093,
+        "createddate": 1661936441093
+    }
+}

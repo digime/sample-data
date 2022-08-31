@@ -1,0 +1,91 @@
+{
+    "version": "2.0.0",
+    "data": [
+        {
+            "atlasmapversion": "1.0.0",
+            "objecttypeversion": "1.0.0",
+            "objects": [
+                {
+                    "accountentityid": "35_10086204",
+                    "accountid": 10086204,
+                    "amount": 1062.5,
+                    "currency": "USD",
+                    "basetype": "DEBIT",
+                    "category": "Securities Trades",
+                    "categoryid": 36,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "TRANSFER",
+                    "commissionamount": 5,
+                    "commissioncurrency": "USD",
+                    "originalref": "DIRECT DEPOSIT PROGRM",
+                    "highlevelcategoryid": 10000015,
+                    "entityid": "35_10086204_11090767",
+                    "id": "11090767",
+                    "ismanual": false,
+                    "priceamount": 352.5,
+                    "pricecurrency": "USD",
+                    "quantity": 3,
+                    "settledate": 1583366400000,
+                    "status": "POSTED",
+                    "sourceid": "71692143",
+                    "sourcetype": "AGGREGATED",
+                    "createddate": 1583107200000,
+                    "transactiondate": 1583107200000,
+                    "type": "WITHDRAWAL"
+                },
+                {
+                    "accountentityid": "35_10086204",
+                    "accountid": 10086204,
+                    "amount": 1062.5,
+                    "currency": "USD",
+                    "basetype": "DEBIT",
+                    "category": "Securities Trades",
+                    "categoryid": 36,
+                    "categorysource": "SYSTEM",
+                    "categorytype": "TRANSFER",
+                    "commissionamount": 5,
+                    "commissioncurrency": "USD",
+                    "originalref": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES",
+                    "highlevelcategoryid": 10000015,
+                    "entityid": "35_10086204_11090766",
+                    "id": "11090766",
+                    "ismanual": false,
+                    "priceamount": 352.5,
+                    "pricecurrency": "USD",
+                    "quantity": 3,
+                    "settledate": 1583366400000,
+                    "status": "POSTED",
+                    "sourceid": "91877945",
+                    "sourcetype": "AGGREGATED",
+                    "symbol": "DGAZ",
+                    "createddate": 1583107200000,
+                    "transactiondate": 1583107200000,
+                    "type": "BUY"
+                }
+            ]
+        }
+    ],
+    "descriptor": {
+        "accountjfsid": 6,
+        "dateshard": "D202003",
+        "dateshardmode": "D",
+        "objecttype": 201,
+        "servicegroup": 3,
+        "servicetype": 35,
+        "hash": "1f60a66d06ad96e27b3f65ed85c2905c",
+        "atlasmapversions": [
+            {
+                "version": "1.0.0",
+                "count": 2
+            }
+        ],
+        "objecttypeversions": [
+            {
+                "version": "1.0.0",
+                "count": 2
+            }
+        ],
+        "updateddate": 1661936423401,
+        "createddate": 1661936423401
+    }
+}
