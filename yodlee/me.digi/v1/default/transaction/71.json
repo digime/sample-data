@@ -1,55 +1,23 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086205",
-                    "accountid": 10086205,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "Payment Received - ThankYou",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086205_10224823",
-                    "id": "10224823",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "40615698",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1580515200000,
-                    "transactiondate": 1580515200000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 5,
-        "dateshard": "D202002",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "9eeb443a62d404617321f61be6246415",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "updateddate": 1661936431772,
-        "createddate": 1661936431772
+[
+    {
+        "accountentityid": "35_10086205",
+        "accountid": 10086205,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "Payment Received - ThankYou",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086205_10224823",
+        "id": "10224823",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "40615698",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1580515200000,
+        "transactiondate": 1580515200000
     }
-}
+]

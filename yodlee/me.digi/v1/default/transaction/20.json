@@ -1,55 +1,23 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086208",
-                    "accountid": 10086208,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "Personal loan payment",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086208_10224936",
-                    "id": "10224936",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "30917643",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1580515200000,
-                    "transactiondate": 1580515200000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 2,
-        "dateshard": "D202002",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "8f0911e078dc79e26dbec3a918d71223",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "updateddate": 1661936441091,
-        "createddate": 1661936441091
+[
+    {
+        "accountentityid": "35_10086208",
+        "accountid": 10086208,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "Personal loan payment",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086208_10224936",
+        "id": "10224936",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "30917643",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1580515200000,
+        "transactiondate": 1580515200000
     }
-}
+]

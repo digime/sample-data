@@ -1,55 +1,23 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086206",
-                    "accountid": 10086206,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "loan payment",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086206_10224844",
-                    "id": "10224844",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "16539336",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1580515200000,
-                    "transactiondate": 1580515200000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 4,
-        "dateshard": "D202002",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "208e6979426cb86e40d55bd83887eaf5",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "updateddate": 1661936464808,
-        "createddate": 1661936464808
+[
+    {
+        "accountentityid": "35_10086206",
+        "accountid": 10086206,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "loan payment",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086206_10224844",
+        "id": "10224844",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "16539336",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1580515200000,
+        "transactiondate": 1580515200000
     }
-}
+]

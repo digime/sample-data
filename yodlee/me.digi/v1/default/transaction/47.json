@@ -1,59 +1,27 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086206",
-                    "accountid": 10086206,
-                    "amount": 525.76,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "loan payment",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086206_10224905",
-                    "id": "10224905",
-                    "interestamount": 123.22,
-                    "interestcurrency": "USD",
-                    "ismanual": false,
-                    "principalamount": 402.54,
-                    "principalcurrency": "USD",
-                    "status": "POSTED",
-                    "sourceid": "27058048",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1561939200000,
-                    "transactiondate": 1561939200000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 4,
-        "dateshard": "D201907",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "de1e4f3fcd007fd12d78e8ce1019e968",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "updateddate": 1661936464812,
-        "createddate": 1661936464812
+[
+    {
+        "accountentityid": "35_10086206",
+        "accountid": 10086206,
+        "amount": 525.76,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "loan payment",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086206_10224905",
+        "id": "10224905",
+        "interestamount": 123.22,
+        "interestcurrency": "USD",
+        "ismanual": false,
+        "principalamount": 402.54,
+        "principalcurrency": "USD",
+        "status": "POSTED",
+        "sourceid": "27058048",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1561939200000,
+        "transactiondate": 1561939200000
     }
-}
+]

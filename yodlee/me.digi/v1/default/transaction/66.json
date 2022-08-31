@@ -1,59 +1,27 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086205",
-                    "accountid": 10086205,
-                    "amount": 3389.62,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "Payment Received - ThankYou",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086205_10224832",
-                    "id": "10224832",
-                    "interestamount": 895.36,
-                    "interestcurrency": "USD",
-                    "ismanual": false,
-                    "principalamount": 2494.26,
-                    "principalcurrency": "USD",
-                    "status": "POSTED",
-                    "sourceid": "42316304",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1567296000000,
-                    "transactiondate": 1567296000000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 5,
-        "dateshard": "D201909",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "a18e497884d2cd86631960ea877ca985",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 1
-            }
-        ],
-        "updateddate": 1661936431779,
-        "createddate": 1661936431779
+[
+    {
+        "accountentityid": "35_10086205",
+        "accountid": 10086205,
+        "amount": 3389.62,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "Payment Received - ThankYou",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086205_10224832",
+        "id": "10224832",
+        "interestamount": 895.36,
+        "interestcurrency": "USD",
+        "ismanual": false,
+        "principalamount": 2494.26,
+        "principalcurrency": "USD",
+        "status": "POSTED",
+        "sourceid": "42316304",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1567296000000,
+        "transactiondate": 1567296000000
     }
-}
+]

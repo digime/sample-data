@@ -1,76 +1,44 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086205",
-                    "accountid": 10086205,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "Payment Received - ThankYou",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086205_10224825",
-                    "id": "10224825",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "64329035",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1577836800000,
-                    "transactiondate": 1577836800000
-                },
-                {
-                    "accountentityid": "35_10086205",
-                    "accountid": 10086205,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "Payment Received - ThankYou",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086205_10224824",
-                    "id": "10224824",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "31488871",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1577836800000,
-                    "transactiondate": 1577836800000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 5,
-        "dateshard": "D202001",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "c56ce755d695feef3576ad806cb39dd9",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "updateddate": 1661936431774,
-        "createddate": 1661936431774
+[
+    {
+        "accountentityid": "35_10086205",
+        "accountid": 10086205,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "Payment Received - ThankYou",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086205_10224825",
+        "id": "10224825",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "64329035",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1577836800000,
+        "transactiondate": 1577836800000
+    },
+    {
+        "accountentityid": "35_10086205",
+        "accountid": 10086205,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "Payment Received - ThankYou",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086205_10224824",
+        "id": "10224824",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "31488871",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1577836800000,
+        "transactiondate": 1577836800000
     }
-}
+]

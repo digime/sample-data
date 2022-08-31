@@ -1,80 +1,48 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086098",
-                    "accountid": 10086098,
-                    "amount": 1105.84,
-                    "currency": "USD",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "checknumber": "998",
-                    "originalref": "8 TO XX XXXXX0001 LOMBARD IL XXXXXXXXXXX XXXXXX8501",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086098_27300601",
-                    "id": "27300601",
-                    "ismanual": false,
-                    "postdate": 1661817600000,
-                    "runningbalance": 1105.84,
-                    "runningbalancecurrency": "USD",
-                    "status": "POSTED",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1661817600000,
-                    "transactiondate": 1661817600000
-                },
-                {
-                    "accountentityid": "35_10086098",
-                    "accountid": 10086098,
-                    "amount": 21.99,
-                    "currency": "USD",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "checknumber": "998",
-                    "originalref": "BEEHIVE STORAGE LC BOUNTIFUL UT",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086098_27300600",
-                    "id": "27300600",
-                    "ismanual": false,
-                    "postdate": 1661817600000,
-                    "runningbalance": 1083.85,
-                    "runningbalancecurrency": "USD",
-                    "status": "POSTED",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1661817600000,
-                    "transactiondate": 1661817600000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 12,
-        "dateshard": "D202208",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "d0d8d5b60bd1aa6b9f7d5323529f045f",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "updateddate": 1661936410591,
-        "createddate": 1661936410591
+[
+    {
+        "accountentityid": "35_10086098",
+        "accountid": 10086098,
+        "amount": 1105.84,
+        "currency": "USD",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "originalref": "8 TO XX XXXXX0001 LOMBARD IL XXXXXXXXXXX XXXXXX8501",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086098_27300601",
+        "id": "27300601",
+        "ismanual": false,
+        "postdate": 1661817600000,
+        "runningbalance": 1105.84,
+        "runningbalancecurrency": "USD",
+        "status": "POSTED",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1661817600000,
+        "transactiondate": 1661817600000
+    },
+    {
+        "accountentityid": "35_10086098",
+        "accountid": 10086098,
+        "amount": 21.99,
+        "currency": "USD",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "originalref": "BEEHIVE STORAGE LC BOUNTIFUL UT",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086098_27300600",
+        "id": "27300600",
+        "ismanual": false,
+        "postdate": 1661817600000,
+        "runningbalance": 1083.85,
+        "runningbalancecurrency": "USD",
+        "status": "POSTED",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1661817600000,
+        "transactiondate": 1661817600000
     }
-}
+]

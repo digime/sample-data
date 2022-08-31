@@ -1,80 +1,48 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086207",
-                    "accountid": 10086207,
-                    "amount": 2783.54,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Loans",
-                    "categoryid": 17,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "EXPENSE",
-                    "originalref": "student loan payment",
-                    "highlevelcategoryid": 10000004,
-                    "entityid": "35_10086207_10224923",
-                    "id": "10224923",
-                    "interestamount": 440.07,
-                    "interestcurrency": "USD",
-                    "ismanual": false,
-                    "principalamount": 2343.47,
-                    "principalcurrency": "USD",
-                    "status": "POSTED",
-                    "sourceid": "89243321",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1569888000000,
-                    "transactiondate": 1569888000000
-                },
-                {
-                    "accountentityid": "35_10086207",
-                    "accountid": 10086207,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Loans",
-                    "categoryid": 17,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "EXPENSE",
-                    "originalref": "student loan payment",
-                    "highlevelcategoryid": 10000004,
-                    "entityid": "35_10086207_10224922",
-                    "id": "10224922",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "1158700",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1569888000000,
-                    "transactiondate": 1569888000000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 3,
-        "dateshard": "D201910",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "88e29b8b663f5724166c496915d11f11",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "updateddate": 1661936481442,
-        "createddate": 1661936481442
+[
+    {
+        "accountentityid": "35_10086207",
+        "accountid": 10086207,
+        "amount": 2783.54,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Loans",
+        "categoryid": 17,
+        "categorysource": "SYSTEM",
+        "categorytype": "EXPENSE",
+        "originalref": "student loan payment",
+        "highlevelcategoryid": 10000004,
+        "entityid": "35_10086207_10224923",
+        "id": "10224923",
+        "interestamount": 440.07,
+        "interestcurrency": "USD",
+        "ismanual": false,
+        "principalamount": 2343.47,
+        "principalcurrency": "USD",
+        "status": "POSTED",
+        "sourceid": "89243321",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1569888000000,
+        "transactiondate": 1569888000000
+    },
+    {
+        "accountentityid": "35_10086207",
+        "accountid": 10086207,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Loans",
+        "categoryid": 17,
+        "categorysource": "SYSTEM",
+        "categorytype": "EXPENSE",
+        "originalref": "student loan payment",
+        "highlevelcategoryid": 10000004,
+        "entityid": "35_10086207_10224922",
+        "id": "10224922",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "1158700",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1569888000000,
+        "transactiondate": 1569888000000
     }
-}
+]

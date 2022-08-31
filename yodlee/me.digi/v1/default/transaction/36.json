@@ -1,76 +1,44 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086207",
-                    "accountid": 10086207,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Loans",
-                    "categoryid": 17,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "EXPENSE",
-                    "originalref": "student loan payment",
-                    "highlevelcategoryid": 10000004,
-                    "entityid": "35_10086207_10224917",
-                    "id": "10224917",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "80074863",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1577836800000,
-                    "transactiondate": 1577836800000
-                },
-                {
-                    "accountentityid": "35_10086207",
-                    "accountid": 10086207,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Loans",
-                    "categoryid": 17,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "EXPENSE",
-                    "originalref": "student loan payment",
-                    "highlevelcategoryid": 10000004,
-                    "entityid": "35_10086207_10224916",
-                    "id": "10224916",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "63207345",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1577836800000,
-                    "transactiondate": 1577836800000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 3,
-        "dateshard": "D202001",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "60d2859c07bdf7f81fdb9bb2b03d96b8",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "updateddate": 1661936481440,
-        "createddate": 1661936481440
+[
+    {
+        "accountentityid": "35_10086207",
+        "accountid": 10086207,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Loans",
+        "categoryid": 17,
+        "categorysource": "SYSTEM",
+        "categorytype": "EXPENSE",
+        "originalref": "student loan payment",
+        "highlevelcategoryid": 10000004,
+        "entityid": "35_10086207_10224917",
+        "id": "10224917",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "80074863",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1577836800000,
+        "transactiondate": 1577836800000
+    },
+    {
+        "accountentityid": "35_10086207",
+        "accountid": 10086207,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Loans",
+        "categoryid": 17,
+        "categorysource": "SYSTEM",
+        "categorytype": "EXPENSE",
+        "originalref": "student loan payment",
+        "highlevelcategoryid": 10000004,
+        "entityid": "35_10086207_10224916",
+        "id": "10224916",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "63207345",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1577836800000,
+        "transactiondate": 1577836800000
     }
-}
+]

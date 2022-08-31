@@ -1,80 +1,48 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086099",
-                    "accountid": 10086099,
-                    "amount": 480.66,
-                    "currency": "USD",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "checknumber": "998",
-                    "originalref": "CHEROKEE NATION TAX TA TAHLEQUAH OK",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086099_27301101",
-                    "id": "27301101",
-                    "ismanual": false,
-                    "postdate": 1661817600000,
-                    "runningbalance": 480.66,
-                    "runningbalancecurrency": "USD",
-                    "status": "POSTED",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1661817600000,
-                    "transactiondate": 1661817600000
-                },
-                {
-                    "accountentityid": "35_10086099",
-                    "accountid": 10086099,
-                    "amount": 678.58,
-                    "currency": "USD",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "checknumber": "998",
-                    "originalref": "ATT*BILL PAYMENT XXX-XXX-0500 TX",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086099_27301100",
-                    "id": "27301100",
-                    "ismanual": false,
-                    "postdate": 1661817600000,
-                    "runningbalance": 1159.24,
-                    "runningbalancecurrency": "USD",
-                    "status": "POSTED",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1661817600000,
-                    "transactiondate": 1661817600000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 11,
-        "dateshard": "D202208",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "8ee9db648636ad9731c34b17b15d86ba",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "updateddate": 1661936472669,
-        "createddate": 1661936472669
+[
+    {
+        "accountentityid": "35_10086099",
+        "accountid": 10086099,
+        "amount": 480.66,
+        "currency": "USD",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "originalref": "CHEROKEE NATION TAX TA TAHLEQUAH OK",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086099_27301101",
+        "id": "27301101",
+        "ismanual": false,
+        "postdate": 1661817600000,
+        "runningbalance": 480.66,
+        "runningbalancecurrency": "USD",
+        "status": "POSTED",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1661817600000,
+        "transactiondate": 1661817600000
+    },
+    {
+        "accountentityid": "35_10086099",
+        "accountid": 10086099,
+        "amount": 678.58,
+        "currency": "USD",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "originalref": "ATT*BILL PAYMENT XXX-XXX-0500 TX",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086099_27301100",
+        "id": "27301100",
+        "ismanual": false,
+        "postdate": 1661817600000,
+        "runningbalance": 1159.24,
+        "runningbalancecurrency": "USD",
+        "status": "POSTED",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1661817600000,
+        "transactiondate": 1661817600000
     }
-}
+]

@@ -1,76 +1,44 @@
-{
-    "version": "2.0.0",
-    "data": [
-        {
-            "atlasmapversion": "1.0.0",
-            "objecttypeversion": "1.0.0",
-            "objects": [
-                {
-                    "accountentityid": "35_10086206",
-                    "accountid": 10086206,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "loan payment",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086206_10224846",
-                    "id": "10224846",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "94671172",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1577836800000,
-                    "transactiondate": 1577836800000
-                },
-                {
-                    "accountentityid": "35_10086206",
-                    "accountid": 10086206,
-                    "amount": 0,
-                    "currency": "USD",
-                    "basetype": "CREDIT",
-                    "category": "Uncategorised",
-                    "categoryid": 1,
-                    "categorysource": "SYSTEM",
-                    "categorytype": "UNCATEGORIZE",
-                    "originalref": "loan payment",
-                    "highlevelcategoryid": 10000017,
-                    "entityid": "35_10086206_10224845",
-                    "id": "10224845",
-                    "ismanual": false,
-                    "status": "POSTED",
-                    "sourceid": "79441054",
-                    "sourcetype": "AGGREGATED",
-                    "createddate": 1577836800000,
-                    "transactiondate": 1577836800000
-                }
-            ]
-        }
-    ],
-    "descriptor": {
-        "accountjfsid": 4,
-        "dateshard": "D202001",
-        "dateshardmode": "D",
-        "objecttype": 201,
-        "servicegroup": 3,
-        "servicetype": 35,
-        "hash": "8d255b4b2dbf70bc7611fa2930f0f2b7",
-        "atlasmapversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "objecttypeversions": [
-            {
-                "version": "1.0.0",
-                "count": 2
-            }
-        ],
-        "updateddate": 1661936464809,
-        "createddate": 1661936464809
+[
+    {
+        "accountentityid": "35_10086206",
+        "accountid": 10086206,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "loan payment",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086206_10224846",
+        "id": "10224846",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "94671172",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1577836800000,
+        "transactiondate": 1577836800000
+    },
+    {
+        "accountentityid": "35_10086206",
+        "accountid": 10086206,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "loan payment",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_10086206_10224845",
+        "id": "10224845",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "79441054",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1577836800000,
+        "transactiondate": 1577836800000
     }
-}
+]
