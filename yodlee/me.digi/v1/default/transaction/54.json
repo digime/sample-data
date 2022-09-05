@@ -1,0 +1,23 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 123456789,
+        "amount": 0,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "loan payment",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_123456789_10224844",
+        "id": "10224844",
+        "ismanual": false,
+        "status": "POSTED",
+        "sourceid": "16539336",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1580515200000,
+        "transactiondate": 1580515200000
+    }
+]

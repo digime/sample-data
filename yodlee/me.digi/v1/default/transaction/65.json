@@ -1,0 +1,27 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 123456789,
+        "amount": 3389.62,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "Payment Received - ThankYou",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_123456789_10224833",
+        "id": "10224833",
+        "interestamount": 899.89,
+        "interestcurrency": "USD",
+        "ismanual": false,
+        "principalamount": 2489.73,
+        "principalcurrency": "USD",
+        "status": "POSTED",
+        "sourceid": "29891327",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1564617600000,
+        "transactiondate": 1564617600000
+    }
+]
