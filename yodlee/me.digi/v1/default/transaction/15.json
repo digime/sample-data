@@ -1,0 +1,27 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 123456789,
+        "amount": 1207.98,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "originalref": "Personal loan payment",
+        "highlevelcategoryid": 10000017,
+        "entityid": "35_123456789_10224945",
+        "id": "10224945",
+        "interestamount": 390.67,
+        "interestcurrency": "USD",
+        "ismanual": false,
+        "principalamount": 817.31,
+        "principalcurrency": "USD",
+        "status": "POSTED",
+        "sourceid": "35944041",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1567296000000,
+        "transactiondate": 1567296000000
+    }
+]

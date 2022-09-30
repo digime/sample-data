@@ -1,0 +1,27 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 123456789,
+        "amount": 2783.54,
+        "currency": "USD",
+        "basetype": "CREDIT",
+        "category": "Loans",
+        "categoryid": 17,
+        "categorysource": "SYSTEM",
+        "categorytype": "EXPENSE",
+        "originalref": "student loan payment",
+        "highlevelcategoryid": 10000004,
+        "entityid": "35_123456789_10224929",
+        "id": "10224929",
+        "interestamount": 489.94,
+        "interestcurrency": "USD",
+        "ismanual": false,
+        "principalamount": 2293.6,
+        "principalcurrency": "USD",
+        "status": "POSTED",
+        "sourceid": "78793378",
+        "sourcetype": "AGGREGATED",
+        "createddate": 1554076800000,
+        "transactiondate": 1554076800000
+    }
+]

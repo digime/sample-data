@@ -1,0 +1,724 @@
+[
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664368401185,
+    "entityid": "21_123456789_1599868800000",
+    "id": 1599868800000,
+    "floors": 7,
+    "steps": 11313,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 8.961
+      }
+    ],
+    "heartrate": 59,
+    "minheartrate": 59,
+    "maxheartrate": 147,
+    "restingheartrate": 75,
+    "fairlyactiveminutes": 151.72,
+    "activitycalories": 278,
+    "caloriesbmr": 1709,
+    "caloriesout": 1987,
+    "goals": {
+      "steps": 7960,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 19,
+    "maxstresslevel": 52,
+    "stressduration": 600000,
+    "reststressduration": 4140000,
+    "activitystressduration": 12120000,
+    "lowstressduration": 420000,
+    "mediumstressduration": 180000,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664368101185,
+    "entityid": "21_123456789_1599955200000",
+    "id": 1599955200000,
+    "floors": 0,
+    "steps": 0,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "heartrate": 0,
+    "minheartrate": 0,
+    "maxheartrate": 0,
+    "restingheartrate": 0,
+    "fairlyactiveminutes": 0,
+    "activitycalories": 0,
+    "caloriesbmr": 1709,
+    "caloriesout": 1709,
+    "goals": {
+      "steps": 8630,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 0,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664367801185,
+    "entityid": "21_123456789_1600041600000",
+    "id": 1600041600000,
+    "floors": 0,
+    "steps": 0,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "heartrate": 0,
+    "minheartrate": 0,
+    "maxheartrate": 0,
+    "restingheartrate": 0,
+    "fairlyactiveminutes": 0,
+    "activitycalories": 0,
+    "caloriesbmr": 1709,
+    "caloriesout": 1709,
+    "goals": {
+      "steps": 8630,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 0,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664367501185,
+    "entityid": "21_123456789_1600128000000",
+    "id": 1600128000000,
+    "floors": 5,
+    "steps": 8919,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 7.065
+      }
+    ],
+    "heartrate": 61,
+    "minheartrate": 61,
+    "maxheartrate": 139,
+    "restingheartrate": 73,
+    "fairlyactiveminutes": 95.77,
+    "activitycalories": 359,
+    "caloriesbmr": 1709,
+    "caloriesout": 2068,
+    "goals": {
+      "steps": 8630,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 8,
+    "maxstresslevel": 51,
+    "stressduration": 180000,
+    "reststressduration": 3060000,
+    "activitystressduration": 7800000,
+    "lowstressduration": 120000,
+    "mediumstressduration": 60000,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664367201185,
+    "entityid": "21_123456789_1600214400000",
+    "id": 1600214400000,
+    "floors": 0,
+    "steps": 0,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "heartrate": 0,
+    "minheartrate": 0,
+    "maxheartrate": 0,
+    "restingheartrate": 0,
+    "fairlyactiveminutes": 0,
+    "activitycalories": 0,
+    "caloriesbmr": 1709,
+    "caloriesout": 1709,
+    "goals": {
+      "steps": 8690,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 0,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664366901185,
+    "entityid": "21_123456789_1600300800000",
+    "id": 1600300800000,
+    "floors": 0,
+    "steps": 0,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "heartrate": 60,
+    "minheartrate": 60,
+    "maxheartrate": 60,
+    "restingheartrate": 60,
+    "fairlyactiveminutes": 0,
+    "activitycalories": 0,
+    "caloriesbmr": 1709,
+    "caloriesout": 1709,
+    "goals": {
+      "steps": 8690,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 0,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664366601185,
+    "entityid": "21_123456789_1600387200000",
+    "id": 1600387200000,
+    "floors": 11,
+    "steps": 11977,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 9.508
+      }
+    ],
+    "heartrate": 54,
+    "minheartrate": 54,
+    "maxheartrate": 138,
+    "restingheartrate": 74,
+    "fairlyactiveminutes": 154.25,
+    "activitycalories": 404,
+    "caloriesbmr": 1709,
+    "caloriesout": 2113,
+    "goals": {
+      "steps": 8690,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 20,
+    "maxstresslevel": 95,
+    "stressduration": 3600000,
+    "reststressduration": 7560000,
+    "activitystressduration": 12600000,
+    "lowstressduration": 3120000,
+    "mediumstressduration": 420000,
+    "highstressduration": 60000,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664366301185,
+    "entityid": "21_123456789_1600473600000",
+    "id": 1600473600000,
+    "floors": 12,
+    "steps": 11450,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 9.104
+      }
+    ],
+    "heartrate": 60,
+    "minheartrate": 60,
+    "maxheartrate": 141,
+    "restingheartrate": 64,
+    "fairlyactiveminutes": 132.23,
+    "activitycalories": 384,
+    "caloriesbmr": 1709,
+    "caloriesout": 2093,
+    "goals": {
+      "steps": 9350,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 14,
+    "maxstresslevel": 79,
+    "stressduration": 1680000,
+    "reststressduration": 8460000,
+    "activitystressduration": 18600000,
+    "lowstressduration": 960000,
+    "mediumstressduration": 660000,
+    "highstressduration": 60000,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664366001185,
+    "entityid": "21_123456789_1600560000000",
+    "id": 1600560000000,
+    "floors": 6,
+    "steps": 1613,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 1.278
+      }
+    ],
+    "heartrate": 74,
+    "minheartrate": 74,
+    "maxheartrate": 147,
+    "restingheartrate": 85,
+    "fairlyactiveminutes": 35,
+    "activitycalories": 103,
+    "caloriesbmr": 1709,
+    "caloriesout": 1812,
+    "goals": {
+      "steps": 9770,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 43,
+    "maxstresslevel": 72,
+    "stressduration": 1860000,
+    "reststressduration": 480000,
+    "activitystressduration": 5280000,
+    "lowstressduration": 840000,
+    "mediumstressduration": 1020000,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664365701185,
+    "entityid": "21_123456789_1600646400000",
+    "id": 1600646400000,
+    "floors": 0,
+    "steps": 811,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0.744
+      }
+    ],
+    "heartrate": 67,
+    "minheartrate": 67,
+    "maxheartrate": 122,
+    "restingheartrate": 74,
+    "fairlyactiveminutes": 12.67,
+    "activitycalories": 36,
+    "caloriesbmr": 1709,
+    "caloriesout": 1745,
+    "goals": {
+      "steps": 8960,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 12,
+    "maxstresslevel": 45,
+    "stressduration": 360000,
+    "reststressduration": 6360000,
+    "activitystressduration": 4560000,
+    "lowstressduration": 360000,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664365401185,
+    "entityid": "21_123456789_1600732800000",
+    "id": 1600732800000,
+    "floors": 7,
+    "steps": 5354,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 4.241
+      }
+    ],
+    "heartrate": 60,
+    "minheartrate": 60,
+    "maxheartrate": 146,
+    "restingheartrate": 67,
+    "fairlyactiveminutes": 57.6,
+    "activitycalories": 275,
+    "caloriesbmr": 1709,
+    "caloriesout": 1984,
+    "goals": {
+      "steps": 8960,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 4,
+    "maxstresslevel": 22,
+    "stressduration": 0,
+    "reststressduration": 6660000,
+    "activitystressduration": 4980000,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664365101185,
+    "entityid": "21_123456789_1600819200000",
+    "id": 1600819200000,
+    "floors": 0,
+    "steps": 0,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "heartrate": 0,
+    "minheartrate": 0,
+    "maxheartrate": 0,
+    "restingheartrate": 0,
+    "fairlyactiveminutes": 0,
+    "activitycalories": 0,
+    "caloriesbmr": 1709,
+    "caloriesout": 1709,
+    "goals": {
+      "steps": 8240,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 0,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664364801185,
+    "entityid": "21_123456789_1600905600000",
+    "id": 1600905600000,
+    "floors": 0,
+    "steps": 0,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "heartrate": 0,
+    "minheartrate": 0,
+    "maxheartrate": 0,
+    "restingheartrate": 0,
+    "fairlyactiveminutes": 0,
+    "activitycalories": 0,
+    "caloriesbmr": 1709,
+    "caloriesout": 1709,
+    "goals": {
+      "steps": 8240,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 0,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664364501185,
+    "entityid": "21_123456789_1600992000000",
+    "id": 1600992000000,
+    "floors": 0,
+    "steps": 4044,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 3.203
+      }
+    ],
+    "heartrate": 80,
+    "minheartrate": 80,
+    "maxheartrate": 125,
+    "restingheartrate": 80,
+    "fairlyactiveminutes": 33.1,
+    "activitycalories": 169,
+    "caloriesbmr": 1709,
+    "caloriesout": 1878,
+    "goals": {
+      "steps": 8240,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 14,
+    "maxstresslevel": 17,
+    "stressduration": 0,
+    "reststressduration": 120000,
+    "activitystressduration": 1980000,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664364201185,
+    "entityid": "21_123456789_1601078400000",
+    "id": 1601078400000,
+    "floors": 12,
+    "steps": 10056,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 7.965
+      }
+    ],
+    "heartrate": 59,
+    "minheartrate": 59,
+    "maxheartrate": 144,
+    "restingheartrate": 71,
+    "fairlyactiveminutes": 142.32,
+    "activitycalories": 296,
+    "caloriesbmr": 1709,
+    "caloriesout": 2005,
+    "goals": {
+      "steps": 7400,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 5,
+    "maxstresslevel": 51,
+    "stressduration": 60000,
+    "reststressduration": 4740000,
+    "activitystressduration": 11100000,
+    "lowstressduration": 0,
+    "mediumstressduration": 60000,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664363901185,
+    "entityid": "21_123456789_1601164800000",
+    "id": 1601164800000,
+    "floors": 0,
+    "steps": 6366,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 5.043
+      }
+    ],
+    "heartrate": 54,
+    "minheartrate": 54,
+    "maxheartrate": 114,
+    "restingheartrate": 59,
+    "fairlyactiveminutes": 108.72,
+    "activitycalories": 166,
+    "caloriesbmr": 1709,
+    "caloriesout": 1875,
+    "goals": {
+      "steps": 7670,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 5,
+    "maxstresslevel": 78,
+    "stressduration": 360000,
+    "reststressduration": 30780000,
+    "activitystressduration": 10860000,
+    "lowstressduration": 180000,
+    "mediumstressduration": 120000,
+    "highstressduration": 60000,
+    "stressqualifier": "calm_awake"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664363601185,
+    "entityid": "21_123456789_1601251200000",
+    "id": 1601251200000,
+    "floors": 11,
+    "steps": 8528,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 6.755
+      }
+    ],
+    "heartrate": 43,
+    "minheartrate": 43,
+    "maxheartrate": 154,
+    "restingheartrate": 65,
+    "fairlyactiveminutes": 87.95,
+    "activitycalories": 426,
+    "caloriesbmr": 1709,
+    "caloriesout": 2135,
+    "goals": {
+      "steps": 7540,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 13,
+    "maxstresslevel": 70,
+    "stressduration": 480000,
+    "reststressduration": 2040000,
+    "activitystressduration": 6600000,
+    "lowstressduration": 420000,
+    "mediumstressduration": 60000,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664363301185,
+    "entityid": "21_123456789_1601337600000",
+    "id": 1601337600000,
+    "floors": 0,
+    "steps": 4234,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 3.354
+      }
+    ],
+    "heartrate": 94,
+    "minheartrate": 94,
+    "maxheartrate": 118,
+    "restingheartrate": 94,
+    "fairlyactiveminutes": 32,
+    "activitycalories": 152,
+    "caloriesbmr": 1709,
+    "caloriesout": 1861,
+    "goals": {
+      "steps": 7640,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 1920000,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown"
+  },
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1664363001185,
+    "entityid": "21_123456789_1601424000000",
+    "id": 1601424000000,
+    "floors": 5,
+    "steps": 2654,
+    "duration": 86400000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 2.102
+      }
+    ],
+    "heartrate": 82,
+    "minheartrate": 82,
+    "maxheartrate": 132,
+    "restingheartrate": 82,
+    "fairlyactiveminutes": 37.88,
+    "activitycalories": 99,
+    "caloriesbmr": 1709,
+    "caloriesout": 1808,
+    "goals": {
+      "steps": 7300,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": 60,
+    "maxstresslevel": 87,
+    "stressduration": 300000,
+    "reststressduration": 0,
+    "activitystressduration": 2460000,
+    "lowstressduration": 60000,
+    "mediumstressduration": 180000,
+    "highstressduration": 60000,
+    "stressqualifier": "unknown"
+  }
+]
