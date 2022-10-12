@@ -1,0 +1,76 @@
+[
+    {
+        "accountentityid": "33_103658247457031333684",
+        "activityname": "other",
+        "activitytypeid": "108",
+        "calories": 693,
+        "createddate": 1621967760000,
+        "distance": 0,
+        "bikecadence": 0,
+        "durations": {
+            "total": 4260000
+        },
+        "entityid": "33_103658247457031333684_367af5ee11950f528cc21cc923903df6",
+        "averageheartrate": 107.05,
+        "heartratezones": [
+            {
+                "minutes": 109.14084507042253
+            },
+            {
+                "minutes": 123
+            },
+            {
+                "minutes": 89
+            }
+        ],
+        "id": "367af5ee11950f528cc21cc923903df6",
+        "speed": 0.62,
+        "steps": 2342
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "activityname": "running",
+        "activitytypeid": "8",
+        "calories": 0.83,
+        "createddate": 1621962810000,
+        "distance": 0,
+        "bikecadence": 0,
+        "durations": {
+            "total": 0
+        },
+        "entityid": "33_103658247457031333684_e27c21641fa8ff001a9ad0219025b967",
+        "averageheartrate": 0,
+        "heartratezones": [],
+        "id": "e27c21641fa8ff001a9ad0219025b967",
+        "speed": 0,
+        "steps": 0
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "activityname": "other",
+        "activitytypeid": "108",
+        "calories": 577,
+        "createddate": 1621363491000,
+        "distance": 0,
+        "bikecadence": 0,
+        "durations": {
+            "total": 3300000
+        },
+        "entityid": "33_103658247457031333684_e181afe1f4bacc21e6e015138c53a869",
+        "averageheartrate": 110.38,
+        "heartratezones": [
+            {
+                "minutes": 115.13888888888889
+            },
+            {
+                "minutes": 130
+            },
+            {
+                "minutes": 86
+            }
+        ],
+        "id": "e181afe1f4bacc21e6e015138c53a869",
+        "speed": 1.04,
+        "steps": 5014
+    }
+]
