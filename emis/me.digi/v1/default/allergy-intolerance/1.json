@@ -1,17 +1,50 @@
 [
     {
-        "createddate": 1532390400000,
-        "id": "6ac1e2da-d77f-48ac-93e0-431608a607eb",
-        "entityid": "30_123456789_6ac1e2da-d77f-48ac-93e0-431608a607eb",
+        "accountentityid": "30_123456789",
+        "note": [],
+        "id": "3bc8c99e-413b-4a2f-9c25-e01893304b99",
+        "entityid": "30_123456789_3bc8c99e-413b-4a2f-9c25-e01893304b99",
         "code": {
-            "text": "H/O: penicillin allergy",
             "coding": [
                 {
-                    "code": "251824014"
+                    "code": "1026851000006111"
                 }
-            ]
+            ],
+            "text": "Adverse reaction to Calogen Strawberry"
         },
+        "createddate": 1667215621739,
+        "recordeddate": "2022-10-31T10:26:59"
+    },
+    {
         "accountentityid": "30_123456789",
-        "asserteddate": 1532390400000
+        "note": [],
+        "id": "119ccd60-776f-45cf-a1bb-451973c3cd83",
+        "entityid": "30_123456789_119ccd60-776f-45cf-a1bb-451973c3cd83",
+        "code": {
+            "coding": [
+                {
+                    "code": "1235714019"
+                }
+            ],
+            "text": "Nut allergy"
+        },
+        "createddate": 1667215321739,
+        "recordeddate": "2022-10-31T10:21:59"
+    },
+    {
+        "accountentityid": "30_123456789",
+        "note": [],
+        "id": "4dbfd8d2-e750-4822-970d-054f03c29e23",
+        "entityid": "30_123456789_4dbfd8d2-e750-4822-970d-054f03c29e23",
+        "code": {
+            "coding": [
+                {
+                    "code": "1990391000006114"
+                }
+            ],
+            "text": "Adverse reaction to Juzo Hostess Nutmeg Class 2 Extra Short"
+        },
+        "createddate": 1667215021739,
+        "recordeddate": "2022-10-31T10:16:59"
     }
 ]

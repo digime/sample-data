@@ -1,233 +1,39 @@
 [
     {
-        "createddate": 1534982400000,
-        "id": "5cc67d2c-b6dd-482e-8e79-87861d4a9bf2",
-        "entityid": "30_123456789_5cc67d2c-b6dd-482e-8e79-87861d4a9bf2",
         "accountentityid": "30_123456789",
         "medicationreference": {
-            "status": "Active",
-            "code": {
-                "text": "Plavix 75mg tablets (Sanofi)",
-                "coding": [
-                    {
-                        "code": "1667041000033119",
-                        "display": "Plavix 75mg tablets (Sanofi)"
-                    }
-                ]
-            }
+            "display": "GlucoDock testing strips (Medisana Healthcare (UK) Ltd)"
         },
         "dosageinstruction": [
             {
-                "text": "One To Be Taken Each Day",
-                "dosequantity": {
-                    "value": 30,
-                    "code": "30 tablet",
-                    "unit": "tablet"
-                }
+                "doseandrate": [
+                    {
+                        "dosequantity": {
+                            "code": "7 strip",
+                            "unit": "strip",
+                            "value": 7
+                        }
+                    }
+                ],
+                "text": "1"
             }
         ],
+        "status": "Cancelled",
+        "id": "4d00bfd8-e7d6-47ae-9546-2fd3934c2cde",
+        "entityid": "30_123456789_4d00bfd8-e7d6-47ae-9546-2fd3934c2cde",
         "dispenserequest": {
             "validityperiod": {
-                "start": 1534982400000
-            }
-        }
-    },
-    {
-        "createddate": 1534982400000,
-        "id": "c40e199e-ec9d-4eca-a58d-7f3660425edd",
-        "entityid": "30_123456789_c40e199e-ec9d-4eca-a58d-7f3660425edd",
-        "accountentityid": "30_123456789",
-        "medicationreference": {
-            "status": "Cancelled",
-            "code": {
-                "text": "Plavix 75mg tablets (Sanofi)",
-                "coding": [
-                    {
-                        "code": "1667041000033119",
-                        "display": "Plavix 75mg tablets (Sanofi)"
-                    }
-                ]
+                "start": "2019-04-16T00:00:00"
             }
         },
-        "dosageinstruction": [
-            {
-                "text": "One To Be Taken Each Day Before Food",
-                "dosequantity": {
-                    "value": 100,
-                    "code": "100 tablet",
-                    "unit": "tablet"
+        "createddate": 1661955229739,
+        "medicationcodeableconcept": {
+            "coding": [
+                {
+                    "code": "7684241000033116"
                 }
-            }
-        ],
-        "dispenserequest": {
-            "validityperiod": {
-                "start": 1534982400000
-            }
-        }
-    },
-    {
-        "createddate": 1534982400000,
-        "id": "d6c2b0b3-a98c-4f5d-9d39-5275d81efa29",
-        "entityid": "30_123456789_d6c2b0b3-a98c-4f5d-9d39-5275d81efa29",
-        "accountentityid": "30_123456789",
-        "medicationreference": {
-            "status": "Cancelled",
-            "code": {
-                "text": "Aspirin 300mg gastro-resistant tablets",
-                "coding": [
-                    {
-                        "code": "83141000033116",
-                        "display": "Aspirin 300mg gastro-resistant tablets"
-                    }
-                ]
-            }
-        },
-        "dosageinstruction": [
-            {
-                "text": "One To Be Taken Every Four To Six Hours When Required",
-                "dosequantity": {
-                    "value": 20,
-                    "code": "20 tablet",
-                    "unit": "tablet"
-                }
-            }
-        ],
-        "dispenserequest": {
-            "validityperiod": {
-                "start": 1534982400000
-            }
-        }
-    },
-    {
-        "createddate": 1534982400000,
-        "id": "f8dc05e4-9f15-4ace-b315-9fc3379fe962",
-        "entityid": "30_123456789_f8dc05e4-9f15-4ace-b315-9fc3379fe962",
-        "accountentityid": "30_123456789",
-        "medicationreference": {
-            "status": "Cancelled",
-            "code": {
-                "text": "Prednisolone 2.5mg gastro-resistant tablets",
-                "coding": [
-                    {
-                        "code": "1114241000033116",
-                        "display": "Prednisolone 2.5mg gastro-resistant tablets"
-                    }
-                ]
-            }
-        },
-        "dosageinstruction": [
-            {
-                "text": "One To Be Taken Each Morning",
-                "dosequantity": {
-                    "value": 10,
-                    "code": "10 tablet",
-                    "unit": "tablet"
-                }
-            }
-        ],
-        "dispenserequest": {
-            "validityperiod": {
-                "start": 1534982400000
-            }
-        }
-    },
-    {
-        "createddate": 1534982400000,
-        "id": "6f5ffdd8-4d22-410c-abea-f77e9762b0f7",
-        "entityid": "30_123456789_6f5ffdd8-4d22-410c-abea-f77e9762b0f7",
-        "accountentityid": "30_123456789",
-        "medicationreference": {
-            "status": "Active",
-            "code": {
-                "text": "Biocath Aquamatic hydrogel coated pre-filled catheter female 12Ch D226812 10ml balloon (Bard Ltd)",
-                "coding": [
-                    {
-                        "code": "113441000033117",
-                        "display": "Biocath Aquamatic hydrogel coated pre-filled catheter female 12Ch D226812 10ml balloon (Bard Ltd)"
-                    }
-                ]
-            }
-        },
-        "dosageinstruction": [
-            {
-                "text": "apply at night",
-                "dosequantity": {
-                    "value": 25,
-                    "code": "25 catheter",
-                    "unit": "catheter"
-                }
-            }
-        ],
-        "dispenserequest": {
-            "validityperiod": {
-                "start": 1534982400000
-            }
-        }
-    },
-    {
-        "createddate": 1534982400000,
-        "id": "dea19ef9-2038-4b43-9eca-3f67650ff24c",
-        "entityid": "30_123456789_dea19ef9-2038-4b43-9eca-3f67650ff24c",
-        "accountentityid": "30_123456789",
-        "medicationreference": {
-            "status": "Cancelled",
-            "code": {
-                "text": "Paracetamol 120mg/5ml oral suspension paediatric sugar free",
-                "coding": [
-                    {
-                        "code": "1038941000033119",
-                        "display": "Paracetamol 120mg/5ml oral suspension paediatric sugar free"
-                    }
-                ]
-            }
-        },
-        "dosageinstruction": [
-            {
-                "text": "morning",
-                "dosequantity": {
-                    "value": 1,
-                    "code": "1 ml",
-                    "unit": "ml"
-                }
-            }
-        ],
-        "dispenserequest": {
-            "validityperiod": {
-                "start": 1534982400000
-            }
-        }
-    },
-    {
-        "createddate": 1535500800000,
-        "id": "3700481d-3453-4825-a464-e43c6a04d456",
-        "entityid": "30_123456789_3700481d-3453-4825-a464-e43c6a04d456",
-        "accountentityid": "30_123456789",
-        "medicationreference": {
-            "status": "Cancelled",
-            "code": {
-                "text": "Anidulafungin 100mg powder for solution for infusion vials",
-                "coding": [
-                    {
-                        "code": "5405241000033119",
-                        "display": "Anidulafungin 100mg powder for solution for infusion vials"
-                    }
-                ]
-            }
-        },
-        "dosageinstruction": [
-            {
-                "text": "100 mg",
-                "dosequantity": {
-                    "value": 50,
-                    "code": "50 vial",
-                    "unit": "vial"
-                }
-            }
-        ],
-        "dispenserequest": {
-            "validityperiod": {
-                "start": 1535500800000
-            }
+            ],
+            "text": "GlucoDock testing strips (Medisana Healthcare (UK) Ltd)"
         }
     }
 ]

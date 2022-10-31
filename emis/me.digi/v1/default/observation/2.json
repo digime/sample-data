@@ -1,50 +1,20 @@
 [
     {
-        "createddate": 1534896000000,
-        "id": "5e35db8b-8650-4d66-bf14-21141b28e39c",
-        "entityid": "30_123456789_5e35db8b-8650-4d66-bf14-21141b28e39c_1534896000000",
+        "accountentityid": "30_123456789",
+        "valuequantity": {},
+        "id": "8936bdea-0d56-4abc-8459-05c49822c762",
+        "entityid": "30_123456789_8936bdea-0d56-4abc-8459-05c49822c762_1555372800000",
+        "createddate": 1661953429739,
+        "effectivedatetime": "2022-08-31T13:43:49",
         "code": {
-            "text": "Thyroid hormone tests high",
             "coding": [
                 {
-                    "code": "258481018",
-                    "display": "Thyroid hormone tests high"
+                    "display": "Allergy screening test",
+                    "code": "1488840015"
                 }
-            ]
+            ],
+            "text": "Allergy screening test"
         },
-        "accountentityid": "30_123456789",
-        "effectivedatetime": 1534896000000
-    },
-    {
-        "createddate": 1534982400000,
-        "id": "6ba4ed13-f5ee-442a-aed8-6e619983b7b9",
-        "entityid": "30_123456789_6ba4ed13-f5ee-442a-aed8-6e619983b7b9_1534982400000",
-        "code": {
-            "text": "Thyroid hormone tests normal",
-            "coding": [
-                {
-                    "code": "404468012",
-                    "display": "Thyroid hormone tests normal"
-                }
-            ]
-        },
-        "accountentityid": "30_123456789",
-        "effectivedatetime": 1534982400000
-    },
-    {
-        "createddate": 1534809600000,
-        "id": "c59235d2-e647-4111-9582-e8040dd61584",
-        "entityid": "30_123456789_c59235d2-e647-4111-9582-e8040dd61584_1534809600000",
-        "code": {
-            "text": "Differential renal function",
-            "coding": [
-                {
-                    "code": "405445013",
-                    "display": "Differential renal function"
-                }
-            ]
-        },
-        "accountentityid": "30_123456789",
-        "effectivedatetime": 1534809600000
+        "component": []
     }
 ]

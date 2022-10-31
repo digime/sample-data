@@ -1,101 +1,113 @@
 [
     {
-        "createddate": 1532390400000,
-        "id": "d6126376-9cd3-4933-bf34-be518e48a070",
-        "entityid": "30_123456789_d6126376-9cd3-4933-bf34-be518e48a070",
         "accountentityid": "30_123456789",
         "medicationreference": {
-            "status": "Cancelled",
-            "code": {
-                "text": "Phenoxymethylpenicillin 250mg tablets",
-                "coding": [
-                    {
-                        "code": "1081941000033116",
-                        "display": "Phenoxymethylpenicillin 250mg tablets"
-                    }
-                ]
-            }
+            "display": "Desloratadine 5mg tablets"
         },
         "dosageinstruction": [
             {
-                "text": "Two To Be Taken Four Times A Day",
-                "dosequantity": {
-                    "value": 56,
-                    "code": "56 tablet",
-                    "unit": "tablet"
-                }
+                "doseandrate": [
+                    {
+                        "dosequantity": {
+                            "code": "30 tablet",
+                            "unit": "tablet",
+                            "value": 30
+                        }
+                    }
+                ],
+                "text": "One To Be Taken Each Day"
             }
         ],
+        "status": "Cancelled",
+        "id": "98eb1105-b18e-49c3-a150-2940dbbcdd6b",
+        "entityid": "30_123456789_98eb1105-b18e-49c3-a150-2940dbbcdd6b",
         "dispenserequest": {
             "validityperiod": {
-                "start": 1532390400000
+                "start": "2018-09-13T00:00:00"
             }
+        },
+        "createddate": 1667215621739,
+        "medicationcodeableconcept": {
+            "coding": [
+                {
+                    "code": "2261441000033117"
+                }
+            ],
+            "text": "Desloratadine 5mg tablets"
         }
     },
     {
-        "createddate": 1532390400000,
-        "id": "03baa557-9636-4696-8266-5bf2074cefcb",
-        "entityid": "30_123456789_03baa557-9636-4696-8266-5bf2074cefcb",
         "accountentityid": "30_123456789",
         "medicationreference": {
-            "status": "Cancelled",
-            "code": {
-                "text": "Palbociclib 125mg capsules",
-                "coding": [
-                    {
-                        "code": "11822741000033116",
-                        "display": "Palbociclib 125mg capsules"
-                    }
-                ]
-            }
+            "display": "Sudafed Decongestant 60mg tablets (McNeil Products Ltd)"
         },
         "dosageinstruction": [
             {
-                "text": "1 a day",
-                "dosequantity": {
-                    "value": 100,
-                    "code": "100 capsule",
-                    "unit": "capsule"
-                }
+                "doseandrate": [
+                    {
+                        "dosequantity": {
+                            "code": "12 tablet",
+                            "unit": "tablet",
+                            "value": 12
+                        }
+                    }
+                ],
+                "text": "One To Be Taken Four Times A Day"
             }
         ],
+        "status": "Cancelled",
+        "id": "d6e6f89a-3a0c-4791-b861-d06efd66eb9e",
+        "entityid": "30_123456789_d6e6f89a-3a0c-4791-b861-d06efd66eb9e",
         "dispenserequest": {
             "validityperiod": {
-                "start": 1532390400000
+                "start": "2018-09-13T00:00:00"
             }
+        },
+        "createddate": 1667215321739,
+        "medicationcodeableconcept": {
+            "coding": [
+                {
+                    "code": "1397741000033114"
+                }
+            ],
+            "text": "Sudafed Decongestant 60mg tablets (McNeil Products Ltd)"
         }
     },
     {
-        "createddate": 1532440620000,
-        "id": "226c12e7-9cbf-4ed6-866a-2ae3bdea2160",
-        "entityid": "30_123456789_226c12e7-9cbf-4ed6-866a-2ae3bdea2160",
         "accountentityid": "30_123456789",
         "medicationreference": {
-            "status": "Active",
-            "code": {
-                "text": "Plavix 75mg tablets (Sanofi)",
-                "coding": [
-                    {
-                        "code": "1667041000033119",
-                        "display": "Plavix 75mg tablets (Sanofi)"
-                    }
-                ]
-            }
+            "display": "Zantac 150mg tablets (GlaxoSmithKline UK Ltd)"
         },
         "dosageinstruction": [
             {
-                "text": "One To Be Taken Each Day Before Food",
-                "dosequantity": {
-                    "value": 100,
-                    "code": "100 tablet",
-                    "unit": "tablet"
-                }
+                "doseandrate": [
+                    {
+                        "dosequantity": {
+                            "code": "60 tablet",
+                            "unit": "tablet",
+                            "value": 60
+                        }
+                    }
+                ],
+                "text": "One To Be Taken Four Times A Day"
             }
         ],
+        "status": "Cancelled",
+        "id": "cf1d380c-6312-4349-a01e-fc634e629aa3",
+        "entityid": "30_123456789_cf1d380c-6312-4349-a01e-fc634e629aa3",
         "dispenserequest": {
             "validityperiod": {
-                "start": 1532440620000
+                "start": "2018-09-13T00:00:00"
             }
+        },
+        "createddate": 1667215021739,
+        "medicationcodeableconcept": {
+            "coding": [
+                {
+                    "code": "1550441000033113"
+                }
+            ],
+            "text": "Zantac 150mg tablets (GlaxoSmithKline UK Ltd)"
         }
     }
 ]
