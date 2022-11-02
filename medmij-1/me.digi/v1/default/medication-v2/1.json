@@ -1,0 +1,26 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "a6a406bf-6c5d-4263-aac4-988f0164b411",
+        "entityid": "37_123456789_Test-poc-PharmaceuticalProduct-03",
+        "id": "Test-poc-PharmaceuticalProduct-03",
+        "code": {
+            "coding": [
+                {
+                    "code": "2924536",
+                    "display": "COVID-19 VACCIN MODERNA INJVLST 0,5ML",
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7"
+                }
+            ]
+        },
+        "form": {
+            "coding": [
+                {
+                    "code": "76",
+                    "display": "DISPERSIE VOOR INJECTIE",
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.11"
+                }
+            ]
+        }
+    }
+]
