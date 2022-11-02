@@ -1,0 +1,67 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "ed541faf-d5b9-4907-b752-7f44a3ad0c23",
+        "class": {
+            "code": "AMB",
+            "display": "ambulatory",
+            "system": "http://hl7.org/fhir/v3/ActCode"
+        },
+        "createddate": 1667401435325,
+        "episodeofcare": [
+            {
+                "display": "PDF/A kwalificatie",
+                "reference": "EpisodeOfCare/b8a8403e-f9cf-4d5f-86a2-c1e3dc83e8ed"
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.13",
+                "value": "9DA00CC5-A044-B992-0863-B82C9D752D3F"
+            }
+        ],
+        "entityid": "37_123456789_bae53271-1277-4e88-a6d9-983b3d7aa06e",
+        "id": "bae53271-1277-4e88-a6d9-983b3d7aa06e",
+        "participant": [
+            {
+                "individual": {
+                    "display": "Vaste Huisarts 1",
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valuereference": {
+                                "display": "Vaste Huisarts 1",
+                                "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/01123987"
+                }
+            }
+        ],
+        "period": {
+            "end": "2021-03-04",
+            "start": "2021-03-04"
+        },
+        "serviceprovider": {
+            "display": "Aesculaap",
+            "reference": "Organization/01012345"
+        },
+        "status": "finished",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "type": [
+            {
+                "coding": [
+                    {
+                        "code": "08",
+                        "display": "postverwerking",
+                        "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-14-contactwijze"
+                    }
+                ]
+            }
+        ]
+    }
+]

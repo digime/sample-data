@@ -1,0 +1,67 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "5ebaa753-99d7-4961-8dd5-575b656a17b5",
+        "author": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "createddate": 1662141643325,
+        "date": "2021-12-24",
+        "encounter": {
+            "display": "postverwerking",
+            "reference": "Encounter/fee96430-f0f6-4ddc-97e5-91f45c69de9c"
+        },
+        "entityid": "37_123456789_b3ca8f8c-ee13-4b86-a20b-0cb427b80106",
+        "id": "b3ca8f8c-ee13-4b86-a20b-0cb427b80106",
+        "section": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "P",
+                            "display": "Plan",
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen"
+                        }
+                    ]
+                },
+                "entry": [
+                    {
+                        "display": "PDF/A kwalificatie",
+                        "reference": "EpisodeOfCare/b8a8403e-f9cf-4d5f-86a2-c1e3dc83e8ed"
+                    }
+                ],
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Van: B. Kneder</div>",
+                    "status": "additional"
+                }
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "title": "Verslaglegging afspraak",
+        "type": {
+            "coding": [
+                {
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative",
+                    "system": "http://loinc.org"
+                }
+            ]
+        }
+    }
+]

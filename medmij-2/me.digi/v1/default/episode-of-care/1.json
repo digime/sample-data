@@ -1,0 +1,61 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "caremanager": {
+            "display": "Vaste Huisarts 1",
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valuereference": {
+                        "display": "Vaste Huisarts 1",
+                        "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                    }
+                }
+            ],
+            "reference": "Practitioner/01123987"
+        },
+        "diagnosis": [
+            {
+                "condition": {
+                    "display": "N29 - Andere symptomen/klachten zenuwstelsel",
+                    "reference": "Condition/5d96ad5e-80cd-486c-ae4b-10e72ed8b0f6"
+                }
+            }
+        ],
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+                "valuedatetime": "2021-03-04"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+                "valuedatetime": "2021-12-24"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+                "valuestring": "PDF/A kwalificatie"
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.8",
+                "value": "C6C559CC-4731-7699-2DBA-139BCCBA0FF2"
+            }
+        ],
+        "entityid": "37_123456789_b8a8403e-f9cf-4d5f-86a2-c1e3dc83e8ed",
+        "id": "b8a8403e-f9cf-4d5f-86a2-c1e3dc83e8ed",
+        "managingorganization": {
+            "display": "Aesculaap",
+            "reference": "Organization/01012345"
+        },
+        "patient": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "period": {
+            "start": "2021-03-04"
+        },
+        "createddate": 1667401435325,
+        "status": "active"
+    }
+]

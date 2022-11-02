@@ -1,0 +1,61 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "ed541faf-d5b9-4907-b752-7f44a3ad0c23",
+        "class": {
+            "code": "AMB",
+            "display": "ambulatory",
+            "system": "http://hl7.org/fhir/v3/ActCode"
+        },
+        "createddate": 1656881851325,
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.13",
+                "value": "55FEF7ED-D47F-1608-C0B2-6143BFB56F86"
+            }
+        ],
+        "entityid": "37_123456789_dc51db7e-2c69-4a3e-9a94-9a7fbfc5765b",
+        "id": "dc51db7e-2c69-4a3e-9a94-9a7fbfc5765b",
+        "participant": [
+            {
+                "individual": {
+                    "display": "Vaste Huisarts 1",
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valuereference": {
+                                "display": "Vaste Huisarts 1",
+                                "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/01123987"
+                }
+            }
+        ],
+        "period": {
+            "end": "2022-05-13",
+            "start": "2022-05-13"
+        },
+        "serviceprovider": {
+            "display": "Aesculaap",
+            "reference": "Organization/01012345"
+        },
+        "status": "finished",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "type": [
+            {
+                "coding": [
+                    {
+                        "code": "UNK",
+                        "display": "Unknown",
+                        "system": "http://hl7.org/fhir/v3/NullFlavor"
+                    }
+                ]
+            }
+        ]
+    }
+]
