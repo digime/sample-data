@@ -1,0 +1,105 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "problem-list-item",
+                        "display": "Problem List Item",
+                        "system": "http://terminology.hl7.org/CodeSystem/condition-category"
+                    }
+                ],
+                "text": "Problem List Item"
+            }
+        ],
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "code": "active",
+                    "display": "Active",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Active"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "Z91.89",
+                    "system": "urn:oid:2.16.840.1.113883.6.90"
+                },
+                {
+                    "code": "315016007",
+                    "system": "urn:oid:2.16.840.1.113883.6.96"
+                }
+            ],
+            "text": "Risk for coronary artery disease between 10% and 20% in next 10 years"
+        },
+        "entityid": "20_123456789_eVGf2YljIMIk76IcfbNpjWQ3",
+        "id": "eVGf2YljIMIk76IcfbNpjWQ3",
+        "onsetperiod": {
+            "end": "2019-05-28",
+            "start": "2019-05-28"
+        },
+        "createddate": 1641164930465,
+        "recordeddate": "2019-05-28",
+        "subject": {
+            "display": "Lin, US",
+            "reference": "Patient/eq081-VQEgP8drUUqCWzHfw3"
+        },
+        "verificationstatus": {
+            "coding": [
+                {
+                    "code": "confirmed",
+                    "display": "Confirmed",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Confirmed"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "reason-for-visit",
+                        "display": "Reason for Visit",
+                        "system": "http://open.epic.com/FHIR/StructureDefinition/condition-category"
+                    }
+                ],
+                "text": "Reason for Visit"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "83",
+                    "display": "Annual Exam",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.728286"
+                }
+            ],
+            "text": "Annual Exam"
+        },
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/e6kBx6PwnxIv.5kCifScsWg3"
+        },
+        "entityid": "20_123456789_eY-LMUKgFarb5r10D5sXS7tjBxvqEuuIjSj-3DP.gq8M3",
+        "id": "eY-LMUKgFarb5r10D5sXS7tjBxvqEuuIjSj-3DP.gq8M3",
+        "recorder": {
+            "display": "Family Medicine Physician, MD",
+            "reference": "Practitioner/eUXiD4IyBLJFoR2VHOjfTdg3"
+        },
+        "createddate": 1641164630465,
+        "recordeddate": "2019-05-28T13:56:10Z",
+        "subject": {
+            "display": "Lin, US",
+            "reference": "Patient/eq081-VQEgP8drUUqCWzHfw3"
+        }
+    }
+]

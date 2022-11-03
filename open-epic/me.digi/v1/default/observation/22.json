@@ -1,0 +1,2642 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 134,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 83,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593350702465,
+        "effectivedatetime": "2022-10-12T16:11:26Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8C3EoK69ooywShRfzM.BKED3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8C3EoK69ooywShRfzM.BKED3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T16:11:37Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 122,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 75,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593350402465,
+        "effectivedatetime": "2022-10-12T16:11:25Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BdJRK.LPhlAGaNbsEKdAeO3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BdJRK.LPhlAGaNbsEKdAeO3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T16:11:37Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 126,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 82,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593350102465,
+        "effectivedatetime": "2022-10-12T16:11:23Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8DcXLsMWMtAxpMEhPuVD3Dg3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8DcXLsMWMtAxpMEhPuVD3Dg3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T16:11:38Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 134,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 83,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593349802465,
+        "effectivedatetime": "2022-10-12T16:02:11Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8DtX-3PODZ5LyXMjIZByBZ03",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8DtX-3PODZ5LyXMjIZByBZ03",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T16:02:22Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 122,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 75,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593349502465,
+        "effectivedatetime": "2022-10-12T16:02:10Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8Cm07N1w2trBVh2toPEO1ny3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8Cm07N1w2trBVh2toPEO1ny3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T16:02:22Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 126,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 82,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593349202465,
+        "effectivedatetime": "2022-10-12T16:02:08Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BA1ThVy8TCprXpyGuP36jF3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BA1ThVy8TCprXpyGuP36jF3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T16:02:23Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 134,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 83,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593348902465,
+        "effectivedatetime": "2022-10-12T15:56:07Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8AiyqCXOaq3AjaOhtuppd903",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8AiyqCXOaq3AjaOhtuppd903",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T15:56:17Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 122,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 75,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593348602465,
+        "effectivedatetime": "2022-10-12T15:56:06Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8AXY6yV0r6SYKI6ymZ.BIdF3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8AXY6yV0r6SYKI6ymZ.BIdF3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T15:56:18Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 126,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 82,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593348302465,
+        "effectivedatetime": "2022-10-12T15:56:04Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BYXsid.jpGgfVGyaBkab6J3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BYXsid.jpGgfVGyaBkab6J3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T15:56:18Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 134,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 83,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593348002465,
+        "effectivedatetime": "2022-10-12T15:50:10Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BiN8379c4tsogHnSi-ES9V3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BiN8379c4tsogHnSi-ES9V3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T15:50:20Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 122,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 75,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593347702465,
+        "effectivedatetime": "2022-10-12T15:50:09Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BFptOeh51vlMiQ0qCZWod63",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BFptOeh51vlMiQ0qCZWod63",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T15:50:21Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 126,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 82,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593347402465,
+        "effectivedatetime": "2022-10-12T15:50:07Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8Di1b1QBPKBpre1DbRYMV2f3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8Di1b1QBPKBpre1DbRYMV2f3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-12T15:50:21Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 134,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 83,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593347102465,
+        "effectivedatetime": "2022-10-09T12:49:40Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8D6yyo7mO53gaVyUGDSo-eT3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8D6yyo7mO53gaVyUGDSo-eT3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-09T12:49:50Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 122,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 75,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593346802465,
+        "effectivedatetime": "2022-10-09T12:49:39Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BYIXS6qFbG1adetyOlQB6a3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8BYIXS6qFbG1adetyOlQB6a3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-09T12:49:51Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 126,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 82,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1593346502465,
+        "effectivedatetime": "2022-10-09T12:49:37Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8Aq9jQEw63nt9om3MmaeNim3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0Y5QLGKf47NX05p-dLHYN8Aq9jQEw63nt9om3MmaeNim3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2022-10-09T12:49:51Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593346202465,
+        "effectivedatetime": "2022-10-12T16:14:49Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 98.2,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NuhPJ.oMqOCUP63MT6jLvAHF3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NuhPJ.oMqOCUP63MT6jLvAHF3",
+        "issued": "2022-10-12T16:14:51Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 36.8,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593345902465,
+        "effectivedatetime": "2022-10-12T16:14:48Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 96.3,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NugWVPA5fnResTJCp5gLJWNx3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NugWVPA5fnResTJCp5gLJWNx3",
+        "issued": "2022-10-12T16:14:52Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 35.7,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593345602465,
+        "effectivedatetime": "2022-10-12T16:05:34Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 98.2,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NujP6CM0WfP93th-jkuLlLoM3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NujP6CM0WfP93th-jkuLlLoM3",
+        "issued": "2022-10-12T16:05:35Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 36.8,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593345302465,
+        "effectivedatetime": "2022-10-12T16:05:33Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 96.3,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NugfVHPYv34O8T8BOCDXWJFx3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NugfVHPYv34O8T8BOCDXWJFx3",
+        "issued": "2022-10-12T16:05:36Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 35.7,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593345002465,
+        "effectivedatetime": "2022-10-12T15:59:30Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 98.2,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NujBXOGmscwKOPsgzqqf7Mvn3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NujBXOGmscwKOPsgzqqf7Mvn3",
+        "issued": "2022-10-12T15:59:31Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 36.8,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593344702465,
+        "effectivedatetime": "2022-10-12T15:59:29Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 96.3,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.Nuik2o4RuuYujTnHM7xLLhvZ3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.Nuik2o4RuuYujTnHM7xLLhvZ3",
+        "issued": "2022-10-12T15:59:31Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 35.7,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593344402465,
+        "effectivedatetime": "2022-10-12T15:53:33Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 98.2,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NugjGZQxyokc4fX.82PibSNB3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NugjGZQxyokc4fX.82PibSNB3",
+        "issued": "2022-10-12T15:53:35Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 36.8,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593344102465,
+        "effectivedatetime": "2022-10-12T15:53:32Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 96.3,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.Nug3oCPo9FeF2KyO7pl-Q4R83",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.Nug3oCPo9FeF2KyO7pl-Q4R83",
+        "issued": "2022-10-12T15:53:35Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 35.7,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593343802465,
+        "effectivedatetime": "2022-10-09T12:53:03Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 98.2,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.Nuh027KxIU5GrKkz8KVNyWbe3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.Nuh027KxIU5GrKkz8KVNyWbe3",
+        "issued": "2022-10-09T12:53:04Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 36.8,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1593343502465,
+        "effectivedatetime": "2022-10-09T12:53:02Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 96.3,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NuisKl890IxqbTyv9AkCUnRe3",
+        "id": "ewSze1tdkvIKKSk2u6Emf0V.BtgZtXXKeJ27nx6-.NuisKl890IxqbTyv9AkCUnRe3",
+        "issued": "2022-10-09T12:53:05Z",
+        "performer": [
+            {
+                "display": "User I",
+                "reference": "Practitioner/evNp-KhYwOOqAZn1pZ2enuA3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuequantity": {
+            "value": 35.7,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    }
+]

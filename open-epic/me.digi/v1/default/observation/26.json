@@ -1,0 +1,537 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 115,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 110,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1572297134465,
+        "effectivedatetime": "2020-11-08T00:00:00Z",
+        "encounter": {
+            "display": "Hospital Encounter",
+            "reference": "Encounter/eucYt0hPWgEMZqybf6t4c.g3"
+        },
+        "entityid": "20_123456789_e3ZCinw5KCN1kuuNoFVjD9LbQoPoWGzCKJy8OZIjn7brAb-6gToLxuwaWt5jcJucX3",
+        "id": "e3ZCinw5KCN1kuuNoFVjD9LbQoPoWGzCKJy8OZIjn7brAb-6gToLxuwaWt5jcJucX3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2020-11-11T16:30:39Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 124,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 93,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1572296834465,
+        "effectivedatetime": "2020-11-07T00:00:00Z",
+        "encounter": {
+            "display": "Hospital Encounter",
+            "reference": "Encounter/eucYt0hPWgEMZqybf6t4c.g3"
+        },
+        "entityid": "20_123456789_e3ZCinw5KCN1kuuNoFVjD9LbQoPoWGzCKJy8OZIjn7bqme8bX.cw-TwrllCYcFFYH3",
+        "id": "e3ZCinw5KCN1kuuNoFVjD9LbQoPoWGzCKJy8OZIjn7bqme8bX.cw-TwrllCYcFFYH3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2020-11-11T16:30:39Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "6",
+                    "display": "Temperature",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tvdinindxnlKvaoAecyilRA0",
+                    "display": "Temperature",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8310-5",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8310-5",
+                    "display": "Body temperature",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Temperature"
+        },
+        "createddate": 1572296534465,
+        "effectivedatetime": "2020-11-16T21:53:00Z",
+        "encounter": {
+            "display": "Hospital Encounter",
+            "reference": "Encounter/eucYt0hPWgEMZqybf6t4c.g3"
+        },
+        "extension": [
+            {
+                "url": "http://open.epic.com/FHIR/STU3/StructureDefinition/temperature-in-fahrenheit",
+                "valuequantity": {
+                    "value": 100.5,
+                    "unit": "[degF]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "[degF]"
+                }
+            }
+        ],
+        "entityid": "20_123456789_e3ZCinw5KCN1kuuNoFVjD9PSB88ewVGHMyAlXMpa9hmIqgtm2dkWjn1-QIj3KHIFe3",
+        "id": "e3ZCinw5KCN1kuuNoFVjD9PSB88ewVGHMyAlXMpa9hmIqgtm2dkWjn1-QIj3KHIFe3",
+        "issued": "2020-11-19T21:53:25Z",
+        "performer": [
+            {
+                "display": "User U",
+                "reference": "Practitioner/emSjrED0EBZP2lU7eSyPE6w3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        },
+        "valuequantity": {
+            "value": 38.1,
+            "unit": "Cel",
+            "system": "http://unitsofmeasure.org",
+            "code": "Cel"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1572296234465,
+        "effectivedatetime": "2020-11-08T00:00:00Z",
+        "encounter": {
+            "display": "Hospital Encounter",
+            "reference": "Encounter/eucYt0hPWgEMZqybf6t4c.g3"
+        },
+        "entityid": "20_123456789_e3ZCinw5KCN1kuuNoFVjD9OMkVgQdoO9Hka297LRh6.FV1pqvuZgymuhzvLaaHU.X3",
+        "id": "e3ZCinw5KCN1kuuNoFVjD9OMkVgQdoO9Hka297LRh6.FV1pqvuZgymuhzvLaaHU.X3",
+        "issued": "2020-11-11T16:30:38Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        },
+        "valuequantity": {
+            "value": 71,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1572295934465,
+        "effectivedatetime": "2020-11-07T00:00:00Z",
+        "encounter": {
+            "display": "Hospital Encounter",
+            "reference": "Encounter/eucYt0hPWgEMZqybf6t4c.g3"
+        },
+        "entityid": "20_123456789_e3ZCinw5KCN1kuuNoFVjD9OMkVgQdoO9Hka297LRh6.FAIdcMGyim.EUm33uWOBmJ3",
+        "id": "e3ZCinw5KCN1kuuNoFVjD9OMkVgQdoO9Hka297LRh6.FAIdcMGyim.EUm33uWOBmJ3",
+        "issued": "2020-11-11T16:30:38Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        },
+        "valuequantity": {
+            "value": 74,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1572295634465,
+        "effectivedatetime": "2020-11-01T12:33:58Z",
+        "encounter": {
+            "display": "Hospital Encounter",
+            "reference": "Encounter/eucYt0hPWgEMZqybf6t4c.g3"
+        },
+        "entityid": "20_123456789_e3ZCinw5KCN1kuuNoFVjD9OMkVgQdoO9Hka297LRh6.GsWaxKvjElJ.pGU5saOY2z3",
+        "id": "e3ZCinw5KCN1kuuNoFVjD9OMkVgQdoO9Hka297LRh6.GsWaxKvjElJ.pGU5saOY2z3",
+        "issued": "2020-11-01T12:33:58Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        },
+        "valuequantity": {
+            "value": 80,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    }
+]

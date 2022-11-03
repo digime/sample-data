@@ -1,0 +1,101 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "class": {
+            "code": "13",
+            "display": "Support OP Encounter",
+            "system": "urn:oid:1.2.840.114350.1.72.1.7.7.10.696784.13260"
+        },
+        "createddate": 1651684814465,
+        "hospitalization": {},
+        "identifier": [
+            {
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.698084.8",
+                "use": "usual",
+                "value": "27559"
+            }
+        ],
+        "location": [
+            {
+                "location": {
+                    "display": "EMC Family Medicine",
+                    "reference": "Location/e4W4rmGe9QzuGm2Dy4NBqVc0KDe6yGld6HW95UuN-Qd03"
+                }
+            }
+        ],
+        "entityid": "20_123456789_es09oReoYsZk20hcbnd7r4A3",
+        "id": "es09oReoYsZk20hcbnd7r4A3",
+        "participant": [
+            {
+                "extension": [
+                    {
+                        "url": "http://open.epic.com/FHIR/StructureDefinition/extension/specialty",
+                        "valuecodeableconcept": {
+                            "coding": [
+                                {
+                                    "code": "9",
+                                    "display": "Family Medicine",
+                                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698084.18832"
+                                }
+                            ],
+                            "text": "Family Medicine"
+                        }
+                    }
+                ],
+                "individual": {
+                    "display": "Family Medicine Physician, MD",
+                    "reference": "Practitioner/eM5CWtq15N0WJeuCet5bJlQ3",
+                    "type": "Practitioner"
+                },
+                "period": {
+                    "start": "2019-05-28T14:58:16Z"
+                },
+                "type": [
+                    {
+                        "coding": [
+                            {
+                                "code": "Referring MD",
+                                "display": "Referring Physician",
+                                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.18869"
+                            }
+                        ],
+                        "text": "Referring Physician"
+                    }
+                ]
+            }
+        ],
+        "period": {
+            "end": "2019-05-28",
+            "start": "2019-05-28"
+        },
+        "reasoncode": [
+            {
+                "coding": [
+                    {
+                        "code": "58",
+                        "display": "Immunizations",
+                        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.728286"
+                    }
+                ],
+                "text": "Immunizations"
+            }
+        ],
+        "status": "in-progress",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "type": [
+            {
+                "coding": [
+                    {
+                        "code": "101",
+                        "display": "Office Visit",
+                        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.30"
+                    }
+                ],
+                "text": "Office Visit"
+            }
+        ]
+    }
+]

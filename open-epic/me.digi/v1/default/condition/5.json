@@ -26,42 +26,42 @@
         "code": {
             "coding": [
                 {
-                    "code": "23406007",
-                    "display": "Fracture of upper limb (disorder)",
+                    "code": "315016007",
+                    "display": "At risk of coronary heart disease (finding)",
                     "system": "http://snomed.info/sct"
                 },
                 {
-                    "code": "818.1",
-                    "display": "Broken arm",
+                    "code": "V49.89",
+                    "display": "Risk for coronary artery disease between 10% and 20% in next 10 years",
                     "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis"
                 },
                 {
-                    "code": "S42.302B",
-                    "display": "Broken arm",
+                    "code": "Z91.89",
+                    "display": "Risk for coronary artery disease between 10% and 20% in next 10 years",
                     "system": "urn:oid:2.16.840.1.113883.6.90"
                 }
             ],
-            "text": "Broken arm"
+            "text": "Risk for coronary artery disease between 10% and 20% in next 10 years"
         },
         "encounter": {
             "display": "Office Visit",
-            "reference": "Encounter/emhwuharfnf8VhCQg97qP7Q3"
+            "reference": "Encounter/e6kBx6PwnxIv.5kCifScsWg3"
         },
         "evidence": [
             {
                 "detail": [
                     {
-                        "display": "Broken arm",
-                        "reference": "Condition/epRHrfjlZHEPIuhqy74k3CQ3"
+                        "display": "Risk for coronary artery disease between 10% and 20% in next 10 years",
+                        "reference": "Condition/eVGf2YljIMIk76IcfbNpjWQ3"
                     }
                 ]
             }
         ],
-        "entityid": "20_123456789_e16E4.L7d912QD0X7jyerEqeKqeCKXUXbc6kTLNlAG4EXmCj5e2oafWK8pLPUG.yyJ8l6I1shvV0k6Cl2qCiffQ3",
-        "id": "e16E4.L7d912QD0X7jyerEqeKqeCKXUXbc6kTLNlAG4EXmCj5e2oafWK8pLPUG.yyJ8l6I1shvV0k6Cl2qCiffQ3",
+        "entityid": "20_123456789_eY-LMUKgFarb5r10D5sXS7nGJO9qELcndS5oncvyDjPHp.lFiCEKE6mt2pIDbyFeBHvU6Z0XikLVgIqkXp8XV1Q3",
+        "id": "eY-LMUKgFarb5r10D5sXS7nGJO9qELcndS5oncvyDjPHp.lFiCEKE6mt2pIDbyFeBHvU6Z0XikLVgIqkXp8XV1Q3",
         "subject": {
-            "display": "Davis, Elijah John",
-            "reference": "Patient/egqBHVfQlt4Bw3XGXoxVxHg3"
+            "display": "Lin, US",
+            "reference": "Patient/eq081-VQEgP8drUUqCWzHfw3"
         }
     }
 ]

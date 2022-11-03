@@ -1,0 +1,4569 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 134,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 79,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535461790465,
+        "effectivedatetime": "2020-12-31T07:48:05Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrqqvmUmm7A1PLjcEfnkV9wc3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrqqvmUmm7A1PLjcEfnkV9wc3",
+        "issued": "2020-12-31T10:00:49Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 146,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 80,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535461490465,
+        "effectivedatetime": "2020-12-30T07:15:45Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrCNbK3NZmhhTOEMjnlPMg93",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrCNbK3NZmhhTOEMjnlPMg93",
+        "issued": "2020-12-30T10:00:46Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 140,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 89,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535461190465,
+        "effectivedatetime": "2020-12-29T09:12:47Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrr-u15RsdEAoHbUKRzDJN903",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrr-u15RsdEAoHbUKRzDJN903",
+        "issued": "2020-12-29T10:00:45Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 144,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 75,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535460890465,
+        "effectivedatetime": "2020-12-29T09:09:29Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNroUOUHo9uV.zAnbvjn5og6m3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNroUOUHo9uV.zAnbvjn5og6m3",
+        "issued": "2020-12-29T10:00:45Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 146,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 78,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535460590465,
+        "effectivedatetime": "2020-12-29T09:08:34Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrovBDswZoWAWz5Lg3VtBzQ-3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrovBDswZoWAWz5Lg3VtBzQ-3",
+        "issued": "2020-12-29T10:00:45Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 144,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 80,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535460290465,
+        "effectivedatetime": "2020-12-29T09:07:32Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrU2syuSQvlmQ1xUJRkTDzV3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrU2syuSQvlmQ1xUJRkTDzV3",
+        "issued": "2020-12-29T10:00:45Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 143,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 81,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535459990465,
+        "effectivedatetime": "2020-12-29T09:06:26Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrplUVAdH3wXt1CPqEstGLGR3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrplUVAdH3wXt1CPqEstGLGR3",
+        "issued": "2020-12-29T10:00:45Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 138,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 74,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535459690465,
+        "effectivedatetime": "2020-12-28T08:18:46Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNro1v77xYf2HKCB1WUVzcbDI3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNro1v77xYf2HKCB1WUVzcbDI3",
+        "issued": "2020-12-28T10:00:45Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 133,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 79,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535459390465,
+        "effectivedatetime": "2020-12-27T09:19:51Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrr4x7QVXm.YYYM0GnmvsGvS3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrr4x7QVXm.YYYM0GnmvsGvS3",
+        "issued": "2020-12-27T10:00:51Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 136,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 70,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535459090465,
+        "effectivedatetime": "2020-12-27T09:18:08Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrpvDvvsLs6gDxTO0r-W9DF63",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrpvDvvsLs6gDxTO0r-W9DF63",
+        "issued": "2020-12-27T10:00:50Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 134,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 76,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535458790465,
+        "effectivedatetime": "2020-12-27T09:16:32Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrtFd3n.End-.9HOGrW5guq3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrtFd3n.End-.9HOGrW5guq3",
+        "issued": "2020-12-27T10:00:50Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 135,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 67,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535458490465,
+        "effectivedatetime": "2020-12-27T09:15:12Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrpQk3iUrYHjQ0AckbvoMg9P3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrpQk3iUrYHjQ0AckbvoMg9P3",
+        "issued": "2020-12-27T10:00:50Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 141,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 73,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535458190465,
+        "effectivedatetime": "2020-12-27T09:13:33Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrpT-RBVKDMn3rxzuMb.wR353",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrpT-RBVKDMn3rxzuMb.wR353",
+        "issued": "2020-12-27T10:00:50Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 137,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 76,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535457890465,
+        "effectivedatetime": "2020-12-27T09:12:34Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrqhFe1Gyu2RGpw3qorCw2mK3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrqhFe1Gyu2RGpw3qorCw2mK3",
+        "issued": "2020-12-27T10:00:49Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 128,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 72,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535457590465,
+        "effectivedatetime": "2020-12-27T09:08:00Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrjlVIS2gA6N7Q74x8-2xWz3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrjlVIS2gA6N7Q74x8-2xWz3",
+        "issued": "2020-12-27T10:00:49Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 1,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 1,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535457290465,
+        "effectivedatetime": "2020-12-26T23:13:27Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrvsO1HfNRqVGMN99tOAi6Z3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrvsO1HfNRqVGMN99tOAi6Z3",
+        "interpretation": [
+            {
+                "coding": [
+                    {
+                        "code": "A",
+                        "display": "Abnormal",
+                        "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"
+                    }
+                ]
+            }
+        ],
+        "issued": "2020-12-27T01:00:46Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 150,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 78,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535456990465,
+        "effectivedatetime": "2020-12-26T23:12:18Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrk4vcr.dY3IQDHjXzdhX9E3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrrk4vcr.dY3IQDHjXzdhX9E3",
+        "issued": "2020-12-27T10:00:49Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 154,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 82,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535456690465,
+        "effectivedatetime": "2020-12-26T20:27:02Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNro.stZtmGEJ0p1azhfTsElT3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNro.stZtmGEJ0p1azhfTsElT3",
+        "issued": "2020-12-27T10:00:49Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 159,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 84,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535456390465,
+        "effectivedatetime": "2020-12-26T20:25:00Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNroNwX2jdiLNt84DOyhx69gs3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNroNwX2jdiLNt84DOyhx69gs3",
+        "issued": "2020-12-27T10:00:48Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 152,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 83,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535456090465,
+        "effectivedatetime": "2020-12-26T20:23:29Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrodmBzZ0k7M5v7NKRUt0Ly13",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrodmBzZ0k7M5v7NKRUt0Ly13",
+        "issued": "2020-12-27T10:00:48Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "5",
+                    "display": "Blood Pressure",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tBdNYepLeojPG60x7nUx9kQ0",
+                    "display": "Blood Pressure",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8462-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8480-6",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "55284-4",
+                    "display": "Blood pressure systolic and diastolic",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "85354-9",
+                    "display": "Blood pressure panel with all children optional",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Blood Pressure"
+        },
+        "component": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8480-6",
+                            "display": "Systolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Systolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 119,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "8462-4",
+                            "display": "Diastolic blood pressure",
+                            "system": "http://loinc.org"
+                        }
+                    ],
+                    "text": "Diastolic blood pressure"
+                },
+                "valuequantity": {
+                    "value": 77,
+                    "unit": "mm[Hg]",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "mm[Hg]"
+                }
+            }
+        ],
+        "createddate": 1535455790465,
+        "effectivedatetime": "2020-12-26T16:33:36Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrp3nh1Adp5wvPtFgZrXIDKQ3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGlawamuliODJO0plpp5SNrp3nh1Adp5wvPtFgZrXIDKQ3",
+        "issued": "2020-12-27T10:00:48Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535455490465,
+        "effectivedatetime": "2020-12-31T07:48:05Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrQIZyymwuGeLqq2qj1iWEeK3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrQIZyymwuGeLqq2qj1iWEeK3",
+        "issued": "2020-12-31T10:00:02Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 87,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535455190465,
+        "effectivedatetime": "2020-12-30T07:15:45Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTwfOyl87ygp10dXK-I67FF3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTwfOyl87ygp10dXK-I67FF3",
+        "issued": "2020-12-30T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 82,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535454890465,
+        "effectivedatetime": "2020-12-29T09:12:47Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTplk45JSZjNYcNNl4JCLlA3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTplk45JSZjNYcNNl4JCLlA3",
+        "issued": "2020-12-29T10:00:02Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 86,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535454590465,
+        "effectivedatetime": "2020-12-29T09:09:29Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRD1RiAcvC9uDjlLCfx9F7b3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRD1RiAcvC9uDjlLCfx9F7b3",
+        "issued": "2020-12-29T10:00:02Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 87,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535454290465,
+        "effectivedatetime": "2020-12-29T09:08:34Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSvxkkD.SUCef8gehORMXI83",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSvxkkD.SUCef8gehORMXI83",
+        "issued": "2020-12-29T10:00:02Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 85,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535453990465,
+        "effectivedatetime": "2020-12-29T09:07:32Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrQ1DUeqQY880Z11EWrRhszg3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrQ1DUeqQY880Z11EWrRhszg3",
+        "issued": "2020-12-29T10:00:02Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 84,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535453690465,
+        "effectivedatetime": "2020-12-29T09:06:26Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSoj4QuW5vJH32nFZkdAT0q3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSoj4QuW5vJH32nFZkdAT0q3",
+        "issued": "2020-12-29T10:00:01Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 86,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535453390465,
+        "effectivedatetime": "2020-12-28T08:18:46Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrS0CeoF6xiMTOkP8AtwOS0M3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrS0CeoF6xiMTOkP8AtwOS0M3",
+        "issued": "2020-12-28T10:00:01Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 76,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535453090465,
+        "effectivedatetime": "2020-12-27T09:19:51Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRns7UC-VuF897X3dZmQanv3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRns7UC-VuF897X3dZmQanv3",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 76,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535452790465,
+        "effectivedatetime": "2020-12-27T09:18:08Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTKv62vrwPROAmE7pg7u.ig3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTKv62vrwPROAmE7pg7u.ig3",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 75,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535452490465,
+        "effectivedatetime": "2020-12-27T09:16:32Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRf8zGztvVYrEuDYGV-Wsu13",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRf8zGztvVYrEuDYGV-Wsu13",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 77,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535452190465,
+        "effectivedatetime": "2020-12-27T09:15:12Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSstJihw5n.xoySHswlA2Ml3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSstJihw5n.xoySHswlA2Ml3",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 78,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535451890465,
+        "effectivedatetime": "2020-12-27T09:13:33Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrQv50Crda9GyvSDWHbBIZe43",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrQv50Crda9GyvSDWHbBIZe43",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 79,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535451590465,
+        "effectivedatetime": "2020-12-27T09:12:34Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTos6xyPmj0DSJl.FyigHyO3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTos6xyPmj0DSJl.FyigHyO3",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 81,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535451290465,
+        "effectivedatetime": "2020-12-27T09:08:00Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSs0Ja0eqtuhko4aGgipUKP3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSs0Ja0eqtuhko4aGgipUKP3",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 81,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535450990465,
+        "effectivedatetime": "2020-12-26T23:12:18Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTkhjqBFzQcmFVBlWKZv3p13",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTkhjqBFzQcmFVBlWKZv3p13",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 92,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535450690465,
+        "effectivedatetime": "2020-12-26T20:27:02Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTzRiNlUn.YKVGtqrnfZlSs3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrTzRiNlUn.YKVGtqrnfZlSs3",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 90,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535450390465,
+        "effectivedatetime": "2020-12-26T20:25:00Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrR4Kfcx4O8VOgw3WBDAyJDo3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrR4Kfcx4O8VOgw3WBDAyJDo3",
+        "issued": "2020-12-27T10:00:00Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 91,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535450090465,
+        "effectivedatetime": "2020-12-26T20:23:29Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRGWUpgFpTdYaev2FufM3Td3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrRGWUpgFpTdYaev2FufM3Td3",
+        "issued": "2020-12-27T09:59:59Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 93,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "8",
+                    "display": "Pulse",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "t0nle2B9NVDaJJUDo0FtQrA0",
+                    "display": "Pulse",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "8867-4",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8867-4",
+                    "display": "Heart rate",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Pulse"
+        },
+        "createddate": 1535449790465,
+        "effectivedatetime": "2020-12-26T16:33:36Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSzBeCFLudP7qR3BBbIpPDR3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGhaFPR89oWidApRBzezoyrSzBeCFLudP7qR3BBbIpPDR3",
+        "issued": "2020-12-27T09:59:59Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 62,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535449490465,
+        "effectivedatetime": "2020-12-31T07:45:51Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ.Dn0FZt6Uil-nHWsU5iW7B3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ.Dn0FZt6Uil-nHWsU5iW7B3",
+        "issued": "2020-12-31T10:00:34Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 70.7,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535449190465,
+        "effectivedatetime": "2020-12-30T07:13:00Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9vRfZUbx.QSTbYp2Q4tBTV3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9vRfZUbx.QSTbYp2Q4tBTV3",
+        "issued": "2020-12-30T10:00:36Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 70.9,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535448890465,
+        "effectivedatetime": "2020-12-29T09:10:13Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ-G4SCzI1yB8FJHJ221n2gH3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ-G4SCzI1yB8FJHJ221n2gH3",
+        "issued": "2020-12-29T10:00:34Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 71,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535448590465,
+        "effectivedatetime": "2020-12-29T09:08:59Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9i3Ks.s36NDdlhOoHLvxSA3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9i3Ks.s36NDdlhOoHLvxSA3",
+        "issued": "2020-12-29T10:00:34Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 71,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535448290465,
+        "effectivedatetime": "2020-12-28T08:19:35Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9FSdlpdZv035SQlwVXKT3S3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9FSdlpdZv035SQlwVXKT3S3",
+        "issued": "2020-12-28T10:00:40Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 71,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535447990465,
+        "effectivedatetime": "2020-12-27T09:07:57Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ-kZfy34zRDTNWtFurroWGq3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ-kZfy34zRDTNWtFurroWGq3",
+        "issued": "2020-12-27T10:00:35Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 71.4,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535447690465,
+        "effectivedatetime": "2020-12-27T09:04:07Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ-NsYi1dMpcWm8npbxUCnYj3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ-NsYi1dMpcWm8npbxUCnYj3",
+        "issued": "2020-12-27T10:00:35Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 71.5,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535447390465,
+        "effectivedatetime": "2020-12-26T20:30:27Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ.ZmJgdqKpBVIlW3ZZxBKbh3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ.ZmJgdqKpBVIlW3ZZxBKbh3",
+        "issued": "2020-12-27T10:00:35Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 73.7,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535447090465,
+        "effectivedatetime": "2020-12-26T16:36:53Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9.CPZPBv94XeAvZGlP9QQV3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9.CPZPBv94XeAvZGlP9QQV3",
+        "issued": "2020-12-27T10:00:35Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 73.4,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535446790465,
+        "effectivedatetime": "2020-12-19T09:24:05Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ.DLw.Kzs8Q8KI7piTUMZfc3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ.DLw.Kzs8Q8KI7piTUMZfc3",
+        "issued": "2020-12-27T10:00:35Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 89.3,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "14",
+                    "display": "Weight",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.707679"
+                },
+                {
+                    "code": "tX9rE8TgbEPXWpgEX7kuaoQ0",
+                    "display": "Weight",
+                    "system": "http://open.epic.com/FHIR/StructureDefinition/observation-flowsheet-id"
+                },
+                {
+                    "code": "29463-7",
+                    "system": "urn:oid:1.2.246.537.6.96"
+                },
+                {
+                    "code": "29463-7",
+                    "display": "Body weight",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "3141-9",
+                    "display": "Body weight Measured",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "8716-3",
+                    "display": "Vital signs",
+                    "system": "http://loinc.org"
+                }
+            ],
+            "text": "Weight"
+        },
+        "createddate": 1535446490465,
+        "effectivedatetime": "2020-12-18T06:34:44Z",
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+        },
+        "entityid": "20_123456789_eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9ymYzMIK3Pg9iE7h80Oz.M3",
+        "id": "eFZ3OfME8vq6XUwJts7mrGtfrdgi3z7bTYer-.AZ.OQ9ymYzMIK3Pg9iE7h80Oz.M3",
+        "issued": "2020-12-27T10:00:34Z",
+        "performer": [
+            {
+                "display": "User E",
+                "reference": "Practitioner/exfo6E4EXjWsnhA1OGVElgw3"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "Lopez, camila Maria",
+            "reference": "Patient/erXuFYUfucBZaryVksYEcMg3"
+        },
+        "valuequantity": {
+            "value": 90.1,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org",
+            "code": "kg"
+        }
+    }
+]

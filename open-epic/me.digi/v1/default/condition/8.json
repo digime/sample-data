@@ -1,0 +1,126 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "problem-list-item",
+                        "display": "Problem List Item",
+                        "system": "http://terminology.hl7.org/CodeSystem/condition-category"
+                    }
+                ],
+                "text": "Problem List Item"
+            }
+        ],
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "code": "active",
+                    "display": "Active",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Active"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "I25.2",
+                    "system": "urn:oid:2.16.840.1.113883.6.90"
+                },
+                {
+                    "code": "399211009",
+                    "system": "urn:oid:2.16.840.1.113883.6.96"
+                }
+            ],
+            "text": "History of heart attack"
+        },
+        "entityid": "20_123456789_evXPKtfbvLGP21Ns2K2aQ-g3",
+        "id": "evXPKtfbvLGP21Ns2K2aQ-g3",
+        "onsetperiod": {
+            "end": "2013-05-28",
+            "start": "2013-05-28"
+        },
+        "createddate": 1630645046465,
+        "recordeddate": "2019-05-28",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        },
+        "verificationstatus": {
+            "coding": [
+                {
+                    "code": "confirmed",
+                    "display": "Confirmed",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Confirmed"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "problem-list-item",
+                        "display": "Problem List Item",
+                        "system": "http://terminology.hl7.org/CodeSystem/condition-category"
+                    }
+                ],
+                "text": "Problem List Item"
+            }
+        ],
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "code": "active",
+                    "display": "Active",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Active"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "I51.9",
+                    "system": "urn:oid:2.16.840.1.113883.6.90"
+                },
+                {
+                    "code": "56265001",
+                    "system": "urn:oid:2.16.840.1.113883.6.96"
+                }
+            ],
+            "text": "Heart disease"
+        },
+        "entityid": "20_123456789_eu7QjzgkRB-UO3Y.YwOzSoA3",
+        "id": "eu7QjzgkRB-UO3Y.YwOzSoA3",
+        "onsetperiod": {
+            "end": "2019-05-28",
+            "start": "2019-05-28"
+        },
+        "createddate": 1630644746465,
+        "recordeddate": "2019-05-28",
+        "subject": {
+            "display": "McGinnis, Warren James III",
+            "reference": "Patient/e0w0LEDCYtfckT6N.CkJKCw3"
+        },
+        "verificationstatus": {
+            "coding": [
+                {
+                    "code": "confirmed",
+                    "display": "Confirmed",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Confirmed"
+        }
+    }
+]
