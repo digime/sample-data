@@ -1,0 +1,138 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "_gender": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                        "valuecodeableconcept": {
+                            "coding": [
+                                {
+                                    "code": "F",
+                                    "display": "Female",
+                                    "system": "http://hl7.org/fhir/v3/AdministrativeGender"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "address": [
+            {
+                "_country": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                                "valuecodeableconcept": {
+                                    "coding": [
+                                        {
+                                            "code": "6030",
+                                            "display": "Nederland",
+                                            "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "_line": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                                "valuestring": "PIET HEINKADE"
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                                "valuestring": "1001"
+                            }
+                        ]
+                    }
+                ],
+                "city": "STITSWERD",
+                "country": "NLD",
+                "line": [
+                    "PIET HEINKADE 1001"
+                ],
+                "postalcode": "9999XA",
+                "type": "physical",
+                "use": "home"
+            }
+        ],
+        "birthdate": "1974-08-02",
+        "gender": "female",
+        "generalpractitioner": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "entityid": "37_123456789_61bef2d5-86f2-49bb-b475-e5e1db1a92f2",
+        "id": "61bef2d5-86f2-49bb-b475-e5e1db1a92f2",
+        "identifier": [
+            {
+                "system": "http://pharmapartners.nl/fhir/NamingSystem/phis-patient-id",
+                "value": "2561"
+            },
+            {
+                "system": "http://pharmapartners.nl/fhir/NamingSystem/phis-patient-id",
+                "value": "2561"
+            }
+        ],
+        "name": [
+            {
+                "_family": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                                "valuestring": "XXX_BALTUS"
+                            }
+                        ]
+                    }
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valuecode": "CL"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valuecode": "IN"
+                            }
+                        ]
+                    }
+                ],
+                "family": "XXX_BALTUS",
+                "given": [
+                    "ELLEN",
+                    "E."
+                ],
+                "text": "ELLEN XXX_BALTUS"
+            }
+        ],
+        "text": {
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"> \n                  <table> \n                     <tr> \n                        <td>Naam</td> \n                        <td>ELLEN XXX_BALTUS</td> \n                     </tr> \n                     <tr> \n                        <td>Geboortedatum</td> \n                        <td>1974-08-02</td> \n                     </tr> \n                  </table> \n               </div>",
+            "status": "generated"
+        }
+    }
+]

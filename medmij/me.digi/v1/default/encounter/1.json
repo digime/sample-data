@@ -7,7 +7,7 @@
             "display": "inpatient encounter",
             "system": "http://hl7.org/fhir/v3/ActCode"
         },
-        "createddate": 1667398773525,
+        "createddate": 1667568565077,
         "diagnosis": [
             {
                 "condition": {
@@ -73,7 +73,7 @@
             "display": "emergency",
             "system": "http://hl7.org/fhir/v3/ActCode"
         },
-        "createddate": 1667398473525,
+        "createddate": 1667568265077,
         "diagnosis": [
             {
                 "condition": {
@@ -132,7 +132,7 @@
             "display": "inpatient encounter",
             "system": "http://hl7.org/fhir/v3/ActCode"
         },
-        "createddate": 1667398173525,
+        "createddate": 1667567965077,
         "diagnosis": [
             {
                 "condition": {
