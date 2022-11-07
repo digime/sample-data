@@ -72,11 +72,11 @@
         ],
         "status": "final",
         "subject": {
-            "display": "Jacqueline XXX_Cevat",
-            "reference": "Patient/gpdata-patient-01"
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
         },
         "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2020-03-15</b><table><caption>Samengestelde informatie. Subject: Jacqueline XXX_Cevat. Id: 1529b7df-8fdf-11ec-1458-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief<span style=\"display: block;\">Auteur: Dr. V. Huisarts 1</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>15 maart 2020</td></tr><tr><th>Contact</th><td>Consult voor HNP (thoracaal/lumbaal) met Dr. V. Huisarts 1</td></tr></tbody></table></div>",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2020-03-15</b><table><caption>Samengestelde informatie. Subject: ELLEN XXX_BALTUS. Id: 1529b7df-8fdf-11ec-1458-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief<span style=\"display: block;\">Auteur: Dr. V. Huisarts 1</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>15 maart 2020</td></tr><tr><th>Contact</th><td>Consult voor HNP (thoracaal/lumbaal) met Dr. V. Huisarts 1</td></tr></tbody></table></div>",
             "status": "extensions"
         },
         "title": "Contactverslag dd. 2020-03-15",

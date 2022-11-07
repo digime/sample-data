@@ -36,8 +36,8 @@
             "reference": "Organization/gpdata-organization-01"
         },
         "patient": {
-            "display": "Jacqueline XXX_Cevat",
-            "reference": "Patient/gpdata-patient-01"
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
         },
         "period": {
             "start": "2020-03-15"
@@ -45,7 +45,7 @@
         "createddate": 1662308473077,
         "status": "active",
         "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. PatiÃ«nt: Jacqueline XXX_Cevat. Id: 155e8e0b-8fdf-11ec-1304-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Rughernia</div></td></tr><tr><th>Periode</th><td>Vanaf 15 maart 2020</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>HNP (thoracaal/lumbaal)</td></tr></tbody></table></div>",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. PatiÃ«nt: ELLEN XXX_BALTUS. Id: 155e8e0b-8fdf-11ec-1304-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Rughernia</div></td></tr><tr><th>Periode</th><td>Vanaf 15 maart 2020</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>HNP (thoracaal/lumbaal)</td></tr></tbody></table></div>",
             "status": "extensions"
         },
         "type": [

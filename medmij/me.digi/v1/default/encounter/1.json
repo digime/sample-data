@@ -57,11 +57,11 @@
         },
         "status": "finished",
         "subject": {
-            "display": "Johan XXX_Helleman",
-            "reference": "Patient/nl-core-patient-01"
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
         },
         "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Contact. Subject: Johan XXX_Helleman. Id: 19adad57-8fdf-11ec-1860-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: voltooid</caption><tbody><tr><th>Type contact</th><td><div><span title=\"inpatient encounter (IMP - v3/ActCode)\">inpatient encounter</span></div></td></tr><tr><th>Periode</th><td>16 augustus 2012 - 19 augustus 2012</td></tr><tr><th>Probleem</th><td><ul><li>Fracture of lower limb (disorder)</li><li>Surgical reduction of fracture (procedure)</li></ul></td></tr><tr><th>Participant</th><td><div>G.Z.M. de Wit<div>Zorgverlenerrol: Medisch specialisten, dermatologie</div></div></td></tr><tr><th>Zorgaanbieder</th><td>UMCG - Afdeling Orthopedie</td></tr></tbody></table></div>",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Contact. Subject: ELLEN XXX_BALTUS. Id: 19adad57-8fdf-11ec-1860-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: voltooid</caption><tbody><tr><th>Type contact</th><td><div><span title=\"inpatient encounter (IMP - v3/ActCode)\">inpatient encounter</span></div></td></tr><tr><th>Periode</th><td>16 augustus 2012 - 19 augustus 2012</td></tr><tr><th>Probleem</th><td><ul><li>Fracture of lower limb (disorder)</li><li>Surgical reduction of fracture (procedure)</li></ul></td></tr><tr><th>Participant</th><td><div>G.Z.M. de Wit<div>Zorgverlenerrol: Medisch specialisten, dermatologie</div></div></td></tr><tr><th>Zorgaanbieder</th><td>UMCG - Afdeling Orthopedie</td></tr></tbody></table></div>",
             "status": "extensions"
         }
     },
@@ -116,8 +116,8 @@
         },
         "status": "finished",
         "subject": {
-            "display": "I. Jongeneel-de Haas",
-            "reference": "Patient/nl-core-patient-03"
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
         },
         "text": {
             "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Patient with id example</caption><thead><tr><th>ContactType</th><th>StartDateTime</th><th>ProblemName</th><th>HealthProfessional</th><th>OrganizationType</th><th>OrganizationName</th></tr></thead><tbody><tr><td>emergency</td><td>16-08-2012</td><td>Broken leg</td><td>H. de Vries</td><td>Hospital</td><td>Universitair Medisch Centrum Groningen</td></tr></tbody></table></div>",
@@ -176,8 +176,8 @@
         },
         "status": "finished",
         "subject": {
-            "display": "I. Jongeneel-de Haas",
-            "reference": "Patient/nl-core-patient-03"
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
         },
         "text": {
             "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Patient with id example</caption><thead><tr><th>ContactType</th><th>StartDateTime</th><th>EndDateTime</th><th>Procedure</th><th>HealthProfessional</th><th>OrganizationType</th><th>OrganizationName</th></tr></thead><tbody><tr><td>Inpatient</td><td>16-08-2012</td><td>19-08-2012</td><td>Surgical reduction of fracture (procedure)</td><td>G.Z.M. de Wit</td><td>Hospital</td><td>St. Lucas Andreas Ziekenhuis</td></tr></tbody></table></div>",

@@ -68,11 +68,11 @@
         },
         "status": "arrived",
         "subject": {
-            "display": "J. XXX_Helleman (Johan)",
-            "reference": "Patient/nl-core-patient-01"
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
         },
         "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Contact. Subject: J. XXX_Helleman (Johan). Id: 123456 (http://www.acme.com/identifiers/patient), 1506f28b-8fdf-11ec-1151-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: gearriveerd</caption><tbody><tr><th>Type contact</th><td><div><span title=\"inpatient encounter (IMP - v3/ActCode)\">inpatient encounter</span></div><span title=\"visite (01 - nhg-tabel-14-contactwijze)\">visite</span></td></tr><tr><th>Periode</th><td>8 februari 2013</td></tr><tr><th>Participant</th><td><div>Henk de Vries<div>Zorgverlenerrol: Huisartsen, niet nader gespecificeerd</div></div></td></tr><tr><th>Zorgaanbieder</th><td>Huisartspraktijk (zelfstandig of groepspraktijk)</td></tr></tbody></table></div>",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Contact. Subject: ELLEN XXX_BALTUS. Id: 123456 (http://www.acme.com/identifiers/patient), 1506f28b-8fdf-11ec-1151-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: gearriveerd</caption><tbody><tr><th>Type contact</th><td><div><span title=\"inpatient encounter (IMP - v3/ActCode)\">inpatient encounter</span></div><span title=\"visite (01 - nhg-tabel-14-contactwijze)\">visite</span></td></tr><tr><th>Periode</th><td>8 februari 2013</td></tr><tr><th>Participant</th><td><div>Henk de Vries<div>Zorgverlenerrol: Huisartsen, niet nader gespecificeerd</div></div></td></tr><tr><th>Zorgaanbieder</th><td>Huisartspraktijk (zelfstandig of groepspraktijk)</td></tr></tbody></table></div>",
             "status": "extensions"
         },
         "type": [
