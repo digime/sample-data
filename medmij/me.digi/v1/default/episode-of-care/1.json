@@ -1,0 +1,142 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "caremanager": {
+            "display": "Dirk de Vries",
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valuereference": {
+                        "display": "Medisch specialisten, geriatrie",
+                        "reference": "PractitionerRole/nl-core-practitionerrole-04"
+                    }
+                }
+            ],
+            "reference": "Practitioner/nl-core-practitioner-04"
+        },
+        "diagnosis": [
+            {
+                "condition": {
+                    "display": "Gebroken dijbeen",
+                    "reference": "Condition/zib-problem-07"
+                }
+            }
+        ],
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+                "valuedatetime": "2019-02-06T13:17:00+00:00"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+                "valuestring": "Gebroken been"
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "15f29a29-8fdf-11ec-1699-020000000000"
+            }
+        ],
+        "entityid": "37_123456789_18",
+        "id": "18",
+        "managingorganization": {
+            "display": "Ziekenhuis Gooi en Overvecht",
+            "reference": "Organization/nl-core-organization-05"
+        },
+        "patient": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "period": {
+            "start": "2019-02-06"
+        },
+        "createddate": 1667568565077,
+        "status": "active",
+        "text": {
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. PatiÃ«nt: ELLEN XXX_BALTUS. Id: 15f29a29-8fdf-11ec-1699-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"Lichaamsstructuur (123037004 - SNOMED CT)\">Lichaamsstructuur</span><div>Gebroken been</div></td></tr><tr><th>Periode</th><td>Vanaf 6 februari 2019</td></tr><tr><th>Zorgmanager</th><td>Dirk de Vries<div>Zorgverlenerrol: Medisch specialisten, geriatrie</div>, Ziekenhuis Gooi en Overvecht</td></tr><tr><th>Diagnose</th><td>Gebroken dijbeen</td></tr></tbody></table></div>",
+            "status": "extensions"
+        },
+        "type": [
+            {
+                "coding": [
+                    {
+                        "code": "123037004",
+                        "display": "Lichaamsstructuur",
+                        "system": "http://snomed.info/sct"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "accountentityid": "37_123456789",
+        "caremanager": {
+            "display": "Dirk de Vries",
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valuereference": {
+                        "display": "Medisch specialisten, geriatrie",
+                        "reference": "PractitionerRole/nl-core-practitionerrole-04"
+                    }
+                }
+            ],
+            "reference": "Practitioner/nl-core-practitioner-04"
+        },
+        "diagnosis": [
+            {
+                "condition": {
+                    "display": "Syndroom van Korsakov",
+                    "reference": "Condition/zib-problem-08"
+                }
+            }
+        ],
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+                "valuedatetime": "2019-02-06T13:17:00+00:00"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+                "valuestring": "Drugs en alcohol revalidatie"
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "15fcdead-8fdf-11ec-5500-020000000000"
+            }
+        ],
+        "entityid": "37_123456789_19",
+        "id": "19",
+        "managingorganization": {
+            "display": "Ziekenhuis Gooi en Overvecht",
+            "reference": "Organization/nl-core-organization-05"
+        },
+        "patient": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "period": {
+            "start": "2019-02-06"
+        },
+        "createddate": 1667568265077,
+        "status": "active",
+        "text": {
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. PatiÃ«nt: ELLEN XXX_BALTUS. Id: 15fcdead-8fdf-11ec-5500-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"Verslaving (bevinding) (32709003 - SNOMED CT)\">Verslaving (bevinding)</span><div>Drugs en alcohol revalidatie</div></td></tr><tr><th>Periode</th><td>Vanaf 6 februari 2019</td></tr><tr><th>Zorgmanager</th><td>Dirk de Vries<div>Zorgverlenerrol: Medisch specialisten, geriatrie</div>, Ziekenhuis Gooi en Overvecht</td></tr><tr><th>Diagnose</th><td>Syndroom van Korsakov</td></tr></tbody></table></div>",
+            "status": "extensions"
+        },
+        "type": [
+            {
+                "coding": [
+                    {
+                        "code": "32709003",
+                        "display": "Verslaving (bevinding)",
+                        "system": "http://snomed.info/sct"
+                    }
+                ]
+            }
+        ]
+    }
+]

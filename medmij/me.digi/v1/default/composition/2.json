@@ -1,0 +1,88 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "5ebaa753-99d7-4961-8dd5-575b656a17b5",
+        "author": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "createddate": 1662308773077,
+        "date": "2021-03-04",
+        "encounter": {
+            "display": "postverwerking",
+            "reference": "Encounter/bae53271-1277-4e88-a6d9-983b3d7aa06e"
+        },
+        "entityid": "37_123456789_a5502a6c-64a7-44b1-8f27-5954a4b6fc93",
+        "id": "a5502a6c-64a7-44b1-8f27-5954a4b6fc93",
+        "section": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "P",
+                            "display": "Plan",
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen"
+                        }
+                    ]
+                },
+                "entry": [
+                    {
+                        "display": "PDF/A kwalificatie",
+                        "reference": "EpisodeOfCare/b8a8403e-f9cf-4d5f-86a2-c1e3dc83e8ed"
+                    }
+                ],
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Van: F. Kiek</div>",
+                    "status": "additional"
+                }
+            },
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "code": "P",
+                            "display": "Plan",
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen"
+                        }
+                    ]
+                },
+                "entry": [
+                    {
+                        "display": "PDF/A kwalificatie",
+                        "reference": "EpisodeOfCare/b8a8403e-f9cf-4d5f-86a2-c1e3dc83e8ed"
+                    }
+                ],
+                "text": {
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Van: A.F. Snijder</div>",
+                    "status": "additional"
+                }
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "title": "Verslaglegging afspraak",
+        "type": {
+            "coding": [
+                {
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative",
+                    "system": "http://loinc.org"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_01123987",
+        "id": "01123987",
+        "identifier": [
+            {
+                "system": "http://fhir.nl/fhir/NamingSystem/uzi-nr-pers",
+                "value": "000001111"
+            },
+            {
+                "system": "http://fhir.nl/fhir/NamingSystem/agb-z",
+                "value": "01123987"
+            }
+        ],
+        "name": [
+            {
+                "text": "Vaste Huisarts 1"
+            }
+        ]
+    }
+]

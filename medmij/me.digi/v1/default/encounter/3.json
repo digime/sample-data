@@ -1,0 +1,75 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "e67fd4e5-a5db-4034-aaca-463696ad4ac8",
+        "class": {
+            "code": "AMB",
+            "display": "ambulatory",
+            "system": "http://hl7.org/fhir/v3/ActCode"
+        },
+        "createddate": 1657048381077,
+        "episodeofcare": [
+            {
+                "display": "HNP (thoracaal/lumbaal)",
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-l8601"
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.528.1.1007.3.3.3333",
+                "value": "Contact04"
+            },
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "15528d4f-8fdf-11ec-5551-020000000000"
+            }
+        ],
+        "entityid": "37_123456789_5",
+        "id": "5",
+        "participant": [
+            {
+                "individual": {
+                    "display": "Dr. V. Huisarts 1",
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valuereference": {
+                                "display": "Dr. V. Huisarts 1",
+                                "reference": "PractitionerRole/gpdata-practitionerrole-01"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/gpdata-practitioner-01"
+                }
+            }
+        ],
+        "period": {
+            "end": "2020-03-15",
+            "start": "2020-03-15"
+        },
+        "serviceprovider": {
+            "display": "Aesculaap",
+            "reference": "Organization/gpdata-organization-01"
+        },
+        "status": "finished",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "text": {
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>ContactType</th><th>StartDateTime</th><th>ProblemName</th><th>HealthProfessional</th><th>OrganizationName</th></tr></thead><tbody><tr><td>ambulatory</td><td>2020-03-15</td><td/><td>Dr. V. Huisarts 1</td><td>Aesculaap</td></tr></tbody></table></div>",
+            "status": "additional"
+        },
+        "type": [
+            {
+                "coding": [
+                    {
+                        "code": "03",
+                        "display": "consult",
+                        "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-14-contactwijze"
+                    }
+                ]
+            }
+        ]
+    }
+]

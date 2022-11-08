@@ -1,0 +1,88 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "authoredon": "2020-06-08T10:54:23+02:00",
+        "bundleid": "a6a406bf-6c5d-4263-aac4-988f0164b411",
+        "category": {
+            "coding": [
+                {
+                    "code": "16076005",
+                    "display": "Prescription (procedure)",
+                    "system": "http://snomed.info/sct"
+                }
+            ],
+            "text": "Medicatieafspraak"
+        },
+        "createddate": 1662308773077,
+        "dosageinstruction": [
+            {
+                "asneededcodeableconcept": {
+                    "coding": [
+                        {
+                            "code": "1137",
+                            "display": "zo nodig",
+                            "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek"
+                        }
+                    ]
+                },
+                "route": {
+                    "coding": [
+                        {
+                            "code": "12",
+                            "display": "rectaal",
+                            "system": "urn:oid:2.16.840.1.113883.2.4.4.9"
+                        }
+                    ]
+                },
+                "sequence": 1,
+                "timing": {
+                    "repeat": {
+                        "frequency": 1,
+                        "period": 1,
+                        "periodunit": "d"
+                    }
+                }
+            }
+        ],
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-PeriodOfUse",
+                "valueperiod": {
+                    "start": "2020-06-08"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueidentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "#MB_01h"
+                }
+            }
+        ],
+        "entityid": "37_123456789_143",
+        "id": "143",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                "value": "#MB_01h#MA_01"
+            },
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "1bed45b9-8fdf-11ec-1339-020000000000"
+            }
+        ],
+        "intent": "order",
+        "medicationreference": {
+            "display": "Metoclopramide zetpil 20mg",
+            "reference": "Medication/zib-Product-03"
+        },
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "text": {
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Medicatieafspraak. Subject: ELLEN XXX_BALTUS. Id: #MB_01h#MA_01 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1), 1bed45b9-8fdf-11ec-1339-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie: <span title=\"Prescription (procedure) (16076005 - SNOMED CT)\">Prescription (procedure)</span>, <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Vaste Huisarts 1 || Huisartsen || Maatschap Vaste Huisarts</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>#MB_01h (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Medicatie</th><td>Metoclopramide zetpil 20mg</td></tr><tr><th>Gemaakt</th><td>10:54:23, 8 juni 2020</td></tr><tr><th>Gebruiksduur</th><td>Vanaf 8 juni 2020</td></tr><tr><th>Doseerinstructie</th><td><div>Volgnummer: 1</div><div>Timing: <div>eenmalig per dag</div></div><div>Zo nodig: <span title=\"zo nodig (1137 - nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek)\">zo nodig</span></div><div>Toedieningsweg: <span title=\"rectaal (12 - G-Standaard thesaurus subtabel 0007)\">rectaal</span></div><div>Dosering: 1 stuk</div></td></tr></tbody></table></div>",
+            "status": "extensions"
+        }
+    }
+]

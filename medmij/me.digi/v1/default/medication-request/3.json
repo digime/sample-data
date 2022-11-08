@@ -1,0 +1,80 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "authoredon": "2021-05-24T14:30:00+02:00",
+        "bundleid": "a6a406bf-6c5d-4263-aac4-988f0164b411",
+        "category": {
+            "coding": [
+                {
+                    "code": "16076005",
+                    "display": "Prescription (procedure)",
+                    "system": "http://snomed.info/sct"
+                }
+            ]
+        },
+        "createddate": 1657048981077,
+        "entityid": "37_123456789_Test-poc-medicationrequest-05",
+        "id": "Test-poc-medicationrequest-05",
+        "intent": "order",
+        "medicationreference": {
+            "display": "COVID-19 VACCIN MODERNA INJVLST 0,5ML",
+            "reference": "Medication/Test-poc-PharmaceuticalProduct-03"
+        },
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "authoredon": "2021-05-24T14:30:00+02:00",
+        "bundleid": "a6a406bf-6c5d-4263-aac4-988f0164b411",
+        "category": {
+            "coding": [
+                {
+                    "code": "16076005",
+                    "display": "Prescription (procedure)",
+                    "system": "http://snomed.info/sct"
+                }
+            ]
+        },
+        "createddate": 1657048681077,
+        "entityid": "37_123456789_Test-poc-medicationrequest-06",
+        "id": "Test-poc-medicationrequest-06",
+        "intent": "order",
+        "medicationreference": {
+            "display": "COVID-19 VACCIN MODERNA INJVLST 0,5ML",
+            "reference": "Medication/Test-poc-PharmaceuticalProduct-03"
+        },
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "authoredon": "2021-05-24T14:30:00+02:00",
+        "bundleid": "a6a406bf-6c5d-4263-aac4-988f0164b411",
+        "category": {
+            "coding": [
+                {
+                    "code": "16076005",
+                    "display": "Prescription (procedure)",
+                    "system": "http://snomed.info/sct"
+                }
+            ]
+        },
+        "createddate": 1657048381077,
+        "entityid": "37_123456789_Test-poc-medicationrequest-01",
+        "id": "Test-poc-medicationrequest-01",
+        "intent": "order",
+        "medicationreference": {
+            "display": "COVID-19 VACCIN MODERNA INJVLST 0,5ML",
+            "reference": "Medication/Test-poc-PharmaceuticalProduct-03"
+        },
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        }
+    }
+]

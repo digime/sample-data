@@ -1,0 +1,629 @@
+[
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "2408",
+                    "display": "Gewicht patient (thuismeting)",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662306973077,
+        "effectivedatetime": "2022-05-11",
+        "entityid": "37_123456789_0dfb8d93-cd9d-4c1d-9eef-ecbccce3f22d",
+        "id": "0dfb8d93-cd9d-4c1d-9eef-ecbccce3f22d",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "8EFE609A-7C85-B608-62A3-DEA442053745"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 81,
+            "unit": "kg",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "49581000146104",
+                        "display": "klinische bevinding",
+                        "system": "http://snomed.info/sct"
+                    }
+                ]
+            },
+            {
+                "coding": [
+                    {
+                        "code": "laboratory",
+                        "display": "Laboratory",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Laboratory"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "3222",
+                    "display": "glucose (dagcurve) 2u na diner, draagb.m",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662306673077,
+        "effectivedatetime": "2022-05-08",
+        "entityid": "37_123456789_d277f072-b37a-468c-91bc-ade866372e7d",
+        "id": "d277f072-b37a-468c-91bc-ade866372e7d",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "29A7F503-3EC6-9FDC-59D3-9E26CA38B5AD"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 7.4,
+            "unit": "mmol/L",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "49581000146104",
+                        "display": "klinische bevinding",
+                        "system": "http://snomed.info/sct"
+                    }
+                ]
+            },
+            {
+                "coding": [
+                    {
+                        "code": "laboratory",
+                        "display": "Laboratory",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Laboratory"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "3226",
+                    "display": "glucose (dagcurve) voor de nacht, drgb.m",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662306373077,
+        "effectivedatetime": "2022-05-11",
+        "entityid": "37_123456789_64035cc0-5845-4cf8-be6f-785b5630fa36",
+        "id": "64035cc0-5845-4cf8-be6f-785b5630fa36",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "AB914F3E-317C-C4E3-E153-C7B81273BA9B"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 6.2,
+            "unit": "mmol/L",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "49581000146104",
+                        "display": "klinische bevinding",
+                        "system": "http://snomed.info/sct"
+                    }
+                ]
+            },
+            {
+                "coding": [
+                    {
+                        "code": "laboratory",
+                        "display": "Laboratory",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Laboratory"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "381",
+                    "display": "Glucose niet nuchter,draagb meter",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662306073077,
+        "effectivedatetime": "2022-05-06",
+        "entityid": "37_123456789_8c3a4b51-85eb-4c55-a224-91e2e312f415",
+        "id": "8c3a4b51-85eb-4c55-a224-91e2e312f415",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "9B7FCBBD-D0E8-3E78-3F82-50E7DCCB2D7C"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 6.3,
+            "unit": "mmol/L",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "2056",
+                    "display": "Diastolische bloeddruk (thuismeting)",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662305773077,
+        "effectivedatetime": "2022-05-11",
+        "entityid": "37_123456789_30fc048a-91f3-4143-9fa0-348f572bc4ea",
+        "id": "30fc048a-91f3-4143-9fa0-348f572bc4ea",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "B30CAE6D-4035-866A-C2C5-3C3C5FAE902D"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 78,
+            "unit": "mm[Hg]",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "2056",
+                    "display": "Diastolische bloeddruk (thuismeting)",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662305473077,
+        "effectivedatetime": "2022-05-08",
+        "entityid": "37_123456789_18012248-7f81-41a4-9d19-9f90f85ccb5f",
+        "id": "18012248-7f81-41a4-9d19-9f90f85ccb5f",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "293E1716-22BF-5480-6321-A701816725B7"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 80,
+            "unit": "mm[Hg]",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "2056",
+                    "display": "Diastolische bloeddruk (thuismeting)",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662305173077,
+        "effectivedatetime": "2022-05-06",
+        "entityid": "37_123456789_2d4e28b7-b656-490e-9cdf-b8272e71b519",
+        "id": "2d4e28b7-b656-490e-9cdf-b8272e71b519",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "85859752-6575-7864-77D2-D179CA12CFB5"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 85,
+            "unit": "mm[Hg]",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "2055",
+                    "display": "Systolische bloeddruk (thuismeting)",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662304873077,
+        "effectivedatetime": "2022-05-11",
+        "entityid": "37_123456789_a814783a-a8e9-4c29-8205-4fc49a533e5b",
+        "id": "a814783a-a8e9-4c29-8205-4fc49a533e5b",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "4C147FF3-D80D-7F25-86B9-BC3F72256BEC"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 125,
+            "unit": "mm[Hg]",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "2055",
+                    "display": "Systolische bloeddruk (thuismeting)",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662304573077,
+        "effectivedatetime": "2022-05-08",
+        "entityid": "37_123456789_e4ddc162-7aac-44f7-816e-ddd633753381",
+        "id": "e4ddc162-7aac-44f7-816e-ddd633753381",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "BB446F64-35EC-7FFD-B823-9209D18E220F"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 128,
+            "unit": "mm[Hg]",
+            "system": "http://unitsofmeasure.org"
+        }
+    },
+    {
+        "accountentityid": "37_123456789",
+        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "vital-signs",
+                        "display": "Vital Signs",
+                        "system": "http://hl7.org/fhir/observation-category"
+                    }
+                ],
+                "text": "Vital Signs"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "2055",
+                    "display": "Systolische bloeddruk (thuismeting)",
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+                }
+            ]
+        },
+        "createddate": 1662304273077,
+        "effectivedatetime": "2022-05-06",
+        "entityid": "37_123456789_ac9a6897-11da-4862-8710-3da5d6a351d3",
+        "id": "ac9a6897-11da-4862-8710-3da5d6a351d3",
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
+                "value": "C1E6843D-F127-F33B-DA48-7C75D9543956"
+            }
+        ],
+        "performer": [
+            {
+                "display": "Vaste Huisarts 1",
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valuereference": {
+                            "display": "Vaste Huisarts 1",
+                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/01123987"
+            }
+        ],
+        "status": "final",
+        "subject": {
+            "display": "ELLEN XXX_BALTUS",
+            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        },
+        "valuequantity": {
+            "value": 130,
+            "unit": "mm[Hg]",
+            "system": "http://unitsofmeasure.org"
+        }
+    }
+]
