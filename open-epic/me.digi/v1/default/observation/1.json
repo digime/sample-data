@@ -1,33 +1,57 @@
 [
     {
         "accountentityid": "20_123456789",
-        "createddate": 1666271927187,
-        "entityid": "20_123456789",
-        "id": "20_123456789",
-        "status": "final",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "social-history",
+                        "display": "Social History",
+                        "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+                    }
+                ],
+                "text": "Social History"
+            }
+        ],
         "code": {
             "coding": [
                 {
-                    "system": "http://loinc.org",
                     "code": "72166-2",
-                    "display": "Tobacco smoking status NHIS"
+                    "display": "Tobacco smoking status",
+                    "system": "http://loinc.org"
+                },
+                {
+                    "code": "365980008",
+                    "display": "Finding of tobacco use and exposure (finding)",
+                    "system": "http://snomed.info/sct"
                 }
             ],
             "text": "Smoking History"
         },
-        "component": [],
-        "category": [
+        "createddate": 1667464490465,
+        "entityid": "20_123456789_ecLi-J.W4eNp2GKJJpFG5GQ55b1GMgCcd1920e3y5YJz.JEjypM5tY2ECMN1ZE8jw3",
+        "id": "ecLi-J.W4eNp2GKJJpFG5GQ55b1GMgCcd1920e3y5YJz.JEjypM5tY2ECMN1ZE8jw3",
+        "issued": "2019-05-24T05:00:00Z",
+        "performer": [
             {
-                "text": "Social History",
-                "coding": [
-                    {
-                        "system": "http://hl7.org/fhir/observation-category",
-                        "code": "social-history",
-                        "display": "Social History"
-                    }
-                ]
+                "display": "Family Medicine Physician, MD",
+                "reference": "Practitioner/eUXiD4IyBLJFoR2VHOjfTdg3"
             }
         ],
-        "performer": []
+        "status": "final",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "valuecodeableconcept": {
+            "coding": [
+                {
+                    "code": "266919005",
+                    "display": "Never smoked tobacco",
+                    "system": "http://snomed.info/sct"
+                }
+            ],
+            "text": "Never"
+        }
     }
 ]

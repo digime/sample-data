@@ -1,0 +1,73 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "asserter": {
+            "display": "Physician O. Cardiology, MD",
+            "reference": "Practitioner/ef9TegF2nfECi-0Skirbvpg3",
+            "type": "Practitioner"
+        },
+        "category": {
+            "coding": [
+                {
+                    "code": "103693007",
+                    "display": "Diagnostic procedure",
+                    "system": "http://snomed.info/sct"
+                }
+            ],
+            "text": "Ordered Procedures"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "89930",
+                    "display": "STRESS TEST ONLY",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.696580"
+                }
+            ],
+            "text": "STRESS TEST ONLY"
+        },
+        "encounter": {
+            "display": "Hospital Encounter",
+            "reference": "Encounter/eucYt0hPWgEMZqybf6t4c.g3"
+        },
+        "entityid": "20_123456789_e-asKfcGYfIhKVR0i7PK0nXJfAzFNyQ1onrDaLL9gblA3",
+        "id": "e-asKfcGYfIhKVR0i7PK0nXJfAzFNyQ1onrDaLL9gblA3",
+        "identifier": [
+            {
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+                "type": {
+                    "text": "ORD"
+                },
+                "use": "usual",
+                "value": "1066928"
+            },
+            {
+                "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.696580",
+                "type": {
+                    "text": "EAP"
+                },
+                "use": "usual",
+                "value": "89930"
+            }
+        ],
+        "performeddatetime": "2019-05-28T15:29:23Z",
+        "createddate": 1667464490465,
+        "report": [
+            {
+                "display": "STRESS TEST ONLY",
+                "reference": "DiagnosticReport/eOEFQea79JpqVmBUCnlHcUVXpHHU4pvvYzpqin9Cc2h03",
+                "type": "DiagnosticReport"
+            }
+        ],
+        "recorder": {
+            "display": "Physician O. Cardiology, MD",
+            "reference": "Practitioner/ef9TegF2nfECi-0Skirbvpg3",
+            "type": "Practitioner"
+        },
+        "status": "completed",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    }
+]

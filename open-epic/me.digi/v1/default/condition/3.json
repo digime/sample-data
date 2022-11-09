@@ -26,39 +26,39 @@
         "code": {
             "coding": [
                 {
-                    "code": "23406007",
-                    "display": "Fracture of upper limb (disorder)",
+                    "code": "69878008",
+                    "display": "Polycystic ovaries (disorder)",
                     "system": "http://snomed.info/sct"
                 },
                 {
-                    "code": "818.1",
-                    "display": "Broken arm",
+                    "code": "256.4",
+                    "display": "Polycystic ovaries",
                     "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis"
                 },
                 {
-                    "code": "S42.302B",
-                    "display": "Broken arm",
+                    "code": "E28.2",
+                    "display": "Polycystic ovaries",
                     "system": "urn:oid:2.16.840.1.113883.6.90"
                 }
             ],
-            "text": "Broken arm"
+            "text": "Polycystic ovaries"
         },
         "encounter": {
             "display": "Office Visit",
-            "reference": "Encounter/emhwuharfnf8VhCQg97qP7Q3"
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
         },
         "evidence": [
             {
                 "detail": [
                     {
-                        "display": "Broken arm",
-                        "reference": "Condition/epRHrfjlZHEPIuhqy74k3CQ3"
+                        "display": "Polycystic ovaries",
+                        "reference": "Condition/euDDjG6i1-OkhZii5APxOiw3"
                     }
                 ]
             }
         ],
-        "entityid": "20_123456789_e16E4.L7d912QD0X7jyerEqeKqeCKXUXbc6kTLNlAG4EXmCj5e2oafWK8pLPUG.yyJ8l6I1shvV0k6Cl2qCiffQ3",
-        "id": "e16E4.L7d912QD0X7jyerEqeKqeCKXUXbc6kTLNlAG4EXmCj5e2oafWK8pLPUG.yyJ8l6I1shvV0k6Cl2qCiffQ3",
+        "entityid": "20_123456789_e7c8aTjCaSoNH-8EquCI0Jn27nC7yIIoAkAPIt2TESwGzVJwyNizm9EE3yNDFX1jBbQB7NSaQMPRhEODE0g8QWw3",
+        "id": "e7c8aTjCaSoNH-8EquCI0Jn27nC7yIIoAkAPIt2TESwGzVJwyNizm9EE3yNDFX1jBbQB7NSaQMPRhEODE0g8QWw3",
         "subject": {
             "display": "Powell, Desiree Caroline",
             "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"

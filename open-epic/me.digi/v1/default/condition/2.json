@@ -1,0 +1,175 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "problem-list-item",
+                        "display": "Problem List Item",
+                        "system": "http://terminology.hl7.org/CodeSystem/condition-category"
+                    }
+                ],
+                "text": "Problem List Item"
+            }
+        ],
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "code": "active",
+                    "display": "Active",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Active"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "J18.1",
+                    "system": "urn:oid:2.16.840.1.113883.6.90"
+                },
+                {
+                    "code": "301004001",
+                    "system": "urn:oid:2.16.840.1.113883.6.96"
+                }
+            ],
+            "text": "Right upper lobe pneumonia"
+        },
+        "entityid": "20_123456789_ePJugUlqfIbIyVVibZWYmHQ3",
+        "id": "ePJugUlqfIbIyVVibZWYmHQ3",
+        "onsetperiod": {
+            "end": "2019-05-24",
+            "start": "2019-05-24"
+        },
+        "createddate": 1662204698465,
+        "recordeddate": "2019-05-24",
+        "severity": {
+            "text": "High"
+        },
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "verificationstatus": {
+            "coding": [
+                {
+                    "code": "confirmed",
+                    "display": "Confirmed",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Confirmed"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "problem-list-item",
+                        "display": "Problem List Item",
+                        "system": "http://terminology.hl7.org/CodeSystem/condition-category"
+                    }
+                ],
+                "text": "Problem List Item"
+            }
+        ],
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "code": "active",
+                    "display": "Active",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Active"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "S42.309A",
+                    "system": "urn:oid:2.16.840.1.113883.6.90"
+                },
+                {
+                    "code": "23406007",
+                    "system": "urn:oid:2.16.840.1.113883.6.96"
+                }
+            ],
+            "text": "Broken arm"
+        },
+        "entityid": "20_123456789_epRHrfjlZHEPIuhqy74k3CQ3",
+        "id": "epRHrfjlZHEPIuhqy74k3CQ3",
+        "onsetperiod": {
+            "end": "2019-05-24",
+            "start": "2019-05-24"
+        },
+        "createddate": 1662204398465,
+        "recordeddate": "2019-05-24",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "verificationstatus": {
+            "coding": [
+                {
+                    "code": "confirmed",
+                    "display": "Confirmed",
+                    "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+                    "version": "4.0.0"
+                }
+            ],
+            "text": "Confirmed"
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "code": "reason-for-visit",
+                        "display": "Reason for Visit",
+                        "system": "http://open.epic.com/FHIR/StructureDefinition/condition-category"
+                    }
+                ],
+                "text": "Reason for Visit"
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "code": "160050",
+                    "display": "Arm Injury",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.728286"
+                }
+            ],
+            "text": "Arm Injury"
+        },
+        "encounter": {
+            "display": "Office Visit",
+            "reference": "Encounter/emhwuharfnf8VhCQg97qP7Q3"
+        },
+        "entityid": "20_123456789_e16E4.L7d912QD0X7jyerEuIXdFK17xkJE1SUgwSbbwc3",
+        "id": "e16E4.L7d912QD0X7jyerEuIXdFK17xkJE1SUgwSbbwc3",
+        "note": [
+            {
+                "text": "patient believes arm may have been broken during basketball game"
+            }
+        ],
+        "recorder": {
+            "display": "Family Medicine Physician, MD",
+            "reference": "Practitioner/eUXiD4IyBLJFoR2VHOjfTdg3"
+        },
+        "createddate": 1662204098465,
+        "recordeddate": "2019-05-24T20:10:26Z",
+        "subject": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        }
+    }
+]

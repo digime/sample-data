@@ -1,0 +1,104 @@
+[
+    {
+        "accountentityid": "20_123456789",
+        "entityid": "20_123456789_ej-bgums0x4N6E0.QqIjJb3kGhOQBVK3lIYjcil9mb9j-ukNrz6P2y90AiDm3R20Y3",
+        "id": "ej-bgums0x4N6E0.QqIjJb3kGhOQBVK3lIYjcil9mb9j-ukNrz6P2y90AiDm3R20Y3",
+        "batch": {},
+        "code": {
+            "coding": [
+                {
+                    "code": "100899",
+                    "system": "urn:oid:2.16.840.1.113883.6.253"
+                },
+                {
+                    "code": "25990002150316",
+                    "system": "urn:oid:2.16.840.1.113883.6.68"
+                },
+                {
+                    "code": "49431",
+                    "system": "urn:oid:2.16.840.1.113883.6.162"
+                },
+                {
+                    "code": "4124",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "11636",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "630734",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "748794",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "748798",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "840781",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                }
+            ],
+            "text": "drospirenone-ethinyl estradiol 3-0.02 MG per tablet"
+        },
+        "form": {
+            "coding": [
+                {
+                    "code": "TABS",
+                    "display": "tablet",
+                    "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.310"
+                }
+            ],
+            "text": "tablet"
+        },
+        "ingredient": [
+            {
+                "itemcodeableconcept": {
+                    "coding": [
+                        {
+                            "code": "100899",
+                            "system": "urn:oid:2.16.840.1.113883.6.253"
+                        },
+                        {
+                            "code": "25990002150316",
+                            "system": "urn:oid:2.16.840.1.113883.6.68"
+                        },
+                        {
+                            "code": "49431",
+                            "system": "urn:oid:2.16.840.1.113883.6.162"
+                        },
+                        {
+                            "code": "4124",
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        },
+                        {
+                            "code": "11636",
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        },
+                        {
+                            "code": "630734",
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        },
+                        {
+                            "code": "748794",
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        },
+                        {
+                            "code": "748798",
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        },
+                        {
+                            "code": "840781",
+                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                        }
+                    ],
+                    "text": "drospirenone-ethinyl estradiol 3-0.02 MG per tablet"
+                }
+            }
+        ]
+    }
+]

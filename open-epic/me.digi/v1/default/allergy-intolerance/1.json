@@ -1,163 +1,173 @@
 [
     {
         "accountentityid": "20_123456789",
-        "createddate": 1666271927187,
-        "asserteddate": 1666271927187,
-        "verificationstatus": "confirmed",
-        "criticality": "CRITL",
-        "entityid": "20_123456789",
-        "id": "20_123456789",
-        "onsetdatetime": 1666204797187,
-        "recorder": {},
-        "note": [],
-        "code": {
-            "text": "PENICILLIN G",
+        "category": [
+            "medication"
+        ],
+        "clinicalstatus": {
             "coding": [
                 {
-                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-                    "code": "7980",
-                    "display": "PENICILLIN G"
-                },
-                {
-                    "system": "http://fdasis.nlm.nih.gov",
-                    "code": "Q42T66VG0C",
-                    "display": "PENICILLIN G"
+                    "code": "active",
+                    "display": "Active",
+                    "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+                    "version": "4.0.0"
                 }
             ]
         },
+        "code": {
+            "coding": [
+                {
+                    "code": "6211",
+                    "display": "LACTOSE",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "1305527",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "1307662",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "3SY5LH9PMK",
+                    "system": "urn:oid:2.16.840.1.113883.4.9"
+                },
+                {
+                    "code": "EWQ57Q8I5X",
+                    "system": "urn:oid:2.16.840.1.113883.4.9"
+                },
+                {
+                    "code": "J2B2A4N98G",
+                    "system": "urn:oid:2.16.840.1.113883.4.9"
+                }
+            ],
+            "text": "LACTOSE"
+        },
+        "createddate": 1667464490465,
+        "entityid": "20_123456789_eND7CmZvBZzYkROEJRaJNPg3",
+        "id": "eND7CmZvBZzYkROEJRaJNPg3",
+        "onsetperiod": {
+            "start": "2010"
+        },
+        "patient": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
         "reaction": [
             {
+                "description": "GI intolerance",
                 "manifestation": [
                     {
+                        "coding": [
+                            {
+                                "code": "Nausea",
+                                "system": "http://snomed.info/sct"
+                            }
+                        ],
+                        "text": "GI intolerance"
+                    }
+                ],
+                "severity": "moderate"
+            }
+        ],
+        "recordeddate": "2019-05-24T20:18:04Z",
+        "verificationstatus": {
+            "coding": [
+                {
+                    "code": "confirmed",
+                    "display": "Confirmed",
+                    "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-verification",
+                    "version": "4.0.0"
+                }
+            ]
+        }
+    },
+    {
+        "accountentityid": "20_123456789",
+        "category": [
+            "medication"
+        ],
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "code": "active",
+                    "display": "Active",
+                    "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+                    "version": "4.0.0"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "1314891",
+                    "display": "LATEX",
+                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+                },
+                {
+                    "code": "2LQ0UUW8IN",
+                    "system": "urn:oid:2.16.840.1.113883.4.9"
+                },
+                {
+                    "code": "544D0W9VKA",
+                    "system": "urn:oid:2.16.840.1.113883.4.9"
+                }
+            ],
+            "text": "LATEX"
+        },
+        "createddate": 1667464190465,
+        "entityid": "20_123456789_ebQl6qITL5qCOEvKKdxylgg3",
+        "id": "ebQl6qITL5qCOEvKKdxylgg3",
+        "onsetperiod": {
+            "start": "2015-06-17"
+        },
+        "patient": {
+            "display": "Powell, Desiree Caroline",
+            "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+        },
+        "reaction": [
+            {
+                "description": "Hives",
+                "manifestation": [
+                    {
+                        "coding": [
+                            {
+                                "code": "Hives",
+                                "system": "http://snomed.info/sct"
+                            }
+                        ],
                         "text": "Hives"
                     }
                 ],
-                "note": [
-                    {
-                        "text": ""
-                    }
-                ],
-                "onset": 1554768000000,
-                "substance": {
-                    "text": "PENICILLIN G",
-                    "coding": [
-                        {
-                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-                            "code": "7980",
-                            "display": "PENICILLIN G"
-                        },
-                        {
-                            "system": "http://fdasis.nlm.nih.gov",
-                            "code": "Q42T66VG0C",
-                            "display": "PENICILLIN G"
-                        }
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "accountentityid": "20_123456789",
-        "createddate": 1666271627187,
-        "asserteddate": 1666271627187,
-        "verificationstatus": "confirmed",
-        "criticality": "CRITH",
-        "entityid": "20_123456789_TpVSZffvhgK94550JQbWXBgB",
-        "id": "20_123456789_TpVSZffvhgK94550JQbWXBgB",
-        "onsetdatetime": 1666204483187,
-        "recorder": {},
-        "note": [],
-        "code": {
-            "text": "SHELLFISH-DERIVED PRODUCTS",
-            "coding": [
-                {
-                    "system": "http://hl7.org/fhir/ndfrt",
-                    "code": "N0000007624",
-                    "display": "SHELLFISH-DERIVED PRODUCTS"
-                }
-            ]
-        },
-        "reaction": [
+                "severity": "moderate"
+            },
             {
+                "description": "Itching",
                 "manifestation": [
                     {
+                        "coding": [
+                            {
+                                "code": "Itching",
+                                "system": "http://snomed.info/sct"
+                            }
+                        ],
                         "text": "Itching"
                     }
                 ],
-                "note": [
-                    {
-                        "text": ""
-                    }
-                ],
-                "onset": 1554768000000,
-                "substance": {
-                    "text": "SHELLFISH-DERIVED PRODUCTS",
-                    "coding": [
-                        {
-                            "system": "http://hl7.org/fhir/ndfrt",
-                            "code": "N0000007624",
-                            "display": "SHELLFISH-DERIVED PRODUCTS"
-                        }
-                    ]
-                }
+                "severity": "moderate"
             }
-        ]
-    },
-    {
-        "accountentityid": "20_123456789",
-        "createddate": 1666271327187,
-        "asserteddate": 1666271327187,
-        "verificationstatus": "confirmed",
-        "criticality": "CRITH",
-        "entityid": "20_123456789_TCL8gvLArh3J9-ouPez48SwB",
-        "id": "20_123456789_TCL8gvLArh3J9-ouPez48SwB",
-        "onsetdatetime": 1666204155187,
-        "recorder": {},
-        "note": [],
-        "code": {
-            "text": "STRAWBERRY EXTRACT",
+        ],
+        "recordeddate": "2019-05-24T20:19:17Z",
+        "verificationstatus": {
             "coding": [
                 {
-                    "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-                    "code": "892484",
-                    "display": "STRAWBERRY EXTRACT"
-                },
-                {
-                    "system": "http://fdasis.nlm.nih.gov",
-                    "code": "4J2TY8Y81V",
-                    "display": "STRAWBERRY EXTRACT"
+                    "code": "confirmed",
+                    "display": "Confirmed",
+                    "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-verification",
+                    "version": "4.0.0"
                 }
             ]
-        },
-        "reaction": [
-            {
-                "manifestation": [
-                    {
-                        "text": "Anaphylaxis"
-                    }
-                ],
-                "note": [
-                    {
-                        "text": ""
-                    }
-                ],
-                "onset": 1554768000000,
-                "substance": {
-                    "text": "STRAWBERRY EXTRACT",
-                    "coding": [
-                        {
-                            "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-                            "code": "892484",
-                            "display": "STRAWBERRY EXTRACT"
-                        },
-                        {
-                            "system": "http://fdasis.nlm.nih.gov",
-                            "code": "4J2TY8Y81V",
-                            "display": "STRAWBERRY EXTRACT"
-                        }
-                    ]
-                }
-            }
-        ]
+        }
     }
 ]

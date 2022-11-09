@@ -1,7 +1,7 @@
 [
     {
         "accountentityid": "20_123456789",
-        "authoredon": "2019-05-24",
+        "authoredon": "2019-05-28",
         "category": [
             {
                 "coding": [
@@ -17,40 +17,40 @@
         "courseoftherapytype": {
             "coding": [
                 {
-                    "code": "acute",
-                    "display": "Short course (acute) therapy",
+                    "code": "continuous",
+                    "display": "Continuous long term therapy",
                     "system": "http://terminology.hl7.org/CodeSystem/medicationrequest-course-of-therapy"
                 }
             ],
-            "text": "Short course (acute) therapy"
+            "text": "Continuous long term therapy"
         },
-        "createddate": 1667464490465,
+        "createddate": 1662204698465,
         "dispenserequest": {
             "expectedsupplyduration": {
-                "value": 23,
+                "value": 28,
                 "unit": "Day",
                 "system": "http://unitsofmeasure.org",
                 "code": "d"
             },
-            "numberofrepeatsallowed": 0,
+            "numberofrepeatsallowed": 12,
             "quantity": {
-                "value": 90,
+                "value": 28,
                 "unit": "tablet"
             },
             "validityperiod": {
-                "start": "2019-05-24"
+                "start": "2019-05-28"
             }
         },
         "dosageinstruction": [
             {
-                "asneededboolean": true,
+                "asneededboolean": false,
                 "doseandrate": [
                     {
                         "dosequantity": {
-                            "value": 600,
-                            "unit": "mg",
+                            "value": 1,
+                            "unit": "tablet",
                             "system": "http://unitsofmeasure.org",
-                            "code": "mg"
+                            "code": "{tbl}"
                         },
                         "type": {
                             "coding": [
@@ -83,10 +83,10 @@
                     },
                     {
                         "dosequantity": {
-                            "value": 600,
-                            "unit": "mg",
+                            "value": 1,
+                            "unit": "tablet",
                             "system": "http://unitsofmeasure.org",
-                            "code": "mg"
+                            "code": "{tbl}"
                         },
                         "type": {
                             "coding": [
@@ -110,7 +110,7 @@
                     ],
                     "text": "Take"
                 },
-                "patientinstruction": "Take 1 tablet (600 mg total) by mouth 4 (four) times a day if needed for mild pain or moderate pain (pain).",
+                "patientinstruction": "Take 1 tablet by mouth 1 (one) time each day.",
                 "route": {
                     "coding": [
                         {
@@ -126,60 +126,61 @@
                     ],
                     "text": "Oral"
                 },
-                "text": "Take 1 tablet (600 mg total) by mouth 4 (four) times a day if needed for mild pain or moderate pain (pain)., Starting Fri 5/24/2019, Until Sun 6/23/2019, Normal",
+                "text": "Take 1 tablet by mouth 1 (one) time each day., Starting Tue 5/28/2019, Until Wed 5/27/2020, Normal",
                 "timing": {
                     "code": {
-                        "text": "4 (four) times a day if needed"
+                        "text": "1 (one) time each day"
                     },
                     "repeat": {
                         "boundsperiod": {
-                            "start": "2019-05-24"
+                            "start": "2019-05-28"
                         },
-                        "frequency": 4,
-                        "period": 1,
-                        "periodunit": "d"
+                        "count": 365,
+                        "timeofday": [
+                            "09:00:00"
+                        ]
                     }
                 }
             }
         ],
         "encounter": {
             "display": "Office Visit",
-            "reference": "Encounter/emhwuharfnf8VhCQg97qP7Q3"
+            "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
         },
-        "entityid": "20_123456789_eFfQJBYPqEBG4EBImXPBY8XpY4eKbdPGjoBAC33ylHWs3",
-        "id": "eFfQJBYPqEBG4EBImXPBY8XpY4eKbdPGjoBAC33ylHWs3",
+        "entityid": "20_123456789_ePDJ.zsf3Jfg2.MKkAMgW9EcIbsaiB.y-OTrPS5v2h8Q3",
+        "id": "ePDJ.zsf3Jfg2.MKkAMgW9EcIbsaiB.y-OTrPS5v2h8Q3",
         "identifier": [
             {
                 "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
                 "use": "usual",
-                "value": "1066567"
+                "value": "1066899"
             }
         ],
         "intent": "order",
         "medicationreference": {
-            "display": "ibuprofen 600 MG tablet",
-            "reference": "Medication/eetjoXy-TbdryRS.SobVHBqoCMs8lmt2inFn0657-Y4snqwFF2gPkel3GYPuh2Ofk3"
+            "display": "drospirenone-ethinyl estradiol 3-0.02 MG per tablet",
+            "reference": "Medication/ej-bgums0x4N6E0.QqIjJb3kGhOQBVK3lIYjcil9mb9j-ukNrz6P2y90AiDm3R20Y3"
         },
         "reasoncode": [
             {
                 "coding": [
                     {
-                        "code": "23406007",
-                        "display": "Fracture of upper limb (disorder)",
+                        "code": "69878008",
+                        "display": "Polycystic ovaries (disorder)",
                         "system": "http://snomed.info/sct"
                     },
                     {
-                        "code": "818.1",
-                        "display": "Broken arm",
+                        "code": "256.4",
+                        "display": "Polycystic ovaries",
                         "system": "http://hl7.org/fhir/sid/icd-9-cm/diagnosis"
                     },
                     {
-                        "code": "S42.302B",
-                        "display": "Broken arm",
+                        "code": "E28.2",
+                        "display": "Polycystic ovaries",
                         "system": "urn:oid:2.16.840.1.113883.6.90"
                     }
                 ],
-                "text": "Broken arm"
+                "text": "Polycystic ovaries"
             }
         ],
         "recorder": {
@@ -192,7 +193,7 @@
             "reference": "Practitioner/eM5CWtq15N0WJeuCet5bJlQ3",
             "type": "Practitioner"
         },
-        "status": "completed",
+        "status": "active",
         "subject": {
             "display": "Powell, Desiree Caroline",
             "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
