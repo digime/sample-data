@@ -1,118 +1,50 @@
 [
     {
-        "createddate": 1532440620000,
-        "id": "9d34a03d-7e25-40e5-b81f-523de1d41a03",
-        "entityid": "30_123456789_9d34a03d-7e25-40e5-b81f-523de1d41a03",
+        "accountentityid": "30_123456789",
         "location": [
             {
                 "location": {
-                    "name": "Master Practice 2"
+                    "display": "Master Practice 2"
                 }
             }
         ],
-        "accountentityid": "30_123456789",
         "participant": [
             {
                 "individual": {
-                    "practitioner": {
-                        "name": [
-                            {
-                                "text": "DIGIME, Test (Dr)"
-                            }
-                        ]
-                    }
+                    "display": "DIGIME, Test (Dr)"
                 }
             }
         ],
+        "id": "d3e0ea6c-0124-40cf-876b-6a2b0834b8e6",
+        "entityid": "30_123456789_d3e0ea6c-0124-40cf-876b-6a2b0834b8e6",
+        "type": [],
+        "createddate": 1667231404913,
         "period": {
-            "start": 1532440620000
+            "start": "2022-10-31T14:50:04"
         }
     },
     {
-        "createddate": 1532440740000,
-        "id": "868d3967-ede5-42c1-80ae-5b972ff30c0b",
-        "entityid": "30_123456789_868d3967-ede5-42c1-80ae-5b972ff30c0b",
+        "accountentityid": "30_123456789",
         "location": [
             {
                 "location": {
-                    "name": "Master Practice 2"
+                    "display": "Master Practice 2"
                 }
             }
         ],
-        "accountentityid": "30_123456789",
         "participant": [
             {
                 "individual": {
-                    "practitioner": {
-                        "name": [
-                            {
-                                "text": "DIGIME, Test (Dr)"
-                            }
-                        ]
-                    }
+                    "display": "DIGIME, Test (Dr)"
                 }
             }
         ],
+        "id": "0169d8be-3c26-4921-b3a0-5d79e1ec7402",
+        "entityid": "30_123456789_0169d8be-3c26-4921-b3a0-5d79e1ec7402",
+        "type": [],
+        "createddate": 1667231104913,
         "period": {
-            "start": 1532440740000
-        }
-    },
-    {
-        "createddate": 1532442348000,
-        "id": "9575a1ef-01f9-45e8-9c00-080243b33572",
-        "entityid": "30_123456789_9575a1ef-01f9-45e8-9c00-080243b33572",
-        "location": [
-            {
-                "location": {
-                    "name": "Master Practice 2"
-                }
-            }
-        ],
-        "accountentityid": "30_123456789",
-        "participant": [
-            {
-                "individual": {
-                    "practitioner": {
-                        "name": [
-                            {
-                                "text": "DIGIME, Test (Dr)"
-                            }
-                        ]
-                    }
-                }
-            }
-        ],
-        "period": {
-            "start": 1532442348000
-        }
-    },
-    {
-        "createddate": 1532563200000,
-        "id": "749fdd15-f06b-4d57-b992-235ae5245b0a",
-        "entityid": "30_123456789_749fdd15-f06b-4d57-b992-235ae5245b0a",
-        "location": [
-            {
-                "location": {
-                    "name": "Branch Location"
-                }
-            }
-        ],
-        "accountentityid": "30_123456789",
-        "participant": [
-            {
-                "individual": {
-                    "practitioner": {
-                        "name": [
-                            {
-                                "text": "DIGIME, Test (Dr)"
-                            }
-                        ]
-                    }
-                }
-            }
-        ],
-        "period": {
-            "start": 1532563200000
+            "start": "2022-10-31T14:45:04"
         }
     }
 ]

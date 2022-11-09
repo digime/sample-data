@@ -1,0 +1,64 @@
+[
+    {
+        "accountentityid": "30_123456789",
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "display": "Past"
+                }
+            ]
+        },
+        "severity": {
+            "coding": [
+                {
+                    "display": "Minor"
+                }
+            ]
+        },
+        "id": "8e105a52-a49f-4285-8cc2-00d2537d2f8e",
+        "entityid": "30_123456789_8e105a52-a49f-4285-8cc2-00d2537d2f8e",
+        "code": {
+            "coding": [
+                {
+                    "display": "Acute sinusitis",
+                    "code": "26785019"
+                }
+            ],
+            "text": "Acute sinusitis"
+        },
+        "onsetdatetime": "2022-05-01T23:00:28",
+        "createddate": 1651446028913,
+        "recordeddate": "2022-05-01T23:00:28"
+    },
+    {
+        "accountentityid": "30_123456789",
+        "clinicalstatus": {
+            "coding": [
+                {
+                    "display": "Past"
+                }
+            ]
+        },
+        "severity": {
+            "coding": [
+                {
+                    "display": "Minor"
+                }
+            ]
+        },
+        "id": "773e395c-26b7-4e99-ad08-ecf7aa93e783",
+        "entityid": "30_123456789_773e395c-26b7-4e99-ad08-ecf7aa93e783",
+        "code": {
+            "coding": [
+                {
+                    "display": "Upset stomach",
+                    "code": "252602014"
+                }
+            ],
+            "text": "Upset stomach"
+        },
+        "onsetdatetime": "2022-05-01T22:55:28",
+        "createddate": 1651445728913,
+        "recordeddate": "2022-05-01T22:55:28"
+    }
+]
