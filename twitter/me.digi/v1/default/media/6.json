@@ -1,1196 +1,1196 @@
 [
-  {
-    "createddate": 1638015381426,
-    "updateddate": 1638015381426,
-    "type": 0,
-    "entityid": "3_123456789_1126719808584601600",
-    "personentityid": "3_123456789_265902729",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126719808584601600",
-    "baseid": "3_123456789_1126719808584601600",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/p8nn7LOMsp",
-    "displayurlindexend": 70,
-    "displayurlindexstart": 47,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0.jpg",
-    "resources": [
-      {
+    {
+        "createddate": 1643381929876,
+        "updateddate": 1638015381426,
         "type": 0,
-        "height": 620,
-        "aspectratio": {
-          "accuracy": 96.7742,
-          "actual": "60:31",
-          "closest": "2:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_large.jpg",
-        "width": 1200
-      },
-      {
+        "entityid": "3_123456789_1126719808584601600",
+        "personentityid": "3_123456789_265902729",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126719808584601600",
+        "baseid": "3_123456789_1126719808584601600",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/p8nn7LOMsp",
+        "displayurlindexend": 70,
+        "displayurlindexstart": 47,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0.jpg",
+        "resources": [
+            {
+                "type": 0,
+                "height": 620,
+                "aspectratio": {
+                    "accuracy": 96.7742,
+                    "actual": "60:31",
+                    "closest": "2:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_large.jpg",
+                "width": 1200
+            },
+            {
+                "type": 0,
+                "height": 150,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "crop",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_thumb.jpg",
+                "width": 150
+            },
+            {
+                "type": 0,
+                "height": 620,
+                "aspectratio": {
+                    "accuracy": 96.7742,
+                    "actual": "60:31",
+                    "closest": "2:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_medium.jpg",
+                "width": 1200
+            },
+            {
+                "type": 0,
+                "height": 351,
+                "aspectratio": {
+                    "accuracy": 96.8661,
+                    "actual": "680:351",
+                    "closest": "2:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_small.jpg",
+                "width": 680
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/p8nn7LOMsp",
+        "longitude": 0,
+        "mediaobjectid": "1126719808584601600",
+        "name": "What a week for the English clubs in Europe 👏👏 https://t.co/p8nn7LOMsp",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/P_nvzGw__normal.jpg",
+        "personfullname": "BBC Sport",
+        "personusername": "BBCSport",
+        "postentityid": "3_123456789_1126720030631124994",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": null
+    },
+    {
+        "createddate": 1643381629876,
+        "updateddate": 1638015081426,
         "type": 0,
-        "height": 150,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "crop",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_thumb.jpg",
-        "width": 150
-      },
-      {
+        "entityid": "3_123456789_1126248704476839938",
+        "personentityid": "3_123456789_2319121626",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126248704476839938",
+        "baseid": "3_123456789_1126248704476839938",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/GVhQMZqSRM",
+        "displayurlindexend": 56,
+        "displayurlindexstart": 33,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs.jpg",
+        "resources": [
+            {
+                "type": 0,
+                "height": 150,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "crop",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_thumb.jpg",
+                "width": 150
+            },
+            {
+                "type": 0,
+                "height": 654,
+                "aspectratio": {
+                    "accuracy": 96.0245,
+                    "actual": "340:327",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_small.jpg",
+                "width": 680
+            },
+            {
+                "type": 0,
+                "height": 1538,
+                "aspectratio": {
+                    "accuracy": 95.9688,
+                    "actual": "800:769",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_large.jpg",
+                "width": 1600
+            },
+            {
+                "type": 0,
+                "height": 1154,
+                "aspectratio": {
+                    "accuracy": 96.0139,
+                    "actual": "600:577",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_medium.jpg",
+                "width": 1200
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/GVhQMZqSRM",
+        "longitude": 0,
+        "mediaobjectid": "1126248704476839938",
+        "name": "Someone hang this in the Louvre. https://t.co/GVhQMZqSRM",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/0sP1ES_B_normal.jpg",
+        "personfullname": "Football on BT Sport",
+        "personusername": "btsportfootball",
+        "postentityid": "3_123456789_1126248984878694400",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": null
+    },
+    {
+        "createddate": 1643381329876,
+        "updateddate": 1638014781426,
+        "type": 1,
+        "entityid": "3_123456789_1126248239756394501",
+        "personentityid": "3_123456789_2319121626",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126248239756394501",
+        "baseid": "3_123456789_1126248239756394501",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/YmZZ5UwrOy",
+        "displayurlindexend": 119,
+        "displayurlindexstart": 96,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E8zbeXsAYXxKN.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 720,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/L4c7kfs_7y3d1v8V.mp4",
+                "width": 720,
+                "bitrate": 1280000,
+                "duration": 4200
+            },
+            {
+                "type": 1,
+                "height": 320,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/4CsGU0daKEI9CsMG.mp4",
+                "width": 320,
+                "bitrate": 432000,
+                "duration": 4200
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/kIZ-Nsy0nUkECt0s.m3u8",
+                "bitrate": 0,
+                "duration": 4200
+            },
+            {
+                "type": 1,
+                "height": 480,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/o_WnCMVH25pKM5x6.mp4",
+                "width": 480,
+                "bitrate": 832000,
+                "duration": 4200
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/YmZZ5UwrOy",
+        "longitude": 0,
+        "mediaobjectid": "1126248239756394501",
+        "name": "😂🤣😂🤣\n\n@rioferdy5 and @GlennHoddle reacting to Tottenham's winner is everything 🙌\n\nGreat limbs 👏 https://t.co/YmZZ5UwrOy",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/0sP1ES_B_normal.jpg",
+        "personfullname": "Football on BT Sport",
+        "personusername": "btsportfootball",
+        "postentityid": "3_123456789_1126248270513299456",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/L4c7kfs_7y3d1v8V.mp4"
+    },
+    {
+        "createddate": 1643381029876,
+        "updateddate": 1638014481426,
+        "type": 1,
+        "entityid": "3_123456789_1126139795749638144",
+        "personentityid": "3_123456789_4020532937",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126139795749638144",
+        "baseid": "3_123456789_1126139795749638144",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/cAwtBLr5Ko",
+        "displayurlindexend": 77,
+        "displayurlindexstart": 54,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DaLRMW0AAqvEm.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 320,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/TjSBCA9n2HkAmJYY.mp4",
+                "width": 320,
+                "bitrate": 432000,
+                "duration": 68193
+            },
+            {
+                "type": 1,
+                "height": 480,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/MS0rtySUiYJvLCwC.mp4",
+                "width": 480,
+                "bitrate": 832000,
+                "duration": 68193
+            },
+            {
+                "type": 1,
+                "height": 720,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/ylhuDUxPZaa1WMQL.mp4",
+                "width": 720,
+                "bitrate": 1280000,
+                "duration": 68193
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/lgDgzvpNRq8AeKVh.m3u8",
+                "bitrate": 0,
+                "duration": 68193
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/cAwtBLr5Ko",
+        "longitude": 0,
+        "mediaobjectid": "1126139795749638144",
+        "name": "Checkmate! This checkerboard cake has won my heart! 😍 https://t.co/cAwtBLr5Ko",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/2g4hxKQE_normal.jpg",
+        "personfullname": "Tasty",
+        "personusername": "tasty",
+        "postentityid": "3_123456789_1126154817687175172",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/TjSBCA9n2HkAmJYY.mp4"
+    },
+    {
+        "createddate": 1643380729876,
+        "updateddate": 1638014181426,
         "type": 0,
-        "height": 620,
-        "aspectratio": {
-          "accuracy": 96.7742,
-          "actual": "60:31",
-          "closest": "2:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_medium.jpg",
-        "width": 1200
-      },
-      {
+        "entityid": "3_123456789_1126150602487205888",
+        "personentityid": "3_123456789_5402612",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126150602487205888",
+        "baseid": "3_123456789_1126150602487205888",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/wZusAzWfOj",
+        "displayurlindexend": 133,
+        "displayurlindexstart": 110,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb_.jpg",
+        "resources": [
+            {
+                "type": 0,
+                "height": 150,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "crop",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__thumb.jpg",
+                "width": 150
+            },
+            {
+                "type": 0,
+                "height": 576,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__medium.jpg",
+                "width": 1024
+            },
+            {
+                "type": 0,
+                "height": 576,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__large.jpg",
+                "width": 1024
+            },
+            {
+                "type": 0,
+                "height": 383,
+                "aspectratio": {
+                    "accuracy": 99.8695,
+                    "actual": "680:383",
+                    "closest": "16:9"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__small.jpg",
+                "width": 680
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/wZusAzWfOj",
+        "longitude": 0,
+        "mediaobjectid": "1126150602487205888",
+        "name": "Harry and Meghan name their baby son Archie Harrison Mountbatten-Windsor\n\nhttps://t.co/RGfVNp0RLf #BabySussex https://t.co/wZusAzWfOj",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/M7gkjsv5_normal.jpg",
+        "personfullname": "BBC Breaking News",
+        "personusername": "BBCBreaking",
+        "postentityid": "3_123456789_1126150656836947973",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": null
+    },
+    {
+        "createddate": 1643380429876,
+        "updateddate": 1638013881426,
+        "type": 1,
+        "entityid": "3_123456789_1125898029167456257",
+        "personentityid": "3_123456789_23937508",
+        "accountentityid": "3_123456789",
+        "mediaid": "1125898029167456257",
+        "baseid": "3_123456789_1125898029167456257",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/fItdVPdu4r",
+        "displayurlindexend": 77,
+        "displayurlindexstart": 54,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/13yYbWvkSWB7XWAL.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 320,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/Z4AiYq3Y6GYhjziF.mp4",
+                "width": 320,
+                "bitrate": 432000,
+                "duration": 95762
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/4EBjO6VKlh_a7Men.m3u8",
+                "bitrate": 0,
+                "duration": 95762
+            },
+            {
+                "type": 1,
+                "height": 720,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/q_aaakPt7zYd6XKE.mp4",
+                "width": 720,
+                "bitrate": 1280000,
+                "duration": 95762
+            },
+            {
+                "type": 1,
+                "height": 480,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/ip8w3ykX-7z9Wa39.mp4",
+                "width": 480,
+                "bitrate": 832000,
+                "duration": 95762
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/fItdVPdu4r",
+        "longitude": 0,
+        "mediaobjectid": "1125898029167456257",
+        "name": "93 today! \n\nHappy Birthday, Sir David Attenborough! 🎉 https://t.co/fItdVPdu4r",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/XyZcU3lM_normal.jpg",
+        "personfullname": "BBC Radio 4",
+        "personusername": "BBCRadio4",
+        "postentityid": "3_123456789_1126111083452936192",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/Z4AiYq3Y6GYhjziF.mp4"
+    },
+    {
+        "createddate": 1643380129876,
+        "updateddate": 1638013581426,
         "type": 0,
-        "height": 351,
-        "aspectratio": {
-          "accuracy": 96.8661,
-          "actual": "680:351",
-          "closest": "2:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6LpskAU0AAwpo0_small.jpg",
-        "width": 680
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/p8nn7LOMsp",
-    "longitude": 0,
-    "mediaobjectid": "1126719808584601600",
-    "name": "What a week for the English clubs in Europe 👏👏 https://t.co/p8nn7LOMsp",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/P_nvzGw__normal.jpg",
-    "personfullname": "BBC Sport",
-    "personusername": "BBCSport",
-    "postentityid": "3_123456789_1126720030631124994",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": null
-  },
-  {
-    "createddate": 1638015081426,
-    "updateddate": 1638015081426,
-    "type": 0,
-    "entityid": "3_123456789_1126248704476839938",
-    "personentityid": "3_123456789_2319121626",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126248704476839938",
-    "baseid": "3_123456789_1126248704476839938",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/GVhQMZqSRM",
-    "displayurlindexend": 56,
-    "displayurlindexstart": 33,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs.jpg",
-    "resources": [
-      {
+        "entityid": "3_123456789_1126109627458912256",
+        "personentityid": "3_123456789_1152279248",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126109627458912256",
+        "baseid": "3_123456789_1126109627458912256",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/AKQzEzu9gi",
+        "displayurlindexend": 65,
+        "displayurlindexstart": 42,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb.jpg",
+        "resources": [
+            {
+                "type": 0,
+                "height": 150,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "crop",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_thumb.jpg",
+                "width": 150
+            },
+            {
+                "type": 0,
+                "height": 1350,
+                "aspectratio": {
+                    "accuracy": 80,
+                    "actual": "4:5",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_large.jpg",
+                "width": 1080
+            },
+            {
+                "type": 0,
+                "height": 680,
+                "aspectratio": {
+                    "accuracy": 80,
+                    "actual": "4:5",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_small.jpg",
+                "width": 544
+            },
+            {
+                "type": 0,
+                "height": 1200,
+                "aspectratio": {
+                    "accuracy": 80,
+                    "actual": "4:5",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_medium.jpg",
+                "width": 960
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/AKQzEzu9gi",
+        "longitude": 0,
+        "mediaobjectid": "1126109627458912256",
+        "name": "Blossom explosion 🌸 🌋 Photo by @hobopeeba https://t.co/AKQzEzu9gi",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/mcOketun_normal.jpg",
+        "personfullname": "Earth Pics",
+        "personusername": "EarthPix",
+        "postentityid": "3_123456789_1126109629489078272",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": null
+    },
+    {
+        "createddate": 1643379829876,
+        "updateddate": 1638013281426,
+        "type": 1,
+        "entityid": "3_123456789_1126109541081522176",
+        "personentityid": "3_123456789_2557521",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126109541081522176",
+        "baseid": "3_123456789_1126109541081522176",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/MT1AbGxaBa",
+        "displayurlindexend": 127,
+        "displayurlindexstart": 104,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/6KCqjEvxXuoqE0Ka.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 180,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/VvuC5qAuk4ao1a2X.mp4",
+                "width": 320,
+                "bitrate": 256000,
+                "duration": 22923
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/pYoqAYuUm22e_X5H.m3u8",
+                "bitrate": 0,
+                "duration": 22923
+            },
+            {
+                "type": 1,
+                "height": 720,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/jWBCMMZ6finnjbBo.mp4",
+                "width": 1280,
+                "bitrate": 2176000,
+                "duration": 22923
+            },
+            {
+                "type": 1,
+                "height": 360,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/Ah2hc1s-_JDFcnJw.mp4",
+                "width": 640,
+                "bitrate": 832000,
+                "duration": 22923
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/MT1AbGxaBa",
+        "longitude": 0,
+        "mediaobjectid": "1126109541081522176",
+        "name": "On This Date: 4 years ago, D-Rose hit the game-winner to beat the Cavs and forever became an NBA meme 🌹 https://t.co/MT1AbGxaBa",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/FriNRiir_normal.png",
+        "personfullname": "ESPN",
+        "personusername": "espn",
+        "postentityid": "3_123456789_1126109598195302400",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/VvuC5qAuk4ao1a2X.mp4"
+    },
+    {
+        "createddate": 1643379529876,
+        "updateddate": 1638012981426,
+        "type": 1,
+        "entityid": "3_123456789_1125846302263250952",
+        "personentityid": "3_123456789_900289746525724672",
+        "accountentityid": "3_123456789",
+        "mediaid": "1125846302263250952",
+        "baseid": "3_123456789_1125846302263250952",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/YWt5gdY4HT",
+        "displayurlindexend": 70,
+        "displayurlindexstart": 47,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/GQWtZz8kBEMELezW.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 360,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/-rkXq_Ke3jjey6W6.mp4",
+                "width": 640,
+                "bitrate": 832000,
+                "duration": 10883
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/HxLxeIpEbusu7k_5.m3u8",
+                "bitrate": 0,
+                "duration": 10883
+            },
+            {
+                "type": 1,
+                "height": 270,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/ZJz1aDp1hBrVzRMI.mp4",
+                "width": 480,
+                "bitrate": 256000,
+                "duration": 10883
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/YWt5gdY4HT",
+        "longitude": 0,
+        "mediaobjectid": "1125846302263250952",
+        "name": "another glaring editing mistake #GameOfThrones https://t.co/YWt5gdY4HT",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/mazVxvmC_normal.jpg",
+        "personfullname": "Michail Ostrowski",
+        "personusername": "schifty1988",
+        "postentityid": "3_123456789_1125846402121256960",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/-rkXq_Ke3jjey6W6.mp4"
+    },
+    {
+        "createddate": 1643379229876,
+        "updateddate": 1638012681426,
         "type": 0,
-        "height": 150,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "crop",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_thumb.jpg",
-        "width": 150
-      },
-      {
-        "type": 0,
-        "height": 654,
-        "aspectratio": {
-          "accuracy": 96.0245,
-          "actual": "340:327",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_small.jpg",
-        "width": 680
-      },
-      {
-        "type": 0,
-        "height": 1538,
-        "aspectratio": {
-          "accuracy": 95.9688,
-          "actual": "800:769",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_large.jpg",
-        "width": 1600
-      },
-      {
-        "type": 0,
-        "height": 1154,
-        "aspectratio": {
-          "accuracy": 96.0139,
-          "actual": "600:577",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E9OscWAAILtAs_medium.jpg",
-        "width": 1200
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/GVhQMZqSRM",
-    "longitude": 0,
-    "mediaobjectid": "1126248704476839938",
-    "name": "Someone hang this in the Louvre. https://t.co/GVhQMZqSRM",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/0sP1ES_B_normal.jpg",
-    "personfullname": "Football on BT Sport",
-    "personusername": "btsportfootball",
-    "postentityid": "3_123456789_1126248984878694400",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": null
-  },
-  {
-    "createddate": 1638014781426,
-    "updateddate": 1638014781426,
-    "type": 1,
-    "entityid": "3_123456789_1126248239756394501",
-    "personentityid": "3_123456789_2319121626",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126248239756394501",
-    "baseid": "3_123456789_1126248239756394501",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/YmZZ5UwrOy",
-    "displayurlindexend": 119,
-    "displayurlindexstart": 96,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6E8zbeXsAYXxKN.jpg",
-    "resources": [
-      {
+        "entityid": "3_123456789_1125564224267280386",
+        "personentityid": "3_123456789_32453930",
+        "accountentityid": "3_123456789",
+        "mediaid": "1125564224267280386",
+        "baseid": "3_123456789_1125564224267280386",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/33CJIHwQvz",
+        "displayurlindexend": 301,
+        "displayurlindexstart": 278,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz.jpg",
+        "resources": [
+            {
+                "type": 0,
+                "height": 1364,
+                "aspectratio": {
+                    "accuracy": 87.39,
+                    "actual": "512:341",
+                    "closest": "4:3"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_large.jpg",
+                "width": 2048
+            },
+            {
+                "type": 0,
+                "height": 453,
+                "aspectratio": {
+                    "accuracy": 87.4172,
+                    "actual": "680:453",
+                    "closest": "4:3"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_small.jpg",
+                "width": 680
+            },
+            {
+                "type": 0,
+                "height": 150,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "crop",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_thumb.jpg",
+                "width": 150
+            },
+            {
+                "type": 0,
+                "height": 799,
+                "aspectratio": {
+                    "accuracy": 87.3592,
+                    "actual": "1200:799",
+                    "closest": "4:3"
+                },
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_medium.jpg",
+                "width": 1200
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/33CJIHwQvz",
+        "longitude": 0,
+        "mediaobjectid": "1125564224267280386",
+        "name": "It’s an incredible privilege to be awarded the Presidential Medal of Freedom. Considering the recipients, history, and what this means to me and my family, it’s also very humbling. Thank you all for your support and I hope this inspires others to never give up on their dreams. https://t.co/33CJIHwQvz",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/ZzGM8Oae_normal.jpg",
+        "personfullname": "Tiger Woods",
+        "personusername": "TigerWoods",
+        "postentityid": "3_123456789_1125564231041126400",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": null
+    },
+    {
+        "createddate": 1643378929876,
+        "updateddate": 1638012381426,
         "type": 1,
-        "height": 720,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/L4c7kfs_7y3d1v8V.mp4",
-        "width": 720,
-        "bitrate": 1280000,
-        "duration": 4200
-      },
-      {
+        "entityid": "3_123456789_1123702316069281792",
+        "personentityid": "3_123456789_2319121626",
+        "accountentityid": "3_123456789",
+        "mediaid": "1123702316069281792",
+        "baseid": "3_123456789_1123702316069281792",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/uNQn8E6p4Y",
+        "displayurlindexend": 114,
+        "displayurlindexstart": 91,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D5gxTMYXoAAlC6r.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 720,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/eykgOez-TmrubWO4.mp4",
+                "width": 720,
+                "bitrate": 1280000,
+                "duration": 15840
+            },
+            {
+                "type": 1,
+                "height": 320,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/iJIDcXQB2OIh1Bw4.mp4",
+                "width": 320,
+                "bitrate": 432000,
+                "duration": 15840
+            },
+            {
+                "type": 1,
+                "height": 480,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/TCHXMmY556Pi5Cml.mp4",
+                "width": 480,
+                "bitrate": 832000,
+                "duration": 15840
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/WrjEHOsYpyWS11aK.m3u8",
+                "bitrate": 0,
+                "duration": 15840
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/uNQn8E6p4Y",
+        "longitude": 0,
+        "mediaobjectid": "1123702316069281792",
+        "name": "😱🤯\n\nWhen you think you've seen it all but Lionel Messi takes the game to a new level! 🙌\n\n🐐 https://t.co/uNQn8E6p4Y",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RW6D52vz_normal.jpg",
+        "personfullname": "Football on BT Sport",
+        "personusername": "btsportfootball",
+        "postentityid": "3_123456789_1123702374701391874",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/eykgOez-TmrubWO4.mp4"
+    },
+    {
+        "createddate": 1643378629876,
+        "updateddate": 1638012081426,
         "type": 1,
-        "height": 320,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/4CsGU0daKEI9CsMG.mp4",
-        "width": 320,
-        "bitrate": 432000,
-        "duration": 4200
-      },
-      {
+        "entityid": "3_123456789_1123531214613286912",
+        "personentityid": "3_123456789_2319121626",
+        "accountentityid": "3_123456789",
+        "mediaid": "1123531214613286912",
+        "baseid": "3_123456789_1123531214613286912",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/6AF6MJ5I6N",
+        "displayurlindexend": 116,
+        "displayurlindexstart": 93,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D5eVrzOWAAAzHek.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 320,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/kMQEi73ogj0x0-Rp.mp4",
+                "width": 320,
+                "bitrate": 432000,
+                "duration": 3280
+            },
+            {
+                "type": 1,
+                "height": 480,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/GItNgifxLB6EPr_w.mp4",
+                "width": 480,
+                "bitrate": 832000,
+                "duration": 3280
+            },
+            {
+                "type": 1,
+                "height": 720,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/3fCxpL7vlm8LZOoh.mp4",
+                "width": 720,
+                "bitrate": 1280000,
+                "duration": 3280
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/bNUcpW0puMjL6Xx5.m3u8",
+                "bitrate": 0,
+                "duration": 3280
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/6AF6MJ5I6N",
+        "longitude": 0,
+        "mediaobjectid": "1123531214613286912",
+        "name": "When you've told her you're free tonight and then remember Barcelona 🆚 Liverpool is on...\n\n😯 https://t.co/6AF6MJ5I6N",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RW6D52vz_normal.jpg",
+        "personfullname": "Football on BT Sport",
+        "personusername": "btsportfootball",
+        "postentityid": "3_123456789_1123531234972450817",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/kMQEi73ogj0x0-Rp.mp4"
+    },
+    {
+        "createddate": 1643378329876,
+        "updateddate": 1638011781426,
         "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/kIZ-Nsy0nUkECt0s.m3u8",
-        "bitrate": 0,
-        "duration": 4200
-      },
-      {
+        "entityid": "3_123456789_1126139244211331074",
+        "personentityid": "3_123456789_16211434",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126139244211331074",
+        "baseid": "3_123456789_1126139244211331074",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/WltnTfzktN",
+        "displayurlindexend": 85,
+        "displayurlindexstart": 62,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/_xtA5zoAVTzdiyHg.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "height": 352,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "49:54",
+                    "closest": "49:54"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/kat0AdbCAugcMmFY.mp4",
+                "width": 320,
+                "bitrate": 632000,
+                "duration": 15015
+            },
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "49:54",
+                    "closest": "49:54"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/A6f3EniKndgzIwUN.m3u8",
+                "bitrate": 0,
+                "duration": 15015
+            },
+            {
+                "type": 1,
+                "height": 792,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "49:54",
+                    "closest": "49:54"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/QLPwRX-_GlwOrqR6.mp4",
+                "width": 720,
+                "bitrate": 2176000,
+                "duration": 15015
+            },
+            {
+                "type": 1,
+                "height": 396,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "49:54",
+                    "closest": "49:54"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/_1mBxJKLGCxnAj_G.mp4",
+                "width": 360,
+                "bitrate": 832000,
+                "duration": 15015
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/WltnTfzktN",
+        "longitude": 0,
+        "mediaobjectid": "1126139244211331074",
+        "name": "The Duomo in #Florence is truly an architectural masterpiece. https://t.co/WltnTfzktN",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/7830ca91dc1c7e34a27100568e628a93_normal.png",
+        "personfullname": "Travel + Leisure",
+        "personusername": "TravelLeisure",
+        "postentityid": "3_123456789_1126143470081429504",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/kat0AdbCAugcMmFY.mp4"
+    },
+    {
+        "createddate": 1643378029876,
+        "updateddate": 1638011481426,
         "type": 1,
-        "height": 480,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/o_WnCMVH25pKM5x6.mp4",
-        "width": 480,
-        "bitrate": 832000,
-        "duration": 4200
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/YmZZ5UwrOy",
-    "longitude": 0,
-    "mediaobjectid": "1126248239756394501",
-    "name": "😂🤣😂🤣\n\n@rioferdy5 and @GlennHoddle reacting to Tottenham's winner is everything 🙌\n\nGreat limbs 👏 https://t.co/YmZZ5UwrOy",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/0sP1ES_B_normal.jpg",
-    "personfullname": "Football on BT Sport",
-    "personusername": "btsportfootball",
-    "postentityid": "3_123456789_1126248270513299456",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/L4c7kfs_7y3d1v8V.mp4"
-  },
-  {
-    "createddate": 1638014481426,
-    "updateddate": 1638014481426,
-    "type": 1,
-    "entityid": "3_123456789_1126139795749638144",
-    "personentityid": "3_123456789_4020532937",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126139795749638144",
-    "baseid": "3_123456789_1126139795749638144",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/cAwtBLr5Ko",
-    "displayurlindexend": 77,
-    "displayurlindexstart": 54,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DaLRMW0AAqvEm.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "height": 320,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/TjSBCA9n2HkAmJYY.mp4",
-        "width": 320,
-        "bitrate": 432000,
-        "duration": 68193
-      },
-      {
-        "type": 1,
-        "height": 480,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/MS0rtySUiYJvLCwC.mp4",
-        "width": 480,
-        "bitrate": 832000,
-        "duration": 68193
-      },
-      {
-        "type": 1,
-        "height": 720,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/ylhuDUxPZaa1WMQL.mp4",
-        "width": 720,
-        "bitrate": 1280000,
-        "duration": 68193
-      },
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/lgDgzvpNRq8AeKVh.m3u8",
-        "bitrate": 0,
-        "duration": 68193
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/cAwtBLr5Ko",
-    "longitude": 0,
-    "mediaobjectid": "1126139795749638144",
-    "name": "Checkmate! This checkerboard cake has won my heart! 😍 https://t.co/cAwtBLr5Ko",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/2g4hxKQE_normal.jpg",
-    "personfullname": "Tasty",
-    "personusername": "tasty",
-    "postentityid": "3_123456789_1126154817687175172",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/TjSBCA9n2HkAmJYY.mp4"
-  },
-  {
-    "createddate": 1638014181426,
-    "updateddate": 1638014181426,
-    "type": 0,
-    "entityid": "3_123456789_1126150602487205888",
-    "personentityid": "3_123456789_5402612",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126150602487205888",
-    "baseid": "3_123456789_1126150602487205888",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/wZusAzWfOj",
-    "displayurlindexend": 133,
-    "displayurlindexstart": 110,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb_.jpg",
-    "resources": [
-      {
-        "type": 0,
-        "height": 150,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "crop",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__thumb.jpg",
-        "width": 150
-      },
-      {
-        "type": 0,
-        "height": 576,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__medium.jpg",
-        "width": 1024
-      },
-      {
-        "type": 0,
-        "height": 576,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__large.jpg",
-        "width": 1024
-      },
-      {
-        "type": 0,
-        "height": 383,
-        "aspectratio": {
-          "accuracy": 99.8695,
-          "actual": "680:383",
-          "closest": "16:9"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DkAaDXkAAfKb__small.jpg",
-        "width": 680
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/wZusAzWfOj",
-    "longitude": 0,
-    "mediaobjectid": "1126150602487205888",
-    "name": "Harry and Meghan name their baby son Archie Harrison Mountbatten-Windsor\n\nhttps://t.co/RGfVNp0RLf #BabySussex https://t.co/wZusAzWfOj",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/M7gkjsv5_normal.jpg",
-    "personfullname": "BBC Breaking News",
-    "personusername": "BBCBreaking",
-    "postentityid": "3_123456789_1126150656836947973",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": null
-  },
-  {
-    "createddate": 1638013881426,
-    "updateddate": 1638013881426,
-    "type": 1,
-    "entityid": "3_123456789_1125898029167456257",
-    "personentityid": "3_123456789_23937508",
-    "accountentityid": "3_123456789",
-    "mediaid": "1125898029167456257",
-    "baseid": "3_123456789_1125898029167456257",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/fItdVPdu4r",
-    "displayurlindexend": 77,
-    "displayurlindexstart": 54,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/13yYbWvkSWB7XWAL.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "height": 320,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/Z4AiYq3Y6GYhjziF.mp4",
-        "width": 320,
-        "bitrate": 432000,
-        "duration": 95762
-      },
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/4EBjO6VKlh_a7Men.m3u8",
-        "bitrate": 0,
-        "duration": 95762
-      },
-      {
-        "type": 1,
-        "height": 720,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/q_aaakPt7zYd6XKE.mp4",
-        "width": 720,
-        "bitrate": 1280000,
-        "duration": 95762
-      },
-      {
-        "type": 1,
-        "height": 480,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/ip8w3ykX-7z9Wa39.mp4",
-        "width": 480,
-        "bitrate": 832000,
-        "duration": 95762
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/fItdVPdu4r",
-    "longitude": 0,
-    "mediaobjectid": "1125898029167456257",
-    "name": "93 today! \n\nHappy Birthday, Sir David Attenborough! 🎉 https://t.co/fItdVPdu4r",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/XyZcU3lM_normal.jpg",
-    "personfullname": "BBC Radio 4",
-    "personusername": "BBCRadio4",
-    "postentityid": "3_123456789_1126111083452936192",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/Z4AiYq3Y6GYhjziF.mp4"
-  },
-  {
-    "createddate": 1638013581426,
-    "updateddate": 1638013581426,
-    "type": 0,
-    "entityid": "3_123456789_1126109627458912256",
-    "personentityid": "3_123456789_1152279248",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126109627458912256",
-    "baseid": "3_123456789_1126109627458912256",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/AKQzEzu9gi",
-    "displayurlindexend": 65,
-    "displayurlindexstart": 42,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb.jpg",
-    "resources": [
-      {
-        "type": 0,
-        "height": 150,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "crop",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_thumb.jpg",
-        "width": 150
-      },
-      {
-        "type": 0,
-        "height": 1350,
-        "aspectratio": {
-          "accuracy": 80,
-          "actual": "4:5",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_large.jpg",
-        "width": 1080
-      },
-      {
-        "type": 0,
-        "height": 680,
-        "aspectratio": {
-          "accuracy": 80,
-          "actual": "4:5",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_small.jpg",
-        "width": 544
-      },
-      {
-        "type": 0,
-        "height": 1200,
-        "aspectratio": {
-          "accuracy": 80,
-          "actual": "4:5",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6C-vWLWAAA3Fhb_medium.jpg",
-        "width": 960
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/AKQzEzu9gi",
-    "longitude": 0,
-    "mediaobjectid": "1126109627458912256",
-    "name": "Blossom explosion 🌸 🌋 Photo by @hobopeeba https://t.co/AKQzEzu9gi",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/mcOketun_normal.jpg",
-    "personfullname": "Earth Pics",
-    "personusername": "EarthPix",
-    "postentityid": "3_123456789_1126109629489078272",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": null
-  },
-  {
-    "createddate": 1638013281426,
-    "updateddate": 1638013281426,
-    "type": 1,
-    "entityid": "3_123456789_1126109541081522176",
-    "personentityid": "3_123456789_2557521",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126109541081522176",
-    "baseid": "3_123456789_1126109541081522176",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/MT1AbGxaBa",
-    "displayurlindexend": 127,
-    "displayurlindexstart": 104,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/6KCqjEvxXuoqE0Ka.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "height": 180,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/VvuC5qAuk4ao1a2X.mp4",
-        "width": 320,
-        "bitrate": 256000,
-        "duration": 22923
-      },
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/pYoqAYuUm22e_X5H.m3u8",
-        "bitrate": 0,
-        "duration": 22923
-      },
-      {
-        "type": 1,
-        "height": 720,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/jWBCMMZ6finnjbBo.mp4",
-        "width": 1280,
-        "bitrate": 2176000,
-        "duration": 22923
-      },
-      {
-        "type": 1,
-        "height": 360,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/Ah2hc1s-_JDFcnJw.mp4",
-        "width": 640,
-        "bitrate": 832000,
-        "duration": 22923
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/MT1AbGxaBa",
-    "longitude": 0,
-    "mediaobjectid": "1126109541081522176",
-    "name": "On This Date: 4 years ago, D-Rose hit the game-winner to beat the Cavs and forever became an NBA meme 🌹 https://t.co/MT1AbGxaBa",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/FriNRiir_normal.png",
-    "personfullname": "ESPN",
-    "personusername": "espn",
-    "postentityid": "3_123456789_1126109598195302400",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/VvuC5qAuk4ao1a2X.mp4"
-  },
-  {
-    "createddate": 1638012981426,
-    "updateddate": 1638012981426,
-    "type": 1,
-    "entityid": "3_123456789_1125846302263250952",
-    "personentityid": "3_123456789_900289746525724672",
-    "accountentityid": "3_123456789",
-    "mediaid": "1125846302263250952",
-    "baseid": "3_123456789_1125846302263250952",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/YWt5gdY4HT",
-    "displayurlindexend": 70,
-    "displayurlindexstart": 47,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/GQWtZz8kBEMELezW.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "height": 360,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/-rkXq_Ke3jjey6W6.mp4",
-        "width": 640,
-        "bitrate": 832000,
-        "duration": 10883
-      },
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/HxLxeIpEbusu7k_5.m3u8",
-        "bitrate": 0,
-        "duration": 10883
-      },
-      {
-        "type": 1,
-        "height": 270,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "16:9",
-          "closest": "16:9"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/ZJz1aDp1hBrVzRMI.mp4",
-        "width": 480,
-        "bitrate": 256000,
-        "duration": 10883
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/YWt5gdY4HT",
-    "longitude": 0,
-    "mediaobjectid": "1125846302263250952",
-    "name": "another glaring editing mistake #GameOfThrones https://t.co/YWt5gdY4HT",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/mazVxvmC_normal.jpg",
-    "personfullname": "Michail Ostrowski",
-    "personusername": "schifty1988",
-    "postentityid": "3_123456789_1125846402121256960",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/-rkXq_Ke3jjey6W6.mp4"
-  },
-  {
-    "createddate": 1638012681426,
-    "updateddate": 1638012681426,
-    "type": 0,
-    "entityid": "3_123456789_1125564224267280386",
-    "personentityid": "3_123456789_32453930",
-    "accountentityid": "3_123456789",
-    "mediaid": "1125564224267280386",
-    "baseid": "3_123456789_1125564224267280386",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/33CJIHwQvz",
-    "displayurlindexend": 301,
-    "displayurlindexstart": 278,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz.jpg",
-    "resources": [
-      {
-        "type": 0,
-        "height": 1364,
-        "aspectratio": {
-          "accuracy": 87.39,
-          "actual": "512:341",
-          "closest": "4:3"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_large.jpg",
-        "width": 2048
-      },
-      {
-        "type": 0,
-        "height": 453,
-        "aspectratio": {
-          "accuracy": 87.4172,
-          "actual": "680:453",
-          "closest": "4:3"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_small.jpg",
-        "width": 680
-      },
-      {
-        "type": 0,
-        "height": 150,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "crop",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_thumb.jpg",
-        "width": 150
-      },
-      {
-        "type": 0,
-        "height": 799,
-        "aspectratio": {
-          "accuracy": 87.3592,
-          "actual": "1200:799",
-          "closest": "4:3"
-        },
-        "mimetype": "image/jpeg",
-        "resize": "fit",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/D57Oss9W4AI-Ahz_medium.jpg",
-        "width": 1200
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/33CJIHwQvz",
-    "longitude": 0,
-    "mediaobjectid": "1125564224267280386",
-    "name": "It’s an incredible privilege to be awarded the Presidential Medal of Freedom. Considering the recipients, history, and what this means to me and my family, it’s also very humbling. Thank you all for your support and I hope this inspires others to never give up on their dreams. https://t.co/33CJIHwQvz",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/ZzGM8Oae_normal.jpg",
-    "personfullname": "Tiger Woods",
-    "personusername": "TigerWoods",
-    "postentityid": "3_123456789_1125564231041126400",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": null
-  },
-  {
-    "createddate": 1638012381426,
-    "updateddate": 1638012381426,
-    "type": 1,
-    "entityid": "3_123456789_1123702316069281792",
-    "personentityid": "3_123456789_2319121626",
-    "accountentityid": "3_123456789",
-    "mediaid": "1123702316069281792",
-    "baseid": "3_123456789_1123702316069281792",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/uNQn8E6p4Y",
-    "displayurlindexend": 114,
-    "displayurlindexstart": 91,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D5gxTMYXoAAlC6r.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "height": 720,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/eykgOez-TmrubWO4.mp4",
-        "width": 720,
-        "bitrate": 1280000,
-        "duration": 15840
-      },
-      {
-        "type": 1,
-        "height": 320,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/iJIDcXQB2OIh1Bw4.mp4",
-        "width": 320,
-        "bitrate": 432000,
-        "duration": 15840
-      },
-      {
-        "type": 1,
-        "height": 480,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/TCHXMmY556Pi5Cml.mp4",
-        "width": 480,
-        "bitrate": 832000,
-        "duration": 15840
-      },
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/WrjEHOsYpyWS11aK.m3u8",
-        "bitrate": 0,
-        "duration": 15840
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/uNQn8E6p4Y",
-    "longitude": 0,
-    "mediaobjectid": "1123702316069281792",
-    "name": "😱🤯\n\nWhen you think you've seen it all but Lionel Messi takes the game to a new level! 🙌\n\n🐐 https://t.co/uNQn8E6p4Y",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RW6D52vz_normal.jpg",
-    "personfullname": "Football on BT Sport",
-    "personusername": "btsportfootball",
-    "postentityid": "3_123456789_1123702374701391874",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/eykgOez-TmrubWO4.mp4"
-  },
-  {
-    "createddate": 1638012081426,
-    "updateddate": 1638012081426,
-    "type": 1,
-    "entityid": "3_123456789_1123531214613286912",
-    "personentityid": "3_123456789_2319121626",
-    "accountentityid": "3_123456789",
-    "mediaid": "1123531214613286912",
-    "baseid": "3_123456789_1123531214613286912",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/6AF6MJ5I6N",
-    "displayurlindexend": 116,
-    "displayurlindexstart": 93,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D5eVrzOWAAAzHek.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "height": 320,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/kMQEi73ogj0x0-Rp.mp4",
-        "width": 320,
-        "bitrate": 432000,
-        "duration": 3280
-      },
-      {
-        "type": 1,
-        "height": 480,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/GItNgifxLB6EPr_w.mp4",
-        "width": 480,
-        "bitrate": 832000,
-        "duration": 3280
-      },
-      {
-        "type": 1,
-        "height": 720,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/3fCxpL7vlm8LZOoh.mp4",
-        "width": 720,
-        "bitrate": 1280000,
-        "duration": 3280
-      },
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/bNUcpW0puMjL6Xx5.m3u8",
-        "bitrate": 0,
-        "duration": 3280
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/6AF6MJ5I6N",
-    "longitude": 0,
-    "mediaobjectid": "1123531214613286912",
-    "name": "When you've told her you're free tonight and then remember Barcelona 🆚 Liverpool is on...\n\n😯 https://t.co/6AF6MJ5I6N",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RW6D52vz_normal.jpg",
-    "personfullname": "Football on BT Sport",
-    "personusername": "btsportfootball",
-    "postentityid": "3_123456789_1123531234972450817",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/kMQEi73ogj0x0-Rp.mp4"
-  },
-  {
-    "createddate": 1638011781426,
-    "updateddate": 1638011781426,
-    "type": 1,
-    "entityid": "3_123456789_1126139244211331074",
-    "personentityid": "3_123456789_16211434",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126139244211331074",
-    "baseid": "3_123456789_1126139244211331074",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/WltnTfzktN",
-    "displayurlindexend": 85,
-    "displayurlindexstart": 62,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/_xtA5zoAVTzdiyHg.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "height": 352,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "49:54",
-          "closest": "49:54"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/kat0AdbCAugcMmFY.mp4",
-        "width": 320,
-        "bitrate": 632000,
-        "duration": 15015
-      },
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "49:54",
-          "closest": "49:54"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/A6f3EniKndgzIwUN.m3u8",
-        "bitrate": 0,
-        "duration": 15015
-      },
-      {
-        "type": 1,
-        "height": 792,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "49:54",
-          "closest": "49:54"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/QLPwRX-_GlwOrqR6.mp4",
-        "width": 720,
-        "bitrate": 2176000,
-        "duration": 15015
-      },
-      {
-        "type": 1,
-        "height": 396,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "49:54",
-          "closest": "49:54"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/_1mBxJKLGCxnAj_G.mp4",
-        "width": 360,
-        "bitrate": 832000,
-        "duration": 15015
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/WltnTfzktN",
-    "longitude": 0,
-    "mediaobjectid": "1126139244211331074",
-    "name": "The Duomo in #Florence is truly an architectural masterpiece. https://t.co/WltnTfzktN",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/7830ca91dc1c7e34a27100568e628a93_normal.png",
-    "personfullname": "Travel + Leisure",
-    "personusername": "TravelLeisure",
-    "postentityid": "3_123456789_1126143470081429504",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/kat0AdbCAugcMmFY.mp4"
-  },
-  {
-    "createddate": 1638011481426,
-    "updateddate": 1638011481426,
-    "type": 1,
-    "entityid": "3_123456789_1126131243131781120",
-    "personentityid": "3_123456789_2319121626",
-    "accountentityid": "3_123456789",
-    "mediaid": "1126131243131781120",
-    "baseid": "3_123456789_1126131243131781120",
-    "commentcount": 0,
-    "displayshorturl": "https://t.co/TQUMYjolfL",
-    "displayurlindexend": 73,
-    "displayurlindexstart": 50,
-    "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DSZXPWAAAzAot.jpg",
-    "resources": [
-      {
-        "type": 1,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "application/x-mpegURL",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/RL858s6DlrFlGSUQ.m3u8",
-        "bitrate": 0,
-        "duration": 17400
-      },
-      {
-        "type": 1,
-        "height": 320,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/gB5Im_xX8i5GpDP7.mp4",
-        "width": 320,
-        "bitrate": 432000,
-        "duration": 17400
-      },
-      {
-        "type": 1,
-        "height": 720,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/LgrABIiXtinahxPv.mp4",
-        "width": 720,
-        "bitrate": 1280000,
-        "duration": 17400
-      },
-      {
-        "type": 1,
-        "height": 480,
-        "aspectratio": {
-          "accuracy": 100,
-          "actual": "1:1",
-          "closest": "1:1"
-        },
-        "mimetype": "video/mp4",
-        "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/qLttFjerg2NHwM_9.mp4",
-        "width": 480,
-        "bitrate": 832000,
-        "duration": 17400
-      }
-    ],
-    "interestscore": 0,
-    "latitude": 0,
-    "likecount": 0,
-    "link": "pic.twitter.com/TQUMYjolfL",
-    "longitude": 0,
-    "mediaobjectid": "1126131243131781120",
-    "name": "This is what Ajax are all about 🤤😍\n\nMesmerising 👏 https://t.co/TQUMYjolfL",
-    "originatortype": 5,
-    "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RW6D52vz_normal.jpg",
-    "personfullname": "Football on BT Sport",
-    "personusername": "btsportfootball",
-    "postentityid": "3_123456789_1126131297053749250",
-    "tagcount": 0,
-    "taggedpeoplecount": 0,
-    "videofilerelativepath": null,
-    "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RL858s6DlrFlGSUQ.m3u8"
-  }
+        "entityid": "3_123456789_1126131243131781120",
+        "personentityid": "3_123456789_2319121626",
+        "accountentityid": "3_123456789",
+        "mediaid": "1126131243131781120",
+        "baseid": "3_123456789_1126131243131781120",
+        "commentcount": 0,
+        "displayshorturl": "https://t.co/TQUMYjolfL",
+        "displayurlindexend": 73,
+        "displayurlindexstart": 50,
+        "imagefileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/D6DSZXPWAAAzAot.jpg",
+        "resources": [
+            {
+                "type": 1,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "application/x-mpegURL",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/RL858s6DlrFlGSUQ.m3u8",
+                "bitrate": 0,
+                "duration": 17400
+            },
+            {
+                "type": 1,
+                "height": 320,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/gB5Im_xX8i5GpDP7.mp4",
+                "width": 320,
+                "bitrate": 432000,
+                "duration": 17400
+            },
+            {
+                "type": 1,
+                "height": 720,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/LgrABIiXtinahxPv.mp4",
+                "width": 720,
+                "bitrate": 1280000,
+                "duration": 17400
+            },
+            {
+                "type": 1,
+                "height": 480,
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "1:1",
+                    "closest": "1:1"
+                },
+                "mimetype": "video/mp4",
+                "url": "https://securedownloads.digi.me/sample/twitter/media/json_6/qLttFjerg2NHwM_9.mp4",
+                "width": 480,
+                "bitrate": 832000,
+                "duration": 17400
+            }
+        ],
+        "interestscore": 0,
+        "latitude": 0,
+        "likecount": 0,
+        "link": "pic.twitter.com/TQUMYjolfL",
+        "longitude": 0,
+        "mediaobjectid": "1126131243131781120",
+        "name": "This is what Ajax are all about 🤤😍\n\nMesmerising 👏 https://t.co/TQUMYjolfL",
+        "originatortype": 5,
+        "personfileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RW6D52vz_normal.jpg",
+        "personfullname": "Football on BT Sport",
+        "personusername": "btsportfootball",
+        "postentityid": "3_123456789_1126131297053749250",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "videofilerelativepath": null,
+        "videofileurl": "https://securedownloads.digi.me/sample/twitter/media/json_6/RL858s6DlrFlGSUQ.m3u8"
+    }
 ]
