@@ -1,0 +1,45 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountname": "Joint Checking - 9060",
+        "accountnumber": "xxxx9060",
+        "accountstatus": "ACTIVE",
+        "accounttype": 4,
+        "aggregationsource": "USER",
+        "availablebalance": {
+            "amount": 168561.81,
+            "currency": "USD"
+        },
+        "balance": {
+            "amount": 168561.81,
+            "currency": "USD"
+        },
+        "classification": "PERSONAL",
+        "container": "bank",
+        "createddate": 1612395895855,
+        "currentbalance": {
+            "amount": 168561.81,
+            "currency": "USD"
+        },
+        "dataset": [
+            {
+                "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+                "lastupdated": "2022-12-02T12:28:10Z",
+                "lastupdateattempt": "2022-12-02T12:28:10Z",
+                "name": "BASIC_AGG_DATA",
+                "nextupdatescheduled": "2022-12-03T11:45:53Z",
+                "updateeligibility": "ALLOW_UPDATE"
+            }
+        ],
+        "displayedname": "LYDIA",
+        "id": 10099182,
+        "entityid": "35_123456789",
+        "includeinnetworth": true,
+        "isasset": true,
+        "ismanual": false,
+        "lastupdated": "2022-12-02T12:28:09Z",
+        "provideraccountid": 10023548,
+        "providerid": "16441",
+        "providername": "Dag Site"
+    }
+]

@@ -1,23 +1,64 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 0,
-        "currency": "USD",
-        "basetype": "CREDIT",
+        "accountid": 10099182,
+        "amount": {
+            "amount": 1105.84,
+            "currency": "USD"
+        },
         "category": "Uncategorised",
         "categoryid": 1,
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
-        "originalref": "loan payment",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2022-12-01",
+        "description": {
+            "original": "8 TO XX XXXXX0001 LOMBARD IL XXXXXXXXXXX XXXXXX8501"
+        },
         "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224844",
-        "id": "10224844",
+        "id": 33835950,
+        "entityid": "35_33835950",
         "ismanual": false,
-        "status": "POSTED",
-        "sourceid": "16539336",
+        "postdate": "2022-12-01",
+        "runningbalance": {
+            "amount": 1105.84,
+            "currency": "USD"
+        },
         "sourcetype": "AGGREGATED",
-        "createddate": 1580515200000,
-        "transactiondate": 1580515200000
+        "status": "POSTED",
+        "transactiondate": "2022-12-01",
+        "createddate": 1391052331855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099182,
+        "amount": {
+            "amount": 21.99,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2022-12-01",
+        "description": {
+            "original": "BEEHIVE STORAGE LC BOUNTIFUL UT"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 33835649,
+        "entityid": "35_33835649",
+        "ismanual": false,
+        "postdate": "2022-12-01",
+        "runningbalance": {
+            "amount": 1083.85,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2022-12-01",
+        "createddate": 1391052031855
     }
 ]

@@ -1,27 +1,28 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 1207.98,
-        "currency": "USD",
+        "accountid": 10099190,
+        "amount": {
+            "amount": 0,
+            "currency": "USD"
+        },
         "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "category": "Loans",
+        "categoryid": 17,
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224952",
-        "id": "10224952",
-        "interestamount": 475.36,
-        "interestcurrency": "USD",
+        "categorytype": "EXPENSE",
+        "container": "loan",
+        "date": "2020-02-01",
+        "description": {
+            "original": "student loan payment"
+        },
+        "highlevelcategoryid": 10000004,
+        "id": 10250655,
+        "entityid": "35_10250655",
         "ismanual": false,
-        "principalamount": 732.62,
-        "principalcurrency": "USD",
-        "status": "POSTED",
-        "sourceid": "94784737",
         "sourcetype": "AGGREGATED",
-        "createddate": 1548979200000,
-        "transactiondate": 1548979200000
+        "status": "POSTED",
+        "transactiondate": "2020-02-01",
+        "createddate": 1633430863855
     }
 ]

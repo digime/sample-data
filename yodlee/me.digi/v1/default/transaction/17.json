@@ -1,44 +1,266 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 0,
-        "currency": "USD",
-        "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "accountid": 10099185,
+        "amount": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": 36,
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224942",
-        "id": "10224942",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2020-03-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": 10000015,
+        "id": 11166043,
+        "entityid": "35_11166043",
         "ismanual": false,
-        "status": "POSTED",
-        "sourceid": "3184454",
+        "settledate": "2020-03-12",
         "sourcetype": "AGGREGATED",
-        "createddate": 1572566400000,
-        "transactiondate": 1572566400000
+        "status": "POSTED",
+        "transactiondate": "2020-03-09",
+        "createddate": 1586043235855,
+        "type": "WITHDRAWAL"
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 0,
-        "currency": "USD",
-        "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "accountid": 10099185,
+        "amount": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": 36,
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224941",
-        "id": "10224941",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-03-09",
+        "description": {
+            "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": 10000015,
+        "id": 11166042,
+        "entityid": "35_11166042",
         "ismanual": false,
-        "status": "POSTED",
-        "sourceid": "97815698",
+        "price": {
+            "amount": 1901.09,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2020-03-12",
         "sourcetype": "AGGREGATED",
-        "createddate": 1572566400000,
-        "transactiondate": 1572566400000
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2020-03-09",
+        "createddate": 1586042935855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099185,
+        "amount": {
+            "amount": 21150.5,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": 27,
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2020-03-03",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": 10000012,
+        "id": 11166047,
+        "entityid": "35_11166047",
+        "ismanual": false,
+        "settledate": "2020-03-06",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-03-03",
+        "createddate": 1586042635855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099185,
+        "amount": {
+            "amount": 21150.5,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": 36,
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-03-03",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": 10000015,
+        "id": 11166046,
+        "entityid": "35_11166046",
+        "ismanual": false,
+        "price": {
+            "amount": 38.1,
+            "currency": "USD"
+        },
+        "quantity": 555,
+        "settledate": "2020-03-06",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2020-03-03",
+        "createddate": 1586042335855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099185,
+        "amount": {
+            "amount": 1605.2,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": 27,
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2020-03-03",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": 10000012,
+        "id": 11166045,
+        "entityid": "35_11166045",
+        "ismanual": false,
+        "settledate": "2020-03-06",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-03-03",
+        "createddate": 1586042035855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099185,
+        "amount": {
+            "amount": 1605.2,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": 36,
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-03-03",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": 10000015,
+        "id": 11166044,
+        "entityid": "35_11166044",
+        "ismanual": false,
+        "price": {
+            "amount": 38.1,
+            "currency": "USD"
+        },
+        "quantity": 42,
+        "settledate": "2020-03-06",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2020-03-03",
+        "createddate": 1586041735855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099185,
+        "amount": {
+            "amount": 58117.6,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": 27,
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2020-03-02",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": 10000012,
+        "id": 11166049,
+        "entityid": "35_11166049",
+        "ismanual": false,
+        "settledate": "2020-03-05",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-03-02",
+        "createddate": 1586041435855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099185,
+        "amount": {
+            "amount": 58117.6,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": 36,
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-03-02",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": 10000015,
+        "id": 11166048,
+        "entityid": "35_11166048",
+        "ismanual": false,
+        "price": {
+            "amount": 36.05,
+            "currency": "USD"
+        },
+        "quantity": 1612,
+        "settledate": "2020-03-05",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2020-03-02",
+        "createddate": 1586041135855,
+        "type": "SELL"
     }
 ]

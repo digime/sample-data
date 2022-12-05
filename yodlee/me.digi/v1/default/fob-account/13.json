@@ -1,0 +1,43 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountname": "My CD - 8878",
+        "accountnumber": "xxxx8878",
+        "accountstatus": "ACTIVE",
+        "accounttype": 4,
+        "aggregationsource": "USER",
+        "annualpercentageyield": 2.46,
+        "balance": {
+            "amount": 49778.07,
+            "currency": "USD"
+        },
+        "container": "bank",
+        "createddate": 1607136103855,
+        "currentbalance": {
+            "amount": 49778.07,
+            "currency": "USD"
+        },
+        "dataset": [
+            {
+                "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+                "lastupdated": "2022-12-02T12:28:10Z",
+                "lastupdateattempt": "2022-12-02T12:28:10Z",
+                "name": "BASIC_AGG_DATA",
+                "nextupdatescheduled": "2022-12-03T11:45:53Z",
+                "updateeligibility": "ALLOW_UPDATE"
+            }
+        ],
+        "displayedname": "LORETTA",
+        "id": 10086200,
+        "entityid": "35_123456789",
+        "includeinnetworth": true,
+        "interestrate": 2.46,
+        "isasset": true,
+        "ismanual": false,
+        "lastupdated": "2022-12-02T12:28:09Z",
+        "maturitydate": "2022-09-10",
+        "provideraccountid": 10023548,
+        "providerid": "16441",
+        "providername": "Dag Site"
+    }
+]

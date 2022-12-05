@@ -1,27 +1,963 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 2783.54,
-        "currency": "USD",
-        "basetype": "CREDIT",
-        "category": "Loans",
-        "categoryid": 17,
+        "accountid": 10099183,
+        "amount": {
+            "amount": 656.59,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
         "categorysource": "SYSTEM",
-        "categorytype": "EXPENSE",
-        "originalref": "student loan payment",
-        "highlevelcategoryid": 10000004,
-        "entityid": "35_123456789_10224930",
-        "id": "10224930",
-        "interestamount": 498.15,
-        "interestcurrency": "USD",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-07",
+        "description": {
+            "original": "CITY OF ATLANTA GOLFATLANTA GA 6IOE5V5GAOC PUBLIC GOLF COURSE"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814868,
+        "entityid": "35_32814868",
         "ismanual": false,
-        "principalamount": 2285.39,
-        "principalcurrency": "USD",
-        "status": "POSTED",
-        "sourceid": "44288839",
+        "postdate": "2020-10-07",
+        "runningbalance": {
+            "amount": 47840.19,
+            "currency": "USD"
+        },
         "sourcetype": "AGGREGATED",
-        "createddate": 1551398400000,
-        "transactiondate": 1551398400000
+        "status": "POSTED",
+        "transactiondate": "2020-10-07",
+        "createddate": 1538599207855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 1237.79,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-06",
+        "description": {
+            "original": "BOS HUDSON ST1894 18 BOSTON MA REF# XXXXXXX XXX-XXX-7711"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814869,
+        "entityid": "35_32814869",
+        "ismanual": false,
+        "postdate": "2020-10-06",
+        "runningbalance": {
+            "amount": 47183.6,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-06",
+        "createddate": 1538598907855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 1159.25,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-05",
+        "description": {
+            "original": "ANA ENTERPRISE BILLING XXX-XXX7709 MD"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814870,
+        "entityid": "35_32814870",
+        "ismanual": false,
+        "postdate": "2020-10-05",
+        "runningbalance": {
+            "amount": 45945.81,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-05",
+        "createddate": 1538598607855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 150.8,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-04",
+        "description": {
+            "original": "AMZN MKTP US*MN2C98UX0 AMZN.COM/BILL WA"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814871,
+        "entityid": "35_32814871",
+        "ismanual": false,
+        "postdate": "2020-10-04",
+        "runningbalance": {
+            "amount": 44786.56,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-04",
+        "createddate": 1538598307855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 40.84,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-03",
+        "description": {
+            "original": "CHILOSO_3 WYLIE TX"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814872,
+        "entityid": "35_32814872",
+        "ismanual": false,
+        "postdate": "2020-10-03",
+        "runningbalance": {
+            "amount": 44937.36,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-03",
+        "createddate": 1538598007855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 87.96,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-02",
+        "description": {
+            "original": "CITY CHICAGO TICKET WE XXX-XXX-7275 IL"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814873,
+        "entityid": "35_32814873",
+        "ismanual": false,
+        "postdate": "2020-10-02",
+        "runningbalance": {
+            "amount": 44978.2,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-02",
+        "createddate": 1538597707855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 47.12,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-01",
+        "description": {
+            "original": "ACUSHNET WHQ XX9854 FAIRHAVEN MA REF# XXXXXXXXX XXX-XXX3099"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814874,
+        "entityid": "35_32814874",
+        "ismanual": false,
+        "postdate": "2020-10-01",
+        "runningbalance": {
+            "amount": 45066.16,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-01",
+        "createddate": 1538597407855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 782.26,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-26",
+        "description": {
+            "original": "ANA ENTERPRISE BILLING XXX-XXX7709 MD"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814849,
+        "entityid": "35_32814849",
+        "ismanual": false,
+        "postdate": "2020-10-26",
+        "runningbalance": {
+            "amount": 49778.56,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-26",
+        "createddate": 1538597107855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 28.27,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-25",
+        "description": {
+            "original": "AUS 3187 SECOND BAR AUSTIN TX REF# XXXXXXXXXXX XXXXXX3011"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814850,
+        "entityid": "35_32814850",
+        "ismanual": false,
+        "postdate": "2020-10-25",
+        "runningbalance": {
+            "amount": 48996.3,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-25",
+        "createddate": 1538596807855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 100.53,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-24",
+        "description": {
+            "original": "NEW YORK     NY"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814851,
+        "entityid": "35_32814851",
+        "ismanual": false,
+        "postdate": "2020-10-24",
+        "runningbalance": {
+            "amount": 49024.57,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-24",
+        "createddate": 1538596507855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 131.95,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-23",
+        "description": {
+            "original": "AMK GOLDMAN SACHS MASH NEW YORK NY"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814852,
+        "entityid": "35_32814852",
+        "ismanual": false,
+        "postdate": "2020-10-23",
+        "runningbalance": {
+            "amount": 49125.1,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-23",
+        "createddate": 1538596207855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 53.41,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-22",
+        "description": {
+            "original": "AMK GOLDMAN SACHS MASH"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814853,
+        "entityid": "35_32814853",
+        "ismanual": false,
+        "postdate": "2020-10-22",
+        "runningbalance": {
+            "amount": 49257.05,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-22",
+        "createddate": 1538595907855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 468.1,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-21",
+        "description": {
+            "original": "BODEN SERVICES INC BODENUSA.COM PA"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814854,
+        "entityid": "35_32814854",
+        "ismanual": false,
+        "postdate": "2020-10-21",
+        "runningbalance": {
+            "amount": 49310.46,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-21",
+        "createddate": 1538595607855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 81.68,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-20",
+        "description": {
+            "original": "TRAN CD 253 SIC CD 4900"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814855,
+        "entityid": "35_32814855",
+        "ismanual": false,
+        "postdate": "2020-10-20",
+        "runningbalance": {
+            "amount": 48842.36,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-20",
+        "createddate": 1538595307855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 6.28,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-19",
+        "description": {
+            "original": "05/28/19 CHARLESTON NATIONAL GOLF MT PLEASANT SC US"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814856,
+        "entityid": "35_32814856",
+        "ismanual": false,
+        "postdate": "2020-10-19",
+        "runningbalance": {
+            "amount": 48760.68,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-19",
+        "createddate": 1538595007855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 18.85,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-18",
+        "description": {
+            "original": "32 MARKET XXXXXX0083 RIVER FALL REF# XXXXXXXXXXX XXXXXX5700"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814857,
+        "entityid": "35_32814857",
+        "ismanual": false,
+        "postdate": "2020-10-18",
+        "runningbalance": {
+            "amount": 48766.96,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-18",
+        "createddate": 1538594707855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 103.67,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-17",
+        "description": {
+            "original": "BARNESNOBLE.COM-BN XXX-XXX-2665 NY"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814858,
+        "entityid": "35_32814858",
+        "ismanual": false,
+        "postdate": "2020-10-17",
+        "runningbalance": {
+            "amount": 48785.81,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-17",
+        "createddate": 1538594407855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 100.53,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-16",
+        "description": {
+            "original": "ARAMARK THOMSON REUTERS C"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814859,
+        "entityid": "35_32814859",
+        "ismanual": false,
+        "postdate": "2020-10-16",
+        "runningbalance": {
+            "amount": 48889.48,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-16",
+        "createddate": 1538594107855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 153.94,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-15",
+        "description": {
+            "original": "DRAFT KINGS"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814860,
+        "entityid": "35_32814860",
+        "ismanual": false,
+        "postdate": "2020-10-15",
+        "runningbalance": {
+            "amount": 48990.02,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-15",
+        "createddate": 1538593807855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 15.71,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-14",
+        "description": {
+            "original": "Alarm Billing Svcs XXX-XXX-4060 IL"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814861,
+        "entityid": "35_32814861",
+        "ismanual": false,
+        "postdate": "2020-10-14",
+        "runningbalance": {
+            "amount": 48836.07,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-14",
+        "createddate": 1538593507855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 1077.57,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-13",
+        "description": {
+            "original": "BEEHIVE STORAGE LC BOUNTIFUL UT"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814862,
+        "entityid": "35_32814862",
+        "ismanual": false,
+        "postdate": "2020-10-13",
+        "runningbalance": {
+            "amount": 48851.79,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-13",
+        "createddate": 1538593207855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 78.54,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-12",
+        "description": {
+            "original": "#5 S  A GROCERY"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814863,
+        "entityid": "35_32814863",
+        "ismanual": false,
+        "postdate": "2020-10-12",
+        "runningbalance": {
+            "amount": 47774.21,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-12",
+        "createddate": 1538592907855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 37.7,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-11",
+        "description": {
+            "original": "Brokaw Self Storage 126"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814864,
+        "entityid": "35_32814864",
+        "ismanual": false,
+        "postdate": "2020-10-11",
+        "runningbalance": {
+            "amount": 47852.75,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-11",
+        "createddate": 1538592607855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 94.25,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-10",
+        "description": {
+            "original": "CHILIS CASTLE HILLS LEWISVILLE TX"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814865,
+        "entityid": "35_32814865",
+        "ismanual": false,
+        "postdate": "2020-10-10",
+        "runningbalance": {
+            "amount": 47890.45,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-10",
+        "createddate": 1538592307855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 279.6,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-09",
+        "description": {
+            "original": "BEEHIVE STORAGE LC BOUNTIFUL UT"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814866,
+        "entityid": "35_32814866",
+        "ismanual": false,
+        "postdate": "2020-10-09",
+        "runningbalance": {
+            "amount": 47984.7,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-09",
+        "createddate": 1538592007855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 135.09,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-08",
+        "description": {
+            "original": "CITY OF ATLANTA GOLFATLANTA GA 70V5OUGMCN7 PUBLIC GOLF COURSE"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814867,
+        "entityid": "35_32814867",
+        "ismanual": false,
+        "postdate": "2020-10-08",
+        "runningbalance": {
+            "amount": 47705.1,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-08",
+        "createddate": 1538591707855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 769.69,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-31",
+        "description": {
+            "original": "DRAFT KINGS"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814844,
+        "entityid": "35_32814844",
+        "ismanual": false,
+        "postdate": "2020-10-31",
+        "runningbalance": {
+            "amount": 52807.08,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-31",
+        "createddate": 1538591407855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 1043.01,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-30",
+        "description": {
+            "original": "AAA PARK 55 ALLEN PL ATLANTA GA REF# XXXXXXX9153 GCARR@AAAPARKING"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814845,
+        "entityid": "35_32814845",
+        "ismanual": false,
+        "postdate": "2020-10-30",
+        "runningbalance": {
+            "amount": 52037.39,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-30",
+        "createddate": 1538591107855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 1451.42,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-29",
+        "description": {
+            "original": "AMERICAN XXXXXXXXX5543 FORT WORTH TX"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814846,
+        "entityid": "35_32814846",
+        "ismanual": false,
+        "postdate": "2020-10-29",
+        "runningbalance": {
+            "amount": 50994.37,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-29",
+        "createddate": 1538590807855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 87.96,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-28",
+        "description": {
+            "original": "AUBURN DRAFT HOUSE 0AUBURN AL XXXXXXX9153 DAVID.ESPOSITO@DRAFTH"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814847,
+        "entityid": "35_32814847",
+        "ismanual": false,
+        "postdate": "2020-10-28",
+        "runningbalance": {
+            "amount": 49542.95,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-28",
+        "createddate": 1538590507855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": 10099183,
+        "amount": {
+            "amount": 147.65,
+            "currency": "USD"
+        },
+        "category": "Uncategorised",
+        "categoryid": 1,
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "checknumber": "998",
+        "container": "bank",
+        "date": "2020-10-27",
+        "description": {
+            "original": "AMZN MKTP US*MN2C98UX0 AMZN.COM/BILL WA"
+        },
+        "highlevelcategoryid": 10000017,
+        "id": 32814848,
+        "entityid": "35_32814848",
+        "ismanual": false,
+        "postdate": "2020-10-27",
+        "runningbalance": {
+            "amount": 49630.91,
+            "currency": "USD"
+        },
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-10-27",
+        "createddate": 1538590207855
     }
 ]
