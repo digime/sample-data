@@ -1,18 +1,20 @@
 [
     {
         "accountentityid": "39_123456789",
-        "id": "819617696743164670",
-        "entityid": "39_123456789_819617696743164670",
+        "id": "893044179905546348",
+        "entityid": "39_123456789_893044179905546348",
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
-        "amount": 100,
-        "currency": "GBP",
-        "originalref": "Sample GBP for transaction on 2022-08-23",
-        "createddate": 1661212800000,
-        "transactiondate": 1661212800000,
-        "postdate": 1661212800000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
+        "amount": {
+            "amount": 100,
+            "currency": "GBP"
+        },
+        "description": {
+            "original": "Sample GBP for transaction on 2022-12-02"
+        },
+        "createddate": 1659738856724,
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": 10015
     }
 ]

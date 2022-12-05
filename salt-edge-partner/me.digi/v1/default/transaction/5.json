@@ -1,82 +1,38 @@
 [
     {
         "accountentityid": "39_123456789",
-        "id": "819617697506528105",
-        "entityid": "39_123456789_819617697506528105",
+        "id": "893044180048152690",
+        "entityid": "39_123456789_893044180048152690",
+        "categorytype": "fees_and_charges",
+        "basetype": "DEBIT",
+        "amount": {
+            "amount": 134,
+            "currency": "USD"
+        },
+        "description": {
+            "original": "Sample USD credit card transaction for 2022-12-01"
+        },
+        "createddate": 1649218372724,
+        "transactiondate": "2022-12-01",
+        "postdate": "2022-12-01",
+        "categoryid": 10015
+    },
+    {
+        "accountentityid": "39_123456789",
+        "id": "893044180048152691",
+        "entityid": "39_123456789_893044180048152691",
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
-        "amount": 100,
-        "currency": "GBP",
-        "originalref": "Sample GBP for transaction on 2022-08-23",
-        "createddate": 1661212800000,
-        "transactiondate": 1661212800000,
-        "postdate": 1661212800000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
-    },
-    {
-        "accountentityid": "39_123456789",
-        "id": "819617697506528106",
-        "entityid": "39_123456789_819617697506528106",
-        "categorytype": "shopping",
-        "basetype": "DEBIT",
-        "amount": 3.94,
-        "currency": "GBP",
-        "originalref": "23 AUG 22 BOOTS 773 LONDON GBR GBR",
-        "createddate": 1661212800000,
-        "transactiondate": 1661212800000,
-        "postdate": 1661212800000,
-        "categoryid": 10024,
-        "merchantname": "",
-        "merchantcountry": ""
-    },
-    {
-        "accountentityid": "39_123456789",
-        "id": "819617697506528107",
-        "entityid": "39_123456789_819617697506528107",
-        "categorytype": "shopping",
-        "basetype": "DEBIT",
-        "amount": 2.59,
-        "currency": "GBP",
-        "originalref": "AMAZON WEB SERVICES AWS.AMAZON.COM",
-        "createddate": 1661212800000,
-        "transactiondate": 1661212800000,
-        "postdate": 1661212800000,
-        "categoryid": 10024,
-        "merchantname": "Amazon",
-        "merchantcountry": "XF"
-    },
-    {
-        "accountentityid": "39_123456789",
-        "id": "819617697514916716",
-        "entityid": "39_123456789_819617697514916716",
-        "categorytype": "groceries",
-        "basetype": "DEBIT",
-        "amount": 0.8793846289,
-        "currency": "GBP",
-        "originalref": "CO-OP OLD STREET LONDON",
-        "createddate": 1661212800000,
-        "transactiondate": 1661212800000,
-        "postdate": 1661212800000,
-        "categoryid": 10016,
-        "merchantname": "Co-op",
-        "merchantcountry": "XF"
-    },
-    {
-        "accountentityid": "39_123456789",
-        "id": "819617697514916717",
-        "entityid": "39_123456789_819617697514916717",
-        "categorytype": "shopping",
-        "basetype": "DEBIT",
-        "amount": 1.9077897442,
-        "currency": "GBP",
-        "originalref": "CARD PAYMENT TO JOHN LEWIS 0.0 GBP, RATE 1.00/GBP ON 23-08-2022",
-        "createddate": 1661212800000,
-        "transactiondate": 1661212800000,
-        "postdate": 1661212800000,
-        "categoryid": 10024,
-        "merchantname": "John Lewis",
-        "merchantcountry": "XF"
+        "amount": {
+            "amount": 100,
+            "currency": "USD"
+        },
+        "description": {
+            "original": "Sample USD for transaction on 2022-12-02"
+        },
+        "createddate": 1649218072724,
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": 10015
     }
 ]
