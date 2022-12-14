@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 22.88,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Restaurants",
-        "categoryid": 22,
+        "categoryid": "22",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -17,9 +17,9 @@
             "original": "PURCHASE AUTHORIZED ON READYREFRESH Montgomery:AL",
             "simple": "READYREFRESH Montgomery:AL"
         },
-        "detailcategoryid": 1589,
-        "highlevelcategoryid": 10000021,
-        "id": 13480272,
+        "detailcategoryid": "1589",
+        "highlevelcategoryid": "10000021",
+        "id": "13480272",
         "entityid": "35_13480272",
         "ismanual": false,
         "isphysical": true,
@@ -44,14 +44,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 17.51,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Pet Care",
-        "categoryid": 42,
+        "categoryid": "42",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -60,9 +60,9 @@
             "original": "PAYMENT FEEDERS PET SUPPLY Montgomery:AL",
             "simple": "FEEDERS PET SUPPLY Montgomery:AL"
         },
-        "detailcategoryid": 1173,
-        "highlevelcategoryid": 10000010,
-        "id": 13480271,
+        "detailcategoryid": "1173",
+        "highlevelcategoryid": "10000010",
+        "id": "13480271",
         "entityid": "35_13480271",
         "ismanual": false,
         "isphysical": true,
@@ -87,14 +87,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 237.86,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Healthcare/Medical",
-        "categoryid": 11,
+        "categoryid": "11",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -103,9 +103,9 @@
             "original": "POS PURCHASE CVS/PHARMACY",
             "simple": "Cvs Pharmacy"
         },
-        "detailcategoryid": 1471,
-        "highlevelcategoryid": 10000006,
-        "id": 13480274,
+        "detailcategoryid": "1471",
+        "highlevelcategoryid": "10000006",
+        "id": "13480274",
         "entityid": "35_13480274",
         "ismanual": false,
         "isphysical": true,
@@ -132,14 +132,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 96.53,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Service Charges/Fees",
-        "categoryid": 24,
+        "categoryid": "24",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -148,9 +148,9 @@
             "original": "CHARGE WIRE TRANS",
             "simple": "CHARGE WIRE TRANS"
         },
-        "detailcategoryid": 1168,
-        "highlevelcategoryid": 10000009,
-        "id": 13480273,
+        "detailcategoryid": "1168",
+        "highlevelcategoryid": "10000009",
+        "id": "13480273",
         "entityid": "35_13480273",
         "ismanual": false,
         "isphysical": false,
@@ -175,14 +175,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 90.99,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Office Expenses",
-        "categoryid": 45,
+        "categoryid": "45",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -191,9 +191,9 @@
             "original": "OfficeMax",
             "simple": "Officemax"
         },
-        "detailcategoryid": 1177,
-        "highlevelcategoryid": 10000007,
-        "id": 13480276,
+        "detailcategoryid": "1177",
+        "highlevelcategoryid": "10000007",
+        "id": "13480276",
         "entityid": "35_13480276",
         "ismanual": false,
         "isphysical": true,
@@ -221,14 +221,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 145.93,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Postage/Shipping",
-        "categoryid": 104,
+        "categoryid": "104",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -237,9 +237,9 @@
             "original": "ACH WITHDRAWAL POSTMATES",
             "simple": "ACH WITHDRAWAL POSTMATES"
         },
-        "detailcategoryid": 1561,
-        "highlevelcategoryid": 10000007,
-        "id": 13480275,
+        "detailcategoryid": "1561",
+        "highlevelcategoryid": "10000007",
+        "id": "13480275",
         "entityid": "35_13480275",
         "ismanual": false,
         "isphysical": true,
@@ -264,14 +264,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 7,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Gifts",
-        "categoryid": 9,
+        "categoryid": "9",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -280,9 +280,9 @@
             "original": "POS Debit QVC Gift Saint Paul:MN",
             "simple": "QVC Gift Saint Paul:MN"
         },
-        "detailcategoryid": 1420,
-        "highlevelcategoryid": 10000010,
-        "id": 13480277,
+        "detailcategoryid": "1420",
+        "highlevelcategoryid": "10000010",
+        "id": "13480277",
         "entityid": "35_13480277",
         "ismanual": false,
         "isphysical": true,
@@ -307,14 +307,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 27.13,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Entertainment/Recreation",
-        "categoryid": 7,
+        "categoryid": "7",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -323,9 +323,9 @@
             "original": "CARD PURCHASE AMC CINEMA Denver:CO",
             "simple": "CARD AMC CINEMA Denver:CO"
         },
-        "detailcategoryid": 1352,
-        "highlevelcategoryid": 10000010,
-        "id": 13480279,
+        "detailcategoryid": "1352",
+        "highlevelcategoryid": "10000010",
+        "id": "13480279",
         "entityid": "35_13480279",
         "ismanual": false,
         "isphysical": true,
@@ -350,14 +350,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 47.85,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Groceries",
-        "categoryid": 10,
+        "categoryid": "10",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -366,9 +366,9 @@
             "original": "ONLINE PAYMENT READYREFRESH Denver:CO",
             "simple": "Ready Refresh"
         },
-        "detailcategoryid": 1431,
-        "highlevelcategoryid": 10000021,
-        "id": 13480278,
+        "detailcategoryid": "1431",
+        "highlevelcategoryid": "10000021",
+        "id": "13480278",
         "entityid": "35_13480278",
         "ismanual": false,
         "isphysical": false,
@@ -388,14 +388,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 668.8,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Electronics/General Merchandise",
-        "categoryid": 43,
+        "categoryid": "43",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -404,9 +404,9 @@
             "original": "POS Debit DELL.com Dover:DE",
             "simple": "Dell"
         },
-        "detailcategoryid": 1305,
-        "highlevelcategoryid": 10000010,
-        "id": 13480280,
+        "detailcategoryid": "1305",
+        "highlevelcategoryid": "10000010",
+        "id": "13480280",
         "entityid": "35_13480280",
         "ismanual": false,
         "isphysical": false,
@@ -433,14 +433,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 181.42,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Other Expenses",
-        "categoryid": 19,
+        "categoryid": "19",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -449,9 +449,9 @@
             "original": "ONLINE PAYMENT Pandora Trenton:NJ",
             "simple": "Pandora Trenton:NJ"
         },
-        "detailcategoryid": 1161,
-        "highlevelcategoryid": 10000009,
-        "id": 13480281,
+        "detailcategoryid": "1161",
+        "highlevelcategoryid": "10000009",
+        "id": "13480281",
         "entityid": "35_13480281",
         "ismanual": false,
         "isphysical": false,
@@ -476,14 +476,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 97.92,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Healthcare/Medical",
-        "categoryid": 11,
+        "categoryid": "11",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -492,9 +492,9 @@
             "original": "Web Authorized Pmt Lawtons Drugs",
             "simple": "Lawtons Drugs"
         },
-        "detailcategoryid": 1453,
-        "highlevelcategoryid": 10000006,
-        "id": 13480282,
+        "detailcategoryid": "1453",
+        "highlevelcategoryid": "10000006",
+        "id": "13480282",
         "entityid": "35_13480282",
         "ismanual": false,
         "isphysical": false,
@@ -514,14 +514,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 133.96,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Groceries",
-        "categoryid": 10,
+        "categoryid": "10",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -530,9 +530,9 @@
             "original": "POS PURCHASE HARLAND CLARKE MARKETING",
             "simple": "HARLAND CLARKE MARKETING"
         },
-        "detailcategoryid": 1431,
-        "highlevelcategoryid": 10000021,
-        "id": 13480283,
+        "detailcategoryid": "1431",
+        "highlevelcategoryid": "10000021",
+        "id": "13480283",
         "entityid": "35_13480283",
         "ismanual": false,
         "isphysical": true,
@@ -557,14 +557,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 207.34,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Home Improvement",
-        "categoryid": 13,
+        "categoryid": "13",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -573,9 +573,9 @@
             "original": "MERCHANT PAYMENT FLOOR & DECOR Charleston:WV",
             "simple": "Floor and Decor Outlets"
         },
-        "detailcategoryid": 1153,
-        "highlevelcategoryid": 10000004,
-        "id": 13480284,
+        "detailcategoryid": "1153",
+        "highlevelcategoryid": "10000004",
+        "id": "13480284",
         "entityid": "35_13480284",
         "ismanual": false,
         "isphysical": true,
@@ -595,14 +595,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 39.1,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Pet Care",
-        "categoryid": 42,
+        "categoryid": "42",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -611,9 +611,9 @@
             "original": "PAYMENT PetSmart Nashville:TN",
             "simple": "PetSmart Nashville:TN"
         },
-        "detailcategoryid": 1557,
-        "highlevelcategoryid": 10000010,
-        "id": 13480270,
+        "detailcategoryid": "1557",
+        "highlevelcategoryid": "10000010",
+        "id": "13480270",
         "entityid": "35_13480270",
         "ismanual": false,
         "isphysical": true,

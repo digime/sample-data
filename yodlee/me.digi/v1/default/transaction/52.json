@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 97.39,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Pet Care",
-        "categoryid": 42,
+        "categoryid": "42",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -18,9 +18,9 @@
             "original": "06/02/19 CHEWY.COM XXX-XXX-4399 FL US",
             "simple": "Chewy"
         },
-        "detailcategoryid": 1557,
-        "highlevelcategoryid": 10000010,
-        "id": 32813963,
+        "detailcategoryid": "1557",
+        "highlevelcategoryid": "10000010",
+        "id": "32813963",
         "entityid": "35_32813963",
         "ismanual": false,
         "isphysical": false,
@@ -44,14 +44,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 574.91,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -61,9 +61,9 @@
             "original": "7-ELEVEN X9510 LONGMONT CO",
             "simple": "7-Eleven"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 32813962,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "32813962",
         "entityid": "35_32813962",
         "ismanual": false,
         "isphysical": false,
@@ -99,14 +99,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 122.52,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -116,9 +116,9 @@
             "original": "7-ELEVEN X3121 DALLAS TX",
             "simple": "7-Eleven"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 32813965,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "32813965",
         "entityid": "35_32813965",
         "ismanual": false,
         "isphysical": true,
@@ -151,14 +151,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 1300.62,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Refunds/Adjustments",
-        "categoryid": 227,
+        "categoryid": "227",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -168,9 +168,9 @@
             "original": "17'S CLEANERS CHICAGO IL",
             "simple": "17'S CLEANERS CHICAGO IL"
         },
-        "detailcategoryid": 1188,
-        "highlevelcategoryid": 10000019,
-        "id": 32813964,
+        "detailcategoryid": "1188",
+        "highlevelcategoryid": "10000019",
+        "id": "32813964",
         "entityid": "35_32813964",
         "ismanual": false,
         "isphysical": false,
@@ -199,14 +199,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 125.66,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -216,9 +216,9 @@
             "original": "21ST ST GAS CORP         ASTORIA      NY",
             "simple": "21ST ST GAS CORP ASTORIA NY"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32813967,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32813967",
         "entityid": "35_32813967",
         "ismanual": false,
         "isphysical": true,
@@ -237,14 +237,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 911.06,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Other Income",
-        "categoryid": 32,
+        "categoryid": "32",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -254,9 +254,9 @@
             "original": "05/26/19 CANDLER PARK FLOWERS ATLANTA GA US",
             "simple": "05/26/19 CANDLER PARK FLOWERS ATLANTA GA US"
         },
-        "detailcategoryid": 1182,
-        "highlevelcategoryid": 10000012,
-        "id": 32813966,
+        "detailcategoryid": "1182",
+        "highlevelcategoryid": "10000012",
+        "id": "32813966",
         "entityid": "35_32813966",
         "ismanual": false,
         "isphysical": false,
@@ -285,14 +285,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 113.1,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Groceries",
-        "categoryid": 10,
+        "categoryid": "10",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -302,9 +302,9 @@
             "original": "32 MARKET XXXXXX0083 RIVER FALL REF# XXXXXXXXXXX XXXXXX5700",
             "simple": "32 MARKET XX0083 RIVER FALL REF# XX5700"
         },
-        "detailcategoryid": 1431,
-        "highlevelcategoryid": 10000021,
-        "id": 32813961,
+        "detailcategoryid": "1431",
+        "highlevelcategoryid": "10000021",
+        "id": "32813961",
         "entityid": "35_32813961",
         "ismanual": false,
         "isphysical": true,
@@ -323,14 +323,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 524.65,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Other Income",
-        "categoryid": 32,
+        "categoryid": "32",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -340,9 +340,9 @@
             "original": "#4 BRAVO! DAYTON",
             "simple": "#4 BRAVO! DAYTON"
         },
-        "detailcategoryid": 1182,
-        "highlevelcategoryid": 10000012,
-        "id": 32813960,
+        "detailcategoryid": "1182",
+        "highlevelcategoryid": "10000012",
+        "id": "32813960",
         "entityid": "35_32813960",
         "ismanual": false,
         "isphysical": false,

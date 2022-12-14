@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 22.94,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -17,9 +17,9 @@
             "original": "PURCHASE AUTHORIZED ARCO PETROL Raleigh:NC",
             "simple": "ARCO PETROL Raleigh:NC"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 13480313,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "13480313",
         "entityid": "35_13480313",
         "ismanual": false,
         "isphysical": true,
@@ -44,14 +44,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 18.7,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Restaurants",
-        "categoryid": 22,
+        "categoryid": "22",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -60,9 +60,9 @@
             "original": "PURCHASE AUTHORIZED ULINE",
             "simple": "ULINE"
         },
-        "detailcategoryid": 1589,
-        "highlevelcategoryid": 10000021,
-        "id": 13480314,
+        "detailcategoryid": "1589",
+        "highlevelcategoryid": "10000021",
+        "id": "13480314",
         "entityid": "35_13480314",
         "ismanual": false,
         "isphysical": true,
@@ -87,14 +87,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 29.41,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Pet Care",
-        "categoryid": 42,
+        "categoryid": "42",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -103,9 +103,9 @@
             "original": "PAYMENT All The Best Pet Care Hartford:CT",
             "simple": "All The Best Pet Care Hartford:CT"
         },
-        "detailcategoryid": 1557,
-        "highlevelcategoryid": 10000010,
-        "id": 13480316,
+        "detailcategoryid": "1557",
+        "highlevelcategoryid": "10000010",
+        "id": "13480316",
         "entityid": "35_13480316",
         "ismanual": false,
         "isphysical": true,
@@ -130,14 +130,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 34.35,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Service Charges/Fees",
-        "categoryid": 24,
+        "categoryid": "24",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -146,9 +146,9 @@
             "original": "CHARGE BANK FEES",
             "simple": "Bank Service Charges/Fees"
         },
-        "detailcategoryid": 1168,
-        "highlevelcategoryid": 10000009,
-        "id": 13480315,
+        "detailcategoryid": "1168",
+        "highlevelcategoryid": "10000009",
+        "id": "13480315",
         "entityid": "35_13480315",
         "ismanual": false,
         "isphysical": false,
@@ -171,14 +171,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 14.35,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Groceries",
-        "categoryid": 10,
+        "categoryid": "10",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -187,9 +187,9 @@
             "original": "LIQUOR STORE Hartford:CT",
             "simple": "LIQUOR STORE Hartford:CT"
         },
-        "detailcategoryid": 1431,
-        "highlevelcategoryid": 10000021,
-        "id": 13480318,
+        "detailcategoryid": "1431",
+        "highlevelcategoryid": "10000021",
+        "id": "13480318",
         "entityid": "35_13480318",
         "ismanual": false,
         "isphysical": true,
@@ -214,14 +214,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 15.9,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Service Charges/Fees",
-        "categoryid": 24,
+        "categoryid": "24",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -230,9 +230,9 @@
             "original": "ONLINE PAYMENT FEEDERS PET SUPPLY Hartford:CT",
             "simple": "FEEDERS PET SUPPLY Hartford:CT"
         },
-        "detailcategoryid": 1168,
-        "highlevelcategoryid": 10000009,
-        "id": 13480317,
+        "detailcategoryid": "1168",
+        "highlevelcategoryid": "10000009",
+        "id": "13480317",
         "entityid": "35_13480317",
         "ismanual": false,
         "isphysical": false,
@@ -257,14 +257,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 41.83,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Service Charges/Fees",
-        "categoryid": 24,
+        "categoryid": "24",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -273,9 +273,9 @@
             "original": "SURCHARGE WIRE TRANS",
             "simple": "SURCHARGE WIRE TRANS"
         },
-        "detailcategoryid": 1168,
-        "highlevelcategoryid": 10000009,
-        "id": 13480319,
+        "detailcategoryid": "1168",
+        "highlevelcategoryid": "10000009",
+        "id": "13480319",
         "entityid": "35_13480319",
         "ismanual": false,
         "isphysical": false,
@@ -300,14 +300,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 69.41,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Insurance",
-        "categoryid": 14,
+        "categoryid": "14",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -316,9 +316,9 @@
             "original": "POS PURCHASE CIGNA CHIROPRACTIC",
             "simple": "Payment to Cigna"
         },
-        "detailcategoryid": 1512,
-        "highlevelcategoryid": 10000020,
-        "id": 13480320,
+        "detailcategoryid": "1512",
+        "highlevelcategoryid": "10000020",
+        "id": "13480320",
         "entityid": "35_13480320",
         "ismanual": false,
         "isphysical": false,
@@ -345,14 +345,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 115,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Gifts",
-        "categoryid": 9,
+        "categoryid": "9",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -361,9 +361,9 @@
             "original": "POS Debit BLUE MOUNTAIN GREETING CARD Raleigh:NC",
             "simple": "BlueMountain"
         },
-        "detailcategoryid": 1420,
-        "highlevelcategoryid": 10000010,
-        "id": 13480323,
+        "detailcategoryid": "1420",
+        "highlevelcategoryid": "10000010",
+        "id": "13480323",
         "entityid": "35_13480323",
         "ismanual": false,
         "isphysical": true,
@@ -383,14 +383,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 159.8,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Office Expenses",
-        "categoryid": 45,
+        "categoryid": "45",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -399,9 +399,9 @@
             "original": "ACH DEBIT HP PRINTING",
             "simple": "HP PRINTING"
         },
-        "detailcategoryid": 1520,
-        "highlevelcategoryid": 10000007,
-        "id": 13480321,
+        "detailcategoryid": "1520",
+        "highlevelcategoryid": "10000007",
+        "id": "13480321",
         "entityid": "35_13480321",
         "ismanual": false,
         "isphysical": false,
@@ -426,14 +426,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 173.59,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Services/Supplies",
-        "categoryid": 16,
+        "categoryid": "16",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -442,8 +442,8 @@
             "original": "WEB ID: XXXX VENMO",
             "simple": "Venmo Inc"
         },
-        "detailcategoryid": 1611,
-        "id": 13480322,
+        "detailcategoryid": "1611",
+        "id": "13480322",
         "entityid": "35_13480322",
         "ismanual": false,
         "isphysical": false,
@@ -463,14 +463,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 13.93,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Groceries",
-        "categoryid": 10,
+        "categoryid": "10",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -479,9 +479,9 @@
             "original": "POS Debit INSTACART Raleigh:NC",
             "simple": "INSTACART"
         },
-        "detailcategoryid": 1431,
-        "highlevelcategoryid": 10000021,
-        "id": 13480324,
+        "detailcategoryid": "1431",
+        "highlevelcategoryid": "10000021",
+        "id": "13480324",
         "entityid": "35_13480324",
         "ismanual": false,
         "isphysical": true,
@@ -501,14 +501,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 19.52,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Entertainment/Recreation",
-        "categoryid": 7,
+        "categoryid": "7",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -517,9 +517,9 @@
             "original": "POS Debit AMC CINEMA Raleigh:NC",
             "simple": "AMC CINEMA Raleigh:NC"
         },
-        "detailcategoryid": 1352,
-        "highlevelcategoryid": 10000010,
-        "id": 13480325,
+        "detailcategoryid": "1352",
+        "highlevelcategoryid": "10000010",
+        "id": "13480325",
         "entityid": "35_13480325",
         "ismanual": false,
         "isphysical": true,
@@ -544,14 +544,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 432.18,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Entertainment/Recreation",
-        "categoryid": 7,
+        "categoryid": "7",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -560,9 +560,9 @@
             "original": "CREDIT CARD PURCHASE SAMS CLUB Hartford:CT",
             "simple": "CREDIT CARD SAMS CLUB Hartford:CT"
         },
-        "detailcategoryid": 1352,
-        "highlevelcategoryid": 10000010,
-        "id": 13480326,
+        "detailcategoryid": "1352",
+        "highlevelcategoryid": "10000010",
+        "id": "13480326",
         "entityid": "35_13480326",
         "ismanual": false,
         "isphysical": true,
@@ -587,14 +587,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 60.25,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Healthcare/Medical",
-        "categoryid": 11,
+        "categoryid": "11",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -603,9 +603,9 @@
             "original": "ACH DEBIT Pharmasave",
             "simple": "Pharmasave"
         },
-        "detailcategoryid": 1471,
-        "highlevelcategoryid": 10000006,
-        "id": 13480328,
+        "detailcategoryid": "1471",
+        "highlevelcategoryid": "10000006",
+        "id": "13480328",
         "entityid": "35_13480328",
         "ismanual": false,
         "isphysical": false,
@@ -632,14 +632,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 112.11,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Electronics/General Merchandise",
-        "categoryid": 43,
+        "categoryid": "43",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -648,9 +648,9 @@
             "original": "POS PURCHASE KOHLS Hartford:CT",
             "simple": "KOHLS Hartford:CT"
         },
-        "detailcategoryid": 1306,
-        "highlevelcategoryid": 10000010,
-        "id": 13480327,
+        "detailcategoryid": "1306",
+        "highlevelcategoryid": "10000010",
+        "id": "13480327",
         "entityid": "35_13480327",
         "ismanual": false,
         "isphysical": true,
@@ -675,14 +675,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 28.6,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Office Expenses",
-        "categoryid": 45,
+        "categoryid": "45",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -691,9 +691,9 @@
             "original": "POS PURCHASE HP PRINTING",
             "simple": "HP PRINTING"
         },
-        "detailcategoryid": 1520,
-        "highlevelcategoryid": 10000007,
-        "id": 13480329,
+        "detailcategoryid": "1520",
+        "highlevelcategoryid": "10000007",
+        "id": "13480329",
         "entityid": "35_13480329",
         "ismanual": false,
         "isphysical": true,
@@ -718,14 +718,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 57.86,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Home Improvement",
-        "categoryid": 13,
+        "categoryid": "13",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -734,9 +734,9 @@
             "original": "CREDIT CARD PURCHASE Ace Hardware Raleigh:NC",
             "simple": "Ace Hardware"
         },
-        "detailcategoryid": 1492,
-        "highlevelcategoryid": 10000004,
-        "id": 13480330,
+        "detailcategoryid": "1492",
+        "highlevelcategoryid": "10000004",
+        "id": "13480330",
         "entityid": "35_13480330",
         "ismanual": false,
         "isphysical": true,
@@ -759,14 +759,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 18.64,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -775,9 +775,9 @@
             "original": "Checkcard Purchase ARCO PETROL Raleigh:NC",
             "simple": "Arco"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 13480332,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "13480332",
         "entityid": "35_13480332",
         "ismanual": false,
         "isphysical": true,
@@ -804,14 +804,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 341.1,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Travel",
-        "categoryid": 23,
+        "categoryid": "23",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -820,9 +820,9 @@
             "original": "ACH DEBIT PAYPAL XFER UBER TRANSPORT",
             "simple": "Uber"
         },
-        "detailcategoryid": 1257,
-        "highlevelcategoryid": 10000011,
-        "id": 13480333,
+        "detailcategoryid": "1257",
+        "highlevelcategoryid": "10000011",
+        "id": "13480333",
         "entityid": "35_13480333",
         "intermediary": [
             "Paypal"
@@ -851,14 +851,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 41.27,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Restaurants",
-        "categoryid": 22,
+        "categoryid": "22",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -867,9 +867,9 @@
             "original": "Credit Card Purchase KFC RESTAURANT Hartford:CT",
             "simple": "KFC"
         },
-        "detailcategoryid": 1589,
-        "highlevelcategoryid": 10000021,
-        "id": 13480292,
+        "detailcategoryid": "1589",
+        "highlevelcategoryid": "10000021",
+        "id": "13480292",
         "entityid": "35_13480292",
         "ismanual": false,
         "isphysical": true,
@@ -898,14 +898,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 20.57,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Pet Care",
-        "categoryid": 42,
+        "categoryid": "42",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -914,9 +914,9 @@
             "original": "FEEDERS PET SUPPLY Hartford:CT",
             "simple": "FEEDERS PET SUPPLY Hartford:CT"
         },
-        "detailcategoryid": 1173,
-        "highlevelcategoryid": 10000010,
-        "id": 13480293,
+        "detailcategoryid": "1173",
+        "highlevelcategoryid": "10000010",
+        "id": "13480293",
         "entityid": "35_13480293",
         "ismanual": false,
         "isphysical": true,
@@ -941,14 +941,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 161.2,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Transfers",
-        "categoryid": 28,
+        "categoryid": "28",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "container": "creditCard",
@@ -957,9 +957,9 @@
             "original": "ACH CREDIT Trnsfr ID: XXXX JPMORGAN CHASE BANK",
             "simple": "Transfer from JPMorgan"
         },
-        "detailcategoryid": 1170,
-        "highlevelcategoryid": 10000015,
-        "id": 13480295,
+        "detailcategoryid": "1170",
+        "highlevelcategoryid": "10000015",
+        "id": "13480295",
         "entityid": "35_13480295",
         "ismanual": false,
         "isphysical": false,
@@ -982,14 +982,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 19.36,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Services/Supplies",
-        "categoryid": 16,
+        "categoryid": "16",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -998,8 +998,8 @@
             "original": "EDONATION THE SALVATION ARMY Raleigh:NC",
             "simple": "EDONATION THE SALVATION ARMY Raleigh:NC"
         },
-        "detailcategoryid": 1611,
-        "id": 13480296,
+        "detailcategoryid": "1611",
+        "id": "13480296",
         "entityid": "35_13480296",
         "ismanual": false,
         "isphysical": true,
@@ -1024,14 +1024,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 41.37,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Services/Supplies",
-        "categoryid": 16,
+        "categoryid": "16",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1040,8 +1040,8 @@
             "original": "CARD PURCHASE MOLLIE STONES Raleigh:NC",
             "simple": "CARD MOLLIE STONES Raleigh:NC"
         },
-        "detailcategoryid": 1611,
-        "id": 13480294,
+        "detailcategoryid": "1611",
+        "id": "13480294",
         "entityid": "35_13480294",
         "ismanual": false,
         "isphysical": true,
@@ -1066,14 +1066,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 83,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Gifts",
-        "categoryid": 9,
+        "categoryid": "9",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1082,9 +1082,9 @@
             "original": "MERCHANT PAYMENT BLUE MOUNTAIN GREETING CARD Raleigh:NC",
             "simple": "BlueMountain"
         },
-        "detailcategoryid": 1420,
-        "highlevelcategoryid": 10000010,
-        "id": 13480297,
+        "detailcategoryid": "1420",
+        "highlevelcategoryid": "10000010",
+        "id": "13480297",
         "entityid": "35_13480297",
         "ismanual": false,
         "isphysical": true,
@@ -1104,14 +1104,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 18.89,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Personal/Family",
-        "categoryid": 20,
+        "categoryid": "20",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1120,9 +1120,9 @@
             "original": "PLANET FIT Hartford:CT",
             "simple": "PLANET FIT Hartford:CT"
         },
-        "detailcategoryid": 1527,
-        "highlevelcategoryid": 10000010,
-        "id": 13480298,
+        "detailcategoryid": "1527",
+        "highlevelcategoryid": "10000010",
+        "id": "13480298",
         "entityid": "35_13480298",
         "ismanual": false,
         "isphysical": true,
@@ -1147,14 +1147,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 95.31,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Home Improvement",
-        "categoryid": 13,
+        "categoryid": "13",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1163,9 +1163,9 @@
             "original": "CREDIT CARD PURCHASE HOME DEPOT Raleigh:NC",
             "simple": "The Home Depot"
         },
-        "detailcategoryid": 1492,
-        "highlevelcategoryid": 10000004,
-        "id": 13480299,
+        "detailcategoryid": "1492",
+        "highlevelcategoryid": "10000004",
+        "id": "13480299",
         "entityid": "35_13480299",
         "ismanual": false,
         "isphysical": true,
@@ -1191,14 +1191,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 99.23,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Services/Supplies",
-        "categoryid": 16,
+        "categoryid": "16",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1207,8 +1207,8 @@
             "original": "BILL PAY : XXXX CHARTER COMM TELEPHONE",
             "simple": ": XX CHARTER COMM TELEPHONE"
         },
-        "detailcategoryid": 1611,
-        "id": 13480302,
+        "detailcategoryid": "1611",
+        "id": "13480302",
         "entityid": "35_13480302",
         "ismanual": false,
         "isphysical": false,
@@ -1233,14 +1233,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 37.66,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Electronics/General Merchandise",
-        "categoryid": 43,
+        "categoryid": "43",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1249,9 +1249,9 @@
             "original": "POS Purchase COSTCO GASOLINE Raleigh:NC",
             "simple": "Costco"
         },
-        "detailcategoryid": 1320,
-        "highlevelcategoryid": 10000010,
-        "id": 13480301,
+        "detailcategoryid": "1320",
+        "highlevelcategoryid": "10000010",
+        "id": "13480301",
         "entityid": "35_13480301",
         "ismanual": false,
         "isphysical": true,
@@ -1278,14 +1278,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 187.7,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Electronics/General Merchandise",
-        "categoryid": 43,
+        "categoryid": "43",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1294,9 +1294,9 @@
             "original": "PURCHASE AUTHORIZED ON COSTCO ELECTRONICS Raleigh:NC",
             "simple": "Costco"
         },
-        "detailcategoryid": 1320,
-        "highlevelcategoryid": 10000010,
-        "id": 13480300,
+        "detailcategoryid": "1320",
+        "highlevelcategoryid": "10000010",
+        "id": "13480300",
         "entityid": "35_13480300",
         "ismanual": false,
         "isphysical": true,
@@ -1323,14 +1323,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 172.91,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Transfers",
-        "categoryid": 28,
+        "categoryid": "28",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "container": "creditCard",
@@ -1339,9 +1339,9 @@
             "original": "SUBSCRIP PAYPAL INST XFER THE ECONOMIST",
             "simple": "SUBSCRIP PAYPAL INST XFER THE ECONOMIST"
         },
-        "detailcategoryid": 1170,
-        "highlevelcategoryid": 10000015,
-        "id": 13480303,
+        "detailcategoryid": "1170",
+        "highlevelcategoryid": "10000015",
+        "id": "13480303",
         "entityid": "35_13480303",
         "intermediary": [
             "Paypal"
@@ -1369,14 +1369,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 120,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Gifts",
-        "categoryid": 9,
+        "categoryid": "9",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1385,9 +1385,9 @@
             "original": "POS Debit THE PAPER STOR GIFT Hartford:CT",
             "simple": "THE PAPER STOR GIFT Hartford:CT"
         },
-        "detailcategoryid": 1420,
-        "highlevelcategoryid": 10000010,
-        "id": 13480304,
+        "detailcategoryid": "1420",
+        "highlevelcategoryid": "10000010",
+        "id": "13480304",
         "entityid": "35_13480304",
         "ismanual": false,
         "isphysical": true,
@@ -1412,14 +1412,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 29.65,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Entertainment/Recreation",
-        "categoryid": 7,
+        "categoryid": "7",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1428,9 +1428,9 @@
             "original": "EVENTS Brown Paper Tickets Hartford:CT",
             "simple": "EVENTS Brown Paper Tickets Hartford:CT"
         },
-        "detailcategoryid": 1352,
-        "highlevelcategoryid": 10000010,
-        "id": 13480306,
+        "detailcategoryid": "1352",
+        "highlevelcategoryid": "10000010",
+        "id": "13480306",
         "entityid": "35_13480306",
         "ismanual": false,
         "isphysical": true,
@@ -1455,14 +1455,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 2576.53,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Credit Card Payments",
-        "categoryid": 26,
+        "categoryid": "26",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "container": "creditCard",
@@ -1471,9 +1471,9 @@
             "original": "VISA CARD PAYMENT DISCOVER",
             "simple": "Credit Card Payment Received"
         },
-        "detailcategoryid": 1169,
-        "highlevelcategoryid": 10000018,
-        "id": 13480305,
+        "detailcategoryid": "1169",
+        "highlevelcategoryid": "10000018",
+        "id": "13480305",
         "entityid": "35_13480305",
         "intermediary": [
             "Visa"
@@ -1501,14 +1501,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 129.58,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Groceries",
-        "categoryid": 10,
+        "categoryid": "10",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1517,9 +1517,9 @@
             "original": "POS PURCHASE HARLAND CLARKE MARKETING",
             "simple": "HARLAND CLARKE MARKETING"
         },
-        "detailcategoryid": 1431,
-        "highlevelcategoryid": 10000021,
-        "id": 13480307,
+        "detailcategoryid": "1431",
+        "highlevelcategoryid": "10000021",
+        "id": "13480307",
         "entityid": "35_13480307",
         "ismanual": false,
         "isphysical": true,
@@ -1544,14 +1544,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 144.47,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Personal/Family",
-        "categoryid": 20,
+        "categoryid": "20",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1560,9 +1560,9 @@
             "original": "POS PURCHASE PLANET FIT Raleigh:NC",
             "simple": "PLANET FIT Raleigh:NC"
         },
-        "detailcategoryid": 1527,
-        "highlevelcategoryid": 10000010,
-        "id": 13480309,
+        "detailcategoryid": "1527",
+        "highlevelcategoryid": "10000010",
+        "id": "13480309",
         "entityid": "35_13480309",
         "ismanual": false,
         "isphysical": true,
@@ -1587,14 +1587,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 33.81,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Service Charges/Fees",
-        "categoryid": 24,
+        "categoryid": "24",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1603,9 +1603,9 @@
             "original": "FEE WIRE TRANS",
             "simple": "FEE WIRE TRANS"
         },
-        "detailcategoryid": 1168,
-        "highlevelcategoryid": 10000009,
-        "id": 13480308,
+        "detailcategoryid": "1168",
+        "highlevelcategoryid": "10000009",
+        "id": "13480308",
         "entityid": "35_13480308",
         "ismanual": false,
         "isphysical": false,
@@ -1630,14 +1630,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 29.31,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Restaurants",
-        "categoryid": 22,
+        "categoryid": "22",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1646,9 +1646,9 @@
             "original": "Card Purchase KFC RESTAURANT Hartford:CT",
             "simple": "KFC"
         },
-        "detailcategoryid": 1589,
-        "highlevelcategoryid": 10000021,
-        "id": 13480310,
+        "detailcategoryid": "1589",
+        "highlevelcategoryid": "10000021",
+        "id": "13480310",
         "entityid": "35_13480310",
         "ismanual": false,
         "isphysical": true,
@@ -1677,14 +1677,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 33.2,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Services/Supplies",
-        "categoryid": 16,
+        "categoryid": "16",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1693,8 +1693,8 @@
             "original": "ONLINE PAYMENT MOLLIE STONES Hartford:CT",
             "simple": "MOLLIE STONES Hartford:CT"
         },
-        "detailcategoryid": 1611,
-        "id": 13480312,
+        "detailcategoryid": "1611",
+        "id": "13480312",
         "entityid": "35_13480312",
         "ismanual": false,
         "isphysical": false,
@@ -1719,14 +1719,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 41.59,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1735,9 +1735,9 @@
             "original": "Checkcard Purchase PHILLIPS XX SERVICE STATION Raleigh:NC",
             "simple": "Checkcard PHILLIPS XX SERVICE STATION Raleigh:NC"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 13480285,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "13480285",
         "entityid": "35_13480285",
         "ismanual": false,
         "isphysical": true,
@@ -1762,14 +1762,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 233.77,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Refunds/Adjustments",
-        "categoryid": 227,
+        "categoryid": "227",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "creditCard",
@@ -1778,9 +1778,9 @@
             "original": "REFUND FOR TXN XXXX",
             "simple": "REFUND FOR TXN XX"
         },
-        "detailcategoryid": 1188,
-        "highlevelcategoryid": 10000019,
-        "id": 13480286,
+        "detailcategoryid": "1188",
+        "highlevelcategoryid": "10000019",
+        "id": "13480286",
         "entityid": "35_13480286",
         "ismanual": false,
         "isphysical": false,
@@ -1805,14 +1805,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 1132,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Education",
-        "categoryid": 6,
+        "categoryid": "6",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1821,9 +1821,9 @@
             "original": "ECLASSES HARVARD UNIV",
             "simple": "Harvard University"
         },
-        "detailcategoryid": 1298,
-        "highlevelcategoryid": 10000022,
-        "id": 13480288,
+        "detailcategoryid": "1298",
+        "highlevelcategoryid": "10000022",
+        "id": "13480288",
         "entityid": "35_13480288",
         "ismanual": false,
         "isphysical": true,
@@ -1843,14 +1843,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 42.24,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Loans",
-        "categoryid": 17,
+        "categoryid": "17",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1859,9 +1859,9 @@
             "original": "AUTH PMT XXXX SADIE CLAUDIA GEICO",
             "simple": "AUTH PMT XX SADIE CLAUDIA GEICO"
         },
-        "detailcategoryid": 1158,
-        "highlevelcategoryid": 10000004,
-        "id": 13480287,
+        "detailcategoryid": "1158",
+        "highlevelcategoryid": "10000004",
+        "id": "13480287",
         "entityid": "35_13480287",
         "ismanual": false,
         "isphysical": false,
@@ -1886,14 +1886,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 84.88,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Rent",
-        "categoryid": 21,
+        "categoryid": "21",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1902,9 +1902,9 @@
             "original": "CREDIT CARD PURCHASE ENTERPRISE RENT A CAR",
             "simple": "Payment to Enterprise Rent-A-Car"
         },
-        "detailcategoryid": 1165,
-        "highlevelcategoryid": 10000004,
-        "id": 13480289,
+        "detailcategoryid": "1165",
+        "highlevelcategoryid": "10000004",
+        "id": "13480289",
         "entityid": "35_13480289",
         "ismanual": false,
         "isphysical": false,
@@ -1930,14 +1930,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099184,
+        "accountid": "10099184",
         "amount": {
             "amount": 509.2,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "creditCard",
@@ -1946,9 +1946,9 @@
             "original": "Web Authorized Pmt : REF No: XXXX NJNG",
             "simple": "New Jersey Natural Gas"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 13480291,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "13480291",
         "entityid": "35_13480291",
         "ismanual": false,
         "isphysical": false,

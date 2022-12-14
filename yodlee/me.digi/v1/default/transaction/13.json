@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1618.9,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -20,8 +20,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167106,
+        "highlevelcategoryid": "10000015",
+        "id": "11167106",
         "entityid": "35_11167106",
         "ismanual": false,
         "price": {
@@ -38,14 +38,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1618.9,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -57,8 +57,8 @@
         "description": {
             "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167105,
+        "highlevelcategoryid": "10000015",
+        "id": "11167105",
         "entityid": "35_11167105",
         "ismanual": false,
         "price": {
@@ -76,14 +76,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 489.17,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -95,8 +95,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167104,
+        "highlevelcategoryid": "10000015",
+        "id": "11167104",
         "entityid": "35_11167104",
         "ismanual": false,
         "price": {
@@ -113,14 +113,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 489.17,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -132,8 +132,8 @@
         "description": {
             "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167103,
+        "highlevelcategoryid": "10000015",
+        "id": "11167103",
         "entityid": "35_11167103",
         "ismanual": false,
         "price": {
@@ -151,14 +151,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 489.17,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -170,8 +170,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167102,
+        "highlevelcategoryid": "10000015",
+        "id": "11167102",
         "entityid": "35_11167102",
         "ismanual": false,
         "price": {
@@ -188,14 +188,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 489.17,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -207,8 +207,8 @@
         "description": {
             "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167101,
+        "highlevelcategoryid": "10000015",
+        "id": "11167101",
         "entityid": "35_11167101",
         "ismanual": false,
         "price": {
@@ -226,14 +226,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 749.3,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "commission": {
@@ -245,8 +245,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167100,
+        "highlevelcategoryid": "10000012",
+        "id": "11167100",
         "entityid": "35_11167100",
         "ismanual": false,
         "price": {
@@ -263,14 +263,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 749.3,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -282,8 +282,8 @@
         "description": {
             "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167099,
+        "highlevelcategoryid": "10000015",
+        "id": "11167099",
         "entityid": "35_11167099",
         "ismanual": false,
         "price": {
@@ -301,14 +301,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 600.44,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "commission": {
@@ -320,8 +320,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167098,
+        "highlevelcategoryid": "10000012",
+        "id": "11167098",
         "entityid": "35_11167098",
         "ismanual": false,
         "price": {
@@ -338,14 +338,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 600.44,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -357,8 +357,8 @@
         "description": {
             "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167097,
+        "highlevelcategoryid": "10000015",
+        "id": "11167097",
         "entityid": "35_11167097",
         "ismanual": false,
         "price": {
@@ -376,14 +376,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 301.48,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "commission": {
@@ -395,8 +395,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167085,
+        "highlevelcategoryid": "10000012",
+        "id": "11167085",
         "entityid": "35_11167085",
         "ismanual": false,
         "price": {
@@ -413,14 +413,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 301.48,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -432,8 +432,8 @@
         "description": {
             "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167084,
+        "highlevelcategoryid": "10000015",
+        "id": "11167084",
         "entityid": "35_11167084",
         "ismanual": false,
         "price": {
@@ -451,14 +451,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1407.11,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -470,8 +470,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167083,
+        "highlevelcategoryid": "10000015",
+        "id": "11167083",
         "entityid": "35_11167083",
         "ismanual": false,
         "price": {
@@ -488,14 +488,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1407.11,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -507,8 +507,8 @@
         "description": {
             "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167082,
+        "highlevelcategoryid": "10000015",
+        "id": "11167082",
         "entityid": "35_11167082",
         "ismanual": false,
         "price": {
@@ -526,14 +526,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -545,8 +545,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167081,
+        "highlevelcategoryid": "10000015",
+        "id": "11167081",
         "entityid": "35_11167081",
         "ismanual": false,
         "price": {
@@ -563,14 +563,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -582,8 +582,8 @@
         "description": {
             "original": "Purchase:Sherwin-Williams Co. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167080,
+        "highlevelcategoryid": "10000015",
+        "id": "11167080",
         "entityid": "35_11167080",
         "ismanual": false,
         "price": {
@@ -601,14 +601,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 3266.28,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -620,8 +620,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167079,
+        "highlevelcategoryid": "10000015",
+        "id": "11167079",
         "entityid": "35_11167079",
         "ismanual": false,
         "price": {
@@ -638,14 +638,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 3266.28,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -657,8 +657,8 @@
         "description": {
             "original": "Purchase:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167078,
+        "highlevelcategoryid": "10000015",
+        "id": "11167078",
         "entityid": "35_11167078",
         "ismanual": false,
         "price": {
@@ -676,14 +676,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 154.14,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "commission": {
@@ -695,8 +695,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167089,
+        "highlevelcategoryid": "10000012",
+        "id": "11167089",
         "entityid": "35_11167089",
         "ismanual": false,
         "price": {
@@ -713,14 +713,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 154.14,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -732,8 +732,8 @@
         "description": {
             "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167088,
+        "highlevelcategoryid": "10000015",
+        "id": "11167088",
         "entityid": "35_11167088",
         "ismanual": false,
         "price": {
@@ -751,14 +751,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 149.38,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -770,8 +770,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167087,
+        "highlevelcategoryid": "10000015",
+        "id": "11167087",
         "entityid": "35_11167087",
         "ismanual": false,
         "price": {
@@ -788,14 +788,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 149.38,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -807,8 +807,8 @@
         "description": {
             "original": "Purchase:Dniprogaz JSC ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167086,
+        "highlevelcategoryid": "10000015",
+        "id": "11167086",
         "entityid": "35_11167086",
         "ismanual": false,
         "price": {
@@ -826,14 +826,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1774.96,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -845,8 +845,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167096,
+        "highlevelcategoryid": "10000015",
+        "id": "11167096",
         "entityid": "35_11167096",
         "ismanual": false,
         "price": {
@@ -863,14 +863,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1774.96,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -882,8 +882,8 @@
         "description": {
             "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167095,
+        "highlevelcategoryid": "10000015",
+        "id": "11167095",
         "entityid": "35_11167095",
         "ismanual": false,
         "price": {
@@ -901,14 +901,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1774.96,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -920,8 +920,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167094,
+        "highlevelcategoryid": "10000015",
+        "id": "11167094",
         "entityid": "35_11167094",
         "ismanual": false,
         "price": {
@@ -938,14 +938,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1774.96,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -957,8 +957,8 @@
         "description": {
             "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167093,
+        "highlevelcategoryid": "10000015",
+        "id": "11167093",
         "entityid": "35_11167093",
         "ismanual": false,
         "price": {
@@ -976,14 +976,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -995,8 +995,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167092,
+        "highlevelcategoryid": "10000015",
+        "id": "11167092",
         "entityid": "35_11167092",
         "ismanual": false,
         "price": {
@@ -1013,14 +1013,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1032,8 +1032,8 @@
         "description": {
             "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167091,
+        "highlevelcategoryid": "10000015",
+        "id": "11167091",
         "entityid": "35_11167091",
         "ismanual": false,
         "price": {
@@ -1051,14 +1051,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 3405.68,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "investment",
@@ -1066,8 +1066,8 @@
         "description": {
             "original": "Funds Received: Wells Fargo Bk NA"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167090,
+        "highlevelcategoryid": "10000012",
+        "id": "11167090",
         "entityid": "35_11167090",
         "ismanual": false,
         "price": {
@@ -1085,14 +1085,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1104,8 +1104,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167062,
+        "highlevelcategoryid": "10000015",
+        "id": "11167062",
         "entityid": "35_11167062",
         "ismanual": false,
         "price": {
@@ -1122,14 +1122,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1141,8 +1141,8 @@
         "description": {
             "original": "Purchase:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167061,
+        "highlevelcategoryid": "10000015",
+        "id": "11167061",
         "entityid": "35_11167061",
         "ismanual": false,
         "price": {
@@ -1160,14 +1160,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 2702.05,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1179,8 +1179,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167064,
+        "highlevelcategoryid": "10000015",
+        "id": "11167064",
         "entityid": "35_11167064",
         "ismanual": false,
         "price": {
@@ -1197,14 +1197,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 2702.05,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1216,8 +1216,8 @@
         "description": {
             "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167063,
+        "highlevelcategoryid": "10000015",
+        "id": "11167063",
         "entityid": "35_11167063",
         "ismanual": false,
         "price": {
@@ -1235,14 +1235,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 3589.56,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1254,8 +1254,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167066,
+        "highlevelcategoryid": "10000015",
+        "id": "11167066",
         "entityid": "35_11167066",
         "ismanual": false,
         "price": {
@@ -1272,14 +1272,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 3589.56,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1291,8 +1291,8 @@
         "description": {
             "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167065,
+        "highlevelcategoryid": "10000015",
+        "id": "11167065",
         "entityid": "35_11167065",
         "ismanual": false,
         "price": {
@@ -1310,14 +1310,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 4479.85,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1329,8 +1329,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167068,
+        "highlevelcategoryid": "10000015",
+        "id": "11167068",
         "entityid": "35_11167068",
         "ismanual": false,
         "price": {
@@ -1347,14 +1347,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 4479.85,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1366,8 +1366,8 @@
         "description": {
             "original": "Purchase:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167067,
+        "highlevelcategoryid": "10000015",
+        "id": "11167067",
         "entityid": "35_11167067",
         "ismanual": false,
         "price": {
@@ -1385,14 +1385,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 437.03,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "commission": {
@@ -1404,8 +1404,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167070,
+        "highlevelcategoryid": "10000012",
+        "id": "11167070",
         "entityid": "35_11167070",
         "ismanual": false,
         "price": {
@@ -1422,14 +1422,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 437.03,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1441,8 +1441,8 @@
         "description": {
             "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167069,
+        "highlevelcategoryid": "10000015",
+        "id": "11167069",
         "entityid": "35_11167069",
         "ismanual": false,
         "price": {
@@ -1460,14 +1460,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 150.4,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "commission": {
@@ -1479,8 +1479,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167072,
+        "highlevelcategoryid": "10000012",
+        "id": "11167072",
         "entityid": "35_11167072",
         "ismanual": false,
         "price": {
@@ -1497,14 +1497,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 150.4,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1516,8 +1516,8 @@
         "description": {
             "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167071,
+        "highlevelcategoryid": "10000015",
+        "id": "11167071",
         "entityid": "35_11167071",
         "ismanual": false,
         "price": {
@@ -1535,14 +1535,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1554,8 +1554,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167077,
+        "highlevelcategoryid": "10000015",
+        "id": "11167077",
         "entityid": "35_11167077",
         "ismanual": false,
         "price": {
@@ -1572,14 +1572,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1591,8 +1591,8 @@
         "description": {
             "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167076,
+        "highlevelcategoryid": "10000015",
+        "id": "11167076",
         "entityid": "35_11167076",
         "ismanual": false,
         "price": {
@@ -1610,14 +1610,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 3624.84,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "investment",
@@ -1625,8 +1625,8 @@
         "description": {
             "original": "Funds Received: FR BAC#XXXXXXXXXXXX"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11167075,
+        "highlevelcategoryid": "10000012",
+        "id": "11167075",
         "entityid": "35_11167075",
         "ismanual": false,
         "price": {
@@ -1644,14 +1644,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1754.51,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1663,8 +1663,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167074,
+        "highlevelcategoryid": "10000015",
+        "id": "11167074",
         "entityid": "35_11167074",
         "ismanual": false,
         "price": {
@@ -1681,14 +1681,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1754.51,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -1700,8 +1700,8 @@
         "description": {
             "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167073,
+        "highlevelcategoryid": "10000015",
+        "id": "11167073",
         "entityid": "35_11167073",
         "ismanual": false,
         "price": {

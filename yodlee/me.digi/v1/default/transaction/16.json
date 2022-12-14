@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 466.01,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "investment",
@@ -16,8 +16,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11166101,
+        "highlevelcategoryid": "10000012",
+        "id": "11166101",
         "entityid": "35_11166101",
         "ismanual": false,
         "settledate": "2020-03-02",
@@ -29,14 +29,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 466.01,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -48,8 +48,8 @@
         "description": {
             "original": "Sale:Charles Schwab Corp. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11166100,
+        "highlevelcategoryid": "10000015",
+        "id": "11166100",
         "entityid": "35_11166100",
         "ismanual": false,
         "price": {
@@ -67,14 +67,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 1984.59,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "investment",
@@ -82,8 +82,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11166103,
+        "highlevelcategoryid": "10000012",
+        "id": "11166103",
         "entityid": "35_11166103",
         "ismanual": false,
         "settledate": "2020-03-02",
@@ -95,14 +95,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 1984.59,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -114,8 +114,8 @@
         "description": {
             "original": "Sale:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11166102,
+        "highlevelcategoryid": "10000015",
+        "id": "11166102",
         "entityid": "35_11166102",
         "ismanual": false,
         "price": {

@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099188,
+        "accountid": "10099188",
         "amount": {
             "amount": 0,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "container": "loan",
@@ -16,8 +16,8 @@
         "description": {
             "original": "Payment Received - ThankYou"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 10250563,
+        "highlevelcategoryid": "10000017",
+        "id": "10250563",
         "entityid": "35_10250563",
         "ismanual": false,
         "sourcetype": "AGGREGATED",

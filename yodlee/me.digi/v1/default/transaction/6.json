@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099191,
+        "accountid": "10099191",
         "amount": {
             "amount": 0,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "container": "loan",
@@ -16,8 +16,8 @@
         "description": {
             "original": "Personal loan payment"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 10250676,
+        "highlevelcategoryid": "10000017",
+        "id": "10250676",
         "entityid": "35_10250676",
         "ismanual": false,
         "sourcetype": "AGGREGATED",

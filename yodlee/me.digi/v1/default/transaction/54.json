@@ -1,13 +1,13 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 1105.84,
             "currency": "USD"
         },
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "checknumber": "998",
@@ -16,8 +16,8 @@
         "description": {
             "original": "8 TO XX XXXXX0001 LOMBARD IL XXXXXXXXXXX XXXXXX8501"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 33835950,
+        "highlevelcategoryid": "10000017",
+        "id": "33835950",
         "entityid": "35_33835950",
         "ismanual": false,
         "postdate": "2022-12-01",
@@ -32,13 +32,13 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 21.99,
             "currency": "USD"
         },
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "checknumber": "998",
@@ -47,8 +47,8 @@
         "description": {
             "original": "BEEHIVE STORAGE LC BOUNTIFUL UT"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 33835649,
+        "highlevelcategoryid": "10000017",
+        "id": "33835649",
         "entityid": "35_33835649",
         "ismanual": false,
         "postdate": "2022-12-01",

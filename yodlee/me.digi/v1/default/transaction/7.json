@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099190,
+        "accountid": "10099190",
         "amount": {
             "amount": 0,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Loans",
-        "categoryid": 17,
+        "categoryid": "17",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "loan",
@@ -16,8 +16,8 @@
         "description": {
             "original": "student loan payment"
         },
-        "highlevelcategoryid": 10000004,
-        "id": 10250657,
+        "highlevelcategoryid": "10000004",
+        "id": "10250657",
         "entityid": "35_10250657",
         "ismanual": false,
         "sourcetype": "AGGREGATED",
@@ -27,14 +27,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099190,
+        "accountid": "10099190",
         "amount": {
             "amount": 0,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Loans",
-        "categoryid": 17,
+        "categoryid": "17",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "container": "loan",
@@ -42,8 +42,8 @@
         "description": {
             "original": "student loan payment"
         },
-        "highlevelcategoryid": 10000004,
-        "id": 10250656,
+        "highlevelcategoryid": "10000004",
+        "id": "10250656",
         "entityid": "35_10250656",
         "ismanual": false,
         "sourcetype": "AGGREGATED",

@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "container": "investment",
@@ -16,8 +16,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11166043,
+        "highlevelcategoryid": "10000015",
+        "id": "11166043",
         "entityid": "35_11166043",
         "ismanual": false,
         "settledate": "2020-03-12",
@@ -29,14 +29,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -48,8 +48,8 @@
         "description": {
             "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11166042,
+        "highlevelcategoryid": "10000015",
+        "id": "11166042",
         "entityid": "35_11166042",
         "ismanual": false,
         "price": {
@@ -67,14 +67,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 21150.5,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "investment",
@@ -82,8 +82,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11166047,
+        "highlevelcategoryid": "10000012",
+        "id": "11166047",
         "entityid": "35_11166047",
         "ismanual": false,
         "settledate": "2020-03-06",
@@ -95,14 +95,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 21150.5,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -114,8 +114,8 @@
         "description": {
             "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11166046,
+        "highlevelcategoryid": "10000015",
+        "id": "11166046",
         "entityid": "35_11166046",
         "ismanual": false,
         "price": {
@@ -133,14 +133,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 1605.2,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "investment",
@@ -148,8 +148,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11166045,
+        "highlevelcategoryid": "10000012",
+        "id": "11166045",
         "entityid": "35_11166045",
         "ismanual": false,
         "settledate": "2020-03-06",
@@ -161,14 +161,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 1605.2,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -180,8 +180,8 @@
         "description": {
             "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11166044,
+        "highlevelcategoryid": "10000015",
+        "id": "11166044",
         "entityid": "35_11166044",
         "ismanual": false,
         "price": {
@@ -199,14 +199,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 58117.6,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "container": "investment",
@@ -214,8 +214,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000012,
-        "id": 11166049,
+        "highlevelcategoryid": "10000012",
+        "id": "11166049",
         "entityid": "35_11166049",
         "ismanual": false,
         "settledate": "2020-03-05",
@@ -227,14 +227,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099185,
+        "accountid": "10099185",
         "amount": {
             "amount": 58117.6,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -246,8 +246,8 @@
         "description": {
             "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11166048,
+        "highlevelcategoryid": "10000015",
+        "id": "11166048",
         "entityid": "35_11166048",
         "ismanual": false,
         "price": {

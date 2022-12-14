@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099189,
+        "accountid": "10099189",
         "amount": {
             "amount": 0,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "container": "loan",
@@ -16,8 +16,8 @@
         "description": {
             "original": "loan payment"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 10250586,
+        "highlevelcategoryid": "10000017",
+        "id": "10250586",
         "entityid": "35_10250586",
         "ismanual": false,
         "sourcetype": "AGGREGATED",
@@ -27,14 +27,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099189,
+        "accountid": "10099189",
         "amount": {
             "amount": 0,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "container": "loan",
@@ -42,8 +42,8 @@
         "description": {
             "original": "loan payment"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 10250585,
+        "highlevelcategoryid": "10000017",
+        "id": "10250585",
         "entityid": "35_10250585",
         "ismanual": false,
         "sourcetype": "AGGREGATED",

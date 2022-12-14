@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1062.5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -20,8 +20,8 @@
         "description": {
             "original": "DIRECT DEPOSIT PROGRM"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167060,
+        "highlevelcategoryid": "10000015",
+        "id": "11167060",
         "entityid": "35_11167060",
         "ismanual": false,
         "price": {
@@ -38,14 +38,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099187,
+        "accountid": "10099187",
         "amount": {
             "amount": 1062.5,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Securities Trades",
-        "categoryid": 36,
+        "categoryid": "36",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "commission": {
@@ -57,8 +57,8 @@
         "description": {
             "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
         },
-        "highlevelcategoryid": 10000015,
-        "id": 11167059,
+        "highlevelcategoryid": "10000015",
+        "id": "11167059",
         "entityid": "35_11167059",
         "ismanual": false,
         "price": {

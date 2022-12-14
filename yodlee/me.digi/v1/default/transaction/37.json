@@ -1,13 +1,13 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099183,
+        "accountid": "10099183",
         "amount": {
             "amount": 480.66,
             "currency": "USD"
         },
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "checknumber": "998",
@@ -16,8 +16,8 @@
         "description": {
             "original": "CHEROKEE NATION TAX TA TAHLEQUAH OK"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 33835952,
+        "highlevelcategoryid": "10000017",
+        "id": "33835952",
         "entityid": "35_33835952",
         "ismanual": false,
         "postdate": "2022-12-01",
@@ -32,13 +32,13 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099183,
+        "accountid": "10099183",
         "amount": {
             "amount": 678.58,
             "currency": "USD"
         },
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
         "checknumber": "998",
@@ -47,8 +47,8 @@
         "description": {
             "original": "ATT*BILL PAYMENT XXX-XXX-0500 TX"
         },
-        "highlevelcategoryid": 10000017,
-        "id": 33835951,
+        "highlevelcategoryid": "10000017",
+        "id": "33835951",
         "entityid": "35_33835951",
         "ismanual": false,
         "postdate": "2022-12-01",

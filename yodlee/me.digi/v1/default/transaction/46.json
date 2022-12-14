@@ -1,14 +1,14 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 882.79,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Transfers",
-        "categoryid": 28,
+        "categoryid": "28",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "checknumber": "998",
@@ -18,9 +18,9 @@
             "original": "5/3 ONLINE TRANSFER FROM CK: XXXXXX3434 .",
             "simple": "5/3 ONLINE TRANSFER FROM CK: XX3434 ."
         },
-        "detailcategoryid": 1170,
-        "highlevelcategoryid": 10000015,
-        "id": 32814179,
+        "detailcategoryid": "1170",
+        "highlevelcategoryid": "10000015",
+        "id": "32814179",
         "entityid": "35_32814179",
         "ismanual": false,
         "isphysical": false,
@@ -49,14 +49,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 135.09,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Entertainment/Recreation",
-        "categoryid": 7,
+        "categoryid": "7",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -66,9 +66,9 @@
             "original": "05/28/19 CHARLESTON NATIONAL GOLF MT PLEASANT SC US",
             "simple": "05/28/19 CHARLESTON NATIONAL GOLF MT PLEASANT SC US"
         },
-        "detailcategoryid": 1352,
-        "highlevelcategoryid": 10000010,
-        "id": 32814178,
+        "detailcategoryid": "1352",
+        "highlevelcategoryid": "10000010",
+        "id": "32814178",
         "entityid": "35_32814178",
         "ismanual": false,
         "isphysical": true,
@@ -97,14 +97,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 119.38,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Personal/Family",
-        "categoryid": 20,
+        "categoryid": "20",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -114,9 +114,9 @@
             "original": "17'S CLEANERS CHICAGO IL",
             "simple": "17'S CLEANERS CHICAGO IL"
         },
-        "detailcategoryid": 1527,
-        "highlevelcategoryid": 10000010,
-        "id": 32814181,
+        "detailcategoryid": "1527",
+        "highlevelcategoryid": "10000010",
+        "id": "32814181",
         "entityid": "35_32814181",
         "ismanual": false,
         "isphysical": true,
@@ -145,14 +145,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 97.39,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Other Expenses",
-        "categoryid": 19,
+        "categoryid": "19",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -162,9 +162,9 @@
             "original": "24 YR GOAL CRESCENT CA SAND SPRINGS OK",
             "simple": "24 YR GOAL CRESCENT CA SAND SPRINGS OK"
         },
-        "detailcategoryid": 1161,
-        "highlevelcategoryid": 10000009,
-        "id": 32814180,
+        "detailcategoryid": "1161",
+        "highlevelcategoryid": "10000009",
+        "id": "32814180",
         "entityid": "35_32814180",
         "ismanual": false,
         "isphysical": true,
@@ -193,14 +193,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 25.13,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Personal/Family",
-        "categoryid": 20,
+        "categoryid": "20",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -210,9 +210,9 @@
             "original": "#7 DELLARIA SALONS  S BROOKLINE MA",
             "simple": "#7 DELLARIA SALONS S BROOKLINE MA"
         },
-        "detailcategoryid": 1527,
-        "highlevelcategoryid": 10000010,
-        "id": 32814185,
+        "detailcategoryid": "1527",
+        "highlevelcategoryid": "10000010",
+        "id": "32814185",
         "entityid": "35_32814185",
         "ismanual": false,
         "isphysical": true,
@@ -241,14 +241,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 122.52,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -258,9 +258,9 @@
             "original": "7-ELEVEN X9510 LONGMONT CO",
             "simple": "7-Eleven"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 32814184,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "32814184",
         "entityid": "35_32814184",
         "ismanual": false,
         "isphysical": true,
@@ -296,14 +296,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 223.05,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Transfers",
-        "categoryid": 28,
+        "categoryid": "28",
         "categorysource": "SYSTEM",
         "categorytype": "TRANSFER",
         "checknumber": "998",
@@ -313,9 +313,9 @@
             "original": "5/3 ONLINE TRANSFER FROM CK: XXXXXX3434 .",
             "simple": "5/3 ONLINE TRANSFER FROM CK: XX3434 ."
         },
-        "detailcategoryid": 1170,
-        "highlevelcategoryid": 10000015,
-        "id": 32814183,
+        "detailcategoryid": "1170",
+        "highlevelcategoryid": "10000015",
+        "id": "32814183",
         "entityid": "35_32814183",
         "ismanual": false,
         "isphysical": false,
@@ -344,14 +344,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 87.96,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Loans",
-        "categoryid": 17,
+        "categoryid": "17",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -361,9 +361,9 @@
             "original": "XXX08 - NY PRESBYTER NEW YORK NY REF# XXXXXXXXX XXXXXX2000",
             "simple": "XX08 - NY PRESBYTER NEW YORK NY REF# XX2000"
         },
-        "detailcategoryid": 1158,
-        "highlevelcategoryid": 10000004,
-        "id": 32814182,
+        "detailcategoryid": "1158",
+        "highlevelcategoryid": "10000004",
+        "id": "32814182",
         "entityid": "35_32814182",
         "ismanual": false,
         "isphysical": false,
@@ -392,14 +392,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 122.52,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -409,9 +409,9 @@
             "original": "XXX12 - CITY OF ATLANTA   #...9210",
             "simple": "XX12 - CITY OF ATLANTA #...9210"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32814187,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32814187",
         "entityid": "35_32814187",
         "ismanual": false,
         "isphysical": false,
@@ -440,14 +440,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 6.28,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Other Expenses",
-        "categoryid": 19,
+        "categoryid": "19",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -457,9 +457,9 @@
             "original": "1. THE BLIND TIGER C Tampa FL REF# 2FfACtilvji squareup.com/rec",
             "simple": "1. THE BLIND TIGER C Tampa FL REF# 2FfACtilvji squareup.com/rec"
         },
-        "detailcategoryid": 1161,
-        "highlevelcategoryid": 10000009,
-        "id": 32814186,
+        "detailcategoryid": "1161",
+        "highlevelcategoryid": "10000009",
+        "id": "32814186",
         "entityid": "35_32814186",
         "ismanual": false,
         "isphysical": false,
@@ -488,14 +488,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 103.67,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Personal/Family",
-        "categoryid": 20,
+        "categoryid": "20",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -505,9 +505,9 @@
             "original": "1256 DOWNEAST PARK CIT PARK CITY UT",
             "simple": "DownEast"
         },
-        "detailcategoryid": 1527,
-        "highlevelcategoryid": 10000010,
-        "id": 32814189,
+        "detailcategoryid": "1527",
+        "highlevelcategoryid": "10000010",
+        "id": "32814189",
         "entityid": "35_32814189",
         "ismanual": false,
         "isphysical": true,
@@ -531,14 +531,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 882.79,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Other Income",
-        "categoryid": 32,
+        "categoryid": "32",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -548,9 +548,9 @@
             "original": "XXX12 - CITY OF ATLANTA ATLANTA GA",
             "simple": "XXX12 - CITY OF ATLANTA ATLANTA GA"
         },
-        "detailcategoryid": 1182,
-        "highlevelcategoryid": 10000012,
-        "id": 32814188,
+        "detailcategoryid": "1182",
+        "highlevelcategoryid": "10000012",
+        "id": "32814188",
         "entityid": "35_32814188",
         "ismanual": false,
         "isphysical": false,
@@ -579,14 +579,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 65.97,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -596,9 +596,9 @@
             "original": "4Change* Energy Change XXX-XXX-2426 TX",
             "simple": "4Change* Energy Change XX-2426 TX"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32814191,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32814191",
         "entityid": "35_32814191",
         "ismanual": false,
         "isphysical": false,
@@ -627,14 +627,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 122.52,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -644,9 +644,9 @@
             "original": "4CHANGE ENERGY XXX-XXX-2426 TX",
             "simple": "4CHANGE ENERGY XX-2426 TX"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32814190,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32814190",
         "entityid": "35_32814190",
         "ismanual": false,
         "isphysical": false,
@@ -675,14 +675,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 113.1,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -692,9 +692,9 @@
             "original": "4TE*GEXA ENERGY HOUSTON TX",
             "simple": "4TE*GEXA ENERGY HOUSTON TX"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32814161,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32814161",
         "entityid": "35_32814161",
         "ismanual": false,
         "isphysical": false,
@@ -723,14 +723,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 135.09,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Other Expenses",
-        "categoryid": 19,
+        "categoryid": "19",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -740,9 +740,9 @@
             "original": "1. THE BLIND TIGER C Tampa FL REF# 2FfACtilvji squareup.com/rec",
             "simple": "1. THE BLIND TIGER C Tampa FL REF# 2FfACtilvji squareup.com/rec"
         },
-        "detailcategoryid": 1161,
-        "highlevelcategoryid": 10000009,
-        "id": 32814160,
+        "detailcategoryid": "1161",
+        "highlevelcategoryid": "10000009",
+        "id": "32814160",
         "entityid": "35_32814160",
         "ismanual": false,
         "isphysical": false,
@@ -771,14 +771,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 342.43,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Other Income",
-        "categoryid": 32,
+        "categoryid": "32",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -788,9 +788,9 @@
             "original": "3-AVENUE C SECURE PAY TROY MI",
             "simple": "3-AVENUE C SECURE PAY TROY MI"
         },
-        "detailcategoryid": 1182,
-        "highlevelcategoryid": 10000012,
-        "id": 32814163,
+        "detailcategoryid": "1182",
+        "highlevelcategoryid": "10000012",
+        "id": "32814163",
         "entityid": "35_32814163",
         "intermediary": [
             "Securepay"
@@ -822,14 +822,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 94.25,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -839,9 +839,9 @@
             "original": "XXX12 - CITY OF ATLANT",
             "simple": "XX12 - CITY OF ATLANT"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32814162,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32814162",
         "entityid": "35_32814162",
         "ismanual": false,
         "isphysical": false,
@@ -870,14 +870,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 882.79,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Deposits",
-        "categoryid": 27,
+        "categoryid": "27",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -887,9 +887,9 @@
             "original": "4257 AMC FT WAYNE 20",
             "simple": "4257 AMC FT WAYNE 20"
         },
-        "detailcategoryid": 1195,
-        "highlevelcategoryid": 10000012,
-        "id": 32814165,
+        "detailcategoryid": "1195",
+        "highlevelcategoryid": "10000012",
+        "id": "32814165",
         "entityid": "35_32814165",
         "ismanual": false,
         "isphysical": false,
@@ -918,14 +918,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 150.8,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Cable/Satellite/Telecom",
-        "categoryid": 15,
+        "categoryid": "15",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -935,9 +935,9 @@
             "original": "1  1 INTERNET WWW.1AND1.COM PA XXXXXXXX XXX-XXX-1589",
             "simple": "1&1"
         },
-        "detailcategoryid": 1156,
-        "highlevelcategoryid": 10000004,
-        "id": 32814164,
+        "detailcategoryid": "1156",
+        "highlevelcategoryid": "10000004",
+        "id": "32814164",
         "entityid": "35_32814164",
         "ismanual": false,
         "isphysical": false,
@@ -961,14 +961,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 56.55,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Gifts",
-        "categoryid": 9,
+        "categoryid": "9",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -978,9 +978,9 @@
             "original": "05/26/19 CANDLER PARK FLOWERS ATLANTA GA US",
             "simple": "CANDLER PARK FLOWERS ATLANTA GA US"
         },
-        "detailcategoryid": 1419,
-        "highlevelcategoryid": 10000010,
-        "id": 32814167,
+        "detailcategoryid": "1419",
+        "highlevelcategoryid": "10000010",
+        "id": "32814167",
         "entityid": "35_32814167",
         "ismanual": false,
         "isphysical": true,
@@ -1009,14 +1009,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 141.37,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Electronics/General Merchandise",
-        "categoryid": 43,
+        "categoryid": "43",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1026,9 +1026,9 @@
             "original": "05/08/19 AMAZON.COM*MN0FJ1CC0 AMZN AMZN.COM/BILL WA US",
             "simple": "Amazon"
         },
-        "detailcategoryid": 1316,
-        "highlevelcategoryid": 10000010,
-        "id": 32814166,
+        "detailcategoryid": "1316",
+        "highlevelcategoryid": "10000010",
+        "id": "32814166",
         "entityid": "35_32814166",
         "ismanual": false,
         "isphysical": false,
@@ -1059,14 +1059,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 56.55,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Services/Supplies",
-        "categoryid": 16,
+        "categoryid": "16",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1076,8 +1076,8 @@
             "original": "4162 GARAGE MGMT LLC NEW YORK NY REF# XXXXXXXXXXX XXX-XXX-7275",
             "simple": "4162 GARAGE MGMT LLC NEW YORK NY REF# XX-7275"
         },
-        "detailcategoryid": 1611,
-        "id": 32814171,
+        "detailcategoryid": "1611",
+        "id": "32814171",
         "entityid": "35_32814171",
         "ismanual": false,
         "isphysical": true,
@@ -1106,14 +1106,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 103.67,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1123,9 +1123,9 @@
             "original": "4TE*GEXA ENERGY XXX-XXX-9399 TX",
             "simple": "4TE*GEXA ENERGY XX-9399 TX"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32814170,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32814170",
         "entityid": "35_32814170",
         "ismanual": false,
         "isphysical": false,
@@ -1154,14 +1154,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 65.97,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Education",
-        "categoryid": 6,
+        "categoryid": "6",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1171,9 +1171,9 @@
             "original": "4257 AMC FT WAYNE 20",
             "simple": "4257 AMC FT WAYNE 20"
         },
-        "detailcategoryid": 1298,
-        "highlevelcategoryid": 10000022,
-        "id": 32814169,
+        "detailcategoryid": "1298",
+        "highlevelcategoryid": "10000022",
+        "id": "32814169",
         "entityid": "35_32814169",
         "ismanual": false,
         "isphysical": true,
@@ -1192,14 +1192,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 411.55,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Refunds/Adjustments",
-        "categoryid": 227,
+        "categoryid": "227",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -1209,9 +1209,9 @@
             "original": "4TE*GEXA ENERGY XXX-XXX-9399 TX",
             "simple": "4TE*GEXA ENERGY XX-9399 TX"
         },
-        "detailcategoryid": 1188,
-        "highlevelcategoryid": 10000019,
-        "id": 32814168,
+        "detailcategoryid": "1188",
+        "highlevelcategoryid": "10000019",
+        "id": "32814168",
         "entityid": "35_32814168",
         "ismanual": false,
         "isphysical": false,
@@ -1240,14 +1240,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 81.68,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Utilities",
-        "categoryid": 39,
+        "categoryid": "39",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1257,9 +1257,9 @@
             "original": "4TE*GEXA ENERGY HOUSTON TX",
             "simple": "4TE*GEXA ENERGY HOUSTON TX"
         },
-        "detailcategoryid": 1172,
-        "highlevelcategoryid": 10000004,
-        "id": 32814173,
+        "detailcategoryid": "1172",
+        "highlevelcategoryid": "10000004",
+        "id": "32814173",
         "entityid": "35_32814173",
         "ismanual": false,
         "isphysical": false,
@@ -1288,14 +1288,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 69.12,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1305,9 +1305,9 @@
             "original": "7-ELEVEN X9510 LONGMONT CO",
             "simple": "7-Eleven"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 32814172,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "32814172",
         "entityid": "35_32814172",
         "ismanual": false,
         "isphysical": true,
@@ -1343,14 +1343,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 1074.42,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Refunds/Adjustments",
-        "categoryid": 227,
+        "categoryid": "227",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -1360,9 +1360,9 @@
             "original": "257 BRAUMS STORE DALLAS TX",
             "simple": "257 BRAUMS STORE DALLAS TX"
         },
-        "detailcategoryid": 1188,
-        "highlevelcategoryid": 10000019,
-        "id": 32814175,
+        "detailcategoryid": "1188",
+        "highlevelcategoryid": "10000019",
+        "id": "32814175",
         "entityid": "35_32814175",
         "ismanual": false,
         "isphysical": false,
@@ -1391,14 +1391,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 15.71,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1408,9 +1408,9 @@
             "original": "7-ELEVEN X3121 DALLAS TX",
             "simple": "7-Eleven"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 32814174,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "32814174",
         "entityid": "35_32814174",
         "ismanual": false,
         "isphysical": false,
@@ -1443,14 +1443,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 169.65,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Services/Supplies",
-        "categoryid": 16,
+        "categoryid": "16",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1460,8 +1460,8 @@
             "original": "05/08/19 ANC*ANCESTRY.COM XXX-XXX3787 UT US",
             "simple": "Ancestry.com"
         },
-        "detailcategoryid": 1042,
-        "id": 32814177,
+        "detailcategoryid": "1042",
+        "id": "32814177",
         "entityid": "35_32814177",
         "ismanual": false,
         "isphysical": false,
@@ -1491,14 +1491,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 917.35,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Other Income",
-        "categoryid": 32,
+        "categoryid": "32",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -1508,9 +1508,9 @@
             "original": "5 CHURCH CHARLESTON      CHARLSTON    SC",
             "simple": "5 CHURCH CHARLESTON      CHARLSTON    SC"
         },
-        "detailcategoryid": 1182,
-        "highlevelcategoryid": 10000012,
-        "id": 32814176,
+        "detailcategoryid": "1182",
+        "highlevelcategoryid": "10000012",
+        "id": "32814176",
         "entityid": "35_32814176",
         "ismanual": false,
         "isphysical": false,
@@ -1539,14 +1539,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 1140.4,
             "currency": "USD"
         },
         "basetype": "CREDIT",
         "category": "Refunds/Adjustments",
-        "categoryid": 227,
+        "categoryid": "227",
         "categorysource": "SYSTEM",
         "categorytype": "INCOME",
         "checknumber": "998",
@@ -1556,9 +1556,9 @@
             "original": "XXX12 - CITY OF ATLANTA   #...9210",
             "simple": "XX12 - CITY OF ATLANTA #...9210"
         },
-        "detailcategoryid": 1188,
-        "highlevelcategoryid": 10000019,
-        "id": 32814157,
+        "detailcategoryid": "1188",
+        "highlevelcategoryid": "10000019",
+        "id": "32814157",
         "entityid": "35_32814157",
         "ismanual": false,
         "isphysical": false,
@@ -1587,14 +1587,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 131.95,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Personal/Family",
-        "categoryid": 20,
+        "categoryid": "20",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1604,9 +1604,9 @@
             "original": "1256 DOWNEAST PARK CIT PARK CITY UT",
             "simple": "DownEast"
         },
-        "detailcategoryid": 1527,
-        "highlevelcategoryid": 10000010,
-        "id": 32814156,
+        "detailcategoryid": "1527",
+        "highlevelcategoryid": "10000010",
+        "id": "32814156",
         "entityid": "35_32814156",
         "ismanual": false,
         "isphysical": true,
@@ -1630,14 +1630,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 119.38,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Personal/Family",
-        "categoryid": 20,
+        "categoryid": "20",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1647,9 +1647,9 @@
             "original": "#7 DELLARIA SALONS  S BROOKLINE MA",
             "simple": "#7 DELLARIA SALONS S BROOKLINE MA"
         },
-        "detailcategoryid": 1527,
-        "highlevelcategoryid": 10000010,
-        "id": 32814159,
+        "detailcategoryid": "1527",
+        "highlevelcategoryid": "10000010",
+        "id": "32814159",
         "entityid": "35_32814159",
         "ismanual": false,
         "isphysical": true,
@@ -1678,14 +1678,14 @@
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 10099182,
+        "accountid": "10099182",
         "amount": {
             "amount": 135.09,
             "currency": "USD"
         },
         "basetype": "DEBIT",
         "category": "Automotive/Petrol",
-        "categoryid": 2,
+        "categoryid": "2",
         "categorysource": "SYSTEM",
         "categorytype": "EXPENSE",
         "checknumber": "998",
@@ -1695,9 +1695,9 @@
             "original": "7-ELEVEN X3121 DALLAS TX",
             "simple": "7-Eleven"
         },
-        "detailcategoryid": 1266,
-        "highlevelcategoryid": 10000003,
-        "id": 32814158,
+        "detailcategoryid": "1266",
+        "highlevelcategoryid": "10000003",
+        "id": "32814158",
         "entityid": "35_32814158",
         "ismanual": false,
         "isphysical": true,
