@@ -1,98 +1,74 @@
 [
     {
         "accountentityid": "39_123456789",
-        "id": "819617697078709039",
-        "entityid": "39_123456789_819617697078709039",
+        "id": "893044180039764078",
+        "entityid": "39_123456789_893044180039764078",
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
-        "amount": 666.66,
-        "currency": "USD",
-        "originalref": "Test transaction for date testing 0",
-        "createddate": 1660953600000,
-        "transactiondate": 1660953600000,
-        "postdate": 1660953600000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
+        "amount": {
+            "amount": 666.66,
+            "currency": "USD"
+        },
+        "description": {
+            "original": "Test transaction for date testing 0"
+        },
+        "createddate": 1654479064724,
+        "transactiondate": "2022-11-29",
+        "postdate": "2022-11-29",
+        "categoryid": "10015"
     },
     {
         "accountentityid": "39_123456789",
-        "id": "819617697078709042",
-        "entityid": "39_123456789_819617697078709042",
+        "id": "893044180039764079",
+        "entityid": "39_123456789_893044180039764079",
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
-        "amount": 666.66,
-        "currency": "USD",
-        "originalref": "Test transaction for date testing 1",
-        "createddate": 1660953600000,
-        "transactiondate": 1660953600000,
-        "postdate": 1660953600000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
+        "amount": {
+            "amount": 666.66,
+            "currency": "USD"
+        },
+        "description": {
+            "original": "Test transaction for date testing 1"
+        },
+        "createddate": 1654478764724,
+        "transactiondate": "2022-11-29",
+        "postdate": "2022-11-29",
+        "categoryid": "10015"
     },
     {
         "accountentityid": "39_123456789",
-        "id": "819617697078709044",
-        "entityid": "39_123456789_819617697078709044",
+        "id": "893044180039764080",
+        "entityid": "39_123456789_893044180039764080",
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
-        "amount": 666.66,
-        "currency": "USD",
-        "originalref": "Test transaction for date testing 2",
-        "createddate": 1660953600000,
-        "transactiondate": 1660953600000,
-        "postdate": 1660953600000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
+        "amount": {
+            "amount": 666.66,
+            "currency": "USD"
+        },
+        "description": {
+            "original": "Test transaction for date testing 2"
+        },
+        "createddate": 1654478464724,
+        "transactiondate": "2022-11-29",
+        "postdate": "2022-11-29",
+        "categoryid": "10015"
     },
     {
         "accountentityid": "39_123456789",
-        "id": "819617697078709046",
-        "entityid": "39_123456789_819617697078709046",
+        "id": "893044180039764081",
+        "entityid": "39_123456789_893044180039764081",
         "categorytype": "transfer",
         "basetype": "CREDIT",
-        "amount": 250,
-        "currency": "USD",
-        "originalref": "Sample USD transfer credit card transaction for 2022-08-21",
-        "createddate": 1661040000000,
-        "transactiondate": 1661040000000,
-        "postdate": 1661040000000,
-        "categoryid": 10025,
-        "merchantname": "",
-        "merchantcountry": ""
-    },
-    {
-        "accountentityid": "39_123456789",
-        "id": "819617697087097655",
-        "entityid": "39_123456789_819617697087097655",
-        "categorytype": "fees_and_charges",
-        "basetype": "DEBIT",
-        "amount": 134,
-        "currency": "USD",
-        "originalref": "Sample USD credit card transaction for 2022-08-22",
-        "createddate": 1661126400000,
-        "transactiondate": 1661126400000,
-        "postdate": 1661126400000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
-    },
-    {
-        "accountentityid": "39_123456789",
-        "id": "819617697087097656",
-        "entityid": "39_123456789_819617697087097656",
-        "categorytype": "fees_and_charges",
-        "basetype": "CREDIT",
-        "amount": 100,
-        "currency": "USD",
-        "originalref": "Sample USD for transaction on 2022-08-23",
-        "createddate": 1661212800000,
-        "transactiondate": 1661212800000,
-        "postdate": 1661212800000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
+        "amount": {
+            "amount": 250,
+            "currency": "USD"
+        },
+        "description": {
+            "original": "Sample USD transfer credit card transaction for 2022-11-30"
+        },
+        "createddate": 1654478164724,
+        "transactiondate": "2022-11-30",
+        "postdate": "2022-11-30",
+        "categoryid": "10025"
     }
 ]
