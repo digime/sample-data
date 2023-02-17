@@ -1,27 +1,54 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 1207.98,
-        "currency": "USD",
+        "accountid": "10099191",
+        "amount": {
+            "amount": 0,
+            "currency": "USD"
+        },
         "basetype": "CREDIT",
         "category": "Uncategorised",
-        "categoryid": 1,
+        "categoryid": "1",
         "categorysource": "SYSTEM",
         "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224955",
-        "id": "10224955",
-        "interestamount": 508.91,
-        "interestcurrency": "USD",
+        "container": "loan",
+        "date": "2020-01-01",
+        "description": {
+            "original": "Personal loan payment"
+        },
+        "highlevelcategoryid": "10000017",
+        "id": "10250678",
+        "entityid": "35_10250678",
         "ismanual": false,
-        "principalamount": 699.07,
-        "principalcurrency": "USD",
-        "status": "POSTED",
-        "sourceid": "59885648",
         "sourcetype": "AGGREGATED",
-        "createddate": 1541030400000,
-        "transactiondate": 1541030400000
+        "status": "POSTED",
+        "transactiondate": "2020-01-01",
+        "createddate": 1649210839855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099191",
+        "amount": {
+            "amount": 0,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Uncategorised",
+        "categoryid": "1",
+        "categorysource": "SYSTEM",
+        "categorytype": "UNCATEGORIZE",
+        "container": "loan",
+        "date": "2020-01-01",
+        "description": {
+            "original": "Personal loan payment"
+        },
+        "highlevelcategoryid": "10000017",
+        "id": "10250677",
+        "entityid": "35_10250677",
+        "ismanual": false,
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-01-01",
+        "createddate": 1649210539855
     }
 ]

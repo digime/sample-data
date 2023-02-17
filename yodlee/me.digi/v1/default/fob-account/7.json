@@ -1,0 +1,44 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountname": "ROTH IRA - 4619",
+        "accountnumber": "xxxx4619",
+        "accountstatus": "ACTIVE",
+        "accounttype": 7,
+        "aggregationsource": "USER",
+        "balance": {
+            "amount": 697978.56,
+            "currency": "USD"
+        },
+        "cash": {
+            "amount": 237.72,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "createddate": 1638694855855,
+        "dataset": [
+            {
+                "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+                "lastupdated": "2022-12-02T12:28:16Z",
+                "lastupdateattempt": "2022-12-02T12:28:16Z",
+                "name": "BASIC_AGG_DATA",
+                "nextupdatescheduled": "2022-12-03T11:21:54Z",
+                "updateeligibility": "ALLOW_UPDATE"
+            }
+        ],
+        "displayedname": "AMY GLADYS",
+        "id": "10099187",
+        "entityid": "35_123456789",
+        "includeinnetworth": true,
+        "isasset": true,
+        "ismanual": false,
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "marginbalance": {
+            "amount": 0,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "providerid": "16441",
+        "providername": "Dag Site"
+    }
+]

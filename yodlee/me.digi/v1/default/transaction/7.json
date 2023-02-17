@@ -1,27 +1,54 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 1207.98,
-        "currency": "USD",
+        "accountid": "10099190",
+        "amount": {
+            "amount": 0,
+            "currency": "USD"
+        },
         "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "category": "Loans",
+        "categoryid": "17",
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224953",
-        "id": "10224953",
-        "interestamount": 486.72,
-        "interestcurrency": "USD",
+        "categorytype": "EXPENSE",
+        "container": "loan",
+        "date": "2020-01-01",
+        "description": {
+            "original": "student loan payment"
+        },
+        "highlevelcategoryid": "10000004",
+        "id": "10250657",
+        "entityid": "35_10250657",
         "ismanual": false,
-        "principalamount": 721.26,
-        "principalcurrency": "USD",
-        "status": "POSTED",
-        "sourceid": "88973691",
         "sourcetype": "AGGREGATED",
-        "createddate": 1546300800000,
-        "transactiondate": 1546300800000
+        "status": "POSTED",
+        "transactiondate": "2020-01-01",
+        "createddate": 1638690955855
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099190",
+        "amount": {
+            "amount": 0,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Loans",
+        "categoryid": "17",
+        "categorysource": "SYSTEM",
+        "categorytype": "EXPENSE",
+        "container": "loan",
+        "date": "2020-01-01",
+        "description": {
+            "original": "student loan payment"
+        },
+        "highlevelcategoryid": "10000004",
+        "id": "10250656",
+        "entityid": "35_10250656",
+        "ismanual": false,
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-01-01",
+        "createddate": 1638690655855
     }
 ]

@@ -1,0 +1,41 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountname": "Retirement Savings Plan - 4258",
+        "accountnumber": "xxxx4258",
+        "accountstatus": "ACTIVE",
+        "accounttype": 7,
+        "aggregationsource": "USER",
+        "balance": {
+            "amount": 94582.58,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "createddate": 1633435063855,
+        "dataset": [
+            {
+                "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+                "lastupdated": "2022-12-02T12:28:16Z",
+                "lastupdateattempt": "2022-12-02T12:28:16Z",
+                "name": "BASIC_AGG_DATA",
+                "nextupdatescheduled": "2022-12-03T11:21:54Z",
+                "updateeligibility": "ALLOW_UPDATE"
+            }
+        ],
+        "displayedname": "KAY MARSHA",
+        "id": "10099186",
+        "entityid": "35_123456789",
+        "includeinnetworth": true,
+        "isasset": true,
+        "ismanual": false,
+        "lastemployeecontributionamount": {
+            "amount": 206.85,
+            "currency": "USD"
+        },
+        "lastemployeecontributiondate": "2019-08-01",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "provideraccountid": "10023548",
+        "providerid": "16441",
+        "providername": "Dag Site"
+    }
+]

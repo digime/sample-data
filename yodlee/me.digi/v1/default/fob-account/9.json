@@ -1,0 +1,44 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "accountname": "CMA -Joint Brokerage - 3547",
+        "accountnumber": "xxxx3547",
+        "accountstatus": "ACTIVE",
+        "accounttype": 7,
+        "aggregationsource": "USER",
+        "balance": {
+            "amount": 330101.25,
+            "currency": "USD"
+        },
+        "cash": {
+            "amount": 108.22,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "createddate": 1628175271855,
+        "dataset": [
+            {
+                "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+                "lastupdated": "2022-12-02T12:28:16Z",
+                "lastupdateattempt": "2022-12-02T12:28:16Z",
+                "name": "BASIC_AGG_DATA",
+                "nextupdatescheduled": "2022-12-03T11:21:54Z",
+                "updateeligibility": "ALLOW_UPDATE"
+            }
+        ],
+        "displayedname": "MARY",
+        "id": "10099185",
+        "entityid": "35_123456789",
+        "includeinnetworth": true,
+        "isasset": true,
+        "ismanual": false,
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "marginbalance": {
+            "amount": 0,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "providerid": "16441",
+        "providername": "Dag Site"
+    }
+]

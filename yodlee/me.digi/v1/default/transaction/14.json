@@ -1,27 +1,77 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 1207.98,
-        "currency": "USD",
-        "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "accountid": "10099187",
+        "amount": {
+            "amount": 1062.5,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224946",
-        "id": "10224946",
-        "interestamount": 403.34,
-        "interestcurrency": "USD",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-03-02",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11167060",
+        "entityid": "35_11167060",
         "ismanual": false,
-        "principalamount": 804.64,
-        "principalcurrency": "USD",
-        "status": "POSTED",
-        "sourceid": "40740690",
+        "price": {
+            "amount": 352.5,
+            "currency": "USD"
+        },
+        "quantity": 3,
+        "settledate": "2020-03-05",
         "sourcetype": "AGGREGATED",
-        "createddate": 1564617600000,
-        "transactiondate": 1564617600000
+        "status": "POSTED",
+        "transactiondate": "2020-03-02",
+        "createddate": 1601858011855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099187",
+        "amount": {
+            "amount": 1062.5,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-03-02",
+        "description": {
+            "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11167059",
+        "entityid": "35_11167059",
+        "ismanual": false,
+        "price": {
+            "amount": 352.5,
+            "currency": "USD"
+        },
+        "quantity": 3,
+        "settledate": "2020-03-05",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "DGAZ",
+        "transactiondate": "2020-03-02",
+        "createddate": 1601857711855,
+        "type": "BUY"
     }
 ]

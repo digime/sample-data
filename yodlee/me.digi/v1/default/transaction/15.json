@@ -1,27 +1,3806 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 1207.98,
-        "currency": "USD",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 367.09,
+            "currency": "USD"
+        },
         "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "category": "Deposits",
+        "categoryid": "27",
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224945",
-        "id": "10224945",
-        "interestamount": 390.67,
-        "interestcurrency": "USD",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166217",
+        "entityid": "35_11166217",
         "ismanual": false,
-        "principalamount": 817.31,
-        "principalcurrency": "USD",
-        "status": "POSTED",
-        "sourceid": "35944041",
+        "settledate": "2019-12-09",
         "sourcetype": "AGGREGATED",
-        "createddate": 1567296000000,
-        "transactiondate": 1567296000000
+        "status": "POSTED",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596597919855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 367.09,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Sale:MidCap SPDRs ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166216",
+        "entityid": "35_11166216",
+        "ismanual": false,
+        "price": {
+            "amount": 362.09,
+            "currency": "USD"
+        },
+        "quantity": 1,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "MDY",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596597619855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 18935.08,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166215",
+        "entityid": "35_11166215",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596597319855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 18935.08,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Purchase:MARKET VECTORS ETF TRJR GOLD MINES ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166214",
+        "entityid": "35_11166214",
+        "ismanual": false,
+        "price": {
+            "amount": 39.52,
+            "currency": "USD"
+        },
+        "quantity": 479,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596597019855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1992.64,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166213",
+        "entityid": "35_11166213",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596596719855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1992.64,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Purchase:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166212",
+        "entityid": "35_11166212",
+        "ismanual": false,
+        "price": {
+            "amount": 116.92,
+            "currency": "USD"
+        },
+        "quantity": 17,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596596419855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 26554.4,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166211",
+        "entityid": "35_11166211",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596596119855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 26554.4,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Sale:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166210",
+        "entityid": "35_11166210",
+        "ismanual": false,
+        "price": {
+            "amount": 1769.96,
+            "currency": "USD"
+        },
+        "quantity": 15,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596595819855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 36111.27,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166209",
+        "entityid": "35_11166209",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596595519855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 36111.27,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Purchase:Eli Lilly and Company ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166208",
+        "entityid": "35_11166208",
+        "ismanual": false,
+        "price": {
+            "amount": 117.61,
+            "currency": "USD"
+        },
+        "quantity": 307,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596595219855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 4805.9,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Funds Received: Wells Fargo Bk NA"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166207",
+        "entityid": "35_11166207",
+        "ismanual": false,
+        "price": {
+            "amount": 1769.96,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596594919855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1408.04,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166206",
+        "entityid": "35_11166206",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596594619855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1408.04,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Purchase:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166205",
+        "entityid": "35_11166205",
+        "ismanual": false,
+        "price": {
+            "amount": 116.92,
+            "currency": "USD"
+        },
+        "quantity": 12,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596594319855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 39880.68,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166204",
+        "entityid": "35_11166204",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596594019855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 39880.68,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-04",
+        "description": {
+            "original": "Sale:MARKET VECTORS ETF TRJR GOLD MINES ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166203",
+        "entityid": "35_11166203",
+        "ismanual": false,
+        "price": {
+            "amount": 39.52,
+            "currency": "USD"
+        },
+        "quantity": 1009,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-04",
+        "createddate": 1596593719855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1183.48,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-03",
+        "description": {
+            "original": "Withdrawal: Wells Fargo Bk NA"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166218",
+        "entityid": "35_11166218",
+        "ismanual": false,
+        "price": {
+            "amount": 1781.6,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-03",
+        "createddate": 1596593419855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 6525.99,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166202",
+        "entityid": "35_11166202",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596593119855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 6525.99,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Sale:Charles Schwab Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166201",
+        "entityid": "35_11166201",
+        "ismanual": false,
+        "price": {
+            "amount": 49.03,
+            "currency": "USD"
+        },
+        "quantity": 133,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596592819855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 19941.56,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166200",
+        "entityid": "35_11166200",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596592519855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 19941.56,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Sale:Lilly(Eli) & Co ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166199",
+        "entityid": "35_11166199",
+        "ismanual": false,
+        "price": {
+            "amount": 118.67,
+            "currency": "USD"
+        },
+        "quantity": 168,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596592219855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 14296.31,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166198",
+        "entityid": "35_11166198",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596591919855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 14296.31,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Sale:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166197",
+        "entityid": "35_11166197",
+        "ismanual": false,
+        "price": {
+            "amount": 118.11,
+            "currency": "USD"
+        },
+        "quantity": 121,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596591619855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 15004.97,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166196",
+        "entityid": "35_11166196",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596591319855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 15004.97,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Sale:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166195",
+        "entityid": "35_11166195",
+        "ismanual": false,
+        "price": {
+            "amount": 118.11,
+            "currency": "USD"
+        },
+        "quantity": 127,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596591019855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 370.08,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166194",
+        "entityid": "35_11166194",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596590719855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 370.08,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Sale:MidCap SPDRs ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166193",
+        "entityid": "35_11166193",
+        "ismanual": false,
+        "price": {
+            "amount": 365.08,
+            "currency": "USD"
+        },
+        "quantity": 1,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "MDY",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596590419855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1067.99,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166192",
+        "entityid": "35_11166192",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596590119855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1067.99,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Purchase:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166191",
+        "entityid": "35_11166191",
+        "ismanual": false,
+        "price": {
+            "amount": 118.11,
+            "currency": "USD"
+        },
+        "quantity": 9,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596589819855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 103885.71,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166190",
+        "entityid": "35_11166190",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596589519855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 103885.71,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Sale:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166189",
+        "entityid": "35_11166189",
+        "ismanual": false,
+        "price": {
+            "amount": 1760.69,
+            "currency": "USD"
+        },
+        "quantity": 59,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596589219855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 10227.24,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166188",
+        "entityid": "35_11166188",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596588919855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 10227.24,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Sale:MidCap SPDRs ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166187",
+        "entityid": "35_11166187",
+        "ismanual": false,
+        "price": {
+            "amount": 365.08,
+            "currency": "USD"
+        },
+        "quantity": 28,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "MDY",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596588619855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 325.5,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Withdrawal: Wells Fargo Bk NA"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166186",
+        "entityid": "35_11166186",
+        "ismanual": false,
+        "price": {
+            "amount": 1760.69,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596588319855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 7047.76,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166185",
+        "entityid": "35_11166185",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596588019855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 7047.76,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-05",
+        "description": {
+            "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166184",
+        "entityid": "35_11166184",
+        "ismanual": false,
+        "price": {
+            "amount": 1760.69,
+            "currency": "USD"
+        },
+        "quantity": 4,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-05",
+        "createddate": 1596587719855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 33162.6,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-06",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166183",
+        "entityid": "35_11166183",
+        "ismanual": false,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-06",
+        "createddate": 1596587419855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 33162.6,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-06",
+        "description": {
+            "original": "Sale:Entergy Corporation ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166182",
+        "entityid": "35_11166182",
+        "ismanual": false,
+        "price": {
+            "amount": 118.42,
+            "currency": "USD"
+        },
+        "quantity": 280,
+        "settledate": "2019-12-09",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-06",
+        "createddate": 1596587119855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 11370.8,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166181",
+        "entityid": "35_11166181",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596586819855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 11370.8,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Purchase:Lilly(Eli) & Co ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166180",
+        "entityid": "35_11166180",
+        "ismanual": false,
+        "price": {
+            "amount": 119.64,
+            "currency": "USD"
+        },
+        "quantity": 95,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596586519855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 4720.72,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166179",
+        "entityid": "35_11166179",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596586219855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 4720.72,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Purchase:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166178",
+        "entityid": "35_11166178",
+        "ismanual": false,
+        "price": {
+            "amount": 38.03,
+            "currency": "USD"
+        },
+        "quantity": 124,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596585919855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 765.6,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166177",
+        "entityid": "35_11166177",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596585619855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 765.6,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166176",
+        "entityid": "35_11166176",
+        "ismanual": false,
+        "price": {
+            "amount": 38.03,
+            "currency": "USD"
+        },
+        "quantity": 20,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596585319855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 29782.2,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166175",
+        "entityid": "35_11166175",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596585019855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 29782.2,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Sale:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166174",
+        "entityid": "35_11166174",
+        "ismanual": false,
+        "price": {
+            "amount": 1751.6,
+            "currency": "USD"
+        },
+        "quantity": 17,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596584719855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 195.15,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166173",
+        "entityid": "35_11166173",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596584419855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 195.15,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166172",
+        "entityid": "35_11166172",
+        "ismanual": false,
+        "price": {
+            "amount": 38.03,
+            "currency": "USD"
+        },
+        "quantity": 5,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596584119855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1560.32,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166171",
+        "entityid": "35_11166171",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596583819855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1560.32,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Purchase:Eli Lilly and Company ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166170",
+        "entityid": "35_11166170",
+        "ismanual": false,
+        "price": {
+            "amount": 119.64,
+            "currency": "USD"
+        },
+        "quantity": 13,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596583519855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 6027.59,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166169",
+        "entityid": "35_11166169",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596583219855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 6027.59,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Sale:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166168",
+        "entityid": "35_11166168",
+        "ismanual": false,
+        "price": {
+            "amount": 118.09,
+            "currency": "USD"
+        },
+        "quantity": 51,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596582919855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 3776.64,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Funds Received: FR BAC#XXXXXXXXXXXX"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166167",
+        "entityid": "35_11166167",
+        "ismanual": false,
+        "price": {
+            "amount": 1751.6,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596582619855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 592.4,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166166",
+        "entityid": "35_11166166",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596582319855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 592.4,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Sale:The Charles Schwab Corporation ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166165",
+        "entityid": "35_11166165",
+        "ismanual": false,
+        "price": {
+            "amount": 48.95,
+            "currency": "USD"
+        },
+        "quantity": 12,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596582019855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 5927.95,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166164",
+        "entityid": "35_11166164",
+        "ismanual": false,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596581719855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 5927.95,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-09",
+        "description": {
+            "original": "Purchase:The Charles Schwab Corporation ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166163",
+        "entityid": "35_11166163",
+        "ismanual": false,
+        "price": {
+            "amount": 48.95,
+            "currency": "USD"
+        },
+        "quantity": 121,
+        "settledate": "2019-12-12",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-09",
+        "createddate": 1596581419855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 123.29,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-12",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166145",
+        "entityid": "35_11166145",
+        "ismanual": false,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-12",
+        "createddate": 1596581119855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 123.29,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-12",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166144",
+        "entityid": "35_11166144",
+        "ismanual": false,
+        "price": {
+            "amount": 39.43,
+            "currency": "USD"
+        },
+        "quantity": 3,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-12",
+        "createddate": 1596580819855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1744.21,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-11",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166150",
+        "entityid": "35_11166150",
+        "ismanual": false,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-11",
+        "createddate": 1596580519855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1744.21,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-11",
+        "description": {
+            "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166149",
+        "entityid": "35_11166149",
+        "ismanual": false,
+        "price": {
+            "amount": 1739.21,
+            "currency": "USD"
+        },
+        "quantity": 1,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-11",
+        "createddate": 1596580219855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 13066.37,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-11",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166148",
+        "entityid": "35_11166148",
+        "ismanual": false,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-11",
+        "createddate": 1596579919855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 13066.37,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-11",
+        "description": {
+            "original": "Purchase:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166147",
+        "entityid": "35_11166147",
+        "ismanual": false,
+        "price": {
+            "amount": 117.67,
+            "currency": "USD"
+        },
+        "quantity": 111,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-11",
+        "createddate": 1596579619855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 73.51,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-11",
+        "description": {
+            "original": "Withdrawal: FR BAC#XXXXXXXXXXXX"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166146",
+        "entityid": "35_11166146",
+        "ismanual": false,
+        "price": {
+            "amount": 1739.21,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-11",
+        "createddate": 1596579319855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 740.02,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166162",
+        "entityid": "35_11166162",
+        "ismanual": false,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596579019855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 740.02,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "Purchase:MidCap SPDRs ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166161",
+        "entityid": "35_11166161",
+        "ismanual": false,
+        "price": {
+            "amount": 367.51,
+            "currency": "USD"
+        },
+        "quantity": 2,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "MDY",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596578719855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 9029.96,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166160",
+        "entityid": "35_11166160",
+        "ismanual": false,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596578419855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 9029.96,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166159",
+        "entityid": "35_11166159",
+        "ismanual": false,
+        "price": {
+            "amount": 38.08,
+            "currency": "USD"
+        },
+        "quantity": 237,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596578119855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 18204.72,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166158",
+        "entityid": "35_11166158",
+        "ismanual": false,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596577819855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 18204.72,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "Purchase:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166157",
+        "entityid": "35_11166157",
+        "ismanual": false,
+        "price": {
+            "amount": 118.18,
+            "currency": "USD"
+        },
+        "quantity": 154,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596577519855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 7087.88,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166156",
+        "entityid": "35_11166156",
+        "ismanual": false,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596577219855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 7087.88,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "Purchase:MARKET VECTORS ETF TRJR GOLD MINES ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166155",
+        "entityid": "35_11166155",
+        "ismanual": false,
+        "price": {
+            "amount": 38.08,
+            "currency": "USD"
+        },
+        "quantity": 186,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596576919855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 10345.64,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166154",
+        "entityid": "35_11166154",
+        "ismanual": false,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596576619855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 10345.64,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "Sale:Eli Lilly and Company ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166153",
+        "entityid": "35_11166153",
+        "ismanual": false,
+        "price": {
+            "amount": 120.24,
+            "currency": "USD"
+        },
+        "quantity": 86,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596576319855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 17521.8,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166152",
+        "entityid": "35_11166152",
+        "ismanual": false,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596576019855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 17521.8,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-10",
+        "description": {
+            "original": "Purchase:MARKET VECTORS ETF TRJR GOLD MINES ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166151",
+        "entityid": "35_11166151",
+        "ismanual": false,
+        "price": {
+            "amount": 38.08,
+            "currency": "USD"
+        },
+        "quantity": 460,
+        "settledate": "2019-12-13",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-10",
+        "createddate": 1596575719855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 52953.35,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166137",
+        "entityid": "35_11166137",
+        "ismanual": false,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596575419855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 52953.35,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "Sale:Lilly(Eli) & Co ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166136",
+        "entityid": "35_11166136",
+        "ismanual": false,
+        "price": {
+            "amount": 122.85,
+            "currency": "USD"
+        },
+        "quantity": 431,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596575119855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1619.35,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "Withdrawal: FR BAC#XXXXXXXXXXXX"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166135",
+        "entityid": "35_11166135",
+        "ismanual": false,
+        "price": {
+            "amount": 1769.21,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596574819855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 54.72,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166134",
+        "entityid": "35_11166134",
+        "ismanual": false,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596574519855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 54.72,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "Sale:Charles Schwab Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166133",
+        "entityid": "35_11166133",
+        "ismanual": false,
+        "price": {
+            "amount": 49.72,
+            "currency": "USD"
+        },
+        "quantity": 1,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596574219855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 2387.4,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166132",
+        "entityid": "35_11166132",
+        "ismanual": false,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596573919855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 2387.4,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "Purchase:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166131",
+        "entityid": "35_11166131",
+        "ismanual": false,
+        "price": {
+            "amount": 119.12,
+            "currency": "USD"
+        },
+        "quantity": 20,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596573619855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1110.65,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166130",
+        "entityid": "35_11166130",
+        "ismanual": false,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596573319855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1110.65,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "Sale:Eli Lilly and Company ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166129",
+        "entityid": "35_11166129",
+        "ismanual": false,
+        "price": {
+            "amount": 122.85,
+            "currency": "USD"
+        },
+        "quantity": 9,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596573019855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 38702.75,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166128",
+        "entityid": "35_11166128",
+        "ismanual": false,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596572719855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 38702.75,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "Sale:Eli Lilly and Company ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166127",
+        "entityid": "35_11166127",
+        "ismanual": false,
+        "price": {
+            "amount": 122.85,
+            "currency": "USD"
+        },
+        "quantity": 315,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596572419855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 158.19,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-17",
+        "description": {
+            "original": "Withdrawal: FR BAC#XXXXXXXXXXXX"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166126",
+        "entityid": "35_11166126",
+        "ismanual": false,
+        "price": {
+            "amount": 1769.21,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-20",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-17",
+        "createddate": 1596572119855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 4213.31,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-16",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166141",
+        "entityid": "35_11166141",
+        "ismanual": false,
+        "settledate": "2019-12-19",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-16",
+        "createddate": 1596571819855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 4213.31,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-16",
+        "description": {
+            "original": "Sale:VanEck Vectors ETF Trust - VanEck Vectors Junior Gold Miners ETF ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166140",
+        "entityid": "35_11166140",
+        "ismanual": false,
+        "price": {
+            "amount": 39.33,
+            "currency": "USD"
+        },
+        "quantity": 107,
+        "settledate": "2019-12-19",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-16",
+        "createddate": 1596571519855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 46260.3,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-16",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166139",
+        "entityid": "35_11166139",
+        "ismanual": false,
+        "settledate": "2019-12-19",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-16",
+        "createddate": 1596571219855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 46260.3,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-16",
+        "description": {
+            "original": "Sale:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166138",
+        "entityid": "35_11166138",
+        "ismanual": false,
+        "price": {
+            "amount": 118.3,
+            "currency": "USD"
+        },
+        "quantity": 391,
+        "settledate": "2019-12-19",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-16",
+        "createddate": 1596570919855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 154.49,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-13",
+        "description": {
+            "original": "Withdrawal: FR BAC#XXXXXXXXXXXX"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166143",
+        "entityid": "35_11166143",
+        "ismanual": false,
+        "price": {
+            "amount": 1760.33,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-13",
+        "createddate": 1596570619855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 25.34,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-13",
+        "description": {
+            "original": "Withdrawal: Chase Bank NA"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166142",
+        "entityid": "35_11166142",
+        "ismanual": false,
+        "price": {
+            "amount": 1760.33,
+            "currency": "USD"
+        },
+        "quantity": 0,
+        "settledate": "2019-12-16",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-13",
+        "createddate": 1596570319855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 5731.28,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-23",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166109",
+        "entityid": "35_11166109",
+        "ismanual": false,
+        "settledate": "2019-12-26",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-23",
+        "createddate": 1596570019855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 5731.28,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-23",
+        "description": {
+            "original": "Purchase:Charles Schwab Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166108",
+        "entityid": "35_11166108",
+        "ismanual": false,
+        "price": {
+            "amount": 48.12,
+            "currency": "USD"
+        },
+        "quantity": 119,
+        "settledate": "2019-12-26",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-23",
+        "createddate": 1596569719855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 5381.84,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166119",
+        "entityid": "35_11166119",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596569419855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 5381.84,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166118",
+        "entityid": "35_11166118",
+        "ismanual": false,
+        "price": {
+            "amount": 1792.28,
+            "currency": "USD"
+        },
+        "quantity": 3,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596569119855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 8641.1,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166117",
+        "entityid": "35_11166117",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596568819855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 8641.1,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "Sale:Lilly(Eli) & Co ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166116",
+        "entityid": "35_11166116",
+        "ismanual": false,
+        "price": {
+            "amount": 130.85,
+            "currency": "USD"
+        },
+        "quantity": 66,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596568519855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 583.4,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166115",
+        "entityid": "35_11166115",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596568219855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 583.4,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "Purchase:The Charles Schwab Corporation ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166114",
+        "entityid": "35_11166114",
+        "ismanual": false,
+        "price": {
+            "amount": 48.2,
+            "currency": "USD"
+        },
+        "quantity": 12,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596567919855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 18764.5,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166113",
+        "entityid": "35_11166113",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596567619855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 18764.5,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "Purchase:MidCap SPDRs ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166112",
+        "entityid": "35_11166112",
+        "ismanual": false,
+        "price": {
+            "amount": 375.19,
+            "currency": "USD"
+        },
+        "quantity": 50,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "MDY",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596567319855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 2222.2,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166111",
+        "entityid": "35_11166111",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596567019855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 2222.2,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-20",
+        "description": {
+            "original": "Sale:The Charles Schwab Corporation ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166110",
+        "entityid": "35_11166110",
+        "ismanual": false,
+        "price": {
+            "amount": 48.2,
+            "currency": "USD"
+        },
+        "quantity": 46,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-20",
+        "createddate": 1596566719855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 29800.34,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-19",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166121",
+        "entityid": "35_11166121",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-19",
+        "createddate": 1596566419855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 29800.34,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-19",
+        "description": {
+            "original": "Purchase:Entergy Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166120",
+        "entityid": "35_11166120",
+        "ismanual": false,
+        "price": {
+            "amount": 119.66,
+            "currency": "USD"
+        },
+        "quantity": 249,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "ETR",
+        "transactiondate": "2019-12-19",
+        "createddate": 1596566119855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 895.82,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-18",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166125",
+        "entityid": "35_11166125",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-18",
+        "createddate": 1596565819855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 895.82,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-18",
+        "description": {
+            "original": "Sale:The Charles Schwab Corporation ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166124",
+        "entityid": "35_11166124",
+        "ismanual": false,
+        "price": {
+            "amount": 49.49,
+            "currency": "USD"
+        },
+        "quantity": 18,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2019-12-18",
+        "createddate": 1596565519855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 39233.29,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-18",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166123",
+        "entityid": "35_11166123",
+        "ismanual": false,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-18",
+        "createddate": 1596565219855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 39233.29,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-18",
+        "description": {
+            "original": "Sale:Eli Lilly and Company ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166122",
+        "entityid": "35_11166122",
+        "ismanual": false,
+        "price": {
+            "amount": 125.33,
+            "currency": "USD"
+        },
+        "quantity": 313,
+        "settledate": "2019-12-23",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "LLY",
+        "transactiondate": "2019-12-18",
+        "createddate": 1596564919855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 26843.15,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "container": "investment",
+        "date": "2019-12-26",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166107",
+        "entityid": "35_11166107",
+        "ismanual": false,
+        "settledate": "2019-12-30",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-26",
+        "createddate": 1596564619855,
+        "type": "WITHDRAWAL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 26843.15,
+            "currency": "USD"
+        },
+        "basetype": "DEBIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-26",
+        "description": {
+            "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166106",
+        "entityid": "35_11166106",
+        "ismanual": false,
+        "price": {
+            "amount": 1789.21,
+            "currency": "USD"
+        },
+        "quantity": 15,
+        "settledate": "2019-12-30",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2019-12-26",
+        "createddate": 1596564319855,
+        "type": "BUY"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1071.78,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2019-12-26",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166105",
+        "entityid": "35_11166105",
+        "ismanual": false,
+        "settledate": "2019-12-30",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2019-12-26",
+        "createddate": 1596564019855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1071.78,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2019-12-26",
+        "description": {
+            "original": "Sale:MARKET VECTORS ETF TRJR GOLD MINES ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166104",
+        "entityid": "35_11166104",
+        "ismanual": false,
+        "price": {
+            "amount": 41.03,
+            "currency": "USD"
+        },
+        "quantity": 26,
+        "settledate": "2019-12-30",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "GDXJ",
+        "transactiondate": "2019-12-26",
+        "createddate": 1596563719855,
+        "type": "SELL"
     }
 ]

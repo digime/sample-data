@@ -1,0 +1,243 @@
+[
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 29738.11,
+            "currency": "USD"
+        },
+        "createddate": 1649161639855,
+        "description": "Charles Schwab Corp.",
+        "holdingtype": "stock",
+        "id": "10047479",
+        "entityid": "35_10047479",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 43.8,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 696,
+        "symbol": "SCHW",
+        "value": {
+            "amount": 30484.8,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 27828.86,
+            "currency": "USD"
+        },
+        "createddate": 1649161339855,
+        "description": "Lilly(Eli) & Co",
+        "holdingtype": "stock",
+        "id": "10047478",
+        "entityid": "35_10047478",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 138.15,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 331,
+        "symbol": "LLY",
+        "value": {
+            "amount": 45727.65,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 3499.15,
+            "currency": "USD"
+        },
+        "createddate": 1649161039855,
+        "description": "Entergy Corp.",
+        "holdingtype": "stock",
+        "id": "10047473",
+        "entityid": "35_10047473",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 129.74,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 31,
+        "symbol": "ETR",
+        "value": {
+            "amount": 4021.94,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 50778.65,
+            "currency": "USD"
+        },
+        "createddate": 1649160739855,
+        "description": "Amazon.com Inc.",
+        "holdingtype": "stock",
+        "id": "10047472",
+        "entityid": "35_10047472",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 2009.29,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 31,
+        "symbol": "AMZN",
+        "value": {
+            "amount": 62287.99,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 1145.54,
+            "currency": "USD"
+        },
+        "createddate": 1649160439855,
+        "description": "Vanguard Target Retirement 2035 Fund",
+        "holdingtype": "mutualFund",
+        "id": "10047477",
+        "entityid": "35_10047477",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 22.36,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 56,
+        "symbol": "VTTHX",
+        "value": {
+            "amount": 1252.16,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 132329.74,
+            "currency": "USD"
+        },
+        "createddate": 1649160139855,
+        "description": "State Street Global Advisors - BNY SPDR S&P MidCap 400 ETF",
+        "holdingtype": "mutualFund",
+        "id": "10047476",
+        "entityid": "35_10047476",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 368.6,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 398,
+        "symbol": "MDY",
+        "value": {
+            "amount": 146702.8,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 91.56,
+            "currency": "USD"
+        },
+        "createddate": 1649159839855,
+        "description": "Vanguard Chester Funds - Vanguard Target Retirement Class Income Fund",
+        "holdingtype": "mutualFund",
+        "id": "10047475",
+        "entityid": "35_10047475",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 14.2,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 7,
+        "symbol": "VTINX",
+        "value": {
+            "amount": 99.4,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "costbasis": {
+            "amount": 1337.92,
+            "currency": "USD"
+        },
+        "createddate": 1649159539855,
+        "description": "MARKET VECTORS ETF TRJR GOLD MINES",
+        "holdingtype": "mutualFund",
+        "id": "10047474",
+        "entityid": "35_10047474",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 44.97,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 40,
+        "symbol": "GDXJ",
+        "value": {
+            "amount": 1798.8,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "createddate": 1649159239855,
+        "description": "NEW YORK N Y GO BDS FISCAL GO DATED 10/04/07 DUE 10/01/22 5.00% PAR CALL 10/01/",
+        "holdingtype": "bond",
+        "id": "10047481",
+        "entityid": "35_10047481",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 101.14,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 5,
+        "value": {
+            "amount": 5.05,
+            "currency": "USD"
+        }
+    },
+    {
+        "accountentityid": "35_123456789",
+        "createddate": 1649158939855,
+        "description": "FDIC INSURED DEPOSIT AT FIFTH THIRD IRA NOT COVERED BY SIPC",
+        "holdingtype": "moneyMarketFund",
+        "id": "10047480",
+        "entityid": "35_10047480",
+        "lastupdated": "2022-12-02T12:28:16Z",
+        "optiontype": "unknown",
+        "price": {
+            "amount": 1,
+            "currency": "USD"
+        },
+        "provideraccountid": "10023548",
+        "quantity": 37612.44,
+        "symbol": "QPIKQ",
+        "value": {
+            "amount": 37612.44,
+            "currency": "USD"
+        }
+    }
+]

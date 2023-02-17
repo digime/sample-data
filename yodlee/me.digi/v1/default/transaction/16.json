@@ -1,48 +1,134 @@
 [
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 1207.98,
-        "currency": "USD",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 466.01,
+            "currency": "USD"
+        },
         "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "category": "Deposits",
+        "categoryid": "27",
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224944",
-        "id": "10224944",
-        "interestamount": 377.79,
-        "interestcurrency": "USD",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2020-02-28",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166101",
+        "entityid": "35_11166101",
         "ismanual": false,
-        "principalamount": 830.19,
-        "principalcurrency": "USD",
-        "status": "POSTED",
-        "sourceid": "36132206",
+        "settledate": "2020-03-02",
         "sourcetype": "AGGREGATED",
-        "createddate": 1569888000000,
-        "transactiondate": 1569888000000
+        "status": "POSTED",
+        "transactiondate": "2020-02-28",
+        "createddate": 1591303927855,
+        "type": "DEPOSIT"
     },
     {
         "accountentityid": "35_123456789",
-        "accountid": 123456789,
-        "amount": 0,
-        "currency": "USD",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 466.01,
+            "currency": "USD"
+        },
         "basetype": "CREDIT",
-        "category": "Uncategorised",
-        "categoryid": 1,
+        "category": "Securities Trades",
+        "categoryid": "36",
         "categorysource": "SYSTEM",
-        "categorytype": "UNCATEGORIZE",
-        "originalref": "Personal loan payment",
-        "highlevelcategoryid": 10000017,
-        "entityid": "35_123456789_10224943",
-        "id": "10224943",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-02-28",
+        "description": {
+            "original": "Sale:Charles Schwab Corp. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166100",
+        "entityid": "35_11166100",
         "ismanual": false,
-        "status": "POSTED",
-        "sourceid": "22933215",
+        "price": {
+            "amount": 41.91,
+            "currency": "USD"
+        },
+        "quantity": 11,
+        "settledate": "2020-03-02",
         "sourcetype": "AGGREGATED",
-        "createddate": 1569888000000,
-        "transactiondate": 1569888000000
+        "status": "POSTED",
+        "symbol": "SCHW",
+        "transactiondate": "2020-02-28",
+        "createddate": 1591303627855,
+        "type": "SELL"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1984.59,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Deposits",
+        "categoryid": "27",
+        "categorysource": "SYSTEM",
+        "categorytype": "INCOME",
+        "container": "investment",
+        "date": "2020-02-27",
+        "description": {
+            "original": "DIRECT DEPOSIT PROGRM"
+        },
+        "highlevelcategoryid": "10000012",
+        "id": "11166103",
+        "entityid": "35_11166103",
+        "ismanual": false,
+        "settledate": "2020-03-02",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "transactiondate": "2020-02-27",
+        "createddate": 1591303327855,
+        "type": "DEPOSIT"
+    },
+    {
+        "accountentityid": "35_123456789",
+        "accountid": "10099185",
+        "amount": {
+            "amount": 1984.59,
+            "currency": "USD"
+        },
+        "basetype": "CREDIT",
+        "category": "Securities Trades",
+        "categoryid": "36",
+        "categorysource": "SYSTEM",
+        "categorytype": "TRANSFER",
+        "commission": {
+            "amount": 5,
+            "currency": "USD"
+        },
+        "container": "investment",
+        "date": "2020-02-27",
+        "description": {
+            "original": "Sale:Amazon.com Inc. ACTUAL PRICES"
+        },
+        "highlevelcategoryid": "10000015",
+        "id": "11166102",
+        "entityid": "35_11166102",
+        "ismanual": false,
+        "price": {
+            "amount": 1979.59,
+            "currency": "USD"
+        },
+        "quantity": 1,
+        "settledate": "2020-03-02",
+        "sourcetype": "AGGREGATED",
+        "status": "POSTED",
+        "symbol": "AMZN",
+        "transactiondate": "2020-02-27",
+        "createddate": 1591303027855,
+        "type": "SELL"
     }
 ]
