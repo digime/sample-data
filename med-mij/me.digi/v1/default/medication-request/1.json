@@ -1,85 +1,204 @@
 [
     {
-        "accountentityid": "37_123456789",
-        "authoredon": "2020-03-15",
-        "bundleid": "a6a406bf-6c5d-4263-aac4-988f0164b411",
-        "category": {
-            "coding": [
-                {
-                    "code": "16076005",
-                    "display": "Prescription (procedure)",
-                    "system": "http://snomed.info/sct"
-                }
-            ]
-        },
-        "createddate": 1676560389705,
-        "dosageinstruction": [
-            {
-                "asneededcodeableconcept": {
-                    "coding": [
-                        {
-                            "code": "1137",
-                            "display": "zo nodig",
-                            "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek"
-                        }
-                    ],
-                    "text": "zo nodig"
-                },
-                "route": {
-                    "coding": [
-                        {
-                            "code": "9",
-                            "display": "ORAAL",
-                            "system": "urn:oid:2.16.840.1.113883.2.4.4.9"
-                        }
-                    ]
-                },
-                "sequence": 1,
-                "text": "3D1T zn (3 maal daags, 1 tablet, zo nodig)",
-                "timing": {
-                    "repeat": {
-                        "frequency": 3,
-                        "period": 1,
-                        "periodunit": "d"
-                    }
-                }
-            }
-        ],
-        "extension": [
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
-                "valueidentifier": {
-                    "system": "http://fhir.nl/fhir/NamingSystem/ura/00003333/medicamenteuzebehandelingen",
-                    "value": "9795"
-                }
-            },
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-PeriodOfUse",
-                "valueperiod": {
-                    "start": "2020-03-15"
-                }
-            }
-        ],
-        "entityid": "37_123456789_7",
-        "id": "7",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-                "value": "156bcd55-8fdf-11ec-1852-020000000000"
-            }
-        ],
-        "intent": "order",
-        "medicationreference": {
-            "display": "IBUPROFEN 400MG TABLET",
-            "reference": "Medication/gpdata-product-ibuprofen"
-        },
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        "resourceType": "MedicationRequest",
+        "id": "medmij-bgz-medicationagreement-ts-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:43.739-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-MedicationAgreement"]
         },
         "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Medicatieafspraak. Subject: ELLEN XXX_BALTUS. Id: 156bcd55-8fdf-11ec-1852-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie: <span title=\"Prescription (procedure) (16076005 - SNOMED CT)\">Prescription (procedure)</span>, <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Dr. V. Huisarts 1</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>9795 (URA/00003333/MEDICAMENTEUZEBEHANDELINGEN)</td></tr><tr><th>Context</th><td>Consult voor HNP (thoracaal/lumbaal) met Dr. V. Huisarts 1</td></tr><tr><th>Medicatie</th><td>IBUPROFEN 400MG TABLET</td></tr><tr><th>Gemaakt</th><td>15 maart 2020</td></tr><tr><th>Gebruiksduur</th><td>Vanaf 15 maart 2020</td></tr><tr><th>Doseerinstructie</th><td><div>Volgnummer: 1</div><div>Tekst: 3D1T zn (3 maal daags, 1 tablet, zo nodig)</div><div>Timing: <div>3 maal per dag</div></div><div>Zo nodig: <span title=\"zo nodig (1137 - nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek)\">zo nodig</span></div><div>Toedieningsweg: <span title=\"ORAAL (9 - G-Standaard thesaurus subtabel 0007)\">ORAAL</span></div><div>Dosering: 1 STUK</div></td></tr></tbody></table></div>",
-            "status": "extensions"
-        }
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Medicatieafspraak. Subject: Johan XXX_Helleman. Id: 875452574 (http://example-implementer.com/fhir/MedicationRequest-ID), Categorie:                               \n          <span title=\"Voorschrijven (verrichting) (16076005 - SNOMED CT)\">Voorschrijven (verrichting)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver                                    \n            <span style=\"display: block;\">Zorgverlenerrol: Huisartsen, niet nader gespecificeerd</span></span></caption><tbody><tr><th>Medicatie</th><td>Metoclopramide zetpil 10mg</td></tr><tr><th>Gemaakt</th><td>16:30:00, 14 augustus 2016</td></tr><tr><th>Reden</th><td><span title=\"medicatie gestart (situatie) (266709005 - SNOMED CT)\">medicatie gestart (situatie)</span></td></tr><tr><th>Gebruiksduur</th><td><ul><li>30 day</li><li>Vanaf 15 augustus 2016</li></ul></td></tr><tr><th>Doseerinstructie</th><td><div>Tekst: Gedurende 30 dagen, zo nodig 1 maal per dag 1 stuk, rectaal</div><div>Timing:                                                 \n                <div>eenmalig per dag</div></div><div>Zo nodig:                                                 \n                <span title=\"zo nodig (1137 - nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek)\">zo nodig</span></div><div>Toedieningsweg:                                                 \n                <span title=\"Rectaal (12 - G-Standaard thesaurus subtabel 0007)\">Rectaal</span></div><div>Dosering: 1 stuk</div></td></tr></tbody></table></div>"
+        },
+        "extension": [{
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-MedicationUse-Duration",
+            "valueDuration": {
+                "value": 30,
+                "unit": "day",
+                "system": "http://unitsofmeasure.org",
+                "code": "d"
+            }
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-PeriodOfUse",
+            "valuePeriod": {
+                "start": "2016-08-15"
+            }
+        }],
+        "identifier": [{
+            "system": "http://example-implementer.com/fhir/MedicationRequest-ID",
+            "value": "875452574"
+        }],
+        "intent": "order",
+        "category": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "16076005",
+                "display": "Voorschrijven (verrichting)"
+            }]
+        },
+        "medicationReference": {
+            "reference": "Medication/6920-2-16-840-1-113883-2-4-4-10",
+            "display": "Metoclopramide zetpil 10mg"
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "authoredOn": "2016-08-14T16:30:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [{
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valueReference": {
+                        "reference": "PractitionerRole/medmij-bgz-practitionerrole-ts-04",
+                        "display": "Huisartsen, niet nader gespecificeerd"
+                    }
+                }],
+                "reference": "Practitioner/medmij-bgz-practitioner-ts-03",
+                "display": "Peter van Pulver"
+            }
+        },
+        "reasonCode": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "266709005",
+                "display": "medicatie gestart (situatie)"
+            }]
+        }],
+        "dosageInstruction": [{
+            "text": "Gedurende 30 dagen, zo nodig 1 maal per dag 1 stuk, rectaal",
+            "timing": {
+                "repeat": {
+                    "frequency": 1,
+                    "period": 1,
+                    "periodUnit": "d"
+                }
+            },
+            "asNeededCodeableConcept": {
+                "coding": [{
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek",
+                    "code": "1137",
+                    "display": "zo nodig"
+                }]
+            },
+            "route": {
+                "coding": [{
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.9",
+                    "code": "12",
+                    "display": "Rectaal"
+                }]
+            },
+            "doseQuantity": {
+                "value": 1,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            }
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-medicationagreement-ts-01"
+    }, {
+        "resourceType": "MedicationRequest",
+        "id": "gpdata-medicationrequest-contact04-ibuprofen",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:53.431-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-MedicationAgreement"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Medicatieafspraak. Subject: Jacqueline XXX_Cevat. Id: ba23654b-041c-11ec-3660-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Voorschrijven (16076005 - SNOMED CT)\">Voorschrijven</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Dokter Bernard</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>9795 (URA/00003333/MEDICAMENTEUZEBEHANDELINGEN)</td></tr><tr><th>Context</th><td><ul><li>HNP (thoracaal/lumbaal)</li><li>Consult voor HNP (thoracaal/lumbaal) met Dokter Bernard</li></ul></td></tr><tr><th>Medicatie</th><td>IBUPROFEN 400MG TABLET</td></tr><tr><th>Gemaakt</th><td>2022-11-13</td></tr><tr><th>Gebruiksduur</th><td>Vanaf 2022-11-13</td></tr><tr><th>Doseerinstructie</th><td><div>Volgnummer: 1</div><div>Tekst: 3D1T zn (3 maal daags, 1 tablet, zo nodig)</div><div>Timing:                                                 \n                <div>3 maal per dag</div></div><div>Zo nodig:                                                 \n                <span title=\"zo nodig (1137 - nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek)\">zo nodig</span></div><div>Toedieningsweg:                                                 \n                <span title=\"ORAAL (9 - G-Standaard thesaurus subtabel 0007)\">ORAAL</span></div><div>Dosering: 1 STUK</div></td></tr></tbody></table></div>"
+        },
+        "extension": [{
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+            "valueIdentifier": {
+                "system": "http://fhir.nl/fhir/NamingSystem/ura/00003333/medicamenteuzebehandelingen",
+                "value": "9795"
+            }
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/extension-context-nl-core-episodeofcare",
+            "valueReference": {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-l8601",
+                "display": "HNP (thoracaal/lumbaal)"
+            }
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-PeriodOfUse",
+            "valuePeriod": {
+                "start": "2022-11-13"
+            }
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "ba23654b-041c-11ec-3660-020000000000"
+        }],
+        "intent": "order",
+        "category": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "16076005",
+                "display": "Voorschrijven"
+            }]
+        },
+        "medicationReference": {
+            "reference": "Medication/gpdata-product-ibuprofen",
+            "display": "IBUPROFEN 400MG TABLET"
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "context": {
+            "reference": "Encounter/gpdata-encounter-contact04",
+            "display": "Consult voor HNP (thoracaal/lumbaal) met Dokter Bernard"
+        },
+        "authoredOn": "2022-11-13",
+        "requester": {
+            "agent": {
+                "extension": [{
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valueReference": {
+                        "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                        "display": "Dokter Bernard"
+                    }
+                }],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        },
+        "dosageInstruction": [{
+            "sequence": 1,
+            "text": "3D1T zn (3 maal daags, 1 tablet, zo nodig)",
+            "timing": {
+                "repeat": {
+                    "frequency": 3,
+                    "period": 1,
+                    "periodUnit": "d"
+                }
+            },
+            "asNeededCodeableConcept": {
+                "coding": [{
+                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-25-gebruiksvoorschrift#aanvullend-numeriek",
+                    "code": "1137",
+                    "display": "zo nodig"
+                }],
+                "text": "zo nodig"
+            },
+            "route": {
+                "coding": [{
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.9",
+                    "code": "9",
+                    "display": "ORAAL"
+                }]
+            },
+            "doseQuantity": {
+                "value": 1,
+                "unit": "STUK",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            }
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gpdata-medicationrequest-contact04-ibuprofen"
     }
 ]

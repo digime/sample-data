@@ -1,61 +1,183 @@
 [
     {
-        "accountentityid": "37_123456789",
-        "bundleid": "ed541faf-d5b9-4907-b752-7f44a3ad0c23",
-        "class": {
-            "code": "AMB",
-            "display": "ambulatory",
-            "system": "http://hl7.org/fhir/v3/ActCode"
+        "resourceType": "Encounter",
+        "id": "gpdata-encounter-contact16",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:40.618-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-Encounter"]
         },
-        "createddate": 1650260829705,
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.13",
-                "value": "55FEF7ED-D47F-1608-C0B2-6143BFB56F86"
-            }
-        ],
-        "entityid": "37_123456789_dc51db7e-2c69-4a3e-9a94-9a7fbfc5765b",
-        "id": "dc51db7e-2c69-4a3e-9a94-9a7fbfc5765b",
-        "participant": [
-            {
-                "individual": {
-                    "display": "Vaste Huisarts 1",
-                    "extension": [
-                        {
-                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                            "valuereference": {
-                                "display": "Vaste Huisarts 1",
-                                "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                            }
-                        }
-                    ],
-                    "reference": "Practitioner/01123987"
-                }
-            }
-        ],
-        "period": {
-            "end": "2022-05-13",
-            "start": "2022-05-13"
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Contact. Subject: Jacqueline XXX_Cevat. Id: Contact16 (urn:oid:2.16.528.1.1007.3.3.3333), Status: voltooid</caption><tbody><tr><th>Type contact</th><td><div><span title=\"ambulatory (AMB - v3/ActCode)\">ambulatory</span></div><span title=\"Consult (03 - nhg-tabel-14-contactwijze)\">Consult</span></td></tr><tr><th>Periode</th><td>2023-01-17 - 2023-01-17</td></tr><tr><th>Participant</th><td><div>Dokter Bernard</div></td></tr><tr><th>Zorgaanbieder</th><td>Aesculaap</td></tr></tbody></table></div>"
         },
-        "serviceprovider": {
-            "display": "Aesculaap",
-            "reference": "Organization/01012345"
-        },
+        "identifier": [{
+            "system": "urn:oid:2.16.528.1.1007.3.3.3333",
+            "value": "Contact16"
+        }],
         "status": "finished",
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        "class": {
+            "system": "http://hl7.org/fhir/v3/ActCode",
+            "code": "AMB",
+            "display": "ambulatory"
         },
-        "type": [
-            {
-                "coding": [
-                    {
-                        "code": "UNK",
-                        "display": "Unknown",
-                        "system": "http://hl7.org/fhir/v3/NullFlavor"
+        "type": [{
+            "coding": [{
+                "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-14-contactwijze",
+                "code": "03",
+                "display": "Consult"
+            }]
+        }],
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "episodeOfCare": [{
+            "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-l8601",
+            "display": "HNP (thoracaal/lumbaal)"
+        }],
+        "participant": [{
+            "individual": {
+                "extension": [{
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valueReference": {
+                        "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                        "display": "Dokter Bernard"
                     }
-                ]
+                }],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
             }
-        ]
+        }],
+        "period": {
+            "start": "2023-01-17",
+            "end": "2023-01-17"
+        },
+        "serviceProvider": {
+            "reference": "Organization/gpdata-organization-kwalificatie1",
+            "display": "Aesculaap"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gpdata-encounter-contact16"
+    }, {
+        "resourceType": "Encounter",
+        "id": "gpdata-encounter-contact17",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:42.337-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-Encounter"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Contact. Subject: Jacqueline XXX_Cevat. Id: Contact17 (urn:oid:2.16.528.1.1007.3.3.3333), Status: voltooid</caption><tbody><tr><th>Type contact</th><td><div><span title=\"ambulatory (AMB - v3/ActCode)\">ambulatory</span></div><span title=\"Consult (03 - nhg-tabel-14-contactwijze)\">Consult</span></td></tr><tr><th>Periode</th><td>2023-02-26 - 2023-02-26</td></tr><tr><th>Participant</th><td><div>Dokter Bernard</div></td></tr><tr><th>Zorgaanbieder</th><td>Aesculaap</td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.528.1.1007.3.3.3333",
+            "value": "Contact17"
+        }],
+        "status": "finished",
+        "class": {
+            "system": "http://hl7.org/fhir/v3/ActCode",
+            "code": "AMB",
+            "display": "ambulatory"
+        },
+        "type": [{
+            "coding": [{
+                "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-14-contactwijze",
+                "code": "03",
+                "display": "Consult"
+            }]
+        }],
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "episodeOfCare": [{
+            "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-l8601",
+            "display": "HNP (thoracaal/lumbaal)"
+        }],
+        "participant": [{
+            "individual": {
+                "extension": [{
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valueReference": {
+                        "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                        "display": "Dokter Bernard"
+                    }
+                }],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        }],
+        "period": {
+            "start": "2023-02-26",
+            "end": "2023-02-26"
+        },
+        "serviceProvider": {
+            "reference": "Organization/gpdata-organization-kwalificatie1",
+            "display": "Aesculaap"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gpdata-encounter-contact17"
+    }, {
+        "resourceType": "Encounter",
+        "id": "gpdata-encounter-contactmmk",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:43.024-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-Encounter"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Contact. Subject: Jacqueline XXX_Cevat. Id: ContactMMK (urn:oid:2.16.528.1.1007.3.3.3333), Status: voltooid</caption><tbody><tr><th>Type contact</th><td><div><span title=\"ambulatory (AMB - v3/ActCode)\">ambulatory</span></div><span title=\"Consult (03 - nhg-tabel-14-contactwijze)\">Consult</span></td></tr><tr><th>Periode</th><td>2022-10-04 - 2022-10-04</td></tr><tr><th>Participant</th><td><div>Dokter Bernard</div></td></tr><tr><th>Zorgaanbieder</th><td>Aesculaap</td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.528.1.1007.3.3.3333",
+            "value": "ContactMMK"
+        }],
+        "status": "finished",
+        "class": {
+            "system": "http://hl7.org/fhir/v3/ActCode",
+            "code": "AMB",
+            "display": "ambulatory"
+        },
+        "type": [{
+            "coding": [{
+                "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-14-contactwijze",
+                "code": "03",
+                "display": "Consult"
+            }]
+        }],
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "episodeOfCare": [{
+            "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r96",
+            "display": "Astma"
+        }],
+        "participant": [{
+            "individual": {
+                "extension": [{
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valueReference": {
+                        "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                        "display": "Dokter Bernard"
+                    }
+                }],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        }],
+        "period": {
+            "start": "2022-10-04",
+            "end": "2022-10-04"
+        },
+        "serviceProvider": {
+            "reference": "Organization/gpdata-organization-kwalificatie1",
+            "display": "Aesculaap"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gpdata-encounter-contactmmk"
     }
 ]

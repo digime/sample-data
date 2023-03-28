@@ -1,63 +1,109 @@
 [
     {
-        "accountentityid": "37_123456789",
-        "diagnosis": [
-            {
-                "condition": {
-                    "display": "HNP (thoracaal/lumbaal)",
-                    "reference": "Condition/gpdata-condition-icpc-l8601"
-                }
-            }
-        ],
-        "extension": [
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
-                "valuedatetime": "2020-03-15"
-            },
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
-                "valuedatetime": "2020-07-03"
-            },
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
-                "valuestring": "Rughernia"
-            }
-        ],
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-                "value": "155e8e0b-8fdf-11ec-1304-020000000000"
-            }
-        ],
-        "entityid": "37_123456789_6",
-        "id": "6",
-        "managingorganization": {
-            "display": "Aesculaap",
-            "reference": "Organization/gpdata-organization-01"
+        "resourceType": "EpisodeOfCare",
+        "id": "gpdata-episodeofcare-icpc-k78",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:46.665-04:00",
+            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"]
         },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b985779c-041c-11ec-1939-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Hartkloppingen -paroxysmaal boezemfibrilleren</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-02-06</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>Boezemfibrilleren/ -fladderen</td></tr></tbody></table></div>"
+        },
+        "extension": [{
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+            "valueDateTime": "2022-02-06"
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+            "valueDateTime": "2022-02-06"
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+            "valueString": "Hartkloppingen -paroxysmaal boezemfibrilleren"
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b985779c-041c-11ec-1939-020000000000"
+        }],
+        "status": "active",
+        "type": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "64572001",
+                "display": "aandoening"
+            }]
+        }],
+        "diagnosis": [{
+            "condition": {
+                "reference": "Condition/gpdata-condition-icpc-k78",
+                "display": "Boezemfibrilleren/ -fladderen"
+            }
+        }],
         "patient": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "managingOrganization": {
+            "reference": "Organization/gpdata-organization-kwalificatie1",
+            "display": "Aesculaap"
         },
         "period": {
-            "start": "2020-03-15"
+            "start": "2022-02-06"
         },
-        "createddate": 1671300297705,
-        "status": "active",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gpdata-episodeofcare-icpc-k78"
+    }, {
+        "resourceType": "EpisodeOfCare",
+        "id": "gpdata-episodeofcare-icpc-l8601",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:47.337-04:00",
+            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"]
+        },
         "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. PatiÃ«nt: ELLEN XXX_BALTUS. Id: 155e8e0b-8fdf-11ec-1304-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Rughernia</div></td></tr><tr><th>Periode</th><td>Vanaf 15 maart 2020</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>HNP (thoracaal/lumbaal)</td></tr></tbody></table></div>",
-            "status": "extensions"
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b99e2fbc-041c-11ec-1440-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Rughernia</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-11-13</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>HNP (thoracaal/lumbaal)</td></tr></tbody></table></div>"
         },
-        "type": [
-            {
-                "coding": [
-                    {
-                        "code": "64572001",
-                        "display": "aandoening",
-                        "system": "http://snomed.info/sct"
-                    }
-                ]
+        "extension": [{
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+            "valueDateTime": "2022-11-13"
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+            "valueDateTime": "2023-03-03"
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+            "valueString": "Rughernia"
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b99e2fbc-041c-11ec-1440-020000000000"
+        }],
+        "status": "active",
+        "type": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "64572001",
+                "display": "aandoening"
+            }]
+        }],
+        "diagnosis": [{
+            "condition": {
+                "reference": "Condition/gpdata-condition-icpc-l8601",
+                "display": "HNP (thoracaal/lumbaal)"
             }
-        ]
+        }],
+        "patient": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "managingOrganization": {
+            "reference": "Organization/gpdata-organization-kwalificatie1",
+            "display": "Aesculaap"
+        },
+        "period": {
+            "start": "2022-11-13"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gpdata-episodeofcare-icpc-l8601"
     }
 ]

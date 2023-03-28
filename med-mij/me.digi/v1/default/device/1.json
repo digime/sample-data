@@ -1,0 +1,111 @@
+[
+    {
+        "resourceType": "Device",
+        "id": "medmij-bgz-device-ts-03",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:35.723-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDeviceProduct"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Apparaat/Systeem. Pati\u00ebnt: Johan XXX_Helleman. Id: 0123456789</caption><tbody><tr><th>Type</th><td><span title=\"hoortoestel (fysiek object) (6012004 - SNOMED CT)\">hoortoestel (fysiek object)</span></td></tr><tr><th>UDI</th><td>UDI barcode: {01}05050474530799{17}220131{21}0123456789</td></tr><tr><th>Verloopdatum</th><td>31 januari 2022</td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "type": {
+                "coding": [{
+                    "system": "http://hl7.org/fhir/identifier-type",
+                    "code": "SNO",
+                    "display": "Serial Number"
+                }]
+            },
+            "value": "0123456789"
+        }],
+        "udi": {
+            "deviceIdentifier": "05050474530799",
+            "carrierHRF": "{01}05050474530799{17}220131{21}0123456789"
+        },
+        "type": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "6012004",
+                "display": "hoortoestel (fysiek object)"
+            }]
+        },
+        "expirationDate": "2022-01-31",
+        "patient": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-device-ts-03"
+    }, {
+        "resourceType": "Device",
+        "id": "medmij-bgz-device-ts-01",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:34.911-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDeviceProduct"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Apparaat/Systeem. Id: 2ecc464c-e3e4-11eb-1886-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6)</caption><tbody><tr><th>Type</th><td><span title=\"hoortoestel (fysiek object) (6012004 - SNOMED CT)\">hoortoestel (fysiek object)</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "2ecc464c-e3e4-11eb-1886-020000000000"
+        }],
+        "type": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "6012004",
+                "display": "hoortoestel (fysiek object)"
+            }]
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-device-ts-01"
+    }, {
+        "resourceType": "Device",
+        "id": "medmij-bgz-device-ts-02",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:35.208-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDeviceProduct"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Apparaat/Systeem. Pati\u00ebnt: Johan XXX_Helleman. Id: 1148130801</caption><tfoot><tr><td colspan=\"2\">Implantant, Gen 2 Tibia Insert 5/6-9mm</td></tr></tfoot><tbody><tr><th>Type</th><td><span title=\"Gewrichtsprothese van knie (fysiek object) (109228008 - SNOMED CT)\">Gewrichtsprothese van knie (fysiek object)</span></td></tr><tr><th>UDI</th><td>UDI barcode: {01}05050474530799{17}160131{21}1148130801</td></tr><tr><th>Verloopdatum</th><td>31 januari 2016</td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "type": {
+                "coding": [{
+                    "system": "http://hl7.org/fhir/identifier-type",
+                    "code": "SNO",
+                    "display": "Serial Number"
+                }]
+            },
+            "value": "1148130801"
+        }],
+        "udi": {
+            "deviceIdentifier": "05050474530799",
+            "carrierHRF": "{01}05050474530799{17}160131{21}1148130801"
+        },
+        "type": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "109228008",
+                "display": "Gewrichtsprothese van knie (fysiek object)"
+            }]
+        },
+        "expirationDate": "2016-01-31",
+        "patient": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "note": [{
+            "text": "Implantant, Gen 2 Tibia Insert 5/6-9mm"
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-device-ts-02"
+    }
+]

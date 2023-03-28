@@ -1,0 +1,75 @@
+[
+    {
+        "resourceType": "Organization",
+        "id": "medmij-bgz-insurer-ts-01",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:54.364-05:00",
+            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-organization"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Organisatie. Id: 3332 (UZOVI)</caption><tbody><tr><th>Naam</th><td>Menzis Zorgverzekeraar N.V.</td></tr><tr><th>Contactgegevens</th><td><a href=\"tel:+31505233333\">+31505233333</a> (Vast telefoonnummer)                                    \n            </td></tr><tr><th>Adres</th><td>Postbus 34000, 7500KC Enschede, NLD (Post)</td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "http://fhir.nl/fhir/NamingSystem/uzovi",
+            "value": "3332"
+        }],
+        "name": "Menzis Zorgverzekeraar N.V.",
+        "telecom": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.22.1",
+                        "code": "LL",
+                        "display": "Vast telefoonnummer"
+                    }]
+                }
+            }],
+            "system": "phone",
+            "value": "+31505233333",
+            "use": "work"
+        }],
+        "address": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-AddressInformation-AddressType",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/v3/AddressUse",
+                        "code": "PST",
+                        "display": "Postadres"
+                    }]
+                }
+            }],
+            "type": "postal",
+            "line": ["Postbus 34000"],
+            "_line": [{
+                "extension": [{
+                    "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                    "valueString": "Postbus"
+                }, {
+                    "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                    "valueString": "34000"
+                }]
+            }],
+            "city": "Enschede",
+            "postalCode": "7500KC",
+            "country": "NLD",
+            "_country": {
+                "extension": [{
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [{
+                            "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34",
+                            "code": "6030",
+                            "display": "Nederland"
+                        }]
+                    }
+                }]
+            }
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-insurer-ts-01"
+    }
+]

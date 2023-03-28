@@ -1,431 +1,797 @@
 [
     {
-        "accountentityid": "37_123456789",
-        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
-        "category": [
-            {
-                "coding": [
-                    {
-                        "code": "vital-signs",
-                        "display": "Vital Signs",
-                        "system": "http://hl7.org/fhir/observation-category"
-                    }
-                ],
-                "text": "Vital Signs"
-            }
-        ],
-        "code": {
-            "coding": [
-                {
-                    "code": "2408",
-                    "display": "Gewicht patient (thuismeting)",
-                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
-                }
-            ]
+        "resourceType": "Observation",
+        "id": "selfmeasurements-bloodpressure-kwalificatie1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:33.027-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-BloodPressure"]
         },
-        "createddate": 1676560389705,
-        "effectivedatetime": "2022-04-26",
-        "entityid": "37_123456789_d0679296-c1a0-48ec-a9e7-804248fe42fc",
-        "id": "d0679296-c1a0-48ec-a9e7-804248fe42fc",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
-                "value": "07E0EE02-0C25-636D-0BDE-F16AC253C7AC"
-            }
-        ],
-        "performer": [
-            {
-                "display": "Vaste Huisarts 1",
-                "extension": [
-                    {
-                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                        "valuereference": {
-                            "display": "Vaste Huisarts 1",
-                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                        }
-                    }
-                ],
-                "reference": "Practitioner/01123987"
-            }
-        ],
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: caf85dbb-04e1-11ec-4967-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td>2023-02-23T07:30:00+02:00</td></tr><tr><th>Methode</th><td><span title=\"Niet-invasief (22762002 - SNOMED CT)\">Niet-invasief</span></td></tr><tr><th>Deel van lichaam</th><td><span title=\"Rechter bovenarm (368209003 - SNOMED CT)\">Rechter bovenarm</span></td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"Blood pressure panel with all children optional (85354-9 - LOINC)\">Blood pressure panel with all children optional</span></td><td/></tr><tr><td><span title=\"Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel (8480-6 - LOINC)\">Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel</span></td><td>125 mmHg</td></tr><tr><td><span title=\"Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel (8462-4 - LOINC)\">Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel</span></td><td>75 mmHg</td></tr><tr><td><span title=\"Blood pressure device Cuff size (8358-4 - LOINC)\">Blood pressure device Cuff size</span></td><td><span title=\"Standaard (STD - 2.16.840.1.113883.2.4.3.11.60.40.4.15.1)\">Standaard</span></td></tr><tr><td><span title=\"Body position with respect to gravity (8361-8 - LOINC)\">Body position with respect to gravity</span></td><td><span title=\"Liggende positie (102538003 - SNOMED CT)\">Liggende positie</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "caf85dbb-04e1-11ec-4967-020000000000"
+        }],
         "status": "final",
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
-        },
-        "valuequantity": {
-            "value": 81,
-            "unit": "kg",
-            "system": "http://unitsofmeasure.org"
-        }
-    },
-    {
-        "accountentityid": "37_123456789",
-        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
-        "category": [
-            {
-                "coding": [
-                    {
-                        "code": "vital-signs",
-                        "display": "Vital Signs",
-                        "system": "http://hl7.org/fhir/observation-category"
-                    }
-                ],
-                "text": "Vital Signs"
-            }
-        ],
+        "category": [{
+            "coding": [{
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }]
+        }],
         "code": {
-            "coding": [
-                {
-                    "code": "2408",
-                    "display": "Gewicht patient (thuismeting)",
-                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
-                }
-            ]
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "85354-9",
+                "display": "Blood pressure panel with all children optional"
+            }]
         },
-        "createddate": 1676560089705,
-        "effectivedatetime": "2022-04-22",
-        "entityid": "37_123456789_e3e38d73-363f-4014-a0a0-80877352321a",
-        "id": "e3e38d73-363f-4014-a0a0-80877352321a",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
-                "value": "3AEAFDC2-4EEC-3AE0-B036-430198230CB1"
-            }
-        ],
-        "performer": [
-            {
-                "display": "Vaste Huisarts 1",
-                "extension": [
-                    {
-                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                        "valuereference": {
-                            "display": "Vaste Huisarts 1",
-                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                        }
-                    }
-                ],
-                "reference": "Practitioner/01123987"
-            }
-        ],
-        "status": "final",
         "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
         },
-        "valuequantity": {
-            "value": 80,
-            "unit": "kg",
-            "system": "http://unitsofmeasure.org"
-        }
-    },
-    {
-        "accountentityid": "37_123456789",
-        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
-        "category": [
-            {
-                "coding": [
-                    {
-                        "code": "vital-signs",
-                        "display": "Vital Signs",
-                        "system": "http://hl7.org/fhir/observation-category"
-                    }
-                ],
-                "text": "Vital Signs"
-            }
-        ],
-        "code": {
-            "coding": [
-                {
-                    "code": "2408",
-                    "display": "Gewicht patient (thuismeting)",
-                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
-                }
-            ]
+        "effectiveDateTime": "2023-02-23T07:30:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "bodySite": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "368209003",
+                "display": "Rechter bovenarm"
+            }]
         },
-        "createddate": 1676559789705,
-        "effectivedatetime": "2022-04-21",
-        "entityid": "37_123456789_55079463-6b56-4e4d-8241-5606943770ba",
-        "id": "55079463-6b56-4e4d-8241-5606943770ba",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
-                "value": "36FD5C66-E575-3816-F267-E2D58E7524B0"
-            }
-        ],
-        "performer": [
-            {
-                "display": "Vaste Huisarts 1",
-                "extension": [
-                    {
-                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                        "valuereference": {
-                            "display": "Vaste Huisarts 1",
-                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                        }
-                    }
-                ],
-                "reference": "Practitioner/01123987"
-            }
-        ],
-        "status": "final",
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        "method": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "22762002",
+                "display": "Niet-invasief"
+            }]
         },
-        "valuequantity": {
-            "value": 82,
-            "unit": "kg",
-            "system": "http://unitsofmeasure.org"
-        }
-    },
-    {
-        "accountentityid": "37_123456789",
-        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
-        "category": [
-            {
-                "coding": [
-                    {
-                        "code": "49581000146104",
-                        "display": "klinische bevinding",
-                        "system": "http://snomed.info/sct"
-                    }
-                ]
+        "component": [{
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8480-6",
+                    "display": "Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel"
+                }]
             },
-            {
-                "coding": [
-                    {
-                        "code": "laboratory",
-                        "display": "Laboratory",
-                        "system": "http://hl7.org/fhir/observation-category"
-                    }
-                ],
-                "text": "Laboratory"
+            "valueQuantity": {
+                "value": 125,
+                "unit": "mmHg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mm[Hg]"
             }
-        ],
-        "code": {
-            "coding": [
-                {
-                    "code": "382",
-                    "display": "Glucose nuchter,draagb meter",
-                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
-                }
-            ]
-        },
-        "createddate": 1676559489705,
-        "effectivedatetime": "2022-04-22",
-        "entityid": "37_123456789_d32aebd7-6fa4-49a7-bd94-de8a4be2ae0f",
-        "id": "d32aebd7-6fa4-49a7-bd94-de8a4be2ae0f",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
-                "value": "C0EF6563-FE2A-953A-8584-FC23795C3172"
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8462-4",
+                    "display": "Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel"
+                }]
+            },
+            "valueQuantity": {
+                "value": 75,
+                "unit": "mmHg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mm[Hg]"
             }
-        ],
-        "performer": [
-            {
-                "display": "Vaste Huisarts 1",
-                "extension": [
-                    {
-                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                        "valuereference": {
-                            "display": "Vaste Huisarts 1",
-                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                        }
-                    }
-                ],
-                "reference": "Practitioner/01123987"
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8358-4",
+                    "display": "Blood pressure device Cuff size"
+                }]
+            },
+            "valueCodeableConcept": {
+                "coding": [{
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.15.1",
+                    "code": "STD",
+                    "display": "Standaard"
+                }]
             }
-        ],
-        "status": "final",
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
-        },
-        "valuequantity": {
-            "value": 6.6,
-            "unit": "mmol/L",
-            "system": "http://unitsofmeasure.org"
-        }
-    },
-    {
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8361-8",
+                    "display": "Body position with respect to gravity"
+                }]
+            },
+            "valueCodeableConcept": {
+                "coding": [{
+                    "system": "http://snomed.info/sct",
+                    "code": "102538003",
+                    "display": "Liggende positie"
+                }]
+            }
+        }],
         "accountentityid": "37_123456789",
-        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
-        "category": [
-            {
-                "coding": [
-                    {
-                        "code": "vital-signs",
-                        "display": "Vital Signs",
-                        "system": "http://hl7.org/fhir/observation-category"
-                    }
-                ],
-                "text": "Vital Signs"
-            }
-        ],
-        "code": {
-            "coding": [
-                {
-                    "code": "3963",
-                    "display": "Hartfrequentie (thuismeting)",
-                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
-                }
-            ]
+        "entityid": "37_123456789_selfmeasurements-bloodpressure-kwalificatie1",
+        "createddate": 1677106800
+    }, {
+        "resourceType": "Observation",
+        "id": "selfmeasurements-bloodpressure-kwalificatie2",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:33.965-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-BloodPressure"]
         },
-        "createddate": 1676559189705,
-        "effectivedatetime": "2022-04-12",
-        "entityid": "37_123456789_83983676-afe8-41d2-b145-a60df801fbe4",
-        "id": "83983676-afe8-41d2-b145-a60df801fbe4",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
-                "value": "7CC9FA5A-4B80-F76D-DFB2-48C3D5495228"
-            }
-        ],
-        "performer": [
-            {
-                "display": "Vaste Huisarts 1",
-                "extension": [
-                    {
-                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                        "valuereference": {
-                            "display": "Vaste Huisarts 1",
-                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                        }
-                    }
-                ],
-                "reference": "Practitioner/01123987"
-            }
-        ],
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: cb177e7b-04e1-11ec-1965-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td>2023-02-24T07:35:00+02:00</td></tr><tr><th>Methode</th><td><span title=\"Niet-invasief (22762002 - SNOMED CT)\">Niet-invasief</span></td></tr><tr><th>Deel van lichaam</th><td><span title=\"Rechter bovenarm (368209003 - SNOMED CT)\">Rechter bovenarm</span></td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"Blood pressure panel with all children optional (85354-9 - LOINC)\">Blood pressure panel with all children optional</span></td><td/></tr><tr><td><span title=\"Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel (8480-6 - LOINC)\">Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel</span></td><td>126 mmHg</td></tr><tr><td><span title=\"Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel (8462-4 - LOINC)\">Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel</span></td><td>80 mmHg</td></tr><tr><td><span title=\"Blood pressure device Cuff size (8358-4 - LOINC)\">Blood pressure device Cuff size</span></td><td><span title=\"Standaard (STD - 2.16.840.1.113883.2.4.3.11.60.40.4.15.1)\">Standaard</span></td></tr><tr><td><span title=\"Body position with respect to gravity (8361-8 - LOINC)\">Body position with respect to gravity</span></td><td><span title=\"Zittende positie (33586001 - SNOMED CT)\">Zittende positie</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "cb177e7b-04e1-11ec-1965-020000000000"
+        }],
         "status": "final",
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        "category": [{
+            "coding": [{
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "85354-9",
+                "display": "Blood pressure panel with all children optional"
+            }]
         },
-        "valuequantity": {
-            "value": 93,
-            "unit": "93",
-            "system": "http://unitsofmeasure.org"
-        }
-    },
-    {
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-24T07:35:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "bodySite": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "368209003",
+                "display": "Rechter bovenarm"
+            }]
+        },
+        "method": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "22762002",
+                "display": "Niet-invasief"
+            }]
+        },
+        "component": [{
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8480-6",
+                    "display": "Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel"
+                }]
+            },
+            "valueQuantity": {
+                "value": 126,
+                "unit": "mmHg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mm[Hg]"
+            }
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8462-4",
+                    "display": "Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel"
+                }]
+            },
+            "valueQuantity": {
+                "value": 80,
+                "unit": "mmHg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mm[Hg]"
+            }
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8358-4",
+                    "display": "Blood pressure device Cuff size"
+                }]
+            },
+            "valueCodeableConcept": {
+                "coding": [{
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.15.1",
+                    "code": "STD",
+                    "display": "Standaard"
+                }]
+            }
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8361-8",
+                    "display": "Body position with respect to gravity"
+                }]
+            },
+            "valueCodeableConcept": {
+                "coding": [{
+                    "system": "http://snomed.info/sct",
+                    "code": "33586001",
+                    "display": "Zittende positie"
+                }]
+            }
+        }],
         "accountentityid": "37_123456789",
-        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
-        "category": [
-            {
-                "coding": [
-                    {
-                        "code": "vital-signs",
-                        "display": "Vital Signs",
-                        "system": "http://hl7.org/fhir/observation-category"
-                    }
-                ],
-                "text": "Vital Signs"
-            }
-        ],
-        "code": {
-            "coding": [
-                {
-                    "code": "2056",
-                    "display": "Diastolische bloeddruk (thuismeting)",
-                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+        "entityid": "37_123456789_selfmeasurements-bloodpressure-kwalificatie2",
+        "createddate": 1677193200
+    }, {
+        "resourceType": "Observation",
+        "id": "selfmeasurements-bloodglucose-kwalificatie3",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:32.543-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/vitalsign-bloodglucose"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: cad6f30b-04e1-11ec-1360-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"bevinding betreffende laboratoriumonderzoek (49581000146104 - SNOMED CT)\">bevinding betreffende laboratoriumonderzoek</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td>2023-02-24T12:35:00+02:00</td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"Glucose [mol/volume] in capillair bloed d.m.v. glucometer (14743-9 - LOINC)\">Glucose [mol/volume] in capillair bloed d.m.v. glucometer</span><div>- voor de lunch</div></td><td>6.9 mmol/l</td></tr></tbody></table></div>"
+        },
+        "extension": [{
+            "extension": [{
+                "url": "code",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/v3/TimingEvent",
+                        "code": "ACD",
+                        "display": "ACD"
+                    }]
                 }
-            ]
-        },
-        "createddate": 1676558889705,
-        "effectivedatetime": "2022-04-22",
-        "entityid": "37_123456789_90ccfdb0-0168-46df-b214-2d4560f2edb7",
-        "id": "90ccfdb0-0168-46df-b214-2d4560f2edb7",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
-                "value": "36A65EDD-14AA-0F1C-8E4D-6AFC9A17CB93"
-            }
-        ],
-        "performer": [
-            {
-                "display": "Vaste Huisarts 1",
-                "extension": [
-                    {
-                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                        "valuereference": {
-                            "display": "Vaste Huisarts 1",
-                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                        }
-                    }
-                ],
-                "reference": "Practitioner/01123987"
-            }
-        ],
+            }],
+            "url": "http://hl7.org/fhir/StructureDefinition/observation-eventTiming"
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "cad6f30b-04e1-11ec-1360-020000000000"
+        }],
         "status": "final",
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        "category": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "49581000146104",
+                "display": "bevinding betreffende laboratoriumonderzoek"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "14743-9",
+                "display": "Glucose [mol/volume] in capillair bloed d.m.v. glucometer"
+            }]
         },
-        "valuequantity": {
-            "value": 77,
-            "unit": "mm[Hg]",
-            "system": "http://unitsofmeasure.org"
-        }
-    },
-    {
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-24T12:35:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "valueQuantity": {
+            "value": 6.9,
+            "unit": "mmol/l",
+            "system": "http://unitsofmeasure.org",
+            "code": "mmol/L"
+        },
         "accountentityid": "37_123456789",
-        "bundleid": "bb4dba2d-2b1c-463e-8c50-e65aae113044",
-        "category": [
-            {
-                "coding": [
-                    {
-                        "code": "vital-signs",
-                        "display": "Vital Signs",
-                        "system": "http://hl7.org/fhir/observation-category"
-                    }
-                ],
-                "text": "Vital Signs"
-            }
-        ],
-        "code": {
-            "coding": [
-                {
-                    "code": "2055",
-                    "display": "Systolische bloeddruk (thuismeting)",
-                    "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen"
+        "entityid": "37_123456789_selfmeasurements-bloodglucose-kwalificatie3",
+        "createddate": 1677193200
+    }, {
+        "resourceType": "Observation",
+        "id": "selfmeasurements-bloodglucose-kwalificatie2",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:31.949-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/vitalsign-bloodglucose"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: cab0f47b-04e1-11ec-1518-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"bevinding betreffende laboratoriumonderzoek (49581000146104 - SNOMED CT)\">bevinding betreffende laboratoriumonderzoek</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td>2023-02-23T14:00:00+02:00</td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"Glucose^2 uur na maaltijd [mol/volume] in capillair bloed (14760-3 - LOINC)\">Glucose^2 uur na maaltijd [mol/volume] in capillair bloed</span><div>120 min - na de lunch</div></td><td>7.2 mmol/l</td></tr></tbody></table></div>"
+        },
+        "extension": [{
+            "extension": [{
+                "url": "code",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/v3/TimingEvent",
+                        "code": "PCD",
+                        "display": "PCD"
+                    }]
                 }
-            ]
-        },
-        "createddate": 1676558589705,
-        "effectivedatetime": "2022-04-22",
-        "entityid": "37_123456789_e001ac94-6c48-470e-892c-6454c1476d44",
-        "id": "e001ac94-6c48-470e-892c-6454c1476d44",
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.33.1.3.1.20.19",
-                "value": "286BC9F5-E624-9883-511B-EB1DAE3A7CF7"
-            }
-        ],
-        "performer": [
-            {
-                "display": "Vaste Huisarts 1",
-                "extension": [
-                    {
-                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                        "valuereference": {
-                            "display": "Vaste Huisarts 1",
-                            "reference": "PractitionerRole/4611e31a-8b2a-48e4-893d-67274754ba75"
-                        }
-                    }
-                ],
-                "reference": "Practitioner/01123987"
-            }
-        ],
+            }, {
+                "url": "offset",
+                "valueQuantity": {
+                    "value": 120,
+                    "unit": "min",
+                    "system": "http://unitsofmeasure.org",
+                    "code": "min"
+                }
+            }],
+            "url": "http://hl7.org/fhir/StructureDefinition/observation-eventTiming"
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "cab0f47b-04e1-11ec-1518-020000000000"
+        }],
         "status": "final",
-        "subject": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+        "category": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "49581000146104",
+                "display": "bevinding betreffende laboratoriumonderzoek"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "14760-3",
+                "display": "Glucose^2 uur na maaltijd [mol/volume] in capillair bloed"
+            }]
         },
-        "valuequantity": {
-            "value": 124,
-            "unit": "mm[Hg]",
-            "system": "http://unitsofmeasure.org"
-        }
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-23T14:00:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "valueQuantity": {
+            "value": 7.2,
+            "unit": "mmol/l",
+            "system": "http://unitsofmeasure.org",
+            "code": "mmol/L"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_selfmeasurements-bloodglucose-kwalificatie2",
+        "createddate": 1677106800
+    }, {
+        "resourceType": "Observation",
+        "id": "selfmeasurements-bloodglucose-kwalificatie1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:31.215-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/vitalsign-bloodglucose"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: ca87c19b-04e1-11ec-8016-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"bevinding betreffende laboratoriumonderzoek (49581000146104 - SNOMED CT)\">bevinding betreffende laboratoriumonderzoek</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td>2023-02-23T07:00:00+02:00</td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"Glucose^na vasten [mol/volume] in capillair bloed d.m.v. glucometer (14770-2 - LOINC)\">Glucose^na vasten [mol/volume] in capillair bloed d.m.v. glucometer</span><div>- voor het ontbijt</div></td><td>6.5 mmol/l</td></tr></tbody></table></div>"
+        },
+        "extension": [{
+            "extension": [{
+                "url": "code",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/v3/TimingEvent",
+                        "code": "ACM",
+                        "display": "ACM"
+                    }]
+                }
+            }],
+            "url": "http://hl7.org/fhir/StructureDefinition/observation-eventTiming"
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "ca87c19b-04e1-11ec-8016-020000000000"
+        }],
+        "status": "final",
+        "category": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "49581000146104",
+                "display": "bevinding betreffende laboratoriumonderzoek"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "14770-2",
+                "display": "Glucose^na vasten [mol/volume] in capillair bloed d.m.v. glucometer"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-23T07:00:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "valueQuantity": {
+            "value": 6.5,
+            "unit": "mmol/l",
+            "system": "http://unitsofmeasure.org",
+            "code": "mmol/L"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_selfmeasurements-bloodglucose-kwalificatie1",
+        "createddate": 1677106800
+    }, {
+        "resourceType": "Observation",
+        "id": "medmij-selfmeasurements-HeartRate-kwalificatie1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:29.074-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-HeartRate"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: cb7ccffb-04e1-11ec-1171-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td colspan=\"2\">2023-02-13T06:35:00+02:00</td></tr><tr><th>Methode</th><td colspan=\"2\"><span title=\"Elektrocardiografische bewaking (46825001 - SNOMED CT)\">Elektrocardiografische bewaking</span></td></tr><tr><th>Code</th><th>Waarde</th><th>Interpretatie</th></tr><tr><td><span title=\"Heart rate (8867-4 - LOINC)\">Heart rate</span></td><td>83 /min</td><td><span title=\"Hartslag regelmatig (271636001 - SNOMED CT)\">Hartslag regelmatig</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "cb7ccffb-04e1-11ec-1171-020000000000"
+        }],
+        "status": "final",
+        "category": [{
+            "coding": [{
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "8867-4",
+                "display": "Heart rate"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-13T06:35:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "valueQuantity": {
+            "value": 83,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        },
+        "interpretation": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "271636001",
+                "display": "Hartslag regelmatig"
+            }]
+        },
+        "method": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "46825001",
+                "display": "Elektrocardiografische bewaking"
+            }]
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-selfmeasurements-HeartRate-kwalificatie1",
+        "createddate": 1676242800
+    }, {
+        "resourceType": "Observation",
+        "id": "medmij-selfmeasurements-HeartRate-kwalificatie2",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:30.152-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-HeartRate"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: cb9c8cfb-04e1-11ec-9812-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td colspan=\"2\">2023-02-24T10:40:00+02:00</td></tr><tr><th>Methode</th><td colspan=\"2\"><span title=\"Palpatie (113011001 - SNOMED CT)\">Palpatie</span></td></tr><tr><th>Code</th><th>Waarde</th><th>Interpretatie</th></tr><tr><td><span title=\"Heart rate (8867-4 - LOINC)\">Heart rate</span></td><td>80 /min</td><td><span title=\"Hartslag regelmatig (271636001 - SNOMED CT)\">Hartslag regelmatig</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "cb9c8cfb-04e1-11ec-9812-020000000000"
+        }],
+        "status": "final",
+        "category": [{
+            "coding": [{
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "8867-4",
+                "display": "Heart rate"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-24T10:40:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "valueQuantity": {
+            "value": 80,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        },
+        "interpretation": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "271636001",
+                "display": "Hartslag regelmatig"
+            }]
+        },
+        "method": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "113011001",
+                "display": "Palpatie"
+            }]
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-selfmeasurements-HeartRate-kwalificatie2",
+        "createddate": 1677193200
+    }, {
+        "resourceType": "Observation",
+        "id": "medmij-selfmeasurements-HeartRate-kwalificatie1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:29.074-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-HeartRate"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: cb7ccffb-04e1-11ec-1171-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td colspan=\"2\">2023-02-13T06:35:00+02:00</td></tr><tr><th>Methode</th><td colspan=\"2\"><span title=\"Elektrocardiografische bewaking (46825001 - SNOMED CT)\">Elektrocardiografische bewaking</span></td></tr><tr><th>Code</th><th>Waarde</th><th>Interpretatie</th></tr><tr><td><span title=\"Heart rate (8867-4 - LOINC)\">Heart rate</span></td><td>83 /min</td><td><span title=\"Hartslag regelmatig (271636001 - SNOMED CT)\">Hartslag regelmatig</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "cb7ccffb-04e1-11ec-1171-020000000000"
+        }],
+        "status": "final",
+        "category": [{
+            "coding": [{
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "8867-4",
+                "display": "Heart rate"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-13T06:35:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "valueQuantity": {
+            "value": 83,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        },
+        "interpretation": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "271636001",
+                "display": "Hartslag regelmatig"
+            }]
+        },
+        "method": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "46825001",
+                "display": "Elektrocardiografische bewaking"
+            }]
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-selfmeasurements-HeartRate-kwalificatie1",
+        "createddate": 1676242800
+    }, {
+        "resourceType": "Observation",
+        "id": "medmij-selfmeasurements-HeartRate-kwalificatie2",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:30.152-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-HeartRate"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: cb9c8cfb-04e1-11ec-9812-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td colspan=\"2\">2023-02-24T10:40:00+02:00</td></tr><tr><th>Methode</th><td colspan=\"2\"><span title=\"Palpatie (113011001 - SNOMED CT)\">Palpatie</span></td></tr><tr><th>Code</th><th>Waarde</th><th>Interpretatie</th></tr><tr><td><span title=\"Heart rate (8867-4 - LOINC)\">Heart rate</span></td><td>80 /min</td><td><span title=\"Hartslag regelmatig (271636001 - SNOMED CT)\">Hartslag regelmatig</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "cb9c8cfb-04e1-11ec-9812-020000000000"
+        }],
+        "status": "final",
+        "category": [{
+            "coding": [{
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "8867-4",
+                "display": "Heart rate"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-24T10:40:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "valueQuantity": {
+            "value": 80,
+            "unit": "/min",
+            "system": "http://unitsofmeasure.org",
+            "code": "/min"
+        },
+        "interpretation": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "271636001",
+                "display": "Hartslag regelmatig"
+            }]
+        },
+        "method": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "113011001",
+                "display": "Palpatie"
+            }]
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-selfmeasurements-HeartRate-kwalificatie2",
+        "createddate": 1677193200
+    }, {
+        "resourceType": "Observation",
+        "id": "selfmeasurements-bloodpressure-kwalificatie1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-21T05:04:33.027-04:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-BloodPressure"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Paul XXX_Bourgonjee. Id: caf85dbb-04e1-11ec-4967-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dr. A.F. Snijder</span></caption><tbody><tr><th>Bepalingdatum/tijd</th><td>2023-02-23T07:30:00+02:00</td></tr><tr><th>Methode</th><td><span title=\"Niet-invasief (22762002 - SNOMED CT)\">Niet-invasief</span></td></tr><tr><th>Deel van lichaam</th><td><span title=\"Rechter bovenarm (368209003 - SNOMED CT)\">Rechter bovenarm</span></td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"Blood pressure panel with all children optional (85354-9 - LOINC)\">Blood pressure panel with all children optional</span></td><td/></tr><tr><td><span title=\"Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel (8480-6 - LOINC)\">Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel</span></td><td>125 mmHg</td></tr><tr><td><span title=\"Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel (8462-4 - LOINC)\">Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel</span></td><td>75 mmHg</td></tr><tr><td><span title=\"Blood pressure device Cuff size (8358-4 - LOINC)\">Blood pressure device Cuff size</span></td><td><span title=\"Standaard (STD - 2.16.840.1.113883.2.4.3.11.60.40.4.15.1)\">Standaard</span></td></tr><tr><td><span title=\"Body position with respect to gravity (8361-8 - LOINC)\">Body position with respect to gravity</span></td><td><span title=\"Liggende positie (102538003 - SNOMED CT)\">Liggende positie</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "caf85dbb-04e1-11ec-4967-020000000000"
+        }],
+        "status": "final",
+        "category": [{
+            "coding": [{
+                "system": "http://hl7.org/fhir/observation-category",
+                "code": "vital-signs",
+                "display": "Vital Signs"
+            }]
+        }],
+        "code": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "85354-9",
+                "display": "Blood pressure panel with all children optional"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "effectiveDateTime": "2023-02-23T07:30:00+02:00",
+        "performer": [{
+            "reference": "Practitioner/selfmeasurements-practitioner-kwalificatie1",
+            "display": "Dr. A.F. Snijder"
+        }],
+        "bodySite": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "368209003",
+                "display": "Rechter bovenarm"
+            }]
+        },
+        "method": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "22762002",
+                "display": "Niet-invasief"
+            }]
+        },
+        "component": [{
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8480-6",
+                    "display": "Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel"
+                }]
+            },
+            "valueQuantity": {
+                "value": 125,
+                "unit": "mmHg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mm[Hg]"
+            }
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8462-4",
+                    "display": "Intravasculaire diastolische bloeddruk [druk] in arterieel vaatstelsel"
+                }]
+            },
+            "valueQuantity": {
+                "value": 75,
+                "unit": "mmHg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mm[Hg]"
+            }
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8358-4",
+                    "display": "Blood pressure device Cuff size"
+                }]
+            },
+            "valueCodeableConcept": {
+                "coding": [{
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.15.1",
+                    "code": "STD",
+                    "display": "Standaard"
+                }]
+            }
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://loinc.org",
+                    "code": "8361-8",
+                    "display": "Body position with respect to gravity"
+                }]
+            },
+            "valueCodeableConcept": {
+                "coding": [{
+                    "system": "http://snomed.info/sct",
+                    "code": "102538003",
+                    "display": "Liggende positie"
+                }]
+            }
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_selfmeasurements-bloodpressure-kwalificatie1",
+        "createddate": 1677106800
     }
 ]
