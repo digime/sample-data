@@ -1,26 +1,69 @@
 [
     {
-        "accountentityid": "37_123456789",
-        "bundleid": "a6a406bf-6c5d-4263-aac4-988f0164b411",
-        "entityid": "37_123456789_Test-poc-PharmaceuticalProduct-03",
-        "id": "Test-poc-PharmaceuticalProduct-03",
-        "code": {
-            "coding": [
-                {
-                    "code": "2924536",
-                    "display": "COVID-19 VACCIN MODERNA INJVLST 0,5ML",
-                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7"
-                }
-            ]
+        "resourceType": "Medication",
+        "id": "6920-2-16-840-1-113883-2-4-4-10",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:42.286-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Product"]
         },
-        "form": {
-            "coding": [
-                {
-                    "code": "76",
-                    "display": "DISPERSIE VOOR INJECTIE",
-                    "system": "urn:oid:2.16.840.1.113883.2.4.4.11"
-                }
-            ]
-        }
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Metoclopramide zetpil 10mg (6920 - G-Standaard PRK)\">Metoclopramide zetpil 10mg</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [{
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                "code": "6920",
+                "display": "Metoclopramide zetpil 10mg"
+            }],
+            "text": "Metoclopramide zetpil 10mg"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_6920-2-16-840-1-113883-2-4-4-10"
+    }, {
+        "resourceType": "Medication",
+        "id": "615560-2-16-840-1-113883-2-4-4-7",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:41.864-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Product"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Zestril tablet 10mg (615560 - G-Standaard HPK)\">Zestril tablet 10mg</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [{
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                "code": "615560",
+                "display": "Zestril tablet 10mg"
+            }],
+            "text": "Zestril tablet 10mg"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_615560-2-16-840-1-113883-2-4-4-7"
+    }, {
+        "resourceType": "Medication",
+        "id": "229709-2-16-840-1-113883-2-4-4-7",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:41.051-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Product"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"PRIMPERAN ZETPIL 20MG (229709 - G-Standaard HPK)\">PRIMPERAN ZETPIL 20MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [{
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                "code": "229709",
+                "display": "PRIMPERAN ZETPIL 20MG"
+            }],
+            "text": "PRIMPERAN ZETPIL 20MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_229709-2-16-840-1-113883-2-4-4-7"
     }
 ]

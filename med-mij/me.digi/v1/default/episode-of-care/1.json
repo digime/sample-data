@@ -1,142 +1,112 @@
 [
     {
-        "accountentityid": "37_123456789",
-        "caremanager": {
-            "display": "Dirk de Vries",
-            "extension": [
-                {
-                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                    "valuereference": {
-                        "display": "Medisch specialisten, geriatrie",
-                        "reference": "PractitionerRole/nl-core-practitionerrole-04"
-                    }
-                }
-            ],
-            "reference": "Practitioner/nl-core-practitioner-04"
+        "resourceType": "EpisodeOfCare",
+        "id": "gpdata-episodeofcare-icpc-d02",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:43.805-04:00",
+            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"]
         },
-        "diagnosis": [
-            {
-                "condition": {
-                    "display": "Gebroken dijbeen",
-                    "reference": "Condition/zib-problem-07"
-                }
-            }
-        ],
-        "extension": [
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
-                "valuedatetime": "2019-02-06T13:17:00+00:00"
-            },
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
-                "valuestring": "Gebroken been"
-            }
-        ],
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-                "value": "15f29a29-8fdf-11ec-1699-020000000000"
-            }
-        ],
-        "entityid": "37_123456789_18",
-        "id": "18",
-        "managingorganization": {
-            "display": "Ziekenhuis Gooi en Overvecht",
-            "reference": "Organization/nl-core-organization-05"
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b95762bc-041c-11ec-8388-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: voltooid</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Maagpijn</div></td></tr><tr><th>Periode</th><td>2022-12-03 - 2022-12-08</td></tr><tr><th>Zorgmanager</th><td>Dokter Bernard, Aesculaap</td></tr><tr><th>Diagnose</th><td>Maagpijn</td></tr></tbody></table></div>"
         },
+        "extension": [{
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+            "valueDateTime": "2022-12-08"
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+            "valueDateTime": "2022-12-08"
+        }, {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+            "valueString": "Maagpijn"
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b95762bc-041c-11ec-8388-020000000000"
+        }],
+        "status": "finished",
+        "type": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "64572001",
+                "display": "aandoening"
+            }]
+        }],
+        "diagnosis": [{
+            "condition": {
+                "reference": "Condition/gpdata-condition-icpc-d02",
+                "display": "Maagpijn"
+            }
+        }],
         "patient": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "managingOrganization": {
+            "reference": "Organization/gpdata-organization-kwalificatie1",
+            "display": "Aesculaap"
         },
         "period": {
-            "start": "2019-02-06"
+            "start": "2022-12-03",
+            "end": "2022-12-08"
         },
-        "createddate": 1676560389705,
-        "status": "active",
-        "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. PatiÃ«nt: ELLEN XXX_BALTUS. Id: 15f29a29-8fdf-11ec-1699-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"Lichaamsstructuur (123037004 - SNOMED CT)\">Lichaamsstructuur</span><div>Gebroken been</div></td></tr><tr><th>Periode</th><td>Vanaf 6 februari 2019</td></tr><tr><th>Zorgmanager</th><td>Dirk de Vries<div>Zorgverlenerrol: Medisch specialisten, geriatrie</div>, Ziekenhuis Gooi en Overvecht</td></tr><tr><th>Diagnose</th><td>Gebroken dijbeen</td></tr></tbody></table></div>",
-            "status": "extensions"
+        "careManager": {
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
         },
-        "type": [
-            {
-                "coding": [
-                    {
-                        "code": "123037004",
-                        "display": "Lichaamsstructuur",
-                        "system": "http://snomed.info/sct"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "accountentityid": "37_123456789",
-        "caremanager": {
-            "display": "Dirk de Vries",
-            "extension": [
-                {
-                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                    "valuereference": {
-                        "display": "Medisch specialisten, geriatrie",
-                        "reference": "PractitionerRole/nl-core-practitionerrole-04"
-                    }
-                }
-            ],
-            "reference": "Practitioner/nl-core-practitioner-04"
+        "entityid": "37_123456789_gpdata-episodeofcare-icpc-d02"
+    }, {
+        "resourceType": "EpisodeOfCare",
+        "id": "gpdata-episodeofcare-icpc-k70",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T04:51:44.665-04:00",
+            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"]
         },
-        "diagnosis": [
-            {
-                "condition": {
-                    "display": "Syndroom van Korsakov",
-                    "reference": "Condition/zib-problem-08"
-                }
-            }
-        ],
-        "extension": [
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
-                "valuedatetime": "2019-02-06T13:17:00+00:00"
-            },
-            {
-                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
-                "valuestring": "Drugs en alcohol revalidatie"
-            }
-        ],
-        "identifier": [
-            {
-                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-                "value": "15fcdead-8fdf-11ec-5500-020000000000"
-            }
-        ],
-        "entityid": "37_123456789_19",
-        "id": "19",
-        "managingorganization": {
-            "display": "Ziekenhuis Gooi en Overvecht",
-            "reference": "Organization/nl-core-organization-05"
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b96e1f0c-041c-11ec-1716-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Endocarditis profylaxe ivm mitralis insufficientie</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-05-17</td></tr><tr><th>Zorgmanager</th><td>Dokter Bernard, Aesculaap</td></tr><tr><th>Diagnose</th><td>Infectieziekte Hartvaatstelsel</td></tr></tbody></table></div>"
         },
+        "extension": [{
+            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+            "valueString": "Endocarditis profylaxe ivm mitralis insufficientie"
+        }],
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b96e1f0c-041c-11ec-1716-020000000000"
+        }],
+        "status": "active",
+        "type": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "64572001",
+                "display": "aandoening"
+            }]
+        }],
+        "diagnosis": [{
+            "condition": {
+                "reference": "Condition/gpdata-condition-icpc-k70",
+                "display": "Infectieziekte Hartvaatstelsel"
+            }
+        }],
         "patient": {
-            "display": "ELLEN XXX_BALTUS",
-            "reference": "Patient/61bef2d5-86f2-49bb-b475-e5e1db1a92f2"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "managingOrganization": {
+            "reference": "Organization/gpdata-organization-kwalificatie1",
+            "display": "Aesculaap"
         },
         "period": {
-            "start": "2019-02-06"
+            "start": "2022-05-17"
         },
-        "createddate": 1676560089705,
-        "status": "active",
-        "text": {
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. PatiÃ«nt: ELLEN XXX_BALTUS. Id: 15fcdead-8fdf-11ec-5500-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"Verslaving (bevinding) (32709003 - SNOMED CT)\">Verslaving (bevinding)</span><div>Drugs en alcohol revalidatie</div></td></tr><tr><th>Periode</th><td>Vanaf 6 februari 2019</td></tr><tr><th>Zorgmanager</th><td>Dirk de Vries<div>Zorgverlenerrol: Medisch specialisten, geriatrie</div>, Ziekenhuis Gooi en Overvecht</td></tr><tr><th>Diagnose</th><td>Syndroom van Korsakov</td></tr></tbody></table></div>",
-            "status": "extensions"
+        "careManager": {
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
         },
-        "type": [
-            {
-                "coding": [
-                    {
-                        "code": "32709003",
-                        "display": "Verslaving (bevinding)",
-                        "system": "http://snomed.info/sct"
-                    }
-                ]
-            }
-        ]
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gpdata-episodeofcare-icpc-k70"
     }
 ]
