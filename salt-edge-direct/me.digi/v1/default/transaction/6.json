@@ -5,15 +5,17 @@
         "entityid": "38_123456789_818875113389693765",
         "categorytype": "income",
         "basetype": "CREDIT",
-        "amount": 10000,
-        "currency": "USD",
-        "originalref": "Income for Simple account 2",
+        "amount": {
+            "amount": 10000,
+            "currency": "AUD"
+        },
+        "description": {
+            "original": "Income"
+        },
         "createddate": 1650260832897,
-        "transactiondate": 1661040000000,
-        "postdate": 1661040000000,
-        "categoryid": 10020,
-        "merchantname": "",
-        "merchantcountry": ""
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": "10020"
     },
     {
         "accountentityid": "38_123456789",
@@ -21,31 +23,41 @@
         "entityid": "38_123456789_818871437174512593",
         "categorytype": "transfer",
         "basetype": "DEBIT",
-        "amount": 13,
-        "currency": "USD",
-        "originalref": "Sample transaction 3 for 2022-08-22",
+        "amount": {
+            "amount": 13,
+            "currency": "AUD"
+        },
+        "description": {
+            "original": "Transfer"
+        },
         "createddate": 1650260532897,
-        "transactiondate": 1660953600000,
-        "postdate": 1660953600000,
-        "categoryid": 10025,
-        "merchantname": "",
-        "merchantcountry": ""
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": "10025"
     },
     {
         "accountentityid": "38_123456789",
         "id": "818871437174512595",
         "entityid": "38_123456789_818871437174512595",
         "categorytype": "provider_fee",
-        "basetype": "CREDIT",
-        "amount": 13,
-        "currency": "USD",
-        "originalref": "Sample transaction 4 for 2022-08-22",
+        "basetype": "CREDIT",  
+        "amount": {
+            "amount": 13,
+            "currency": "AUD"
+        },
+        "description": {
+            "original": "Diamond Energy"
+        },
         "createddate": 1650260232897,
-        "transactiondate": 1661126400000,
-        "postdate": 1661126400000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": "10015",
+        "merchant": {
+            "name": "Diamond Energy",
+            "address": {
+                "country": "XF"
+            }
+        }
     },
     {
         "accountentityid": "38_123456789",
@@ -53,14 +65,22 @@
         "entityid": "38_123456789_818871437182901204",
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
-        "amount": 0.0504170205,
-        "currency": "USD",
-        "originalref": "Sample transaction 5 for 2022-08-22",
+        "amount": {
+            "amount": 0.0504170205,
+            "currency": "AUD"
+        },
+        "description": {
+            "original": "Interest fee"
+        },
         "createddate": 1650259932897,
-        "transactiondate": 1661126400000,
-        "postdate": 1661126400000,
-        "categoryid": 10015,
-        "merchantname": "",
-        "merchantcountry": ""
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": "10015",
+        "merchant": {
+            "name": "Bank Australia",
+            "address": {
+                "country": "XF"
+            }
+        }
     }
 ]

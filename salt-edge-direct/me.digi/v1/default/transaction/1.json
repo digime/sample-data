@@ -5,14 +5,16 @@
         "entityid": "38_123456789_818871436771859391",
         "categorytype": "income",
         "basetype": "CREDIT",
-        "amount": 10000,
-        "currency": "EUR",
-        "originalref": "Income for Simple account 1 MasterCard",
+        "amount": {
+            "amount": 10000,
+            "currency": "AUD"
+        },
+        "description": {
+            "original": "Income"
+        },
         "createddate": 1676560392897,
-        "transactiondate": 1655942400000,
-        "postdate": 1655942400000,
-        "categoryid": 10020,
-        "merchantname": "",
-        "merchantcountry": ""
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": "10020"
     }
 ]
