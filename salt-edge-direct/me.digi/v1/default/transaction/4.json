@@ -5,14 +5,16 @@
         "entityid": "38_123456789_818871437166123983",
         "categorytype": "income",
         "basetype": "CREDIT",
-        "amount": 10000,
-        "currency": "USD",
-        "originalref": "Income for Simple account 2",
+        "amount": {
+            "amount": 10000,
+            "currency": "AUD"
+        },
+        "description": {
+            "original": "Income"
+        },
         "createddate": 1660780416897,
-        "transactiondate": 1655942400000,
-        "postdate": 1655942400000,
-        "categoryid": 10020,
-        "merchantname": "",
-        "merchantcountry": ""
+        "transactiondate": "2022-12-02",
+        "postdate": "2022-12-02",
+        "categoryid": "10020"
     }
 ]
