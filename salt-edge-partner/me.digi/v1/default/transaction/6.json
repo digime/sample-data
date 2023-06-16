@@ -7,10 +7,10 @@
         "basetype": "CREDIT",
         "amount": {
             "amount": 100,
-            "currency": "GBP"
+            "currency": "EUR"
         },
         "description": {
-            "original": "Sample GBP for transaction on 2022-12-02"
+            "original": "Property tax refund"
         },
         "createddate": 1650329981667,
         "transactiondate": "2022-12-02",
@@ -25,10 +25,10 @@
         "basetype": "DEBIT",
         "amount": {
             "amount": 0.1539743147,
-            "currency": "GBP"
+            "currency": "EUR"
         },
         "description": {
-            "original": "02 DEC 22 BOOTS 773 LONDON GBR GBR"
+            "original": "Carrefour"
         },
         "createddate": 1650329681667,
         "transactiondate": "2022-12-02",
@@ -43,7 +43,7 @@
         "basetype": "DEBIT",
         "amount": {
             "amount": 12.21,
-            "currency": "GBP"
+            "currency": "EUR"
         },
         "description": {
             "original": "AMAZON WEB SERVICES AWS.AMAZON.COM"
@@ -67,17 +67,17 @@
         "basetype": "DEBIT",
         "amount": {
             "amount": 1.7931958904,
-            "currency": "GBP"
+            "currency": "EUR"
         },
         "description": {
-            "original": "CO-OP OLD STREET LONDON"
+            "original": "Delhaize"
         },
         "createddate": 1650329081667,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10016",
         "merchant": {
-            "name": "Co-op",
+            "name": "Delhaize",
             "address": {
                 "country": "XF"
             }
@@ -91,17 +91,17 @@
         "basetype": "DEBIT",
         "amount": {
             "amount": 17.8,
-            "currency": "GBP"
+            "currency": "EUR"
         },
         "description": {
-            "original": "CARD PAYMENT TO JOHN LEWIS 17.8 GBP, RATE 1.00/GBP ON 02-12-2022"
+            "original": "Flying Tiger"
         },
         "createddate": 1650328781667,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10024",
         "merchant": {
-            "name": "John Lewis",
+            "name": "Flying Tiger",
             "address": {
                 "country": "XF"
             }
