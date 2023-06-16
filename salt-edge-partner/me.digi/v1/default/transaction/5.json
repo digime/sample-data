@@ -7,10 +7,10 @@
         "basetype": "DEBIT",
         "amount": {
             "amount": 134,
-            "currency": "USD"
+            "currency": "EUR"
         },
         "description": {
-            "original": "Sample USD credit card transaction for 2022-12-01"
+            "original": "Mechanics service Fee"
         },
         "createddate": 1655590073667,
         "transactiondate": "2022-12-01",
@@ -25,10 +25,10 @@
         "basetype": "CREDIT",
         "amount": {
             "amount": 100,
-            "currency": "USD"
+            "currency": "EUR"
         },
         "description": {
-            "original": "Sample USD for transaction on 2022-12-02"
+            "original": "Banking fee refund"
         },
         "createddate": 1655589773667,
         "transactiondate": "2022-12-02",

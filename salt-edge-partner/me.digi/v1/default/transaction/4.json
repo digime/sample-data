@@ -6,11 +6,11 @@
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
         "amount": {
-            "amount": 666.66,
-            "currency": "USD"
+            "amount": 30,
+            "currency": "EUR"
         },
         "description": {
-            "original": "Test transaction for date testing 0"
+            "original": "Refund from laundromat"
         },
         "createddate": 1660850765667,
         "transactiondate": "2022-11-29",
@@ -24,11 +24,11 @@
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
         "amount": {
-            "amount": 666.66,
-            "currency": "USD"
+            "amount": 150,
+            "currency": "EUR"
         },
         "description": {
-            "original": "Test transaction for date testing 1"
+            "original": "Refund from PhotosNow"
         },
         "createddate": 1660850465667,
         "transactiondate": "2022-11-29",
@@ -42,11 +42,11 @@
         "categorytype": "fees_and_charges",
         "basetype": "CREDIT",
         "amount": {
-            "amount": 666.66,
-            "currency": "USD"
+            "amount": 18.76,
+            "currency": "EUR"
         },
         "description": {
-            "original": "Test transaction for date testing 2"
+            "original": "Refund from taxes"
         },
         "createddate": 1660850165667,
         "transactiondate": "2022-11-29",
@@ -61,10 +61,10 @@
         "basetype": "CREDIT",
         "amount": {
             "amount": 250,
-            "currency": "USD"
+            "currency": "EUR"
         },
         "description": {
-            "original": "Sample USD transfer credit card transaction for 2022-11-30"
+            "original": "Money from Gregory for dinner"
         },
         "createddate": 1660849865667,
         "transactiondate": "2022-11-30",
