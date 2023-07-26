@@ -1,0 +1,137 @@
+[
+    {
+        "accountentityid": "1_123456789",
+        "type": 0,
+        "mediaid": "120003492429251",
+        "baseid": "1_120003492429251",
+        "cameramodelentityid": "",
+        "commentcount": 0,
+        "createddate": 1676560385907,
+        "displayshorturl": "",
+        "displayurlindexend": 0,
+        "displayurlindexstart": 0,
+        "entityid": "1_120003492429251",
+        "filter": "",
+        "imagefileentityid": "",
+        "imagefilerelativepath": "",
+        "imagefileurl": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+        "resources": [
+            {
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "height": 720,
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "type": 0,
+                "url": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+                "width": 1280
+            },
+            {
+                "aspectratio": {
+                    "accuracy": 99.96874999999999,
+                    "actual": "1067:600",
+                    "closest": "16:9"
+                },
+                "height": 600,
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "type": 0,
+                "url": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+                "width": 1067
+            },
+            {
+                "aspectratio": {
+                    "accuracy": 99.9609375,
+                    "actual": "853:480",
+                    "closest": "16:9"
+                },
+                "height": 480,
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "type": 0,
+                "url": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+                "width": 853
+            },
+            {
+                "aspectratio": {
+                    "accuracy": 99.98046875,
+                    "actual": "569:320",
+                    "closest": "16:9"
+                },
+                "height": 320,
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "type": 0,
+                "url": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+                "width": 569
+            },
+            {
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "height": 540,
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "type": 0,
+                "url": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+                "width": 960
+            },
+            {
+                "aspectratio": {
+                    "accuracy": 99.95192307692308,
+                    "actual": "231:130",
+                    "closest": "16:9"
+                },
+                "height": 130,
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "type": 0,
+                "url": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+                "width": 231
+            },
+            {
+                "aspectratio": {
+                    "accuracy": 100,
+                    "actual": "16:9",
+                    "closest": "16:9"
+                },
+                "height": 225,
+                "mimetype": "image/jpeg",
+                "resize": "fit",
+                "type": 0,
+                "url": "https://securedownloads.digi.me/sample/facebook/media/json_1/53359543_120003495762584_8243081296692117504_n.jpg",
+                "width": 400
+            }
+        ],
+        "interestscore": 0,
+        "itemlicenceentityid": "",
+        "latitude": 0,
+        "likecount": 0,
+        "link": "https://www.facebook.com/photo.php?fbid=120003492429251&set=a.109441450152122&type=3",
+        "locationentityid": "",
+        "longitude": 0,
+        "mediaalbumname": "Timeline photos",
+        "mediaobjectid": "120003492429251",
+        "mediaobjectlikeid": "",
+        "name": "Is it Rome, or is it Pula? The answer may shock you! 🇭🇷😱",
+        "originatortype": 1,
+        "personentityid": "1_123456789_114286873000913",
+        "personfilerelativepath": "",
+        "personfileurl": "https://securedownloads.digi.me/sample/facebook/media/json_1/AeSnQkMbZXY9oQeJGtE.jpg",
+        "personfullname": "Joseph Clubb",
+        "personusername": "Joseph Clubb",
+        "postentityid": "1_123456789_114286873000913_120003642429236",
+        "tagcount": 0,
+        "taggedpeoplecount": 0,
+        "updateddate": 1664444233093,
+        "isauthor": true,
+        "__sampleDataTemplate": {
+            "createddate": "now-20d"
+        }
+    }
+]
