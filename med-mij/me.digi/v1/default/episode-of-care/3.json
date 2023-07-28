@@ -5,40 +5,54 @@
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T04:51:48.243-04:00",
-            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"]
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"
+            ]
         },
         "text": {
             "status": "extensions",
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b9b4c4fc-041c-11ec-4998-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Keelpijn</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-10-14</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>Keelpijn</td></tr></tbody></table></div>"
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Patiënt: Jacqueline XXX_Cevat. Id: b9b4c4fc-041c-11ec-4998-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Keelpijn</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-10-14</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>Keelpijn</td></tr></tbody></table></div>"
         },
-        "extension": [{
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
-            "valueDateTime": "2022-10-14"
-        }, {
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
-            "valueDateTime": "2023-03-03"
-        }, {
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
-            "valueString": "Keelpijn"
-        }],
-        "identifier": [{
-            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-            "value": "b9b4c4fc-041c-11ec-4998-020000000000"
-        }],
-        "status": "active",
-        "type": [{
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "64572001",
-                "display": "aandoening"
-            }]
-        }],
-        "diagnosis": [{
-            "condition": {
-                "reference": "Condition/gpdata-condition-icpc-r2101",
-                "display": "Keelpijn"
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+                "valueDateTime": "2022-10-14"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+                "valueDateTime": "2023-03-03"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+                "valueString": "Keelpijn"
             }
-        }],
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "b9b4c4fc-041c-11ec-4998-020000000000"
+            }
+        ],
+        "status": "active",
+        "type": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "64572001",
+                        "display": "aandoening"
+                    }
+                ]
+            }
+        ],
+        "diagnosis": [
+            {
+                "condition": {
+                    "reference": "Condition/gpdata-condition-icpc-r2101",
+                    "display": "Keelpijn"
+                }
+            }
+        ],
         "patient": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
             "display": "Johan XXX_Helleman"
@@ -52,46 +66,61 @@
         },
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gpdata-episodeofcare-icpc-r2101"
-    }, {
+    },
+    {
         "resourceType": "EpisodeOfCare",
         "id": "gpdata-episodeofcare-icpc-r96",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T04:51:48.837-04:00",
-            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"]
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"
+            ]
         },
         "text": {
             "status": "extensions",
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b9ca96ec-041c-11ec-1362-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Astma</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-08-25</td></tr><tr><th>Zorgmanager</th><td>Dokter Bernard, Aesculaap</td></tr><tr><th>Diagnose</th><td>Astma</td></tr></tbody></table></div>"
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Patiënt: Jacqueline XXX_Cevat. Id: b9ca96ec-041c-11ec-1362-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Astma</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-08-25</td></tr><tr><th>Zorgmanager</th><td>Dokter Bernard, Aesculaap</td></tr><tr><th>Diagnose</th><td>Astma</td></tr></tbody></table></div>"
         },
-        "extension": [{
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
-            "valueDateTime": "2022-10-04"
-        }, {
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
-            "valueDateTime": "2022-10-04"
-        }, {
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
-            "valueString": "Astma"
-        }],
-        "identifier": [{
-            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-            "value": "b9ca96ec-041c-11ec-1362-020000000000"
-        }],
-        "status": "active",
-        "type": [{
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "64572001",
-                "display": "aandoening"
-            }]
-        }],
-        "diagnosis": [{
-            "condition": {
-                "reference": "Condition/gpdata-condition-icpc-r96",
-                "display": "Astma"
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+                "valueDateTime": "2022-10-04"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+                "valueDateTime": "2022-10-04"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+                "valueString": "Astma"
             }
-        }],
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "b9ca96ec-041c-11ec-1362-020000000000"
+            }
+        ],
+        "status": "active",
+        "type": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "64572001",
+                        "display": "aandoening"
+                    }
+                ]
+            }
+        ],
+        "diagnosis": [
+            {
+                "condition": {
+                    "reference": "Condition/gpdata-condition-icpc-r96",
+                    "display": "Astma"
+                }
+            }
+        ],
         "patient": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
             "display": "Johan XXX_Helleman"
@@ -109,46 +138,61 @@
         },
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gpdata-episodeofcare-icpc-r96"
-    }, {
+    },
+    {
         "resourceType": "EpisodeOfCare",
         "id": "gpdata-episodeofcare-icpc-s7401",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T04:51:49.384-04:00",
-            "profile": ["http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"]
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"
+            ]
         },
         "text": {
             "status": "extensions",
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: ba0555fc-041c-11ec-1302-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Tinea Pedis</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-09-24</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>Tinea Pedis</td></tr></tbody></table></div>"
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Patiënt: Jacqueline XXX_Cevat. Id: ba0555fc-041c-11ec-1302-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Tinea Pedis</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-09-24</td></tr><tr><th>Zorgmanager</th><td>Aesculaap</td></tr><tr><th>Diagnose</th><td>Tinea Pedis</td></tr></tbody></table></div>"
         },
-        "extension": [{
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
-            "valueDateTime": "2022-09-24"
-        }, {
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
-            "valueDateTime": "2022-09-24"
-        }, {
-            "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
-            "valueString": "Tinea Pedis"
-        }],
-        "identifier": [{
-            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-            "value": "ba0555fc-041c-11ec-1302-020000000000"
-        }],
-        "status": "active",
-        "type": [{
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "64572001",
-                "display": "aandoening"
-            }]
-        }],
-        "diagnosis": [{
-            "condition": {
-                "reference": "Condition/gpdata-condition-icpc-s7401",
-                "display": "Tinea Pedis"
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+                "valueDateTime": "2022-09-24"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+                "valueDateTime": "2022-09-24"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+                "valueString": "Tinea Pedis"
             }
-        }],
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "ba0555fc-041c-11ec-1302-020000000000"
+            }
+        ],
+        "status": "active",
+        "type": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "64572001",
+                        "display": "aandoening"
+                    }
+                ]
+            }
+        ],
+        "diagnosis": [
+            {
+                "condition": {
+                    "reference": "Condition/gpdata-condition-icpc-s7401",
+                    "display": "Tinea Pedis"
+                }
+            }
+        ],
         "patient": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
             "display": "Johan XXX_Helleman"
