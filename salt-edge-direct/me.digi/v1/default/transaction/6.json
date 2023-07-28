@@ -12,7 +12,7 @@
         "description": {
             "original": "Income"
         },
-        "createddate": 1650260832897,
+        "createddate": 1664232243044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10020"
@@ -30,7 +30,7 @@
         "description": {
             "original": "Transfer"
         },
-        "createddate": 1650260532897,
+        "createddate": 1664231943044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10025"
@@ -40,7 +40,7 @@
         "id": "818871437174512595",
         "entityid": "38_123456789_818871437174512595",
         "categorytype": "provider_fee",
-        "basetype": "CREDIT",  
+        "basetype": "CREDIT",
         "amount": {
             "amount": 13,
             "currency": "AUD"
@@ -48,7 +48,7 @@
         "description": {
             "original": "Diamond Energy"
         },
-        "createddate": 1650260232897,
+        "createddate": 1664231643044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10015",
@@ -72,7 +72,7 @@
         "description": {
             "original": "Interest fee"
         },
-        "createddate": 1650259932897,
+        "createddate": 1664231343044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10015",
