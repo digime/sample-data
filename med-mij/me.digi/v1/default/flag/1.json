@@ -5,30 +5,38 @@
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-02-22T10:42:39.239-05:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Alert"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Alert"
+            ]
         },
         "text": {
             "status": "extensions",
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Attentievlag. Subject: Johan XXX_Helleman. Id: 2fadf3bc-e3e4-11eb-2885-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Alert [type] in ^pati\u00ebnt (74018-3 - LOINC)\">Alert [type] in ^pati\u00ebnt</span>, Status: actief                        \n        </caption><tbody><tr><th>Categorie</th><td><span title=\"Alert [type] in ^pati\u00ebnt (74018-3 - LOINC)\">Alert [type] in ^pati\u00ebnt</span></td></tr><tr><th>Code</th><td><span title=\"drager van meticillineresistente Staphylococcus aureus (bevinding) (432415000 - SNOMED CT)\">drager van meticillineresistente Staphylococcus aureus (bevinding)</span></td></tr><tr><th>Periode</th><td>Vanaf 1 juni 2010</td></tr></tbody></table></div>"
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Attentievlag. Subject: Johan XXX_Helleman. Id: 2fadf3bc-e3e4-11eb-2885-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Alert [type] in ^patiënt (74018-3 - LOINC)\">Alert [type] in ^patiënt</span>, Status: actief                        \n        </caption><tbody><tr><th>Categorie</th><td><span title=\"Alert [type] in ^patiënt (74018-3 - LOINC)\">Alert [type] in ^patiënt</span></td></tr><tr><th>Code</th><td><span title=\"drager van meticillineresistente Staphylococcus aureus (bevinding) (432415000 - SNOMED CT)\">drager van meticillineresistente Staphylococcus aureus (bevinding)</span></td></tr><tr><th>Periode</th><td>Vanaf 1 juni 2010</td></tr></tbody></table></div>"
         },
-        "identifier": [{
-            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-            "value": "2fadf3bc-e3e4-11eb-2885-020000000000"
-        }],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "2fadf3bc-e3e4-11eb-2885-020000000000"
+            }
+        ],
         "status": "active",
         "category": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "74018-3",
-                "display": "Alert [type] in ^pati\u00ebnt"
-            }]
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "74018-3",
+                    "display": "Alert [type] in ^patiënt"
+                }
+            ]
         },
         "code": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "432415000",
-                "display": "drager van meticillineresistente Staphylococcus aureus (bevinding)"
-            }]
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "432415000",
+                    "display": "drager van meticillineresistente Staphylococcus aureus (bevinding)"
+                }
+            ]
         },
         "subject": {
             "reference": "Patient/medmij-bgz-patient-ts-01",

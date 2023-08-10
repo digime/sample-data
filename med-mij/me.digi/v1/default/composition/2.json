@@ -5,7 +5,9 @@
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T09:51:15.321+01:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"
+            ]
         },
         "text": {
             "status": "extensions",
@@ -17,11 +19,13 @@
         },
         "status": "final",
         "type": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "67781-5",
-                "display": "Summarization of encounter note Narrative"
-            }]
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative"
+                }
+            ]
         },
         "subject": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -32,58 +36,76 @@
             "display": "Consult voor Maagpijn met Dokter Bernard"
         },
         "date": "2022-12-08",
-        "author": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                "valueReference": {
-                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
-                    "display": "Dokter Bernard"
-                }
-            }],
-            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
-            "display": "Dokter Bernard"
-        }],
+        "author": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                            "display": "Dokter Bernard"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        ],
         "title": "Contactverslag dd. 2022-12-08",
-        "section": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
-                        "code": "D02",
-                        "display": "Maagpijn"
-                    }]
-                }
-            }],
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "E",
-                    "display": "Evaluatie"
-                }]
-            },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Maag/duodenum problemen?</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact07-e",
-                "display": "Maag/duodenum problemen?"
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-d02",
-                "display": "Condition Maagpijn"
-            }]
-        }],
+        "section": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                                    "code": "D02",
+                                    "display": "Maagpijn"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "E",
+                            "display": "Evaluatie"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Maag/duodenum problemen?</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact07-e",
+                        "display": "Maag/duodenum problemen?"
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-d02",
+                        "display": "Condition Maagpijn"
+                    }
+                ]
+            }
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact07",
-        "createddate": 1670454000
-    }, {
+        "createddate": 1685270508376
+    },
+    {
         "resourceType": "Composition",
         "id": "gp-EncounterReport-gpdata-encounter-contact08",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T09:51:15.915+01:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"
+            ]
         },
         "text": {
             "status": "extensions",
@@ -95,11 +117,13 @@
         },
         "status": "final",
         "type": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "67781-5",
-                "display": "Summarization of encounter note Narrative"
-            }]
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative"
+                }
+            ]
         },
         "subject": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -110,48 +134,62 @@
             "display": "Consult voor Lokale zwelling/papel/knobbel huid/subcutis met Dokter Bernard"
         },
         "date": "2022-09-19",
-        "author": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                "valueReference": {
-                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
-                    "display": "Dokter Bernard"
-                }
-            }],
-            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
-            "display": "Dokter Bernard"
-        }],
+        "author": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                            "display": "Dokter Bernard"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        ],
         "title": "Contactverslag dd. 2022-09-19",
-        "section": [{
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "P",
-                    "display": "Plan"
-                }]
-            },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Echo.</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact08-p",
-                "display": "Echo."
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s04",
-                "display": "Condition Lokale zwelling/papel"
-            }]
-        }],
+        "section": [
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "P",
+                            "display": "Plan"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Echo.</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact08-p",
+                        "display": "Echo."
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s04",
+                        "display": "Condition Lokale zwelling/papel"
+                    }
+                ]
+            }
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact08",
-        "createddate": 1663538400
-    }, {
+        "createddate": 1685270208376
+    },
+    {
         "resourceType": "Composition",
         "id": "gp-EncounterReport-gpdata-encounter-contact09",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T09:51:16.431+01:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"
+            ]
         },
         "text": {
             "status": "extensions",
@@ -163,11 +201,13 @@
         },
         "status": "final",
         "type": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "67781-5",
-                "display": "Summarization of encounter note Narrative"
-            }]
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative"
+                }
+            ]
         },
         "subject": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -178,77 +218,101 @@
             "display": "Consult voor Tinea Pedis met Dokter Bernard"
         },
         "date": "2022-09-24",
-        "author": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                "valueReference": {
-                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
-                    "display": "Dokter Bernard"
-                }
-            }],
-            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
-            "display": "Dokter Bernard"
-        }],
+        "author": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                            "display": "Dokter Bernard"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        ],
         "title": "Contactverslag dd. 2022-09-24",
-        "section": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
-                        "code": "S74.01",
-                        "display": "Tinea pedis"
-                    }]
-                }
-            }],
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "E",
-                    "display": "Evaluatie"
-                }]
+        "section": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                                    "code": "S74.01",
+                                    "display": "Tinea pedis"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "E",
+                            "display": "Evaluatie"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Mycose.</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact09-e",
+                        "display": "Mycose."
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s7401",
+                        "display": "Condition Tinea pedis"
+                    }
+                ]
             },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Mycose.</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact09-e",
-                "display": "Mycose."
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s7401",
-                "display": "Condition Tinea pedis"
-            }]
-        }, {
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "P",
-                    "display": "Plan"
-                }]
-            },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Heeft nog canesten via drogist; 2x daags gebruiken.</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact09-p",
-                "display": "Heeft nog canesten via drogist; 2x daags gebruiken."
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s7401",
-                "display": "Condition Tinea pedis"
-            }]
-        }],
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "P",
+                            "display": "Plan"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Heeft nog canesten via drogist; 2x daags gebruiken.</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact09-p",
+                        "display": "Heeft nog canesten via drogist; 2x daags gebruiken."
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s7401",
+                        "display": "Condition Tinea pedis"
+                    }
+                ]
+            }
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact09",
-        "createddate": 1663970400
-    }, {
+        "createddate": 1685269908376
+    },
+    {
         "resourceType": "Composition",
         "id": "gp-EncounterReport-gpdata-encounter-contact10",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T09:51:17.165+01:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"
+            ]
         },
         "text": {
             "status": "extensions",
@@ -260,11 +324,13 @@
         },
         "status": "final",
         "type": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "67781-5",
-                "display": "Summarization of encounter note Narrative"
-            }]
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative"
+                }
+            ]
         },
         "subject": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -275,77 +341,101 @@
             "display": "Consult voor Keelpijn met Dokter Bernard"
         },
         "date": "2022-11-18",
-        "author": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                "valueReference": {
-                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
-                    "display": "Dokter Bernard"
-                }
-            }],
-            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
-            "display": "Dokter Bernard"
-        }],
+        "author": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                            "display": "Dokter Bernard"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        ],
         "title": "Contactverslag dd. 2022-11-18",
-        "section": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
-                        "code": "R21.01",
-                        "display": "Keelpijn"
-                    }]
-                }
-            }],
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "E",
-                    "display": "Evaluatie"
-                }]
+        "section": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                                    "code": "R21.01",
+                                    "display": "Keelpijn"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "E",
+                            "display": "Evaluatie"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact10-e",
+                        "display": "Keelpijn eci."
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                        "display": "Condition Keelpijn"
+                    }
+                ]
             },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact10-e",
-                "display": "Keelpijn eci."
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
-                "display": "Condition Keelpijn"
-            }]
-        }, {
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "P",
-                    "display": "Plan"
-                }]
-            },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Afwachten, zn. Medicatie is nog beschikbaar</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact10-p",
-                "display": "Afwachten, zn. Medicatie is nog beschikbaar"
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
-                "display": "Condition Keelpijn"
-            }]
-        }],
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "P",
+                            "display": "Plan"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Afwachten, zn. Medicatie is nog beschikbaar</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact10-p",
+                        "display": "Afwachten, zn. Medicatie is nog beschikbaar"
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                        "display": "Condition Keelpijn"
+                    }
+                ]
+            }
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact10",
-        "createddate": 1668726000
-    }, {
+        "createddate": 1685269608376
+    },
+    {
         "resourceType": "Composition",
         "id": "gp-EncounterReport-gpdata-encounter-contact11",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T09:51:18.180+01:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"
+            ]
         },
         "text": {
             "status": "extensions",
@@ -357,11 +447,13 @@
         },
         "status": "final",
         "type": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "67781-5",
-                "display": "Summarization of encounter note Narrative"
-            }]
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative"
+                }
+            ]
         },
         "subject": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -372,77 +464,101 @@
             "display": "Consult voor Keelpijn met Dokter Bernard"
         },
         "date": "2022-12-13",
-        "author": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                "valueReference": {
-                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
-                    "display": "Dokter Bernard"
-                }
-            }],
-            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
-            "display": "Dokter Bernard"
-        }],
+        "author": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                            "display": "Dokter Bernard"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        ],
         "title": "Contactverslag dd. 2022-12-13",
-        "section": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
-                        "code": "R21.01",
-                        "display": "Keelpijn"
-                    }]
-                }
-            }],
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "E",
-                    "display": "Evaluatie"
-                }]
+        "section": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                                    "code": "R21.01",
+                                    "display": "Keelpijn"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "E",
+                            "display": "Evaluatie"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact11-e",
+                        "display": "Keelpijn eci."
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                        "display": "Condition Keelpijn"
+                    }
+                ]
             },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact11-e",
-                "display": "Keelpijn eci."
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
-                "display": "Condition Keelpijn"
-            }]
-        }, {
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "P",
-                    "display": "Plan"
-                }]
-            },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Kweek van aanslag keel</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact11-p",
-                "display": "Kweek van aanslag keel"
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
-                "display": "Condition Keelpijn"
-            }]
-        }],
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "P",
+                            "display": "Plan"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Kweek van aanslag keel</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact11-p",
+                        "display": "Kweek van aanslag keel"
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                        "display": "Condition Keelpijn"
+                    }
+                ]
+            }
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact11",
-        "createddate": 1670886000
-    }, {
+        "createddate": 1685269308376
+    },
+    {
         "resourceType": "Composition",
         "id": "gp-EncounterReport-gpdata-encounter-contact12",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T09:51:18.696+01:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"
+            ]
         },
         "text": {
             "status": "extensions",
@@ -454,11 +570,13 @@
         },
         "status": "final",
         "type": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "67781-5",
-                "display": "Summarization of encounter note Narrative"
-            }]
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "67781-5",
+                    "display": "Summarization of encounter note Narrative"
+                }
+            ]
         },
         "subject": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -469,69 +587,90 @@
             "display": "Consult voor Keelpijn met Dokter Bernard"
         },
         "date": "2023-01-22",
-        "author": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                "valueReference": {
-                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
-                    "display": "Dokter Bernard"
-                }
-            }],
-            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
-            "display": "Dokter Bernard"
-        }],
+        "author": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                            "display": "Dokter Bernard"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+                "display": "Dokter Bernard"
+            }
+        ],
         "title": "Contactverslag dd. 2023-01-22",
-        "section": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
-                        "code": "R21.01",
-                        "display": "Keelpijn"
-                    }]
-                }
-            }],
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "E",
-                    "display": "Evaluatie"
-                }]
+        "section": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                                    "code": "R21.01",
+                                    "display": "Keelpijn"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "E",
+                            "display": "Evaluatie"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact12-e",
+                        "display": "Keelpijn eci."
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                        "display": "Condition Keelpijn"
+                    }
+                ]
             },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact12-e",
-                "display": "Keelpijn eci."
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
-                "display": "Condition Keelpijn"
-            }]
-        }, {
-            "code": {
-                "coding": [{
-                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
-                    "code": "P",
-                    "display": "Plan"
-                }]
-            },
-            "text": {
-                "status": "generated",
-                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Bezoek brengen aan de tandarts, wellicht zit er daar iets.</div>"
-            },
-            "entry": [{
-                "reference": "Observation/gpdata-observation-contact12-p",
-                "display": "Bezoek brengen aan de tandarts, wellicht zit er daar iets."
-            }, {
-                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
-                "display": "Condition Keelpijn"
-            }]
-        }],
+            {
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                            "code": "P",
+                            "display": "Plan"
+                        }
+                    ]
+                },
+                "text": {
+                    "status": "generated",
+                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Bezoek brengen aan de tandarts, wellicht zit er daar iets.</div>"
+                },
+                "entry": [
+                    {
+                        "reference": "Observation/gpdata-observation-contact12-p",
+                        "display": "Bezoek brengen aan de tandarts, wellicht zit er daar iets."
+                    },
+                    {
+                        "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                        "display": "Condition Keelpijn"
+                    }
+                ]
+            }
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact12",
-        "createddate": 1674342000
+        "createddate": 1685269008376
     }
 ]

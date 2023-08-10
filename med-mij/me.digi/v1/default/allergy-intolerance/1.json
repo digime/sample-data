@@ -5,62 +5,84 @@
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-02-22T10:42:29.223-05:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-AllergyIntolerance"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-AllergyIntolerance"
+            ]
         },
         "text": {
             "status": "extensions",
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Allergie/intolerantie. Pati\u00ebnt: Johan XXX_Helleman. Id: 2c8d2bbc-e3e4-11eb-1953-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Allergie voor substantie (bevinding) (419199007 - SNOMED CT)\">Allergie voor substantie (bevinding)</span>, Status: actief / bevestigd                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Bijengif (substantie) (288328004 - SNOMED CT)\">Bijengif (substantie)</span></td></tr><tr><th>Eerste symptomen</th><td>8 november 2008</td></tr><tr><th>Meest recente voorkomen</th><td>15 november 2009</td></tr><tr><th>Reactie</th><td><ul><li><div><span title=\"Ernstig (kwalificatiewaarde) (24484000 - SNOMED CT)\">Ernstig (kwalificatiewaarde)</span></div><div><span title=\"misselijkheid en braken (aandoening) (16932000 - SNOMED CT)\">misselijkheid en braken (aandoening)</span></div></li></ul></td></tr></tbody></table></div>"
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Allergie/intolerantie. Patiënt: Johan XXX_Helleman. Id: 2c8d2bbc-e3e4-11eb-1953-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Allergie voor substantie (bevinding) (419199007 - SNOMED CT)\">Allergie voor substantie (bevinding)</span>, Status: actief / bevestigd                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Bijengif (substantie) (288328004 - SNOMED CT)\">Bijengif (substantie)</span></td></tr><tr><th>Eerste symptomen</th><td>8 november 2008</td></tr><tr><th>Meest recente voorkomen</th><td>15 november 2009</td></tr><tr><th>Reactie</th><td><ul><li><div><span title=\"Ernstig (kwalificatiewaarde) (24484000 - SNOMED CT)\">Ernstig (kwalificatiewaarde)</span></div><div><span title=\"misselijkheid en braken (aandoening) (16932000 - SNOMED CT)\">misselijkheid en braken (aandoening)</span></div></li></ul></td></tr></tbody></table></div>"
         },
-        "identifier": [{
-            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-            "value": "2c8d2bbc-e3e4-11eb-1953-020000000000"
-        }],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "2c8d2bbc-e3e4-11eb-1953-020000000000"
+            }
+        ],
         "clinicalStatus": "active",
         "_clinicalStatus": {
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://hl7.org/fhir/v3/ActStatus",
-                        "code": "active",
-                        "display": "Active"
-                    }]
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://hl7.org/fhir/v3/ActStatus",
+                                "code": "active",
+                                "display": "Active"
+                            }
+                        ]
+                    }
                 }
-            }]
+            ]
         },
         "verificationStatus": "confirmed",
-        "category": ["biologic"],
-        "_category": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "419199007",
-                        "display": "Allergie voor substantie (bevinding)"
-                    }]
-                }
-            }]
-        }],
+        "category": [
+            "biologic"
+        ],
+        "_category": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://snomed.info/sct",
+                                    "code": "419199007",
+                                    "display": "Allergie voor substantie (bevinding)"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
         "criticality": "high",
         "_criticality": {
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "24484000",
-                        "display": "Ernstig (kwalificatiewaarde)"
-                    }]
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "24484000",
+                                "display": "Ernstig (kwalificatiewaarde)"
+                            }
+                        ]
+                    }
                 }
-            }]
+            ]
         },
         "code": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "288328004",
-                "display": "Bijengif (substantie)"
-            }]
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "288328004",
+                    "display": "Bijengif (substantie)"
+                }
+            ]
         },
         "patient": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -68,93 +90,126 @@
         },
         "onsetDateTime": "2008-11-08",
         "lastOccurrence": "2009-11-15",
-        "reaction": [{
-            "manifestation": [{
-                "coding": [{
-                    "system": "http://snomed.info/sct",
-                    "code": "16932000",
-                    "display": "misselijkheid en braken (aandoening)"
-                }]
-            }],
-            "severity": "severe",
-            "_severity": {
-                "extension": [{
-                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                    "valueCodeableConcept": {
-                        "coding": [{
-                            "system": "http://snomed.info/sct",
-                            "code": "24484000",
-                            "display": "Ernstig (kwalificatiewaarde)"
-                        }]
+        "reaction": [
+            {
+                "manifestation": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "16932000",
+                                "display": "misselijkheid en braken (aandoening)"
+                            }
+                        ]
                     }
-                }]
+                ],
+                "severity": "severe",
+                "_severity": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                            "valueCodeableConcept": {
+                                "coding": [
+                                    {
+                                        "system": "http://snomed.info/sct",
+                                        "code": "24484000",
+                                        "display": "Ernstig (kwalificatiewaarde)"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
             }
-        }],
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_medmij-bgz-allergyintolerance-ts-01",
-        "createddate": 1226098800
-    }, {
+        "createddate": 1690531800376
+    },
+    {
         "resourceType": "AllergyIntolerance",
         "id": "gp-allergyintolerance-prednisolon",
         "meta": {
             "versionId": "1",
             "lastUpdated": "2023-03-13T04:51:11.509-04:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-AllergyIntolerance"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-AllergyIntolerance"
+            ]
         },
         "text": {
             "status": "extensions",
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Allergie/intolerantie. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b51ffa9c-041c-11ec-1287-020000000000 (https://example.org/nictiz/basic-components/identification-number), Categorie:                               \n          <span title=\"Medicijn (419511003 - SNOMED CT)\">Medicijn</span>, Status: inactief / bevestigd                              \n          <span style=\"display: block;\">Ingevoerd door: Dokter Bernard</span></caption><tfoot><tr><td colspan=\"2\">Geldt alleen voor dit merk</td></tr></tfoot><tbody><tr><th>Code</th><td><span title=\"PREDNISOLON CAPSULE 65MG FNA MR (1112821 - G-Standaard HPK)\">PREDNISOLON CAPSULE 65MG FNA MR</span></td></tr><tr><th>Eerste symptomen</th><td>2023-01-22</td></tr><tr><th>Reactie</th><td><ul><li><div>2023-01-22T17:45:00+02:00                                                             \n                    <span title=\"Ernstig (24484000 - SNOMED CT)\">Ernstig</span></div><div><span title=\"Toxische epidermale necrolyse (23067006 - SNOMED CT)\">Toxische epidermale necrolyse</span></div><div>Blaren op grote delen van de huid</div></li></ul></td></tr></tbody></table></div>"
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Allergie/intolerantie. Patiënt: Jacqueline XXX_Cevat. Id: b51ffa9c-041c-11ec-1287-020000000000 (https://example.org/nictiz/basic-components/identification-number), Categorie:                               \n          <span title=\"Medicijn (419511003 - SNOMED CT)\">Medicijn</span>, Status: inactief / bevestigd                              \n          <span style=\"display: block;\">Ingevoerd door: Dokter Bernard</span></caption><tfoot><tr><td colspan=\"2\">Geldt alleen voor dit merk</td></tr></tfoot><tbody><tr><th>Code</th><td><span title=\"PREDNISOLON CAPSULE 65MG FNA MR (1112821 - G-Standaard HPK)\">PREDNISOLON CAPSULE 65MG FNA MR</span></td></tr><tr><th>Eerste symptomen</th><td>2023-01-22</td></tr><tr><th>Reactie</th><td><ul><li><div>2023-01-22T17:45:00+02:00                                                             \n                    <span title=\"Ernstig (24484000 - SNOMED CT)\">Ernstig</span></div><div><span title=\"Toxische epidermale necrolyse (23067006 - SNOMED CT)\">Toxische epidermale necrolyse</span></div><div>Blaren op grote delen van de huid</div></li></ul></td></tr></tbody></table></div>"
         },
-        "identifier": [{
-            "system": "https://example.org/nictiz/basic-components/identification-number",
-            "value": "b51ffa9c-041c-11ec-1287-020000000000"
-        }],
+        "identifier": [
+            {
+                "system": "https://example.org/nictiz/basic-components/identification-number",
+                "value": "b51ffa9c-041c-11ec-1287-020000000000"
+            }
+        ],
         "clinicalStatus": "inactive",
         "_clinicalStatus": {
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://hl7.org/fhir/v3/ActStatus",
-                        "code": "obsolete",
-                        "display": "Obsolete"
-                    }]
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://hl7.org/fhir/v3/ActStatus",
+                                "code": "obsolete",
+                                "display": "Obsolete"
+                            }
+                        ]
+                    }
                 }
-            }]
+            ]
         },
         "verificationStatus": "confirmed",
-        "category": ["medication"],
-        "_category": [{
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "419511003",
-                        "display": "Medicijn"
-                    }]
-                }
-            }]
-        }],
+        "category": [
+            "medication"
+        ],
+        "_category": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://snomed.info/sct",
+                                    "code": "419511003",
+                                    "display": "Medicijn"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
         "criticality": "high",
         "_criticality": {
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "6736007",
-                        "display": "Matig"
-                    }]
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "6736007",
+                                "display": "Matig"
+                            }
+                        ]
+                    }
                 }
-            }]
+            ]
         },
         "code": {
-            "coding": [{
-                "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
-                "code": "1112821",
-                "display": "PREDNISOLON CAPSULE 65MG FNA MR"
-            }]
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "1112821",
+                    "display": "PREDNISOLON CAPSULE 65MG FNA MR"
+                }
+            ]
         },
         "patient": {
             "reference": "Patient/medmij-bgz-patient-ts-01",
@@ -162,52 +217,68 @@
         },
         "onsetDateTime": "2023-01-22",
         "recorder": {
-            "extension": [{
-                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
-                "valueReference": {
-                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
-                    "display": "Dokter Bernard"
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                    "valueReference": {
+                        "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                        "display": "Dokter Bernard"
+                    }
                 }
-            }],
+            ],
             "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
             "display": "Dokter Bernard"
         },
-        "note": [{
-            "text": "Geldt alleen voor dit merk"
-        }],
-        "reaction": [{
-            "substance": {
-                "coding": [{
-                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1.750",
-                    "code": "4170",
-                    "display": "Prednisolon"
-                }]
-            },
-            "manifestation": [{
-                "coding": [{
-                    "system": "http://snomed.info/sct",
-                    "code": "23067006",
-                    "display": "Toxische epidermale necrolyse"
-                }]
-            }],
-            "description": "Blaren op grote delen van de huid",
-            "onset": "2023-01-22T17:45:00+02:00",
-            "severity": "severe",
-            "_severity": {
-                "extension": [{
-                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
-                    "valueCodeableConcept": {
-                        "coding": [{
-                            "system": "http://snomed.info/sct",
-                            "code": "24484000",
-                            "display": "Ernstig"
-                        }]
-                    }
-                }]
+        "note": [
+            {
+                "text": "Geldt alleen voor dit merk"
             }
-        }],
+        ],
+        "reaction": [
+            {
+                "substance": {
+                    "coding": [
+                        {
+                            "system": "urn:oid:2.16.840.1.113883.2.4.4.1.750",
+                            "code": "4170",
+                            "display": "Prednisolon"
+                        }
+                    ]
+                },
+                "manifestation": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "23067006",
+                                "display": "Toxische epidermale necrolyse"
+                            }
+                        ]
+                    }
+                ],
+                "description": "Blaren op grote delen van de huid",
+                "onset": "2023-01-22T17:45:00+02:00",
+                "severity": "severe",
+                "_severity": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                            "valueCodeableConcept": {
+                                "coding": [
+                                    {
+                                        "system": "http://snomed.info/sct",
+                                        "code": "24484000",
+                                        "display": "Ernstig"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gp-allergyintolerance-prednisolon",
-        "createddate": 1674342000
+        "createddate": 1690531500376
     }
 ]

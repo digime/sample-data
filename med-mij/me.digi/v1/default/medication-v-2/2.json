@@ -5,60 +5,74 @@
         "meta": {
             "versionId": "20",
             "lastUpdated": "2023-03-13T04:51:51.259-04:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Product"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
         },
         "text": {
             "status": "extensions",
             "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"IBUPROFEN 400MG TABLET (27278 - G-Standaard PRK)\">IBUPROFEN 400MG TABLET</span></td></tr></tbody></table></div>"
         },
         "code": {
-            "coding": [{
-                "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
-                "code": "27278",
-                "display": "IBUPROFEN 400MG TABLET"
-            }]
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "27278",
+                    "display": "IBUPROFEN 400MG TABLET"
+                }
+            ]
         },
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gpdata-product-ibuprofen"
-    }, {
+    },
+    {
         "resourceType": "Medication",
         "id": "gpdata-product-paracetamol-codein",
         "meta": {
             "versionId": "20",
             "lastUpdated": "2023-03-13T04:51:52.368-04:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Product"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
         },
         "text": {
             "status": "extensions",
             "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"PARACETAMOL/CODEINE ZETPIL 500/10MG, inclusief doseerinstructie en toedieningsweg. (43990 - G-Standaard GPK)\">PARACETAMOL/CODEINE ZETPIL 500/10MG, inclusief doseerinstructie en toedieningsweg.</span></td></tr></tbody></table></div>"
         },
         "code": {
-            "coding": [{
-                "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
-                "code": "43990",
-                "display": "PARACETAMOL/CODEINE ZETPIL 500/10MG, inclusief doseerinstructie en toedieningsweg."
-            }]
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "43990",
+                    "display": "PARACETAMOL/CODEINE ZETPIL 500/10MG, inclusief doseerinstructie en toedieningsweg."
+                }
+            ]
         },
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gpdata-product-paracetamol-codein"
-    }, {
+    },
+    {
         "resourceType": "Medication",
         "id": "gpdata-product-salbutamol",
         "meta": {
             "versionId": "20",
             "lastUpdated": "2023-03-13T04:51:53.087-04:00",
-            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Product"]
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
         },
         "text": {
             "status": "extensions",
             "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"SALBUTAMOL AEROSOL 100UG/DO 200DO AUTOH (43281 - G-Standaard PRK)\">SALBUTAMOL AEROSOL 100UG/DO 200DO AUTOH</span></td></tr></tbody></table></div>"
         },
         "code": {
-            "coding": [{
-                "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
-                "code": "43281",
-                "display": "SALBUTAMOL AEROSOL 100UG/DO 200DO AUTOH"
-            }]
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "43281",
+                    "display": "SALBUTAMOL AEROSOL 100UG/DO 200DO AUTOH"
+                }
+            ]
         },
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_gpdata-product-salbutamol"
