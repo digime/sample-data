@@ -1,0 +1,94 @@
+[
+    {
+        "resourceType": "Procedure",
+        "id": "ggz-procedure-Afnemen-van-anamnese",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-09T04:06:03.794-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Verrichting. Subject: Adam XXX-Bals. Id: 757fbbac-0421-11ec-8200-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Evaluatie van geestelijke gezondheidszorg (verrichting) (410223002 - SNOMED CT)\">Evaluatie van geestelijke gezondheidszorg (verrichting)</span>, Status: voltooid                              \n          <span style=\"display: block;\">Uitvoerende: Dr. Behandelend Psychiater uit Behandelend Ziekenhuis</span><span style=\"display: block;\">Uitvoerende: Behandelend Ziekenhuis</span></caption><tbody><tr><td><span title=\"Afnemen van anamnese (84100007 - SNOMED CT)\">Afnemen van anamnese</span></td><td><div>Uitgevoerd: 2023-04-12 - 2023-04-12</div></td></tr><tr><th>Gebaseerd op</th><td>Aanvraag voor afnemen van anamnese</td></tr><tr><th>Reden</th><td>Probleem: Depressieve-stoornis</td></tr><tr><th>Report</th><td>TekstUitslag eerste psychiatrische beoordeling</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "757fbbac-0421-11ec-8200-020000000000"
+            }
+        ],
+        "basedOn": [
+            {
+                "reference": "ProcedureRequest/ggz-procedure-Aanvraag",
+                "display": "Aanvraag voor afnemen van anamnese"
+            }
+        ],
+        "status": "completed",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "410223002",
+                    "display": "Evaluatie van geestelijke gezondheidszorg (verrichting)"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "84100007",
+                    "display": "Afnemen van anamnese"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Bals",
+            "display": "Adam XXX-Bals"
+        },
+        "performedPeriod": {
+            "start": "2023-04-12",
+            "end": "2023-04-12"
+        },
+        "performer": [
+            {
+                "actor": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/ggz-nl-core-practitionerrole-Behandelend-Psychiater",
+                                "display": "Dr. Behandelend Psychiater uit Behandelend Ziekenhuis"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/ggz-nl-core-practitioner-Behandelend-Psychiater",
+                    "display": "Dr. Behandelend Psychiater"
+                }
+            },
+            {
+                "actor": {
+                    "reference": "Organization/ggz-nl-core-organization-Ziekenhuis",
+                    "display": "Behandelend Ziekenhuis"
+                }
+            }
+        ],
+        "reasonReference": [
+            {
+                "reference": "Condition/ggz-problem-Depressieve-stoornis",
+                "display": "Probleem: Depressieve-stoornis"
+            }
+        ],
+        "report": [
+            {
+                "reference": "DiagnosticReport/ggz-textresult-DiagnosticReport",
+                "display": "TekstUitslag eerste psychiatrische beoordeling"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_ggz-procedure-Afnemen-van-anamnese",
+        "createddate": "Invalid"
+    }
+]

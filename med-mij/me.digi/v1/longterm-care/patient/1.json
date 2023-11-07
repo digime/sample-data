@@ -1,0 +1,284 @@
+[
+    {
+        "resourceType": "Patient",
+        "id": "XXX-Mutter",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:11.540-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-patient"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id                         \n        <i>afgeschermd (ontbrekend gegeven)</i> (BSN), Id 90c071db-e3e1-11eb-1462-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6),                         \n        <span title=\"Naamsamenstelling: Eigennaam\">Fiona XXX_Mutter</span>, Vrouw, 8 februari 1964, Geen meerling                  \n      </div><div><a href=\"tel:+31634567891\">+31634567891</a> (Mobiel Priv\u00e9),                         \n        <a href=\"mailto:fmutter@hotmail.com\">fmutter@hotmail.com</a> (E-mail Priv\u00e9)                  \n      </div><div>Knolweg 1001, 9999XX Stitswerd, Nederland (Post)</div><div><span title=\"Zoon (SONC - v3/RoleCode)\">Zoon</span>,                         \n        <span title=\"Eerste relatie/contactpersoon (1 - RoleCodeLijst (COD472-VEKT))\">Eerste relatie/contactpersoon</span><span title=\"Naamsamenstelling: Eigennaam\">Robert R. Prins</span><div><a href=\"tel:06-34567891\">06-34567891</a> (Mobiel Priv\u00e9),                               \n          <a href=\"mailto:bprins@123net.nl\">bprins@123net.nl</a> (E-mail Priv\u00e9)                        \n        </div></div><div>Huisarts: Laura Lanen                        \n        <div>Zorgverlenerrol: Huisarts</div></div></div>"
+        },
+        "identifier": [
+            {
+                "system": "http://fhir.nl/fhir/NamingSystem/bsn",
+                "_value": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+                            "valueCode": "masked"
+                        }
+                    ]
+                }
+            },
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "90c071db-e3e1-11eb-1462-020000000000"
+            }
+        ],
+        "name": [
+            {
+                "extension": [
+                    {
+                        "url": "http://hl7.org/fhir/StructureDefinition/humanname-assembly-order",
+                        "valueCode": "NL1"
+                    }
+                ],
+                "text": "Fiona XXX_Mutter",
+                "family": "XXX_Mutter",
+                "_family": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                            "valueString": "XXX_Mutter"
+                        }
+                    ]
+                },
+                "given": [
+                    "Fiona",
+                    "F."
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "telecom": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://hl7.org/fhir/v3/AddressUse",
+                                    "code": "MC",
+                                    "display": "Mobiel telefoonnummer"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "system": "phone",
+                "value": "+31634567891",
+                "use": "home"
+            },
+            {
+                "system": "email",
+                "value": "fmutter@hotmail.com",
+                "use": "home"
+            }
+        ],
+        "gender": "female",
+        "_gender": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://hl7.org/fhir/v3/AdministrativeGender",
+                                "code": "F",
+                                "display": "Vrouw"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "birthDate": "1964-02-08",
+        "address": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/zib-AddressInformation-AddressType",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://hl7.org/fhir/v3/AddressUse",
+                                    "code": "PST",
+                                    "display": "Postal Addres"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "use": "home",
+                "type": "postal",
+                "line": [
+                    "Knolweg 1001"
+                ],
+                "_line": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                                "valueString": "Knolweg"
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                                "valueString": "1001"
+                            }
+                        ]
+                    }
+                ],
+                "city": "Stitswerd",
+                "postalCode": "9999XX",
+                "country": "Nederland",
+                "_country": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                            "valueCodeableConcept": {
+                                "coding": [
+                                    {
+                                        "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34",
+                                        "code": "6030",
+                                        "display": "Nederland"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "multipleBirthBoolean": false,
+        "contact": [
+            {
+                "relationship": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://hl7.org/fhir/v3/RoleCode",
+                                "code": "SONC",
+                                "display": "Zoon"
+                            }
+                        ]
+                    },
+                    {
+                        "coding": [
+                            {
+                                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.22.472",
+                                "code": "1",
+                                "display": "Eerste relatie/contactpersoon"
+                            }
+                        ]
+                    }
+                ],
+                "name": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-assembly-order",
+                            "valueCode": "NL1"
+                        }
+                    ],
+                    "family": "Prins",
+                    "_family": {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                                "valueString": "Prins"
+                            }
+                        ]
+                    },
+                    "given": [
+                        "Robert",
+                        "R."
+                    ],
+                    "_given": [
+                        {
+                            "extension": [
+                                {
+                                    "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                    "valueCode": "BR"
+                                }
+                            ]
+                        },
+                        {
+                            "extension": [
+                                {
+                                    "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                    "valueCode": "IN"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "telecom": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+                                "valueCodeableConcept": {
+                                    "coding": [
+                                        {
+                                            "system": "http://hl7.org/fhir/v3/AddressUse",
+                                            "code": "MC",
+                                            "display": "Mobiel telefoonnummer"
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "system": "phone",
+                        "value": "06-34567891",
+                        "use": "home"
+                    },
+                    {
+                        "system": "email",
+                        "value": "bprins@123net.nl",
+                        "use": "home"
+                    }
+                ]
+            }
+        ],
+        "generalPractitioner": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/bglz-1-1-zorgverlenerrol-01",
+                            "display": "Huisarts"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/bglz-1-1-zorgverlener-01",
+                "display": "Laura Lanen"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_XXX-Mutter",
+        "createddate": "Invalid"
+    }
+]

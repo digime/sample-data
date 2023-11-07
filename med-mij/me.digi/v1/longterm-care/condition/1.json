@@ -1,0 +1,535 @@
+[
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:15.477-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 914447db-e3e1-11eb-1233-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tfoot><tr><td colspan=\"2\">Niet bekend met neurologische klachten</td></tr></tfoot><tbody><tr><th>Code</th><td><span title=\"ischemisch cerebrovasculair accident (422504002 - SNOMED CT)\">ischemisch cerebrovasculair accident</span></td></tr><tr><th>Eerste symptomen</th><td>2023-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "914447db-e3e1-11eb-1233-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "422504002",
+                    "display": "ischemisch cerebrovasculair accident"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2023-09-25T00:00:00+01:00",
+        "note": [
+            {
+                "text": "Niet bekend met neurologische klachten"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-01",
+        "createddate": 1695596400
+    },
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-02",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:16.071-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 91a3f40b-e3e1-11eb-1158-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"diabetes mellitus (73211009 - SNOMED CT)\">diabetes mellitus</span></td></tr><tr><th>Eerste symptomen</th><td>2009-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "91a3f40b-e3e1-11eb-1158-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "73211009",
+                    "display": "diabetes mellitus"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2009-09-25T00:00:00+01:00",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-02",
+        "createddate": 1253833200
+    },
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-03",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:16.555-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 91fa787b-e3e1-11eb-2010-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Probleem met zichzelf wassen en afdrogen (288552005 - SNOMED CT)\">Probleem met zichzelf wassen en afdrogen</span></td></tr><tr><th>Eerste symptomen</th><td>2023-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "91fa787b-e3e1-11eb-2010-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "288552005",
+                    "display": "Probleem met zichzelf wassen en afdrogen"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2023-09-25T00:00:00+01:00",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-03",
+        "createddate": 1695596400
+    },
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-04",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:17.133-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 923ba02b-e3e1-11eb-1189-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"probleem met zichzelf kleden (284972002 - SNOMED CT)\">probleem met zichzelf kleden</span></td></tr><tr><th>Eerste symptomen</th><td>2023-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "923ba02b-e3e1-11eb-1189-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "284972002",
+                    "display": "probleem met zichzelf kleden"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2023-09-25T00:00:00+01:00",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-04",
+        "createddate": 1695596400
+    },
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-05",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:17.524-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 9294bcab-e3e1-11eb-6067-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"probleem met lopen (228158008 - SNOMED CT)\">probleem met lopen</span></td></tr><tr><th>Eerste symptomen</th><td>2023-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "9294bcab-e3e1-11eb-6067-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "228158008",
+                    "display": "probleem met lopen"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2023-09-25T00:00:00+01:00",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-05",
+        "createddate": 1695596400
+    },
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-06",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:17.852-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 92ed3ceb-e3e1-11eb-1923-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"afasie (87486003 - SNOMED CT)\">afasie</span></td></tr><tr><th>Eerste symptomen</th><td>2023-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "92ed3ceb-e3e1-11eb-1923-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "87486003",
+                    "display": "afasie"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2023-09-25T00:00:00+01:00",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-06",
+        "createddate": 1695596400
+    },
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-07",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:18.212-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 93253cdb-e3e1-11eb-6895-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"risico op decubitus (285304000 - SNOMED CT)\">risico op decubitus</span></td></tr><tr><th>Eerste symptomen</th><td>2023-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "93253cdb-e3e1-11eb-6895-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "285304000",
+                    "display": "risico op decubitus"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2023-09-25T00:00:00+01:00",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-07",
+        "createddate": 1695596400
+    },
+    {
+        "resourceType": "Condition",
+        "id": "bglz-1-1-probleem-08",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:18.493-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Fiona XXX_Mutter. Id: 936f8c4b-e3e1-11eb-8306-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"overbelaste mantelzorg (705044006 - SNOMED CT)\">overbelaste mantelzorg</span></td></tr><tr><th>Eerste symptomen</th><td>2023-09-25T00:00:00+01:00</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "936f8c4b-e3e1-11eb-8306-020000000000"
+            }
+        ],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "55561003",
+                                "display": "Actueel"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "282291009",
+                        "display": "Diagnose"
+                    }
+                ]
+            }
+        ],
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "705044006",
+                    "display": "overbelaste mantelzorg"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "onsetDateTime": "2023-09-25T00:00:00+01:00",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-probleem-08",
+        "createddate": 1695596400
+    }
+]

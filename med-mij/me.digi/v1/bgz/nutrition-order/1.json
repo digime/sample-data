@@ -1,0 +1,44 @@
+[
+    {
+        "resourceType": "NutritionOrder",
+        "id": "medmij-bgz-nutritionadvice-ts-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:45.051-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-NutritionAdvice"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Voedingsadvies. Pati\u00ebnt: Johan XXX_Helleman. Id: 31bab3ac-e3e4-11eb-2051-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Aanvraagdatum</th><td>1 januari 2018</td></tr><tr><td colspan=\"2\"><table><caption>Orale voeding</caption><thead><tr><th>Type</th><th>Vloeistofconsistentie</th></tr></thead><tbody><tr><td>Energie verrijkt</td><td>Dikvloeibaar</td></tr></tbody></table></td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "31bab3ac-e3e4-11eb-2051-020000000000"
+            }
+        ],
+        "status": "active",
+        "patient": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "dateTime": "2018-01-01",
+        "oralDiet": {
+            "type": [
+                {
+                    "text": "Energie verrijkt"
+                }
+            ],
+            "fluidConsistencyType": [
+                {
+                    "text": "Dikvloeibaar"
+                }
+            ]
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-nutritionadvice-ts-01",
+        "createddate": "Invalid"
+    }
+]

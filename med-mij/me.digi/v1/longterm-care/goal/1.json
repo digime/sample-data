@@ -1,0 +1,162 @@
+[
+    {
+        "resourceType": "Goal",
+        "id": "bglz-1-1-behandeldoel-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:19.383-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentObjective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Doel. Subject: Fiona XXX_Mutter. Id: 8b3a429b-e3e1-11eb-4135-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: geaccepteerd</caption><tbody><tr><th>Omschrijving</th><td>wassen onafhankelijk</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "8b3a429b-e3e1-11eb-4135-020000000000"
+            }
+        ],
+        "status": "accepted",
+        "description": {
+            "text": "wassen onafhankelijk"
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-behandeldoel-01",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Goal",
+        "id": "bglz-1-1-behandeldoel-02",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:19.712-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentObjective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Doel. Subject: Fiona XXX_Mutter. Id: 8b99c7bb-e3e1-11eb-9409-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: geaccepteerd</caption><tbody><tr><th>Omschrijving</th><td>kleden onafhankelijk</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "8b99c7bb-e3e1-11eb-9409-020000000000"
+            }
+        ],
+        "status": "accepted",
+        "description": {
+            "text": "kleden onafhankelijk"
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-behandeldoel-02",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Goal",
+        "id": "bglz-1-1-behandeldoel-03",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:20.055-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentObjective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Doel. Subject: Fiona XXX_Mutter. Id: 8c03ad1b-e3e1-11eb-1334-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: geaccepteerd</caption><tbody><tr><th>Omschrijving</th><td>lopen met hulp</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "8c03ad1b-e3e1-11eb-1334-020000000000"
+            }
+        ],
+        "status": "accepted",
+        "description": {
+            "text": "lopen met hulp"
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-behandeldoel-03",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Goal",
+        "id": "bglz-1-1-behandeldoel-04",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:20.368-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentObjective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Doel. Subject: Fiona XXX_Mutter. Id: 8c6a371b-e3e1-11eb-2087-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: geaccepteerd</caption><tbody><tr><th>Omschrijving</th><td>huid blijft intact</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "8c6a371b-e3e1-11eb-2087-020000000000"
+            }
+        ],
+        "status": "accepted",
+        "description": {
+            "text": "huid blijft intact"
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-behandeldoel-04",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Goal",
+        "id": "bglz-1-1-behandeldoel-05",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:20.696-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentObjective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Doel. Subject: Fiona XXX_Mutter. Id: 8c7d49eb-e3e1-11eb-1969-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: geaccepteerd</caption><tbody><tr><th>Omschrijving</th><td>zorgtaken voor echtgenoot worden gecontinueerd</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "8c7d49eb-e3e1-11eb-1969-020000000000"
+            }
+        ],
+        "status": "accepted",
+        "description": {
+            "text": "zorgtaken voor echtgenoot worden gecontinueerd"
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-behandeldoel-05",
+        "createddate": "Invalid"
+    }
+]

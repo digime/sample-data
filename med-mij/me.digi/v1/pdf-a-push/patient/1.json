@@ -1,0 +1,176 @@
+[
+    {
+        "resourceType": "Patient",
+        "id": "f2dc6e0f41f941fcaa4f5ef3723473e0",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-02T04:49:42.739-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-patient"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Helene XXX_Ellens, Vrouw, 3 juli 1988</div><div>Dijkpad 93, 9999WA Stitswerd</div></div>"
+        },
+        "name": [
+            {
+                "text": "Helene XXX_Ellens",
+                "family": "XXX_Ellens",
+                "given": [
+                    "Helene",
+                    "H"
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "_gender": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://hl7.org/fhir/v3/AdministrativeGender",
+                                "code": "F",
+                                "display": "Vrouw"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "birthDate": "1988-07-03",
+        "address": [
+            {
+                "line": [
+                    "Dijkpad 93"
+                ],
+                "_line": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                                "valueString": "Dijkpad"
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                                "valueString": "93"
+                            }
+                        ]
+                    }
+                ],
+                "city": "Stitswerd",
+                "postalCode": "9999WA"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_f2dc6e0f41f941fcaa4f5ef3723473e0",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Patient",
+        "id": "2821dbb5b8fb4668b33e30d084f863c4",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-02T04:47:45.583-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-patient"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Helene XXX_Ellens, Vrouw, 3 juli 1988</div><div>Dijkpad 93, 9999WA Stitswerd</div></div>"
+        },
+        "name": [
+            {
+                "text": "Helene XXX_Ellens",
+                "family": "XXX_Ellens",
+                "given": [
+                    "Helene",
+                    "H"
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "_gender": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://hl7.org/fhir/v3/AdministrativeGender",
+                                "code": "F",
+                                "display": "Vrouw"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "birthDate": "1988-07-03",
+        "address": [
+            {
+                "line": [
+                    "Dijkpad 93"
+                ],
+                "_line": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                                "valueString": "Dijkpad"
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                                "valueString": "93"
+                            }
+                        ]
+                    }
+                ],
+                "city": "Stitswerd",
+                "postalCode": "9999WA"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_2821dbb5b8fb4668b33e30d084f863c4",
+        "createddate": "Invalid"
+    }
+]

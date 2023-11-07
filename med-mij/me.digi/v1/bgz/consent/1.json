@@ -1,0 +1,184 @@
+[
+    {
+        "resourceType": "Consent",
+        "id": "medmij-bgz-treatmentdirective-ts-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:33.567-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toestemming. Pati\u00ebnt: Johan XXX_Helleman. Id: 349c4fcc-e3e4-11eb-1310-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Behandelaanwijzing (gegevensobject) (11291000146105 - SNOMED CT)\">Behandelaanwijzing (gegevensobject)</span>, Status: actief                        \n        </caption><tbody><tr><th>Geldigheidsperiode</th><td>Vanaf 9 april 2018</td></tr><tr><th>Geverifieerd</th><td>ja - 9 april 2018 -                                           \n              <span title=\"Pati\u00ebnt (116154003 - SNOMED CT)\">Pati\u00ebnt</span></td></tr><tr><th><span title=\"Kunstmatige beademing (40617009 - SNOMED CT)\">Kunstmatige beademing</span></th><td><span title=\"Ja, maar met beperkingen (JA_MAAR - 2.16.840.1.113883.2.4.3.11.60.40.4)\">Ja, maar met beperkingen</span></td></tr><tr><th>Niet toegestaan tenzij</th><td><div><b>Behandelrestrictie</b><div>Eerst overleg met echtgenote</div></div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "extension": [
+                    {
+                        "url": "Verified",
+                        "valueBoolean": true
+                    },
+                    {
+                        "url": "VerifiedWith",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://snomed.info/sct",
+                                    "code": "116154003",
+                                    "display": "Pati\u00ebnt"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "url": "VerificationDate",
+                        "valueDateTime": "2018-04-09"
+                    }
+                ],
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-Verification"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-Treatment",
+                "valueCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "http://snomed.info/sct",
+                            "code": "40617009",
+                            "display": "Kunstmatige beademing"
+                        }
+                    ]
+                }
+            }
+        ],
+        "modifierExtension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-TreatmentPermitted",
+                "valueCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4",
+                            "code": "JA_MAAR",
+                            "display": "Ja, maar met beperkingen"
+                        }
+                    ]
+                }
+            }
+        ],
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "349c4fcc-e3e4-11eb-1310-020000000000"
+        },
+        "status": "active",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "11291000146105",
+                        "display": "Behandelaanwijzing (gegevensobject)"
+                    }
+                ]
+            }
+        ],
+        "patient": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "period": {
+            "start": "2018-04-09"
+        },
+        "policy": [
+            {
+                "uri": "http://wetten.overheid.nl/"
+            }
+        ],
+        "except": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-Restrictions",
+                        "valueString": "Eerst overleg met echtgenote"
+                    }
+                ],
+                "type": "deny"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-treatmentdirective-ts-01",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Consent",
+        "id": "medmij-bgz-advancedirective-ts-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:33.145-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-AdvanceDirective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toestemming. Pati\u00ebnt: Johan XXX_Helleman. Id: 2c2ac06c-e3e4-11eb-1819-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Levenstestament en wilsverklaring in dossier (gegevensobject) (11341000146107 - SNOMED CT)\">Levenstestament en wilsverklaring in dossier (gegevensobject)</span>,                               \n          <span title=\"Niet reanimeren verklaring (NR - 2.16.840.1.113883.2.4.3.11.60.40.4.14.1)\">Niet reanimeren verklaring</span>, Status: actief                              \n          <span style=\"display: block;\">Toestemminggevende partij: Jannie van Putten-XXX_Helleman</span></caption><tfoot><tr><td colspan=\"2\">Niet-reanimerenpenning</td></tr></tfoot><tbody><tr><th>Gemaakt</th><td>9 april 2018</td></tr><tr><th>Aandoening</th><td>ALS</td></tr><tr><th>Toestemminggevende partij</th><td><ul><li>Jannie van Putten-XXX_Helleman</li></ul></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-AdvanceDirective-Disorder",
+                "valueReference": {
+                    "reference": "Condition/medmij-bgz-condition-ts-01",
+                    "display": "ALS"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/Comment",
+                "valueString": "Niet-reanimerenpenning"
+            }
+        ],
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "2c2ac06c-e3e4-11eb-1819-020000000000"
+        },
+        "status": "active",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "11341000146107",
+                        "display": "Levenstestament en wilsverklaring in dossier (gegevensobject)"
+                    }
+                ]
+            },
+            {
+                "coding": [
+                    {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.14.1",
+                        "code": "NR",
+                        "display": "Niet reanimeren verklaring"
+                    }
+                ]
+            }
+        ],
+        "patient": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "dateTime": "2018-04-09",
+        "consentingParty": [
+            {
+                "reference": "RelatedPerson/medmij-bgz-relatedperson-ts-01",
+                "display": "Jannie van Putten-XXX_Helleman"
+            }
+        ],
+        "policy": [
+            {
+                "uri": "http://wetten.overheid.nl/"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-advancedirective-ts-01",
+        "createddate": 1523224800
+    }
+]

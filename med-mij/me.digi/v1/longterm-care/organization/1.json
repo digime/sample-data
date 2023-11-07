@@ -1,0 +1,114 @@
+[
+    {
+        "resourceType": "Organization",
+        "id": "bglz-1-1-zorgaanbieder-01",
+        "meta": {
+            "versionId": "10",
+            "lastUpdated": "2023-09-25T03:50:23.712-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Organisatie. Id: 97018cab-e3e1-11eb-1125-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6)</caption><tbody><tr><th>Naam</th><td>AA-zkh - Noord</td></tr><tr><th>Type</th><td><div><span title=\"Medisch specialisten, neurologie (0330 - AGB-medisch specialisme)\">Medisch specialisten, neurologie</span></div><div><span title=\"Algemeen ziekenhuis (V6 - organization-type)\">Algemeen ziekenhuis</span></div></td></tr><tr><th>Contactgegevens</th><td><a href=\"tel:+31182435768\">+31182435768</a> (Vast telefoonnummer Werk)                                          \n              <br/><a href=\"mailto:neurologie@AAZ.nl\">neurologie@AAZ.nl</a> (E-mail Werk)                                          \n              <br/></td></tr><tr><th>Adres</th><td>De Weststraat 3, 9999PK Stitswerd, Nederland (Werk)</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "97018cab-e3e1-11eb-1125-020000000000"
+            }
+        ],
+        "type": [
+            {
+                "coding": [
+                    {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+                        "code": "0330",
+                        "display": "Medisch specialisten, neurologie"
+                    }
+                ]
+            },
+            {
+                "coding": [
+                    {
+                        "system": "http://nictiz.nl/fhir/NamingSystem/organization-type",
+                        "code": "V6",
+                        "display": "Algemeen ziekenhuis"
+                    }
+                ]
+            }
+        ],
+        "name": "AA-zkh - Noord",
+        "telecom": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.22.1",
+                                    "code": "LL",
+                                    "display": "Vast telefoonnummer"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "system": "phone",
+                "value": "+31182435768",
+                "use": "work"
+            },
+            {
+                "system": "email",
+                "value": "neurologie@AAZ.nl",
+                "use": "work"
+            }
+        ],
+        "address": [
+            {
+                "use": "work",
+                "line": [
+                    "De Weststraat 3"
+                ],
+                "_line": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                                "valueString": "De Weststraat"
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                                "valueString": "3"
+                            }
+                        ]
+                    }
+                ],
+                "city": "Stitswerd",
+                "postalCode": "9999PK",
+                "country": "Nederland",
+                "_country": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                            "valueCodeableConcept": {
+                                "coding": [
+                                    {
+                                        "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34",
+                                        "code": "6030",
+                                        "display": "Nederland"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-zorgaanbieder-01",
+        "createddate": "Invalid"
+    }
+]

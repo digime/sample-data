@@ -1,0 +1,116 @@
+[
+    {
+        "resourceType": "CareTeam",
+        "id": "ggz-careteam-Zorgsetting",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-09T04:05:43.309-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-careteam"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgteam. Subject: Adam XXX-Bals. Id: 70b22e0c-0421-11ec-1427-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6)</caption><tbody><tr><th>Participant</th><td><ul><li><span title=\"Verwijzer (REF - v3/ParticipationType)\">Verwijzer</span>Dr. Vaste Huisarts 1                                                      \n                  <div>Zorgverlenerrol: Dr. Vaste Huisarts uit Maatschap Vaste Huisarts</div> (uit naam van: Maatschap Vaste Huisarts)                                                \n                </li><li><span title=\"Behandelaar (ATND - v3/ParticipationType)\">Behandelaar</span>Dr. Behandelend Psycholoog uit Zelfstandig Psycholoog (uit naam van: Zelfstandig Psycholoog)                                                \n                </li><li><span title=\"Hoofdbehandelaar (RESP - v3/ParticipationType)\">Hoofdbehandelaar</span>Dr. Behandelend Psychiater uit Behandelend Ziekenhuis (uit naam van: Behandelend Ziekenhuis)                                                \n                </li></ul></td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "70b22e0c-0421-11ec-1427-020000000000"
+            }
+        ],
+        "subject": {
+            "reference": "Patient/XXX-Bals",
+            "display": "Adam XXX-Bals"
+        },
+        "participant": [
+            {
+                "role": {
+                    "coding": [
+                        {
+                            "system": "http://hl7.org/fhir/v3/ParticipationType",
+                            "code": "REF",
+                            "display": "Verwijzer"
+                        }
+                    ]
+                },
+                "member": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/ggz-nl-core-practitionerrole-Vaste-Huisarts-1",
+                                "display": "Dr. Vaste Huisarts uit Maatschap Vaste Huisarts"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/ggz-nl-core-practitioner-Vaste-Huisarts-1",
+                    "display": "Dr. Vaste Huisarts 1"
+                },
+                "onBehalfOf": {
+                    "reference": "Organization/ggz-nl-core-organization-Huisartspraktijk",
+                    "display": "Maatschap Vaste Huisarts"
+                }
+            },
+            {
+                "role": {
+                    "coding": [
+                        {
+                            "system": "http://hl7.org/fhir/v3/ParticipationType",
+                            "code": "ATND",
+                            "display": "Behandelaar"
+                        }
+                    ]
+                },
+                "member": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/ggz-nl-core-practitionerrole-Behandelend-Psycholoog",
+                                "display": "Dr. Behandelend Psycholoog uit Zelfstandig Psycholoog"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/ggz-nl-core-practitioner-Behandelend-Psycholoog",
+                    "display": "Dr. Behandelend Psycholoog"
+                },
+                "onBehalfOf": {
+                    "reference": "Organization/ggz-nl-core-organization-Zelfstandig-Psycholoog",
+                    "display": "Zelfstandig Psycholoog"
+                }
+            },
+            {
+                "role": {
+                    "coding": [
+                        {
+                            "system": "http://hl7.org/fhir/v3/ParticipationType",
+                            "code": "RESP",
+                            "display": "Hoofdbehandelaar"
+                        }
+                    ]
+                },
+                "member": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/ggz-nl-core-practitionerrole-Behandelend-Psychiater",
+                                "display": "Dr. Behandelend Psychiater uit Behandelend Ziekenhuis"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/ggz-nl-core-practitioner-Behandelend-Psychiater",
+                    "display": "Dr. Behandelend Psychiater"
+                },
+                "onBehalfOf": {
+                    "reference": "Organization/ggz-nl-core-organization-Ziekenhuis",
+                    "display": "Behandelend Ziekenhuis"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_ggz-careteam-Zorgsetting",
+        "createddate": "Invalid"
+    }
+]
