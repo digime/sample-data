@@ -1,0 +1,362 @@
+[
+    {
+        "resourceType": "Procedure",
+        "id": "bglz-1-1-verrichting-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:28.743-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Verrichting. Subject: Fiona XXX_Mutter. Id: 93e0015b-e3e1-11eb-1265-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"verrichting (71388002 - SNOMED CT)\">verrichting</span>, Status: voltooid                              \n          <span style=\"display: block;\">Uitvoerende: AA-zkh - Noord</span><span style=\"display: block;\">Uitvoerende (                                    \n            <span title=\"Hoofdbehandelaar (RESP - v3/ParticipationType)\">Hoofdbehandelaar</span>): Niels Helmond                                    \n            <span style=\"display: block;\">Zorgverlenerrol: Neuroloog</span></span></caption><tbody><tr><td><span title=\"Computertomografie van hersenen (34227000 - SNOMED CT)\">Computertomografie van hersenen</span></td><td><div>Uitgevoerd: 2023-09-25T00:00:00+01:00 - 2023-09-25T00:00:00+01:00</div></td></tr><tr><th>Gebaseerd op</th><td>Aanvraag voor computertomografie van hersenen</td></tr><tr><th>Reden</th><td>ischemisch cerebrovasculair accident</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "93e0015b-e3e1-11eb-1265-020000000000"
+            }
+        ],
+        "basedOn": [
+            {
+                "reference": "ProcedureRequest/bglz-1-1-verrichting-aanvraag-01",
+                "display": "Aanvraag voor computertomografie van hersenen"
+            }
+        ],
+        "status": "completed",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "71388002",
+                    "display": "verrichting"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "34227000",
+                    "display": "Computertomografie van hersenen"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "performedPeriod": {
+            "start": "2023-09-25T00:00:00+01:00",
+            "end": "2023-09-25T00:00:00+01:00"
+        },
+        "performer": [
+            {
+                "actor": {
+                    "reference": "Organization/bglz-1-1-zorgaanbieder-01",
+                    "display": "AA-zkh - Noord"
+                }
+            },
+            {
+                "role": {
+                    "coding": [
+                        {
+                            "system": "http://hl7.org/fhir/v3/ParticipationType",
+                            "code": "RESP",
+                            "display": "Hoofdbehandelaar"
+                        }
+                    ]
+                },
+                "actor": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/bglz-1-1-zorgverlenerrol-02",
+                                "display": "Neuroloog"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/bglz-1-1-zorgverlener-02",
+                    "display": "Niels Helmond"
+                }
+            }
+        ],
+        "reasonReference": [
+            {
+                "reference": "Condition/bglz-1-1-probleem-01",
+                "display": "ischemisch cerebrovasculair accident"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-verrichting-01",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Procedure",
+        "id": "bglz-1-1-verrichting-02",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:29.087-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Verrichting. Subject: Fiona XXX_Mutter. Id: 9463fe6b-e3e1-11eb-1884-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"verrichting (71388002 - SNOMED CT)\">verrichting</span>, Status: voltooid                              \n          <span style=\"display: block;\">Uitvoerende: AA-zkh - Noord</span><span style=\"display: block;\">Uitvoerende (                                    \n            <span title=\"Hoofdbehandelaar (RESP - v3/ParticipationType)\">Hoofdbehandelaar</span>): Niels Helmond                                    \n            <span style=\"display: block;\">Zorgverlenerrol: Neuroloog</span></span></caption><tbody><tr><td><span title=\"percutane trombolyse van intracrani\u00eble arterie (230935003 - SNOMED CT)\">percutane trombolyse van intracrani\u00eble arterie</span></td><td><div>Uitgevoerd: 2023-09-25T00:00:00+01:00 - 2023-09-25T00:00:00+01:00</div></td></tr><tr><th>Gebaseerd op</th><td>Aanvraag voor percutane trombolyse van intracrani\u00eble arterie</td></tr><tr><th>Reden</th><td>ischemisch cerebrovasculair accident</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "9463fe6b-e3e1-11eb-1884-020000000000"
+            }
+        ],
+        "basedOn": [
+            {
+                "reference": "ProcedureRequest/bglz-1-1-verrichting-aanvraag-02",
+                "display": "Aanvraag voor percutane trombolyse van intracrani\u00eble arterie"
+            }
+        ],
+        "status": "completed",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "71388002",
+                    "display": "verrichting"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "230935003",
+                    "display": "percutane trombolyse van intracrani\u00eble arterie"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "performedPeriod": {
+            "start": "2023-09-25T00:00:00+01:00",
+            "end": "2023-09-25T00:00:00+01:00"
+        },
+        "performer": [
+            {
+                "actor": {
+                    "reference": "Organization/bglz-1-1-zorgaanbieder-01",
+                    "display": "AA-zkh - Noord"
+                }
+            },
+            {
+                "role": {
+                    "coding": [
+                        {
+                            "system": "http://hl7.org/fhir/v3/ParticipationType",
+                            "code": "RESP",
+                            "display": "Hoofdbehandelaar"
+                        }
+                    ]
+                },
+                "actor": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/bglz-1-1-zorgverlenerrol-02",
+                                "display": "Neuroloog"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/bglz-1-1-zorgverlener-02",
+                    "display": "Niels Helmond"
+                }
+            }
+        ],
+        "reasonReference": [
+            {
+                "reference": "Condition/bglz-1-1-probleem-01",
+                "display": "ischemisch cerebrovasculair accident"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-verrichting-02",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Procedure",
+        "id": "bglz-1-1-verrichting-03",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:29.493-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Verrichting. Subject: Fiona XXX_Mutter. Id: 94c0c46b-e3e1-11eb-7225-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"verrichting (71388002 - SNOMED CT)\">verrichting</span>, Status: voltooid                              \n          <span style=\"display: block;\">Uitvoerende: AA-zkh - Noord</span><span style=\"display: block;\">Uitvoerende: Thomas Janssen                                    \n            <span style=\"display: block;\">Zorgverlenerrol: Fysiotherapeut</span></span></caption><tbody><tr><td><span title=\"fysiotherapie (91251008 - SNOMED CT)\">fysiotherapie</span></td><td><div>Uitgevoerd: Vanaf 2023-09-25T00:00:00+01:00</div></td></tr><tr><th>Gebaseerd op</th><td>Aanvraag voor fysiotherapie</td></tr><tr><th>Reden</th><td>probleem met lopen</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "94c0c46b-e3e1-11eb-7225-020000000000"
+            }
+        ],
+        "basedOn": [
+            {
+                "reference": "ProcedureRequest/bglz-1-1-verrichting-aanvraag-03",
+                "display": "Aanvraag voor fysiotherapie"
+            }
+        ],
+        "status": "completed",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "71388002",
+                    "display": "verrichting"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "91251008",
+                    "display": "fysiotherapie"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "performedPeriod": {
+            "start": "2023-09-25T00:00:00+01:00"
+        },
+        "performer": [
+            {
+                "actor": {
+                    "reference": "Organization/bglz-1-1-zorgaanbieder-01",
+                    "display": "AA-zkh - Noord"
+                }
+            },
+            {
+                "actor": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/bglz-1-1-zorgverlenerrol-04",
+                                "display": "Fysiotherapeut"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/bglz-1-1-zorgverlener-04",
+                    "display": "Thomas Janssen"
+                }
+            }
+        ],
+        "reasonReference": [
+            {
+                "reference": "Condition/bglz-1-1-probleem-05",
+                "display": "probleem met lopen"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-verrichting-03",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Procedure",
+        "id": "bglz-1-1-verrichting-04",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-25T03:50:29.930-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Verrichting. Subject: Fiona XXX_Mutter. Id: 9517e51b-e3e1-11eb-2995-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"verrichting (71388002 - SNOMED CT)\">verrichting</span>, Status: voltooid                              \n          <span style=\"display: block;\">Uitvoerende: AA-zkh - Noord</span><span style=\"display: block;\">Uitvoerende: Hilda Bruinsma                                    \n            <span style=\"display: block;\">Zorgverlenerrol: Logopedist</span></span></caption><tbody><tr><td><span title=\"logopedische behandeling (5154007 - SNOMED CT)\">logopedische behandeling</span></td><td><div>Uitgevoerd: Vanaf 2023-09-25T00:00:00+01:00</div></td></tr><tr><th>Gebaseerd op</th><td>Aanvraag voor logopedische behandeling</td></tr><tr><th>Reden</th><td>afasie</td></tr></tbody></table></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "9517e51b-e3e1-11eb-2995-020000000000"
+            }
+        ],
+        "basedOn": [
+            {
+                "reference": "ProcedureRequest/bglz-1-1-verrichting-aanvraag-04",
+                "display": "Aanvraag voor logopedische behandeling"
+            }
+        ],
+        "status": "completed",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "71388002",
+                    "display": "verrichting"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "5154007",
+                    "display": "logopedische behandeling"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/XXX-Mutter",
+            "display": "Fiona XXX_Mutter"
+        },
+        "performedPeriod": {
+            "start": "2023-09-25T00:00:00+01:00"
+        },
+        "performer": [
+            {
+                "actor": {
+                    "reference": "Organization/bglz-1-1-zorgaanbieder-01",
+                    "display": "AA-zkh - Noord"
+                }
+            },
+            {
+                "actor": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                            "valueReference": {
+                                "reference": "PractitionerRole/bglz-1-1-zorgverlenerrol-05",
+                                "display": "Logopedist"
+                            }
+                        }
+                    ],
+                    "reference": "Practitioner/bglz-1-1-zorgverlener-05",
+                    "display": "Hilda Bruinsma"
+                }
+            }
+        ],
+        "reasonReference": [
+            {
+                "reference": "Condition/bglz-1-1-probleem-06",
+                "display": "afasie"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-verrichting-04",
+        "createddate": "Invalid"
+    }
+]

@@ -1,0 +1,308 @@
+[
+    {
+        "resourceType": "Practitioner",
+        "id": "bglz-1-1-zorgverlener-01",
+        "meta": {
+            "versionId": "10",
+            "lastUpdated": "2023-09-25T03:50:24.118-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id 9760276b-e3e1-11eb-1197-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6),                         \n        <span title=\"Naamsamenstelling: Eigennaam\">Laura Lanen</span></div></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "9760276b-e3e1-11eb-1197-020000000000"
+            }
+        ],
+        "name": [
+            {
+                "extension": [
+                    {
+                        "url": "http://hl7.org/fhir/StructureDefinition/humanname-assembly-order",
+                        "valueCode": "NL1"
+                    }
+                ],
+                "text": "Laura Lanen",
+                "family": "Lanen",
+                "_family": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                            "valueString": "Lanen"
+                        }
+                    ]
+                },
+                "given": [
+                    "Laura",
+                    "L."
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-zorgverlener-01",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Practitioner",
+        "id": "bglz-1-1-zorgverlener-02",
+        "meta": {
+            "versionId": "10",
+            "lastUpdated": "2023-09-25T03:50:24.602-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id 97b8a7ab-e3e1-11eb-7911-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Niels Helmond</div></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "97b8a7ab-e3e1-11eb-7911-020000000000"
+            }
+        ],
+        "name": [
+            {
+                "text": "Niels Helmond",
+                "family": "Helmond",
+                "_family": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                            "valueString": "Helmond"
+                        }
+                    ]
+                },
+                "given": [
+                    "Niels",
+                    "N."
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-zorgverlener-02",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Practitioner",
+        "id": "bglz-1-1-zorgverlener-03",
+        "meta": {
+            "versionId": "10",
+            "lastUpdated": "2023-09-25T03:50:25.134-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id 983aa8eb-e3e1-11eb-9861-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Petra Johanna Vreeswijk</div></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "983aa8eb-e3e1-11eb-9861-020000000000"
+            }
+        ],
+        "name": [
+            {
+                "text": "Petra Johanna Vreeswijk",
+                "family": "Vreeswijk",
+                "_family": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                            "valueString": "Vreeswijk"
+                        }
+                    ]
+                },
+                "given": [
+                    "Petra Johanna",
+                    "P.J."
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-zorgverlener-03",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Practitioner",
+        "id": "bglz-1-1-zorgverlener-04",
+        "meta": {
+            "versionId": "10",
+            "lastUpdated": "2023-09-25T03:50:25.446-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id 98aeee8b-e3e1-11eb-9318-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Thomas Janssen</div></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "98aeee8b-e3e1-11eb-9318-020000000000"
+            }
+        ],
+        "name": [
+            {
+                "text": "Thomas Janssen",
+                "family": "Janssen",
+                "_family": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                            "valueString": "Janssen"
+                        }
+                    ]
+                },
+                "given": [
+                    "Thomas",
+                    "T."
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-zorgverlener-04",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Practitioner",
+        "id": "bglz-1-1-zorgverlener-05",
+        "meta": {
+            "versionId": "10",
+            "lastUpdated": "2023-09-25T03:50:25.758-04:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id 99246cab-e3e1-11eb-2080-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Hilda Bruinsma</div></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "99246cab-e3e1-11eb-2080-020000000000"
+            }
+        ],
+        "name": [
+            {
+                "text": "Hilda Bruinsma",
+                "family": "Bruinsma",
+                "_family": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                            "valueString": "Bruinsma"
+                        }
+                    ]
+                },
+                "given": [
+                    "Hilda",
+                    "H."
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "BR"
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "IN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_bglz-1-1-zorgverlener-05",
+        "createddate": "Invalid"
+    }
+]

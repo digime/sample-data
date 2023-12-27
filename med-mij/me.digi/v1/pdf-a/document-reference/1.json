@@ -1,0 +1,314 @@
+[
+    {
+        "resourceType": "DocumentReference",
+        "id": "pdfa-documentreference1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-04T01:56:11.553-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.Minimal.DocumentReference"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentReference. Subject: E XXX_Baltus. Set\u2011Id: urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220898 (urn:ietf:rfc:3986), Id: 852852 (http://xis.org/fhir/NamingSystem/DocumentReferenceID), Status: actueel                              \n          <span style=\"display: block;\">Auteur: A.F. Snijder</span></caption><tbody><tr><th>Type</th><td><span title=\"Samenvattende ontslagbrief [bevinding] in {instelling} d.m.v. neurochirurgie (document) (68688-1 - LOINC)\">Samenvattende ontslagbrief [bevinding] in {instelling} d.m.v. neurochirurgie (document)</span></td></tr><tr><th>Ge\u00efndexeerd</th><td>2022-09-14T00:00:00+01:00</td></tr><tr><th>Securitylabel</th><td/></tr><tr><th>Omschrijving</th><td>Anterior Cervical Discectomy Fusion - Discharge Summary</td></tr><tr><th>Content</th><td><img src=\"Binary/pdfa-binary1\" alt=\"null\" title=\"Example PDF - Anterior Cervical Discectomy Fusion - Discharge Summary\"/></td></tr></tbody></table></div>"
+        },
+        "contained": [
+            {
+                "resourceType": "Practitioner",
+                "id": "p1",
+                "name": [
+                    {
+                        "family": "Snijder",
+                        "given": [
+                            "A.F."
+                        ],
+                        "_given": [
+                            {
+                                "extension": [
+                                    {
+                                        "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                        "valueCode": "IN"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "masterIdentifier": {
+            "system": "urn:ietf:rfc:3986",
+            "value": "urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220898"
+        },
+        "identifier": [
+            {
+                "system": "http://xis.org/fhir/NamingSystem/DocumentReferenceID",
+                "value": "852852"
+            }
+        ],
+        "status": "current",
+        "type": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "68688-1",
+                    "display": "Samenvattende ontslagbrief [bevinding] in {instelling} d.m.v. neurochirurgie (document)"
+                }
+            ]
+        },
+        "class": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "18842-5",
+                    "display": "Discharge summary"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/example-pdfa-kwalificatie1",
+            "display": "E XXX_Baltus"
+        },
+        "indexed": "2022-09-14T00:00:00+01:00",
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "A.F. Snijder"
+            }
+        ],
+        "description": "Anterior Cervical Discectomy Fusion - Discharge Summary",
+        "securityLabel": [
+            {
+                "coding": [
+                    {
+                        "system": "http://hl7.org/fhir/v3/Confidentiality",
+                        "code": "V",
+                        "display": "very restricted"
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "attachment": {
+                    "contentType": "application/pdf",
+                    "language": "en",
+                    "url": "Binary/pdfa-binary1",
+                    "title": "Example PDF - Anterior Cervical Discectomy Fusion - Discharge Summary"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_pdfa-documentreference1",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "DocumentReference",
+        "id": "pdfa-documentreference2",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-04T01:56:12.022-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.Minimal.DocumentReference"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentReference. Subject: E XXX_Baltus. Set\u2011Id: urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220899 (urn:ietf:rfc:3986), Id: 963369 (http://xis.org/fhir/NamingSystem/DocumentReferenceID), Status: actueel                              \n          <span style=\"display: block;\">Auteur: B. Kneder</span></caption><tbody><tr><th>Type</th><td><span title=\"Consultverslag [bevinding] in {instelling} d.m.v. infectioloog (document) (34781-5 - LOINC)\">Consultverslag [bevinding] in {instelling} d.m.v. infectioloog (document)</span></td></tr><tr><th>Ge\u00efndexeerd</th><td>2023-07-06T00:00:00+01:00</td></tr><tr><th>Securitylabel</th><td/></tr><tr><th>Omschrijving</th><td>Infectious disease Consult note</td></tr><tr><th>Content</th><td><img src=\"Binary/pdfa-binary2\" alt=\"null\" title=\"Example PDF - Infectious disease Consult note\"/></td></tr></tbody></table></div>"
+        },
+        "contained": [
+            {
+                "resourceType": "Practitioner",
+                "id": "p1",
+                "name": [
+                    {
+                        "family": "Kneder",
+                        "given": [
+                            "B."
+                        ],
+                        "_given": [
+                            {
+                                "extension": [
+                                    {
+                                        "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                        "valueCode": "IN"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "masterIdentifier": {
+            "system": "urn:ietf:rfc:3986",
+            "value": "urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220899"
+        },
+        "identifier": [
+            {
+                "system": "http://xis.org/fhir/NamingSystem/DocumentReferenceID",
+                "value": "963369"
+            }
+        ],
+        "status": "current",
+        "type": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "34781-5",
+                    "display": "Consultverslag [bevinding] in {instelling} d.m.v. infectioloog (document)"
+                }
+            ]
+        },
+        "class": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "11488-4",
+                    "display": "Consult Note"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/example-pdfa-kwalificatie1",
+            "display": "E XXX_Baltus"
+        },
+        "indexed": "2023-07-06T00:00:00+01:00",
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "B. Kneder"
+            }
+        ],
+        "description": "Infectious disease Consult note",
+        "securityLabel": [
+            {
+                "coding": [
+                    {
+                        "system": "http://hl7.org/fhir/v3/Confidentiality",
+                        "code": "V",
+                        "display": "very restricted"
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "attachment": {
+                    "contentType": "application/pdf",
+                    "language": "en",
+                    "url": "Binary/pdfa-binary2",
+                    "title": "Example PDF - Infectious disease Consult note"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_pdfa-documentreference2",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "DocumentReference",
+        "id": "pdfa-documentreference3",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-04T01:56:12.475-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.Minimal.DocumentReference"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentReference. Subject: E XXX_Baltus. Set\u2011Id: urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220879 (urn:ietf:rfc:3986), Id: 741147 (http://xis.org/fhir/NamingSystem/DocumentReferenceID), Status: actueel                              \n          <span style=\"display: block;\">Auteur: F. Kiek</span></caption><tbody><tr><th>Type</th><td><span title=\"Consultverslag [bevinding] in {instelling} d.m.v. neurologie (document) (34797-1 - LOINC)\">Consultverslag [bevinding] in {instelling} d.m.v. neurologie (document)</span></td></tr><tr><th>Ge\u00efndexeerd</th><td>2022-09-14T00:00:00+01:00</td></tr><tr><th>Securitylabel</th><td/></tr><tr><th>Omschrijving</th><td>Neurology Consult note</td></tr><tr><th>Content</th><td><img src=\"Binary/foutieve-en-onbekend-id\" alt=\"null\" title=\"Example PDF - Neurology Consult note\"/></td></tr></tbody></table></div>"
+        },
+        "contained": [
+            {
+                "resourceType": "Practitioner",
+                "id": "p1",
+                "name": [
+                    {
+                        "family": "Kiek",
+                        "given": [
+                            "F."
+                        ],
+                        "_given": [
+                            {
+                                "extension": [
+                                    {
+                                        "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                        "valueCode": "IN"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "masterIdentifier": {
+            "system": "urn:ietf:rfc:3986",
+            "value": "urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220879"
+        },
+        "identifier": [
+            {
+                "system": "http://xis.org/fhir/NamingSystem/DocumentReferenceID",
+                "value": "741147"
+            }
+        ],
+        "status": "current",
+        "type": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "34797-1",
+                    "display": "Consultverslag [bevinding] in {instelling} d.m.v. neurologie (document)"
+                }
+            ]
+        },
+        "class": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "11488-4",
+                    "display": "Consult Note"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/example-pdfa-kwalificatie1",
+            "display": "E XXX_Baltus"
+        },
+        "indexed": "2022-09-14T00:00:00+01:00",
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "F. Kiek"
+            }
+        ],
+        "description": "Neurology Consult note",
+        "securityLabel": [
+            {
+                "coding": [
+                    {
+                        "system": "http://hl7.org/fhir/v3/Confidentiality",
+                        "code": "V",
+                        "display": "very restricted"
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "attachment": {
+                    "contentType": "application/pdf",
+                    "language": "en",
+                    "url": "Binary/foutieve-en-onbekend-id",
+                    "title": "Example PDF - Neurology Consult note"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_pdfa-documentreference3",
+        "createddate": "Invalid"
+    }
+]

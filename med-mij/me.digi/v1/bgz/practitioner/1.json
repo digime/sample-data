@@ -1,0 +1,102 @@
+[
+    {
+        "resourceType": "Practitioner",
+        "id": "medmij-bgz-practitioner-ts-02",
+        "meta": {
+            "versionId": "18",
+            "lastUpdated": "2023-02-22T10:42:55.130-05:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id 324b0ccc-e3e4-11eb-8049-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Id 008728251 (UZI-NR-PERS), van Partners</div><div><a href=\"tel:+31434073576\">+31434073576</a> (Vast telefoonnummer),                         \n        <a href=\"mailto:marchavanpartners@Itis.nl\">marchavanpartners@Itis.nl</a> (E-mail Werk)                  \n      </div><div>Langelaan 1, 1234ZZ Onze Stad, NLD (Werk)</div></div>"
+        },
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "324b0ccc-e3e4-11eb-8049-020000000000"
+            },
+            {
+                "system": "http://fhir.nl/fhir/NamingSystem/uzi-nr-pers",
+                "value": "008728251"
+            }
+        ],
+        "name": [
+            {
+                "family": "van Partners"
+            }
+        ],
+        "telecom": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.22.1",
+                                    "code": "LL",
+                                    "display": "Vast telefoonnummer"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "system": "phone",
+                "value": "+31434073576",
+                "use": "work"
+            },
+            {
+                "system": "email",
+                "value": "marchavanpartners@Itis.nl",
+                "use": "work"
+            }
+        ],
+        "address": [
+            {
+                "use": "work",
+                "line": [
+                    "Langelaan 1"
+                ],
+                "_line": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                                "valueString": "Langelaan"
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                                "valueString": "1"
+                            }
+                        ]
+                    }
+                ],
+                "city": "Onze Stad",
+                "postalCode": "1234ZZ",
+                "country": "NLD",
+                "_country": {
+                    "extension": [
+                        {
+                            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                            "valueCodeableConcept": {
+                                "coding": [
+                                    {
+                                        "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34",
+                                        "code": "6030",
+                                        "display": "Nederland"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-practitioner-ts-02",
+        "createddate": "Invalid"
+    }
+]

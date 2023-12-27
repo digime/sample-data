@@ -1,0 +1,188 @@
+[
+    {
+        "resourceType": "DocumentManifest",
+        "id": "c39bb35dee8e4c4285329a212d0fb54d",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-02T04:49:43.271-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.DocumentManifest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentManifest. Subject: Helene XXX_Ellens. Set\u2011Id: c4e6bcd5-59db-4917-b6dc-6eaefea6010a , Id: ad938f8d-64a5-4e35-ac8f-0e9881e3441b (https://digi.me/fhir/identification), Status: actueel          \n          <span style=\"display: block;\">Auteur: A. Janssen</span></caption><tbody><tr><th>Type</th><td><span title=\"verslag van overdracht (371535009 - SNOMED CT)\">verslag van overdracht</span></td></tr><tr><th>Gemaakt</th><td>2023-10-02T00:00:00+01:00</td></tr><tr><th>Ontvanger</th><td>A. Janssen</td></tr><tr><th>Bron</th><td>http://pgo.org/example</td></tr><tr><th>Omschrijving</th><td>Documenten voor doktor Janssen over ontslag en verwijzing vanuit ziekenhuis</td></tr><tr><th>Content</th><td>Kopie van ontslagbrief</td></tr><tr><th>Content</th><td>Verwijsbrief Arts</td></tr></tbody></table></div>"
+        },
+        "contained": [
+            {
+                "resourceType": "Practitioner",
+                "id": "p1",
+                "name": [
+                    {
+                        "text": "A. Janssen",
+                        "family": "Janssen",
+                        "given": [
+                            "A."
+                        ],
+                        "_given": [
+                            {
+                                "extension": [
+                                    {
+                                        "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                        "valueCode": "IN"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "masterIdentifier": {
+            "system": "https://digi.me/fhir/identification",
+            "value": "c4e6bcd5-59db-4917-b6dc-6eaefea6010a"
+        },
+        "identifier": [
+            {
+                "system": "https://digi.me/fhir/identification",
+                "value": "ad938f8d-64a5-4e35-ac8f-0e9881e3441b"
+            }
+        ],
+        "status": "current",
+        "type": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "371535009",
+                    "display": "verslag van overdracht"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/f2dc6e0f41f941fcaa4f5ef3723473e0",
+            "display": "Helene XXX_Ellens"
+        },
+        "created": "2023-10-02T00:00:00+01:00",
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "A. Janssen"
+            }
+        ],
+        "recipient": [
+            {
+                "reference": "#p1",
+                "display": "A. Janssen"
+            }
+        ],
+        "source": "http://pgo.org/example",
+        "description": "Documenten voor doktor Janssen over ontslag en verwijzing vanuit ziekenhuis",
+        "content": [
+            {
+                "pReference": {
+                    "reference": "DocumentReference/af6916157b3a46ccb85949d403ce0c54",
+                    "display": "Kopie van ontslagbrief"
+                }
+            },
+            {
+                "pReference": {
+                    "reference": "DocumentReference/c6e1b02fd7474c5ab1689ef5af85b6d6",
+                    "display": "Verwijsbrief Arts"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_c39bb35dee8e4c4285329a212d0fb54d",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "DocumentManifest",
+        "id": "ebe7dc5d177845ab910e012a346e66b8",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-02T04:47:45.880-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.DocumentManifest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentManifest. Subject: Helene XXX_Ellens. Set\u2011Id: bf45d987-5e05-443d-83e0-892e77f7bab6, Id: 339de4a6-feeb-4e76-bbc4-b6a9cae6c2ce (https://digi.me/fhir/identification), Status: actueel          \n          <span style=\"display: block;\">Auteur: A. Janssen</span></caption><tbody><tr><th>Type</th><td><span title=\"PDF_A Push Example 1\">example1</span></td></tr><tr><th>Gemaakt</th><td>2023-10-02T00:00:00+01:00</td></tr><tr><th>Ontvanger</th><td>A. Janssen</td></tr><tr><th>Bron</th><td>http://pgo.org/example</td></tr><tr><th>Omschrijving</th><td>Document voor meneer Janssen</td></tr><tr><th>Content</th><td>ontslagbrief</td></tr></tbody></table></div>"
+        },
+        "contained": [
+            {
+                "resourceType": "Practitioner",
+                "id": "p1",
+                "name": [
+                    {
+                        "text": "A. Janssen",
+                        "family": "Janssen",
+                        "given": [
+                            "A."
+                        ],
+                        "_given": [
+                            {
+                                "extension": [
+                                    {
+                                        "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                        "valueCode": "IN"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "masterIdentifier": {
+            "system": "https://digi.me/fhir/identification",
+            "value": "bf45d987-5e05-443d-83e0-892e77f7bab6"
+        },
+        "identifier": [
+            {
+                "system": "https://digi.me/fhir/identification",
+                "value": "339de4a6-feeb-4e76-bbc4-b6a9cae6c2ce"
+            }
+        ],
+        "status": "current",
+        "type": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "11071000146104",
+                    "display": "ontslagbrief"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/2821dbb5b8fb4668b33e30d084f863c4",
+            "display": "Helene XXX_Ellens"
+        },
+        "created": "2023-10-02T00:00:00+01:00",
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "A. Janssen"
+            }
+        ],
+        "recipient": [
+            {
+                "reference": "#p1",
+                "display": "A. Janssen"
+            }
+        ],
+        "source": "http://pgo.org/example",
+        "description": "Document voor meneer Janssen",
+        "content": [
+            {
+                "pReference": {
+                    "reference": "DocumentReference/2cadd48eaa9c4d0caedb1cd5da41a16a",
+                    "display": "Kopie van ontslagbrief"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_ebe7dc5d177845ab910e012a346e66b8",
+        "createddate": "Invalid"
+    }
+]

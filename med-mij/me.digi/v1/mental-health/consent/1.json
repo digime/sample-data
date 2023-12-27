@@ -1,0 +1,169 @@
+[
+    {
+        "resourceType": "Consent",
+        "id": "ggz-treatmentdirective-Behandeling-niet-toegestaan",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-09T04:05:44.747-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toestemming. Pati\u00ebnt: Adam XXX_Bals. Id: 7616565c-0421-11ec-3277-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"behandelaanwijzing (11291000146105 - SNOMED CT)\">behandelaanwijzing</span>, Status: actief                        \n        </caption><tbody><tr><th>Geldigheidsperiode</th><td>Vanaf 2023-04-12</td></tr><tr><th>Geverifieerd</th><td>ja - 2023-04-06 -                                           \n              <span title=\"Pati\u00ebnt (116154003 - SNOMED CT)\">Pati\u00ebnt</span></td></tr><tr><th><span title=\"Toediening van een bloedproduct (116762002 - SNOMED CT)\">Toediening van een bloedproduct</span></th><td><span title=\"Behandeling niet toegestaan en/of wenselijk (NEE - 2.16.840.1.113883.2.4.3.11.60.40.4)\">Behandeling niet toegestaan en/of wenselijk</span></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "extension": [
+                    {
+                        "url": "Verified",
+                        "valueBoolean": true
+                    },
+                    {
+                        "url": "VerifiedWith",
+                        "valueCodeableConcept": {
+                            "coding": [
+                                {
+                                    "system": "http://snomed.info/sct",
+                                    "code": "116154003",
+                                    "display": "Pati\u00ebnt"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "url": "VerificationDate",
+                        "valueDateTime": "2023-04-06"
+                    }
+                ],
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-Verification"
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-Treatment",
+                "valueCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "http://snomed.info/sct",
+                            "code": "116762002",
+                            "display": "Toediening van een bloedproduct"
+                        }
+                    ]
+                }
+            }
+        ],
+        "modifierExtension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-TreatmentPermitted",
+                "valueCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4",
+                            "code": "NEE",
+                            "display": "Behandeling niet toegestaan en/of wenselijk"
+                        }
+                    ]
+                }
+            }
+        ],
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "7616565c-0421-11ec-3277-020000000000"
+        },
+        "status": "active",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "11291000146105",
+                        "display": "behandelaanwijzing"
+                    }
+                ]
+            }
+        ],
+        "patient": {
+            "reference": "Patient/XXX-Bals",
+            "display": "Adam XXX_Bals"
+        },
+        "period": {
+            "start": "2023-04-12"
+        },
+        "policy": [
+            {
+                "uri": "http://wetten.overheid.nl/"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_ggz-treatmentdirective-Behandeling-niet-toegestaan",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "Consent",
+        "id": "ggz-advancedirective-Behandelverbod",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-10-09T04:05:44.356-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-AdvanceDirective"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toestemming. Pati\u00ebnt: Adam XXX_Bals. Id: 7055dd3c-0421-11ec-6675-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"levenstestament en wilsverklaring in dossier (11341000146107 - SNOMED CT)\">levenstestament en wilsverklaring in dossier</span>,                               \n          <span title=\"Behandelverbod (VERB - 2.16.840.1.113883.2.4.3.11.60.40.4.14.1)\">Behandelverbod</span>, Status: actief                              \n          <span style=\"display: block;\">Toestemminggevende partij: Wilma Lanen-XXX_Bals</span></caption><tbody><tr><th>Gemaakt</th><td>2021-09-19</td></tr><tr><th>Aandoening</th><td>Eenmalige episode van ernstige majeure depressieve stoornis</td></tr><tr><th>Toestemminggevende partij</th><td><ul><li>Wilma Lanen-XXX_Bals</li></ul></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-AdvanceDirective-Disorder",
+                "valueReference": {
+                    "reference": "Condition/ggz-problem-Depressieve-stoornis",
+                    "display": "Eenmalige episode van ernstige majeure depressieve stoornis"
+                }
+            }
+        ],
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "7055dd3c-0421-11ec-6675-020000000000"
+        },
+        "status": "active",
+        "category": [
+            {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "11341000146107",
+                        "display": "levenstestament en wilsverklaring in dossier"
+                    }
+                ]
+            },
+            {
+                "coding": [
+                    {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.14.1",
+                        "code": "VERB",
+                        "display": "Behandelverbod"
+                    }
+                ]
+            }
+        ],
+        "patient": {
+            "reference": "Patient/XXX-Bals",
+            "display": "Adam XXX_Bals"
+        },
+        "dateTime": "2021-09-19",
+        "consentingParty": [
+            {
+                "reference": "RelatedPerson/ggz-nl-core-relatedperson-Lanen-XXX-Bals",
+                "display": "Wilma Lanen-XXX_Bals"
+            }
+        ],
+        "policy": [
+            {
+                "uri": "http://wetten.overheid.nl/"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_ggz-advancedirective-Behandelverbod",
+        "createddate": 1632002400
+    }
+]

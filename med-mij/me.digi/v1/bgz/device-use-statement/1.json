@@ -1,0 +1,174 @@
+[
+    {
+        "resourceType": "DeviceUseStatement",
+        "id": "medmij-bgz-medicaldeviceusestatement-ts-01",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:36.801-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDevice"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Beschrijving apparaatgebruik. Subject: Johan XXX_Helleman. Id: 312bba1c-e3e4-11eb-3049-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tfoot><tr><td colspan=\"2\">Apparaat niet zichtbaar (diep in de gehooringang)</td></tr></tfoot><tbody><tr><th>Apparaat/Systeem</th><td>Gehoorapparaat</td></tr><tr><th>Deel van lichaam</th><td><span title=\"structuur van oor (lichaamsstructuur) (117590005 - SNOMED CT)\">structuur van oor (lichaamsstructuur)</span><span title=\"Rechts (24028007 - SNOMED CT)\">Rechts</span></td></tr><tr><th>Gebruiksperiode</th><td>Vanaf 2007</td></tr><tr><th>Indicatie</th><td><div>Presbyacusis</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDevice-Organization",
+                "valueReference": {
+                    "reference": "Organization/medmij-bgz-healthcareprovider-ts-01",
+                    "display": "Test Medisch Centrum"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "312bba1c-e3e4-11eb-3049-020000000000"
+            }
+        ],
+        "status": "active",
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "whenUsed": {
+            "start": "2007"
+        },
+        "device": {
+            "reference": "Device/medmij-bgz-device-ts-01",
+            "display": "Gehoorapparaat"
+        },
+        "indication": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDevice-Problem",
+                        "valueReference": {
+                            "reference": "Condition/medmij-bgz-condition-ts-03",
+                            "display": "Presbyacusis"
+                        }
+                    }
+                ]
+            }
+        ],
+        "bodySite": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/BodySite-Qualifier",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "24028007",
+                                "display": "Rechts"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "117590005",
+                    "display": "structuur van oor (lichaamsstructuur)"
+                }
+            ]
+        },
+        "note": [
+            {
+                "text": "Apparaat niet zichtbaar (diep in de gehooringang)"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-medicaldeviceusestatement-ts-01",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "DeviceUseStatement",
+        "id": "medmij-bgz-medicaldeviceusestatement-ts-02",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:37.411-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDevice"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Beschrijving apparaatgebruik. Subject: Johan XXX_Helleman. Id: 314d72ec-e3e4-11eb-3256-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tfoot><tr><td colspan=\"2\">Implantant, Get 2Tibia Insert 5/6-9mm</td></tr></tfoot><tbody><tr><th>Apparaat/Systeem</th><td>Knee joint prosthesis, device (physical object)</td></tr><tr><th>Deel van lichaam</th><td><span title=\"structuur van knieregio (lichaamsstructuur) (72696002 - SNOMED CT)\">structuur van knieregio (lichaamsstructuur)</span><span title=\"Links (7771000 - SNOMED CT)\">Links</span></td></tr><tr><th>Gebruiksperiode</th><td>Vanaf 5 juni 2012</td></tr><tr><th>Indicatie</th><td><div>Artropathie (aandoening)</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDevice-Organization",
+                "valueReference": {
+                    "reference": "Organization/medmij-bgz-healthcareprovider-ts-01",
+                    "display": "Test Medisch Centrum"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+                "value": "314d72ec-e3e4-11eb-3256-020000000000"
+            }
+        ],
+        "status": "active",
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "whenUsed": {
+            "start": "2012-06-05"
+        },
+        "device": {
+            "reference": "Device/medmij-bgz-device-ts-02",
+            "display": "Knee joint prosthesis, device (physical object)"
+        },
+        "indication": [
+            {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/zib-MedicalDevice-Problem",
+                        "valueReference": {
+                            "reference": "Condition/medmij-bgz-condition-ts-04",
+                            "display": "Artropathie (aandoening)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "bodySite": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/BodySite-Qualifier",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "7771000",
+                                "display": "Links"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "72696002",
+                    "display": "structuur van knieregio (lichaamsstructuur)"
+                }
+            ]
+        },
+        "note": [
+            {
+                "text": "Implantant, Get 2Tibia Insert 5/6-9mm"
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-medicaldeviceusestatement-ts-02",
+        "createddate": "Invalid"
+    }
+]
