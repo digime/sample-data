@@ -1,0 +1,2107 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 22.94,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-13",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ARCO PETROL Raleigh:NC",
+      "simple": "ARCO PETROL Raleigh:NC"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480313",
+    "entityid": "35_13480313",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-12",
+    "createddate": 1576595923856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-58d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 18.7,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-13",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ULINE",
+      "simple": "ULINE"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480314",
+    "entityid": "35_13480314",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-12",
+    "createddate": 1576595623856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-12d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 29.41,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-12",
+    "description": {
+      "original": "PAYMENT All The Best Pet Care Hartford:CT",
+      "simple": "All The Best Pet Care Hartford:CT"
+    },
+    "detailcategoryid": "1557",
+    "highlevelcategoryid": "10000010",
+    "id": "13480316",
+    "entityid": "35_13480316",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-11",
+    "createddate": 1576595323856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-90d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 34.35,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-12",
+    "description": {
+      "original": "CHARGE BANK FEES",
+      "simple": "Bank Service Charges/Fees"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480315",
+    "entityid": "35_13480315",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10283639",
+      "name": "Bank",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2020-02-11",
+    "createddate": 1576595023856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-38d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 14.35,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-11",
+    "description": {
+      "original": "LIQUOR STORE Hartford:CT",
+      "simple": "LIQUOR STORE Hartford:CT"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480318",
+    "entityid": "35_13480318",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-10",
+    "createddate": 1576594723856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 15.9,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-11",
+    "description": {
+      "original": "ONLINE PAYMENT FEEDERS PET SUPPLY Hartford:CT",
+      "simple": "FEEDERS PET SUPPLY Hartford:CT"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480317",
+    "entityid": "35_13480317",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2020-02-10",
+    "createddate": 1576594423856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-89d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 41.83,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-10",
+    "description": {
+      "original": "SURCHARGE WIRE TRANS",
+      "simple": "SURCHARGE WIRE TRANS"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480319",
+    "entityid": "35_13480319",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-10",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2020-02-09",
+    "createddate": 1576594123856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-12d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 69.41,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Insurance",
+    "categoryid": "14",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-10",
+    "description": {
+      "original": "POS PURCHASE CIGNA CHIROPRACTIC",
+      "simple": "Payment to Cigna"
+    },
+    "detailcategoryid": "1512",
+    "highlevelcategoryid": "10000020",
+    "id": "13480320",
+    "entityid": "35_13480320",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Businesses and Services",
+        " Insurance"
+      ],
+      "id": "10926675",
+      "name": "Cigna",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2020-02-10",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "INSURANCE_PAYMENT",
+    "transactiondate": "2020-02-09",
+    "createddate": 1576593823856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-68d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 115,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-09",
+    "description": {
+      "original": "POS Debit BLUE MOUNTAIN GREETING CARD Raleigh:NC",
+      "simple": "BlueMountain"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480323",
+    "entityid": "35_13480323",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "5489",
+      "name": "BlueMountain",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-08",
+    "createddate": 1576593523856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-80d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 159.8,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-09",
+    "description": {
+      "original": "ACH DEBIT HP PRINTING",
+      "simple": "HP PRINTING"
+    },
+    "detailcategoryid": "1520",
+    "highlevelcategoryid": "10000007",
+    "id": "13480321",
+    "entityid": "35_13480321",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-08",
+    "createddate": 1576593223856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-17d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 173.59,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-09",
+    "description": {
+      "original": "WEB ID: XXXX VENMO",
+      "simple": "Venmo Inc"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480322",
+    "entityid": "35_13480322",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "id": "39393",
+      "name": "Venmo Inc",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-08",
+    "createddate": 1576592923856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-61d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 13.93,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-08",
+    "description": {
+      "original": "POS Debit INSTACART Raleigh:NC",
+      "simple": "INSTACART"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480324",
+    "entityid": "35_13480324",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "264886",
+      "name": "INSTACART",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-07",
+    "createddate": 1576592623856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-45d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 19.52,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-08",
+    "description": {
+      "original": "POS Debit AMC CINEMA Raleigh:NC",
+      "simple": "AMC CINEMA Raleigh:NC"
+    },
+    "detailcategoryid": "1352",
+    "highlevelcategoryid": "10000010",
+    "id": "13480325",
+    "entityid": "35_13480325",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-07",
+    "createddate": 1576592323856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-29d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 432.18,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-07",
+    "description": {
+      "original": "CREDIT CARD PURCHASE SAMS CLUB Hartford:CT",
+      "simple": "CREDIT CARD SAMS CLUB Hartford:CT"
+    },
+    "detailcategoryid": "1352",
+    "highlevelcategoryid": "10000010",
+    "id": "13480326",
+    "entityid": "35_13480326",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-07",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-06",
+    "createddate": 1576592023856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-64d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 60.25,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Healthcare/Medical",
+    "categoryid": "11",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-06",
+    "description": {
+      "original": "ACH DEBIT Pharmasave",
+      "simple": "Pharmasave"
+    },
+    "detailcategoryid": "1471",
+    "highlevelcategoryid": "10000006",
+    "id": "13480328",
+    "entityid": "35_13480328",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Drug and Alcohol Services"
+      ],
+      "id": "10002064",
+      "name": "Pharmasave",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-05",
+    "createddate": 1576591723856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 112.11,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-06",
+    "description": {
+      "original": "POS PURCHASE KOHLS Hartford:CT",
+      "simple": "KOHLS Hartford:CT"
+    },
+    "detailcategoryid": "1306",
+    "highlevelcategoryid": "10000010",
+    "id": "13480327",
+    "entityid": "35_13480327",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-05",
+    "createddate": 1576591423856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 28.6,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-04",
+    "description": {
+      "original": "POS PURCHASE HP PRINTING",
+      "simple": "HP PRINTING"
+    },
+    "detailcategoryid": "1520",
+    "highlevelcategoryid": "10000007",
+    "id": "13480329",
+    "entityid": "35_13480329",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-04",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-03",
+    "createddate": 1576591123856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-16d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 57.86,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Home Improvement",
+    "categoryid": "13",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-03",
+    "description": {
+      "original": "CREDIT CARD PURCHASE Ace Hardware Raleigh:NC",
+      "simple": "Ace Hardware"
+    },
+    "detailcategoryid": "1492",
+    "highlevelcategoryid": "10000004",
+    "id": "13480330",
+    "entityid": "35_13480330",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10002047",
+      "name": "Ace Hardware",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-03",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-02",
+    "createddate": 1576590823856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-81d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 18.64,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-02",
+    "description": {
+      "original": "Checkcard Purchase ARCO PETROL Raleigh:NC",
+      "simple": "Arco"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480332",
+    "entityid": "35_13480332",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Transportation",
+        " Gas Stations"
+      ],
+      "id": "10002066",
+      "name": "Arco",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-01",
+    "createddate": 1576590523856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-48d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 341.1,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Travel",
+    "categoryid": "23",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-02",
+    "description": {
+      "original": "ACH DEBIT PAYPAL XFER UBER TRANSPORT",
+      "simple": "Uber"
+    },
+    "detailcategoryid": "1257",
+    "highlevelcategoryid": "10000011",
+    "id": "13480333",
+    "entityid": "35_13480333",
+    "intermediary": [
+      "Paypal"
+    ],
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "city": "Broadmeadow",
+        "country": "AU",
+        "state": "NSW"
+      },
+      "id": "11508744",
+      "logourl": "https://yodlee-1.hs.llnwd.net/v1/MERCHANTLOGO/AU/uber.svg",
+      "name": "Uber",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2020-02-01",
+    "createddate": 1576590223856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 41.27,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-26",
+    "description": {
+      "original": "Credit Card Purchase KFC RESTAURANT Hartford:CT",
+      "simple": "KFC"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480292",
+    "entityid": "35_13480292",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Social",
+        " Food and Dining",
+        " Restaurants",
+        " Fast Food"
+      ],
+      "id": "10002031",
+      "name": "Kfc",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-25",
+    "createddate": 1576589923856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 20.57,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-26",
+    "description": {
+      "original": "FEEDERS PET SUPPLY Hartford:CT",
+      "simple": "FEEDERS PET SUPPLY Hartford:CT"
+    },
+    "detailcategoryid": "1173",
+    "highlevelcategoryid": "10000010",
+    "id": "13480293",
+    "entityid": "35_13480293",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-25",
+    "createddate": 1576589623856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-61d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 161.2,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Transfers",
+    "categoryid": "28",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2020-02-24",
+    "description": {
+      "original": "ACH CREDIT Trnsfr ID: XXXX JPMORGAN CHASE BANK",
+      "simple": "Transfer from JPMorgan"
+    },
+    "detailcategoryid": "1170",
+    "highlevelcategoryid": "10000015",
+    "id": "13480295",
+    "entityid": "35_13480295",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10926928",
+      "name": "JPMorgan",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2020-02-23",
+    "createddate": 1576589323856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 19.36,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-24",
+    "description": {
+      "original": "EDONATION THE SALVATION ARMY Raleigh:NC",
+      "simple": "EDONATION THE SALVATION ARMY Raleigh:NC"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480296",
+    "entityid": "35_13480296",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2020-02-23",
+    "createddate": 1576589023856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 41.37,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-24",
+    "description": {
+      "original": "CARD PURCHASE MOLLIE STONES Raleigh:NC",
+      "simple": "CARD MOLLIE STONES Raleigh:NC"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480294",
+    "entityid": "35_13480294",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2020-02-23",
+    "createddate": 1576588723856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-90d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 83,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-24",
+    "description": {
+      "original": "MERCHANT PAYMENT BLUE MOUNTAIN GREETING CARD Raleigh:NC",
+      "simple": "BlueMountain"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480297",
+    "entityid": "35_13480297",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "5489",
+      "name": "BlueMountain",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-23",
+    "createddate": 1576588423856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-67d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 18.89,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-23",
+    "description": {
+      "original": "PLANET FIT Hartford:CT",
+      "simple": "PLANET FIT Hartford:CT"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480298",
+    "entityid": "35_13480298",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-23",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-22",
+    "createddate": 1576588123856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-55d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 95.31,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Home Improvement",
+    "categoryid": "13",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-22",
+    "description": {
+      "original": "CREDIT CARD PURCHASE HOME DEPOT Raleigh:NC",
+      "simple": "The Home Depot"
+    },
+    "detailcategoryid": "1492",
+    "highlevelcategoryid": "10000004",
+    "id": "13480299",
+    "entityid": "35_13480299",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Home Improvement"
+      ],
+      "id": "10000838",
+      "name": "The Home Depot",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-22",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-21",
+    "createddate": 1576587823856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-79d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 99.23,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-21",
+    "description": {
+      "original": "BILL PAY : XXXX CHARTER COMM TELEPHONE",
+      "simple": ": XX CHARTER COMM TELEPHONE"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480302",
+    "entityid": "35_13480302",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2020-02-20",
+    "createddate": 1576587523856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 37.66,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-21",
+    "description": {
+      "original": "POS Purchase COSTCO GASOLINE Raleigh:NC",
+      "simple": "Costco"
+    },
+    "detailcategoryid": "1320",
+    "highlevelcategoryid": "10000010",
+    "id": "13480301",
+    "entityid": "35_13480301",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Military"
+      ],
+      "id": "10002107",
+      "name": "Costco",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-20",
+    "createddate": 1576587223856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-74d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 187.7,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-21",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON COSTCO ELECTRONICS Raleigh:NC",
+      "simple": "Costco"
+    },
+    "detailcategoryid": "1320",
+    "highlevelcategoryid": "10000010",
+    "id": "13480300",
+    "entityid": "35_13480300",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Military"
+      ],
+      "id": "10002107",
+      "name": "Costco",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-20",
+    "createddate": 1576586923856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-13d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 172.91,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Transfers",
+    "categoryid": "28",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2020-02-21",
+    "description": {
+      "original": "SUBSCRIP PAYPAL INST XFER THE ECONOMIST",
+      "simple": "SUBSCRIP PAYPAL INST XFER THE ECONOMIST"
+    },
+    "detailcategoryid": "1170",
+    "highlevelcategoryid": "10000015",
+    "id": "13480303",
+    "entityid": "35_13480303",
+    "intermediary": [
+      "Paypal"
+    ],
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2020-02-20",
+    "createddate": 1576586623856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-83d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 120,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-20",
+    "description": {
+      "original": "POS Debit THE PAPER STOR GIFT Hartford:CT",
+      "simple": "THE PAPER STOR GIFT Hartford:CT"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480304",
+    "entityid": "35_13480304",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-19",
+    "createddate": 1576586323856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-51d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 29.65,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-20",
+    "description": {
+      "original": "EVENTS Brown Paper Tickets Hartford:CT",
+      "simple": "EVENTS Brown Paper Tickets Hartford:CT"
+    },
+    "detailcategoryid": "1352",
+    "highlevelcategoryid": "10000010",
+    "id": "13480306",
+    "entityid": "35_13480306",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-19",
+    "createddate": 1576586023856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-38d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 2576.53,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Credit Card Payments",
+    "categoryid": "26",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2020-02-20",
+    "description": {
+      "original": "VISA CARD PAYMENT DISCOVER",
+      "simple": "Credit Card Payment Received"
+    },
+    "detailcategoryid": "1169",
+    "highlevelcategoryid": "10000018",
+    "id": "13480305",
+    "entityid": "35_13480305",
+    "intermediary": [
+      "Visa"
+    ],
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT_CARD_PAYMENT",
+    "transactiondate": "2020-02-19",
+    "createddate": 1576585723856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-12d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 129.58,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-18",
+    "description": {
+      "original": "POS PURCHASE HARLAND CLARKE MARKETING",
+      "simple": "HARLAND CLARKE MARKETING"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480307",
+    "entityid": "35_13480307",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-18",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-17",
+    "createddate": 1576585423856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 144.47,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-17",
+    "description": {
+      "original": "POS PURCHASE PLANET FIT Raleigh:NC",
+      "simple": "PLANET FIT Raleigh:NC"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480309",
+    "entityid": "35_13480309",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-17",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-16",
+    "createddate": 1576585123856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-80d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 33.81,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-17",
+    "description": {
+      "original": "FEE WIRE TRANS",
+      "simple": "FEE WIRE TRANS"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480308",
+    "entityid": "35_13480308",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-17",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2020-02-16",
+    "createddate": 1576584823856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 29.31,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-15",
+    "description": {
+      "original": "Card Purchase KFC RESTAURANT Hartford:CT",
+      "simple": "KFC"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480310",
+    "entityid": "35_13480310",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Social",
+        " Food and Dining",
+        " Restaurants",
+        " Fast Food"
+      ],
+      "id": "10002031",
+      "name": "Kfc",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-14",
+    "createddate": 1576584523856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-72d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 33.2,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-15",
+    "description": {
+      "original": "ONLINE PAYMENT MOLLIE STONES Hartford:CT",
+      "simple": "MOLLIE STONES Hartford:CT"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480312",
+    "entityid": "35_13480312",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2020-02-14",
+    "createddate": 1576584223856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 41.59,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-01",
+    "description": {
+      "original": "Checkcard Purchase PHILLIPS XX SERVICE STATION Raleigh:NC",
+      "simple": "Checkcard PHILLIPS XX SERVICE STATION Raleigh:NC"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480285",
+    "entityid": "35_13480285",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-01",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-29",
+    "createddate": 1576583923856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-66d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 233.77,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2020-03-01",
+    "description": {
+      "original": "REFUND FOR TXN XXXX",
+      "simple": "REFUND FOR TXN XX"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "13480286",
+    "entityid": "35_13480286",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-01",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2020-02-29",
+    "createddate": 1576583623856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-87d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 1132,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Education",
+    "categoryid": "6",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-29",
+    "description": {
+      "original": "ECLASSES HARVARD UNIV",
+      "simple": "Harvard University"
+    },
+    "detailcategoryid": "1298",
+    "highlevelcategoryid": "10000022",
+    "id": "13480288",
+    "entityid": "35_13480288",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "17461",
+      "name": "Harvard University",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-29",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-28",
+    "createddate": 1576583323856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 42.24,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Loans",
+    "categoryid": "17",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-29",
+    "description": {
+      "original": "AUTH PMT XXXX SADIE CLAUDIA GEICO",
+      "simple": "AUTH PMT XX SADIE CLAUDIA GEICO"
+    },
+    "detailcategoryid": "1158",
+    "highlevelcategoryid": "10000004",
+    "id": "13480287",
+    "entityid": "35_13480287",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2020-02-29",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "LOAN",
+    "transactiondate": "2020-02-28",
+    "createddate": 1576583023856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-70d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 84.88,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Rent",
+    "categoryid": "21",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-28",
+    "description": {
+      "original": "CREDIT CARD PURCHASE ENTERPRISE RENT A CAR",
+      "simple": "Payment to Enterprise Rent-A-Car"
+    },
+    "detailcategoryid": "1165",
+    "highlevelcategoryid": "10000004",
+    "id": "13480289",
+    "entityid": "35_13480289",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Transportation"
+      ],
+      "id": "10002046",
+      "name": "Enterprise Rent-a-car",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-28",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2020-02-27",
+    "createddate": 1576582723856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-89d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 509.2,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-02-27",
+    "description": {
+      "original": "Web Authorized Pmt : REF No: XXXX NJNG",
+      "simple": "New Jersey Natural Gas"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "13480291",
+    "entityid": "35_13480291",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "id": "26280",
+      "name": "New Jersey Natural Gas",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-02-27",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-02-26",
+    "createddate": 1576582423856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-37d"
+    }
+  }
+]

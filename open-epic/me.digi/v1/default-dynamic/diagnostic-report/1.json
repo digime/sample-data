@@ -1,0 +1,98 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "basedon": [
+      {
+        "reference": "ServiceRequest/egf4KkhXmgeVWImXEEYH.CEE1ZgJG5SQy2vBX1HgvBCs3",
+        "type": "ServiceRequest"
+      }
+    ],
+    "category": [
+      {
+        "coding": [
+          {
+            "code": "Lab",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.798268.30"
+          }
+        ],
+        "text": "Lab"
+      },
+      {
+        "coding": [
+          {
+            "code": "LAB",
+            "display": "Laboratory",
+            "system": "http://terminology.hl7.org/CodeSystem/v2-0074"
+          }
+        ],
+        "text": "Laboratory"
+      }
+    ],
+    "code": {
+      "coding": [
+        {
+          "code": "4548-4",
+          "system": "http://loinc.org"
+        },
+        {
+          "code": "83036",
+          "display": "PR GLYCOSYLATED HEMOGLOBIN TEST",
+          "system": "urn:oid:2.16.840.1.113883.6.12"
+        },
+        {
+          "code": "43396009",
+          "display": "HEMOGLOBIN A1C",
+          "system": "urn:oid:2.16.840.1.113883.6.96"
+        }
+      ],
+      "text": "Hemoglobin A1c"
+    },
+    "encounter": {
+      "display": "Office Visit",
+      "reference": "Encounter/elMz2mwjsRvKnZiR.0ceTUg3"
+    },
+    "effectivedatetime": "2019-05-28T14:22:00Z",
+    "entityid": "20_123456789_ebLG6RMUaZyb2xk2DuX.kd4g8mNRffn9ftcwqSmnhrwM3",
+    "id": "ebLG6RMUaZyb2xk2DuX.kd4g8mNRffn9ftcwqSmnhrwM3",
+    "identifier": [
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.798268",
+        "type": {
+          "coding": [
+            {
+              "code": "PLAC",
+              "display": "Placer Identifier",
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+            }
+          ],
+          "text": "Placer Identifier"
+        },
+        "use": "official",
+        "value": "1066905"
+      }
+    ],
+    "issued": "2019-05-28T14:22:00Z",
+    "createddate": 1676560389982,
+    "performer": [
+      {
+        "display": "Family Medicine Physician, MD",
+        "reference": "Practitioner/eM5CWtq15N0WJeuCet5bJlQ3",
+        "type": "Practitioner"
+      }
+    ],
+    "result": [
+      {
+        "display": "Component (1): HEMOGLOBIN A1C, POC",
+        "reference": "Observation/eyPMWgv2u2RUfsV4p1lLKuUtqyPs2-QNi2zKvbTsFYtRByc6B.cSi1iVU5V2HOpX23"
+      }
+    ],
+    "status": "final",
+    "subject": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-84d"
+    }
+  }
+]

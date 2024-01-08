@@ -1,0 +1,4401 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 376.79,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-09",
+    "description": {
+      "original": "WEB ID: XXXX GoDaddy WEB HOSTING",
+      "simple": "GoDaddy"
+    },
+    "detailcategoryid": "1660",
+    "id": "13480509",
+    "entityid": "35_13480509",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Businesses and Services"
+      ],
+      "id": "10002090",
+      "name": "Godaddy",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-08",
+    "createddate": 1587170707856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-60d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 268.56,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-09",
+    "description": {
+      "original": "WEB ID: XXXX GOOGLE",
+      "simple": "WEB ID: XX GOOGLE"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480506",
+    "entityid": "35_13480506",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-08",
+    "createddate": 1587170407856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-48d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 82,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-09",
+    "description": {
+      "original": "POS Debit BLUE MOUNTAIN GREETING CARD Atlanta:GA",
+      "simple": "BlueMountain"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480505",
+    "entityid": "35_13480505",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "5489",
+      "name": "BlueMountain",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-08",
+    "createddate": 1587170107856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-84d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 225.88,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-09",
+    "description": {
+      "original": "POS PURCHASE HP PRINTING",
+      "simple": "HP PRINTING"
+    },
+    "detailcategoryid": "1520",
+    "highlevelcategoryid": "10000007",
+    "id": "13480504",
+    "entityid": "35_13480504",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-08",
+    "createddate": 1587169807856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 21,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-09",
+    "description": {
+      "original": "MERCHANT PAYMENT ABC Gifts Helena:MT",
+      "simple": "MERCHANT ABC Gifts Helena:MT"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480508",
+    "entityid": "35_13480508",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-08",
+    "createddate": 1587169507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-21d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 169.28,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-09",
+    "description": {
+      "original": "POS PURCHASE HP PRINTING",
+      "simple": "HP PRINTING"
+    },
+    "detailcategoryid": "1520",
+    "highlevelcategoryid": "10000007",
+    "id": "13480507",
+    "entityid": "35_13480507",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-08",
+    "createddate": 1587169207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-69d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 25.49,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-08",
+    "description": {
+      "original": "CARD PURCHASE EVENTS/MUSIC DGER STADM Helena:MT",
+      "simple": "CARD EVENTS/MUSIC DGER STADM Helena:MT"
+    },
+    "detailcategoryid": "1352",
+    "highlevelcategoryid": "10000010",
+    "id": "13480512",
+    "entityid": "35_13480512",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-07",
+    "createddate": 1587168907856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-45d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 35.36,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-08",
+    "description": {
+      "original": "PURCHASE AUTHORIZED AMC CINEMA Atlanta:GA",
+      "simple": "AMC CINEMA Atlanta:GA"
+    },
+    "detailcategoryid": "1352",
+    "highlevelcategoryid": "10000010",
+    "id": "13480510",
+    "entityid": "35_13480510",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-07",
+    "createddate": 1587168607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-27d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 56.85,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-08",
+    "description": {
+      "original": "SPROUTS GROCERY Atlanta:GA",
+      "simple": "SPROUTS GROCERY Atlanta:GA"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480511",
+    "entityid": "35_13480511",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-07",
+    "createddate": 1587168307856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-59d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 16.4,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-08",
+    "description": {
+      "original": "SPROUTS GROCERY Helena:MT",
+      "simple": "SPROUTS GROCERY Helena:MT"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480513",
+    "entityid": "35_13480513",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-07",
+    "createddate": 1587168007856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-16d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 601.65,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-07",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON SAMS CLUB Helena:MT",
+      "simple": "Sam's Club"
+    },
+    "detailcategoryid": "1306",
+    "highlevelcategoryid": "10000010",
+    "id": "13480515",
+    "entityid": "35_13480515",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "32189",
+      "name": "Sam's Club",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-07",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-06",
+    "createddate": 1587167707856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-51d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 160.67,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-07",
+    "description": {
+      "original": "CREDIT CARD PURCHASE SAMS CLUB Atlanta:GA",
+      "simple": "CREDIT CARD SAMS CLUB Atlanta:GA"
+    },
+    "detailcategoryid": "1352",
+    "highlevelcategoryid": "10000010",
+    "id": "13480514",
+    "entityid": "35_13480514",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-07",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-06",
+    "createddate": 1587167407856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-67d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 76.88,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Other Expenses",
+    "categoryid": "19",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-06",
+    "description": {
+      "original": "PAYMENT EXPRESS Bismarck:ND",
+      "simple": "EXPRESS Bismarck:ND"
+    },
+    "detailcategoryid": "1161",
+    "highlevelcategoryid": "10000009",
+    "id": "13480519",
+    "entityid": "35_13480519",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-05",
+    "createddate": 1587167107856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-84d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 198.12,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Healthcare/Medical",
+    "categoryid": "11",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-06",
+    "description": {
+      "original": "MERCHANT PAYMENT Jean Coutu Pharmacy",
+      "simple": "MERCHANT Jean Coutu Pharmacy"
+    },
+    "detailcategoryid": "1471",
+    "highlevelcategoryid": "10000006",
+    "id": "13480518",
+    "entityid": "35_13480518",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-05",
+    "createddate": 1587166807856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-72d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 75.3,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-06",
+    "description": {
+      "original": "ONLINE PAYMENT American Apparel Clothing Sunnyvale:CA",
+      "simple": "American Apparel"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480517",
+    "entityid": "35_13480517",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "city": "Chatswood",
+        "country": "AU",
+        "state": "QLD"
+      },
+      "categorylabel": [
+        "Retail",
+        " Fashion",
+        " Clothing and Accessories"
+      ],
+      "id": "11509113",
+      "name": "American Apparel",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-05",
+    "createddate": 1587166507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 233,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Healthcare/Medical",
+    "categoryid": "11",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-06",
+    "description": {
+      "original": "WALGREENS PHARMACY",
+      "simple": "Walgreens"
+    },
+    "detailcategoryid": "1471",
+    "highlevelcategoryid": "10000006",
+    "id": "13480516",
+    "entityid": "35_13480516",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Drug and Alcohol Services"
+      ],
+      "id": "10002104",
+      "name": "Walgreens",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-05",
+    "createddate": 1587166207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-68d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 57.59,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-04",
+    "description": {
+      "original": "ACH DEBIT CUBESMART REAL ESTATE",
+      "simple": "CUBESMART REAL ESTATE"
+    },
+    "detailcategoryid": "1648",
+    "id": "13480520",
+    "entityid": "35_13480520",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-04",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-03",
+    "createddate": 1587165907856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 25.53,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-04",
+    "description": {
+      "original": "POS PURCHASE Staples",
+      "simple": "Staples"
+    },
+    "detailcategoryid": "1177",
+    "highlevelcategoryid": "10000007",
+    "id": "13480521",
+    "entityid": "35_13480521",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Businesses and Services",
+        " Financial",
+        " Other Loans"
+      ],
+      "id": "10002045",
+      "name": "Staples",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-04",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-03",
+    "createddate": 1587165607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-56d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 560.19,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Home Improvement",
+    "categoryid": "13",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-03",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON WAYFAIR HOME HRDWRE Helena:MT",
+      "simple": "WAYFAIR HOME HRDWRE Helena:MT"
+    },
+    "detailcategoryid": "1153",
+    "highlevelcategoryid": "10000004",
+    "id": "13480523",
+    "entityid": "35_13480523",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-03",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-02",
+    "createddate": 1587165307856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-20d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 546.74,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-03",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON American Hm Shld Redwoods City:CA",
+      "simple": "American Hm Shld Redwoods City:CA"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480522",
+    "entityid": "35_13480522",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-03",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-02",
+    "createddate": 1587165007856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-74d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 23.43,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-15",
+    "description": {
+      "original": "LIQUOR STORE Atlanta:GA",
+      "simple": "LIQUOR STORE Atlanta:GA"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480483",
+    "entityid": "35_13480483",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-14",
+    "createddate": 1587164707856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 38.29,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-15",
+    "description": {
+      "original": "POS Debit GIANT Helena:MT",
+      "simple": "Giant"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480486",
+    "entityid": "35_13480486",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Healthcare"
+      ],
+      "id": "10283954",
+      "name": "Giant",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-14",
+    "createddate": 1587164407856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-59d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 54.49,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-15",
+    "description": {
+      "original": "Debit Authorization Bill Miller Bar-B-Q Helena:MT",
+      "simple": "Debit Bill Miller Bar-B-Q Helena:MT"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480485",
+    "entityid": "35_13480485",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-14",
+    "createddate": 1587164107856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-41d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 62.18,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-15",
+    "description": {
+      "original": "Card Purchase SWEETGREEN RESTAURANT Atlanta:GA",
+      "simple": "Card SWEETGREEN RESTAURANT Atlanta:GA"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480482",
+    "entityid": "35_13480482",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-14",
+    "createddate": 1587163807856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-20d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 1086.13,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2019-12-15",
+    "description": {
+      "original": "BANK CREDIT PNCBANK",
+      "simple": "Refunds from Bank"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "13480487",
+    "entityid": "35_13480487",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10283639",
+      "name": "Bank",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2019-12-14",
+    "createddate": 1587163507856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-90d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 762.3,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Credit Card Payments",
+    "categoryid": "26",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2019-12-15",
+    "description": {
+      "original": "BANK CREDIT CAPITAL ONE",
+      "simple": "Credit Card Payment Received"
+    },
+    "detailcategoryid": "1169",
+    "highlevelcategoryid": "10000018",
+    "id": "13480484",
+    "entityid": "35_13480484",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10002106",
+      "name": "Capital One",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-15",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT_CARD_PAYMENT",
+    "transactiondate": "2019-12-14",
+    "createddate": 1587163207856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-33d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 66.29,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-13",
+    "description": {
+      "original": "Checkcard Purchase EXXONMOBIL PAY AT THE PUM Walnut Creek:CA",
+      "simple": "ExxonMobil"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480489",
+    "entityid": "35_13480489",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "city": "Wanneroo",
+        "country": "AU",
+        "state": "VIC"
+      },
+      "categorylabel": [
+        "Transportation",
+        " Gas Stations"
+      ],
+      "id": "11509109",
+      "name": "ExxonMobil",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-12",
+    "createddate": 1587162907856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-16d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 28.4,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-13",
+    "description": {
+      "original": "Checkcard Purchase SHELL GAS STATION Bismarck:ND",
+      "simple": "Shell"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480491",
+    "entityid": "35_13480491",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU",
+        "zip": "2575.0"
+      },
+      "categorylabel": [
+        "Transportation",
+        " Gas Stations"
+      ],
+      "coordinates": {
+        "latitude": -34.439568,
+        "longitude": 150.47162
+      },
+      "id": "1158c7cc-79c8-4dfd-9bcf-c156250eae12",
+      "name": "Shell",
+      "source": "FACTUAL"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-12",
+    "createddate": 1587162607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-42d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 15.59,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Postage/Shipping",
+    "categoryid": "104",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-13",
+    "description": {
+      "original": "ULINE",
+      "simple": "Uline"
+    },
+    "detailcategoryid": "1561",
+    "highlevelcategoryid": "10000007",
+    "id": "13480488",
+    "entityid": "35_13480488",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "38775",
+      "name": "Uline",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-12",
+    "createddate": 1587162307856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-50d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 9.24,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Other Expenses",
+    "categoryid": "19",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-13",
+    "description": {
+      "original": "CARD PURCHASE STAMPS",
+      "simple": "CARD STAMPS"
+    },
+    "detailcategoryid": "1161",
+    "highlevelcategoryid": "10000009",
+    "id": "13480490",
+    "entityid": "35_13480490",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-12",
+    "createddate": 1587162007856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 55.86,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-12",
+    "description": {
+      "original": "SERVICE CHARGES WIRE TRANS",
+      "simple": "SERVICE CHARGES WIRE TRANS"
+    },
+    "detailcategoryid": "1018",
+    "highlevelcategoryid": "10000009",
+    "id": "13480493",
+    "entityid": "35_13480493",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "SERVICE_CHARGE",
+    "transactiondate": "2019-12-11",
+    "createddate": 1587161707856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-86d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 45,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-12",
+    "description": {
+      "original": "FEE BANK FEES",
+      "simple": "Bank Service Charges/Fees"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480495",
+    "entityid": "35_13480495",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10283639",
+      "name": "Bank",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2019-12-11",
+    "createddate": 1587161407856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 14.54,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-12",
+    "description": {
+      "original": "POS PURCHASE Pet Valu Foster City:CA",
+      "simple": "Pet Valu Foster City:CA"
+    },
+    "detailcategoryid": "1557",
+    "highlevelcategoryid": "10000010",
+    "id": "13480492",
+    "entityid": "35_13480492",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-11",
+    "createddate": 1587161107856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-32d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 15.74,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-12",
+    "description": {
+      "original": "All The Best Pet Care Helena:MT",
+      "simple": "All The Best Pet Care Helena:MT"
+    },
+    "detailcategoryid": "1557",
+    "highlevelcategoryid": "10000010",
+    "id": "13480494",
+    "entityid": "35_13480494",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-11",
+    "createddate": 1587160807856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-34d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 22.18,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-11",
+    "description": {
+      "original": "PAYMENT Pet Valu Helena:MT",
+      "simple": "Pet Valu Helena:MT"
+    },
+    "detailcategoryid": "1557",
+    "highlevelcategoryid": "10000010",
+    "id": "13480499",
+    "entityid": "35_13480499",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-10",
+    "createddate": 1587160507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 32.5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-11",
+    "description": {
+      "original": "CARD PURCHASE READYREFRESH Helena:MT",
+      "simple": "CARD READYREFRESH Helena:MT"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480498",
+    "entityid": "35_13480498",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-10",
+    "createddate": 1587160207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-40d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 13.53,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-11",
+    "description": {
+      "original": "ASPCA Atlanta:GA",
+      "simple": "American Society for the Prevention of Cruelty to Animals"
+    },
+    "detailcategoryid": "1557",
+    "highlevelcategoryid": "10000010",
+    "id": "13480497",
+    "entityid": "35_13480497",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "273273",
+      "name": "American Society for the Prevention of Cruelty to Animals",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-10",
+    "createddate": 1587159907856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-66d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 22.39,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-11",
+    "description": {
+      "original": "POS Debit MEAT SHOP Atlanta:GA",
+      "simple": "MEAT SHOP Atlanta:GA"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480496",
+    "entityid": "35_13480496",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-10",
+    "createddate": 1587159607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-89d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 89.37,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-10",
+    "description": {
+      "original": "CHARGE WIRE TRANS",
+      "simple": "CHARGE WIRE TRANS"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480503",
+    "entityid": "35_13480503",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-10",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2019-12-09",
+    "createddate": 1587159307856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-56d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 95.76,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Healthcare/Medical",
+    "categoryid": "11",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-10",
+    "description": {
+      "original": "POS PURCHASE PAMF HOSPITAL",
+      "simple": "PAMF HOSPITAL"
+    },
+    "detailcategoryid": "1453",
+    "highlevelcategoryid": "10000006",
+    "id": "13480502",
+    "entityid": "35_13480502",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-10",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-09",
+    "createddate": 1587159007856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-64d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 95.88,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Cable/Satellite/Telecom",
+    "categoryid": "15",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "PURCHASE AUTHORIZED SPRINT Telecom",
+      "simple": "Payment to Sprint"
+    },
+    "detailcategoryid": "1279",
+    "highlevelcategoryid": "10000004",
+    "id": "13480467",
+    "entityid": "35_13480467",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10002088",
+      "name": "Sprint",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587158707856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 103.57,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "SUBSCRIPTIO Direct debit Texture by Next Issue",
+      "simple": "SUBSCRIPTIO Direct debit Texture by Next Issue"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480466",
+    "entityid": "35_13480466",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587158407856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-38d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 56.65,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON WAL-MART STORE Redwoods City:CA",
+      "simple": "Walmart"
+    },
+    "detailcategoryid": "1306",
+    "highlevelcategoryid": "10000010",
+    "id": "13480465",
+    "entityid": "35_13480465",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Military"
+      ],
+      "id": "10000943",
+      "name": "Walmart",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587158107856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-50d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 23.75,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "Checkcard Purchase SHELL GAS STATION Redwoods City:CA",
+      "simple": "Shell"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480464",
+    "entityid": "35_13480464",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU",
+        "zip": "2575.0"
+      },
+      "categorylabel": [
+        "Transportation",
+        " Gas Stations"
+      ],
+      "coordinates": {
+        "latitude": -34.439568,
+        "longitude": 150.47162
+      },
+      "id": "1158c7cc-79c8-4dfd-9bcf-c156250eae12",
+      "name": "Shell",
+      "source": "FACTUAL"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587157807856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 106.63,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "POS Debit WAL-MART STORE Helena:MT",
+      "simple": "Walmart"
+    },
+    "detailcategoryid": "1306",
+    "highlevelcategoryid": "10000010",
+    "id": "13480469",
+    "entityid": "35_13480469",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Military"
+      ],
+      "id": "10000943",
+      "name": "Walmart",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587157507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-60d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 79.63,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "Checkcard Purchase ARCO PETROL Helena:MT",
+      "simple": "Arco"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480468",
+    "entityid": "35_13480468",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Transportation",
+        " Gas Stations"
+      ],
+      "id": "10002066",
+      "name": "Arco",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587157207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 76.67,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "BILL PAY : XXXX CHARTER COMM TELEPHONE",
+      "simple": ": XX CHARTER COMM TELEPHONE"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480463",
+    "entityid": "35_13480463",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587156907856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-60d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 210.23,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-21",
+    "description": {
+      "original": "NWSPPR SUBSCRIB PAYMENT AUTHORIZED Angie's List",
+      "simple": "Angie's List"
+    },
+    "detailcategoryid": "1611",
+    "id": "13480462",
+    "entityid": "35_13480462",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "2344",
+      "name": "Angie's List",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-21",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-20",
+    "createddate": 1587156607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 22.62,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-20",
+    "description": {
+      "original": "CARD PURCHASE Ticketmaster Atlanta:GA",
+      "simple": "Ticketmaster"
+    },
+    "detailcategoryid": "1414",
+    "highlevelcategoryid": "10000010",
+    "id": "13480471",
+    "entityid": "35_13480471",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Businesses and Services",
+        " Events and Event Planning"
+      ],
+      "id": "10002048",
+      "name": "Ticketmaster",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-19",
+    "createddate": 1587156307856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-52d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 157,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-20",
+    "description": {
+      "original": "POS Debit BLUE MOUNTAIN GREETING CARD Atlanta:GA",
+      "simple": "BlueMountain"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480470",
+    "entityid": "35_13480470",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "5489",
+      "name": "BlueMountain",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-19",
+    "createddate": 1587156007856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-70d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 2535.77,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Credit Card Payments",
+    "categoryid": "26",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2019-12-20",
+    "description": {
+      "original": "PAYMENT THANK YOU CAPITAL ONE CC",
+      "simple": "Credit Card Payment Received"
+    },
+    "detailcategoryid": "1169",
+    "highlevelcategoryid": "10000018",
+    "id": "13480475",
+    "entityid": "35_13480475",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10002106",
+      "name": "Capital One",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT_CARD_PAYMENT",
+    "transactiondate": "2019-12-19",
+    "createddate": 1587155707856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-42d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 5262.59,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Credit Card Payments",
+    "categoryid": "26",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2019-12-20",
+    "description": {
+      "original": "CC PYMT BANKCARD",
+      "simple": "Credit Card Payment Received"
+    },
+    "detailcategoryid": "1169",
+    "highlevelcategoryid": "10000018",
+    "id": "13480472",
+    "entityid": "35_13480472",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT_CARD_PAYMENT",
+    "transactiondate": "2019-12-19",
+    "createddate": 1587155407856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-18d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 42.1,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-20",
+    "description": {
+      "original": "POS Debit NETFLIX Bismarck:ND",
+      "simple": "Netflix"
+    },
+    "detailcategoryid": "1038",
+    "highlevelcategoryid": "10000010",
+    "id": "13480474",
+    "entityid": "35_13480474",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Landmarks"
+      ],
+      "id": "10002113",
+      "name": "Netflix",
+      "source": "YODLEE"
+    },
+    "merchanttype": "SUBSCRIPTION",
+    "postdate": "2019-12-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "ONLINE_PURCHASE",
+    "transactiondate": "2019-12-19",
+    "createddate": 1587155107856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 10,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-20",
+    "description": {
+      "original": "POS Debit QVC Gift Bismarck:ND",
+      "simple": "QVC Gift Bismarck:ND"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480473",
+    "entityid": "35_13480473",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-20",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-19",
+    "createddate": 1587154807856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-13d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 138.31,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-18",
+    "description": {
+      "original": "POS PURCHASE OfficeMax",
+      "simple": "OfficeMax"
+    },
+    "detailcategoryid": "1180",
+    "highlevelcategoryid": "10000007",
+    "id": "13480476",
+    "entityid": "35_13480476",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "27002",
+      "name": "OfficeMax",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-18",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-17",
+    "createddate": 1587154507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-48d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 201.21,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-18",
+    "description": {
+      "original": "ACH DEBIT HP PRINTING",
+      "simple": "HP PRINTING"
+    },
+    "detailcategoryid": "1520",
+    "highlevelcategoryid": "10000007",
+    "id": "13480477",
+    "entityid": "35_13480477",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-18",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-17",
+    "createddate": 1587154207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 55.95,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-17",
+    "description": {
+      "original": "SERVICE CHARGES SERVICE TAX XX.XX p.c",
+      "simple": "SERVICE CHARGES SERVICE TAXX p.c"
+    },
+    "detailcategoryid": "1018",
+    "highlevelcategoryid": "10000009",
+    "id": "13480481",
+    "entityid": "35_13480481",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-17",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "SERVICE_CHARGE",
+    "transactiondate": "2019-12-16",
+    "createddate": 1587153907856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-37d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 30.52,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-17",
+    "description": {
+      "original": "DEBIT PURCHASE American Apparel Clothing San Mateo:CA",
+      "simple": "American Apparel"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480478",
+    "entityid": "35_13480478",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "city": "Chatswood",
+        "country": "AU",
+        "state": "QLD"
+      },
+      "categorylabel": [
+        "Retail",
+        " Fashion",
+        " Clothing and Accessories"
+      ],
+      "id": "11509113",
+      "name": "American Apparel",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-17",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-16",
+    "createddate": 1587153607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-75d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 86.7,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-17",
+    "description": {
+      "original": "SURCHARGE WIRE TRANS",
+      "simple": "SURCHARGE WIRE TRANS"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480479",
+    "entityid": "35_13480479",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-17",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2019-12-16",
+    "createddate": 1587153307856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 172.43,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-17",
+    "description": {
+      "original": "PAYMENT LAUNDRY Bismarck:ND",
+      "simple": "LAUNDRY Bismarck:ND"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480480",
+    "entityid": "35_13480480",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-17",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-16",
+    "createddate": 1587153007856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-67d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 146.65,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2019-12-27",
+    "description": {
+      "original": "REFUND FOR TXN XXXX",
+      "simple": "REFUND FOR TXN XX"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "13480443",
+    "entityid": "35_13480443",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-27",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2019-12-26",
+    "createddate": 1587152707856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-69d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 421.73,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-27",
+    "description": {
+      "original": "UTIL BILL PAYMENT : REF No: XXXX DTE Energy",
+      "simple": "UTIL : REF No: XX DTE Energy"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "13480442",
+    "entityid": "35_13480442",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2019-12-27",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "UTILITIES_PAYMENT",
+    "transactiondate": "2019-12-26",
+    "createddate": 1587152407856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-29d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 60.64,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2019-12-27",
+    "description": {
+      "original": "REFUND FOR TXN XXXX",
+      "simple": "REFUND FOR TXN XX"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "13480445",
+    "entityid": "35_13480445",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-27",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2019-12-26",
+    "createddate": 1587152107856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-83d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 381.49,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-27",
+    "description": {
+      "original": "UTIL BILL PAY : ID : XXXX DTE Energy",
+      "simple": "UTIL : ID : XX DTE Energy"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "13480444",
+    "entityid": "35_13480444",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2019-12-27",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "UTILITIES_PAYMENT",
+    "transactiondate": "2019-12-26",
+    "createddate": 1587151807856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-60d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 35.97,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-26",
+    "description": {
+      "original": "PETCO's Bismarck:ND",
+      "simple": "Petco"
+    },
+    "detailcategoryid": "1173",
+    "highlevelcategoryid": "10000010",
+    "id": "13480448",
+    "entityid": "35_13480448",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Retail",
+        " Pets"
+      ],
+      "id": "10002044",
+      "name": "Petco",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-25",
+    "createddate": 1587151507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-34d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 36.12,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-26",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON SWEETGREEN RESTAURANT Bismarck:ND",
+      "simple": "SWEETGREEN RESTAURANT Bismarck:ND"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480449",
+    "entityid": "35_13480449",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-25",
+    "createddate": 1587151207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-78d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 44.48,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-26",
+    "description": {
+      "original": "POS PURCHASE Pet Food Express Atlanta:GA",
+      "simple": "Pet Food Express Atlanta:GA"
+    },
+    "detailcategoryid": "1173",
+    "highlevelcategoryid": "10000010",
+    "id": "13480446",
+    "entityid": "35_13480446",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-25",
+    "createddate": 1587150907856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-41d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 23.78,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Travel",
+    "categoryid": "23",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-26",
+    "description": {
+      "original": "Card Purchase BLUE APRON Atlanta:GA",
+      "simple": "Card BLUE APRON Atlanta:GA"
+    },
+    "detailcategoryid": "1686",
+    "highlevelcategoryid": "10000011",
+    "id": "13480447",
+    "entityid": "35_13480447",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-25",
+    "createddate": 1587150607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-38d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 239.89,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Transfers",
+    "categoryid": "28",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "TRFR ALLY BANK",
+      "simple": "TRFR ALLY BANK"
+    },
+    "detailcategoryid": "1170",
+    "highlevelcategoryid": "10000015",
+    "id": "13480456",
+    "entityid": "35_13480456",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587150307856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-45d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 75,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "CREDIT CARD PURCHASE ProFlowers Helena:MT",
+      "simple": "CREDIT CARD ProFlowers Helena:MT"
+    },
+    "detailcategoryid": "1419",
+    "highlevelcategoryid": "10000010",
+    "id": "13480454",
+    "entityid": "35_13480454",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587150007856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-24d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 53.48,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Charitable Giving",
+    "categoryid": "3",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "EDONATION World Vision San Jose:CA",
+      "simple": "World Vision"
+    },
+    "detailcategoryid": "1288",
+    "highlevelcategoryid": "10000001",
+    "id": "13480451",
+    "entityid": "35_13480451",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Public and Social Services"
+      ],
+      "id": "10002026",
+      "name": "World Vision",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587149707856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 25,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "POS Debit SPROUTS GROCERY Helena:MT",
+      "simple": "SPROUTS GROCERY Helena:MT"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480457",
+    "entityid": "35_13480457",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587149407856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-62d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 37.36,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Charitable Giving",
+    "categoryid": "3",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "EDONATION World Vision Helena:MT",
+      "simple": "World Vision"
+    },
+    "detailcategoryid": "1288",
+    "highlevelcategoryid": "10000001",
+    "id": "13480455",
+    "entityid": "35_13480455",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Public and Social Services"
+      ],
+      "id": "10002026",
+      "name": "World Vision",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587149107856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 28.8,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "CARD PURCHASE INSTACART San Jose:CA",
+      "simple": "INSTACART"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480453",
+    "entityid": "35_13480453",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "264886",
+      "name": "INSTACART",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587148807856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 422.8,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Transfers",
+    "categoryid": "28",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "RECURRING TRANSFER FROM BANK OF AMERICA",
+      "simple": "Transfer from Bank of America"
+    },
+    "detailcategoryid": "1170",
+    "highlevelcategoryid": "10000015",
+    "id": "13480452",
+    "entityid": "35_13480452",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "city": "Chatswood",
+        "country": "AU",
+        "state": "QLD"
+      },
+      "id": "11509106",
+      "name": "Bank of America",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587148507856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 130,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-24",
+    "description": {
+      "original": "CREDIT CARD PURCHASE X-XXX-Flowers San Jose:CA",
+      "simple": "CREDIT CARD XX-Flowers San Jose:CA"
+    },
+    "detailcategoryid": "1419",
+    "highlevelcategoryid": "10000010",
+    "id": "13480450",
+    "entityid": "35_13480450",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-24",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-23",
+    "createddate": 1587148207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-35d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 77.49,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-23",
+    "description": {
+      "original": "DEBIT PURCHASE Marks & Spencer Helena:MT",
+      "simple": "Marks & Spencer"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480459",
+    "entityid": "35_13480459",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Retail",
+        " Costumes"
+      ],
+      "id": "10002085",
+      "name": "Marks & Spencer",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-23",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-22",
+    "createddate": 1587147907856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-71d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 56.21,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-23",
+    "description": {
+      "original": "DEBIT PURCHASE Spa and Salon For You Atlanta:GA",
+      "simple": "DEBIT Spa and Salon For You Atlanta:GA"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480458",
+    "entityid": "35_13480458",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-23",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-22",
+    "createddate": 1587147607856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 487.3,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Home Improvement",
+    "categoryid": "13",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-22",
+    "description": {
+      "original": "ONLINE PAYMENT : XXXX FLOOR & DECOR Atlanta:GA",
+      "simple": "Floor and Decor Outlets"
+    },
+    "detailcategoryid": "1153",
+    "highlevelcategoryid": "10000004",
+    "id": "13480460",
+    "entityid": "35_13480460",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "id": "14546",
+      "name": "Floor and Decor Outlets",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-22",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-21",
+    "createddate": 1587147307856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 617.48,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-22",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON LOWES Helena:MT",
+      "simple": "Lowes"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "13480461",
+    "entityid": "35_13480461",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Retail",
+        " Costumes"
+      ],
+      "id": "10002086",
+      "name": "Lowes",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-22",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-21",
+    "createddate": 1587147007856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-75d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 23.68,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-30",
+    "description": {
+      "original": "PURCHASE AUTHORIZED COSTCO GASOLINE Bismarck:ND",
+      "simple": "Costco"
+    },
+    "detailcategoryid": "1320",
+    "highlevelcategoryid": "10000010",
+    "id": "13480435",
+    "entityid": "35_13480435",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Military"
+      ],
+      "id": "10002107",
+      "name": "Costco",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-30",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-29",
+    "createddate": 1587146707856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-79d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 66.37,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-30",
+    "description": {
+      "original": "Checkcard Purchase COSTCO GASOLINE San Mateo:CA",
+      "simple": "Costco"
+    },
+    "detailcategoryid": "1320",
+    "highlevelcategoryid": "10000010",
+    "id": "13480433",
+    "entityid": "35_13480433",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Community and Government",
+        " Military"
+      ],
+      "id": "10002107",
+      "name": "Costco",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-30",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-29",
+    "createddate": 1587146407856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-75d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 230.6,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2019-12-30",
+    "description": {
+      "original": "REFUND FOR TXN XXXX",
+      "simple": "REFUND FOR TXN XX"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "13480434",
+    "entityid": "35_13480434",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-30",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2019-12-29",
+    "createddate": 1587146107856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-19d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 184.65,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2019-12-30",
+    "description": {
+      "original": "REFUND FOR TXN XXXX",
+      "simple": "REFUND FOR TXN XX"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "13480432",
+    "entityid": "35_13480432",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-30",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2019-12-29",
+    "createddate": 1587145807856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-45d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 119,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Education",
+    "categoryid": "6",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-29",
+    "description": {
+      "original": "EDUCATION ACS Education Services",
+      "simple": "EDUCATION ACS Education Services"
+    },
+    "detailcategoryid": "1298",
+    "highlevelcategoryid": "10000022",
+    "id": "13480438",
+    "entityid": "35_13480438",
+    "ismanual": false,
+    "isphysical": true,
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-29",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-28",
+    "createddate": 1587145507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 66.2,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Insurance",
+    "categoryid": "14",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-29",
+    "description": {
+      "original": "INS DEBIT : $Num THE HARTFORD",
+      "simple": "The Hartford Financial Services Group, Inc."
+    },
+    "detailcategoryid": "1512",
+    "highlevelcategoryid": "10000020",
+    "id": "13480437",
+    "entityid": "35_13480437",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "36775",
+      "name": "The Hartford Financial Services Group, Inc.",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-29",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-28",
+    "createddate": 1587145207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 247.42,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Insurance",
+    "categoryid": "14",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-29",
+    "description": {
+      "original": "AUTH PMT XXXX SADIE CLAUDIA THE HARTFORD",
+      "simple": "The Hartford Financial Services Group, Inc."
+    },
+    "detailcategoryid": "1512",
+    "highlevelcategoryid": "10000020",
+    "id": "13480439",
+    "entityid": "35_13480439",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "id": "36775",
+      "name": "The Hartford Financial Services Group, Inc.",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-29",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-28",
+    "createddate": 1587144907856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-26d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 1045,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Education",
+    "categoryid": "6",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-29",
+    "description": {
+      "original": "LANGUAGE SCHO STANFORD UNIV",
+      "simple": "LANGUAGE SCHO STANFORD UNIV"
+    },
+    "detailcategoryid": "1298",
+    "highlevelcategoryid": "10000022",
+    "id": "13480436",
+    "entityid": "35_13480436",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-29",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-28",
+    "createddate": 1587144607856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-62d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 200.4,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Transfers",
+    "categoryid": "28",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "creditCard",
+    "date": "2019-12-28",
+    "description": {
+      "original": "ACH DEBIT PAYPAL XFER LYFT",
+      "simple": "Transfer to PayPal"
+    },
+    "detailcategoryid": "1170",
+    "highlevelcategoryid": "10000015",
+    "id": "13480440",
+    "entityid": "35_13480440",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "id": "10002108",
+      "name": "Paypal",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-28",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2019-12-27",
+    "createddate": 1587144307856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-90d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 279.58,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Travel",
+    "categoryid": "23",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-28",
+    "description": {
+      "original": "PURCHASE AUTHORIZED LYFT",
+      "simple": "Lyft"
+    },
+    "detailcategoryid": "1257",
+    "highlevelcategoryid": "10000011",
+    "id": "13480441",
+    "entityid": "35_13480441",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "city": "Camperdown",
+        "country": "AU",
+        "state": "QLD"
+      },
+      "id": "11936822",
+      "name": "Lyft",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-28",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-27",
+    "createddate": 1587144007856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-75d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 54.45,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-02",
+    "description": {
+      "original": "PURCHASE AUTHORIZED EXXONMOBIL PAY AT THE PUM Helena:MT",
+      "simple": "ExxonMobil"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480529",
+    "entityid": "35_13480529",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "city": "Wanneroo",
+        "country": "AU",
+        "state": "VIC"
+      },
+      "categorylabel": [
+        "Transportation",
+        " Gas Stations"
+      ],
+      "id": "11509109",
+      "name": "ExxonMobil",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-01",
+    "createddate": 1587143707856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-72d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 362.34,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Rewards",
+    "categoryid": "225",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2019-12-02",
+    "description": {
+      "original": "DES:REWARDS ID: XXXX BANKCARD",
+      "simple": "DES:REWARDS ID: XX BANKCARD"
+    },
+    "detailcategoryid": "1187",
+    "highlevelcategoryid": "10000012",
+    "id": "13480527",
+    "entityid": "35_13480527",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REWARDS",
+    "transactiondate": "2019-12-01",
+    "createddate": 1587143407856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-51d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 16.86,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Rewards",
+    "categoryid": "225",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "creditCard",
+    "date": "2019-12-02",
+    "description": {
+      "original": "DES:REWARDS ID: XXXX Citi Bank",
+      "simple": "Rewards from Citibank"
+    },
+    "detailcategoryid": "1187",
+    "highlevelcategoryid": "10000012",
+    "id": "13480524",
+    "entityid": "35_13480524",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Transfers"
+      ],
+      "id": "10000832",
+      "name": "Citibank",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REWARDS",
+    "transactiondate": "2019-12-01",
+    "createddate": 1587143107856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-55d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 265.42,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Rent",
+    "categoryid": "21",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-02",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ENTERPRISE RENT A CAR",
+      "simple": "Payment to Enterprise Rent-A-Car"
+    },
+    "detailcategoryid": "1165",
+    "highlevelcategoryid": "10000004",
+    "id": "13480525",
+    "entityid": "35_13480525",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Transportation"
+      ],
+      "id": "10002046",
+      "name": "Enterprise Rent-a-car",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2019-12-01",
+    "createddate": 1587142807856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-27d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 391.99,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Travel",
+    "categoryid": "23",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-02",
+    "description": {
+      "original": "AIRPORT PARKING",
+      "simple": "Airport Parking"
+    },
+    "detailcategoryid": "1108",
+    "highlevelcategoryid": "10000011",
+    "id": "13480528",
+    "entityid": "35_13480528",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Transportation",
+        " Parking"
+      ],
+      "id": "10283897",
+      "name": "Airport Parking",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-01",
+    "createddate": 1587142507856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-82d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 32.44,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Automotive/Petrol",
+    "categoryid": "2",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2019-12-02",
+    "description": {
+      "original": "Checkcard Purchase PHILLIPS XX SERVICE STATION Campbell:CA",
+      "simple": "Checkcard PHILLIPS XX SERVICE STATION Campbell:CA"
+    },
+    "detailcategoryid": "1266",
+    "highlevelcategoryid": "10000003",
+    "id": "13480526",
+    "entityid": "35_13480526",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2019-12-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2019-12-01",
+    "createddate": 1587142207856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  }
+]

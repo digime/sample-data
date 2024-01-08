@@ -1,0 +1,70 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "ca61b17e-1e05-42f7-ad3d-16be6ee4c1ba",
+    "entityid": "30_123456789_ca61b17e-1e05-42f7-ad3d-16be6ee4c1ba",
+    "code": {
+      "coding": [
+        {
+          "display": "H/O: tuberculosis",
+          "code": "251538012"
+        }
+      ],
+      "text": "H/O: tuberculosis"
+    },
+    "onsetdatetime": "2022-07-01T20:08:40",
+    "createddate": 1666035101754,
+    "recordeddate": "2022-07-01T20:08:40",
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "a8489ce5-ef9c-4fdb-8134-c4695ca47cf6",
+    "entityid": "30_123456789_a8489ce5-ef9c-4fdb-8134-c4695ca47cf6",
+    "code": {
+      "coding": [
+        {
+          "display": "Allergic conjunctivitis",
+          "code": "347429013"
+        }
+      ],
+      "text": "Allergic conjunctivitis"
+    },
+    "onsetdatetime": "2022-07-01T20:03:40",
+    "createddate": 1666034801754,
+    "recordeddate": "2022-07-01T20:03:40",
+    "__sampleDataTemplate": {
+      "createddate": "now-67d"
+    }
+  }
+]

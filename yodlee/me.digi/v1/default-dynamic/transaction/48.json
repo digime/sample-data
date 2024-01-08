@@ -1,0 +1,1710 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1124.69,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-07",
+    "description": {
+      "original": "3-AVENUE C SECURE PAY TROY MI",
+      "simple": "3-AVENUE C SECURE PAY TROY MI"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814107",
+    "entityid": "35_32814107",
+    "intermediary": [
+      "Securepay"
+    ],
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-07",
+    "runningbalance": {
+      "amount": 112503.38,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-07",
+    "createddate": 1429054447856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-53d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 150.8,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-07",
+    "description": {
+      "original": "4Change* Energy Change XXX-XXX-2426 TX",
+      "simple": "4Change* Energy Change XX-2426 TX"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "32814106",
+    "entityid": "35_32814106",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2021-04-07",
+    "runningbalance": {
+      "amount": 111378.69,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "UTILITIES_PAYMENT",
+    "transactiondate": "2021-04-07",
+    "createddate": 1429054147856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-16d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 147.65,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Loans",
+    "categoryid": "17",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-06",
+    "description": {
+      "original": "XX379-SUN TRUST GARAGE BALTIMORE MD #XXXX9104N03PW9R46",
+      "simple": "SunTrust Banks, Inc"
+    },
+    "detailcategoryid": "1158",
+    "highlevelcategoryid": "10000004",
+    "id": "32814109",
+    "entityid": "35_32814109",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "34795",
+      "name": "SunTrust Banks, Inc",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-06",
+    "runningbalance": {
+      "amount": 111529.49,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-06",
+    "createddate": 1429053847856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-69d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 662.88,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-06",
+    "description": {
+      "original": "3-AVENUE C SECURE PAY TROY MI",
+      "simple": "3-AVENUE C SECURE PAY TROY MI"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814108",
+    "entityid": "35_32814108",
+    "intermediary": [
+      "Securepay"
+    ],
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-06",
+    "runningbalance": {
+      "amount": 111677.14,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-06",
+    "createddate": 1429053547856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-22d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 292.17,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-05",
+    "description": {
+      "original": "XXX12 - CITY OF ATLANTA",
+      "simple": "XXX12 - CITY OF ATLANTA"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814111",
+    "entityid": "35_32814111",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-05",
+    "runningbalance": {
+      "amount": 111014.26,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-05",
+    "createddate": 1429053247856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-48d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 75.4,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Other Expenses",
+    "categoryid": "19",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-05",
+    "description": {
+      "original": "1. THE BLIND TIGER C Tampa FL REF# 2FfACtilvji squareup.com/rec",
+      "simple": "1. THE BLIND TIGER C Tampa FL REF# 2FfACtilvji squareup.com/rec"
+    },
+    "detailcategoryid": "1161",
+    "highlevelcategoryid": "10000009",
+    "id": "32814110",
+    "entityid": "35_32814110",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-05",
+    "runningbalance": {
+      "amount": 110722.09,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-05",
+    "createddate": 1429052947856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-22d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1338.32,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-02",
+    "description": {
+      "original": "21ST ST GAS CORP         ASTORIA      NY",
+      "simple": "21ST ST GAS CORP         ASTORIA      NY"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814113",
+    "entityid": "35_32814113",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-02",
+    "runningbalance": {
+      "amount": 110797.49,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-02",
+    "createddate": 1429052647856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-20d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 782.26,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-02",
+    "description": {
+      "original": "21ST ST GAS CORP         ASTORIA      NY",
+      "simple": "21ST ST GAS CORP         ASTORIA      NY"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814112",
+    "entityid": "35_32814112",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-02",
+    "runningbalance": {
+      "amount": 109459.17,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-02",
+    "createddate": 1429052347856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1404.29,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-24",
+    "description": {
+      "original": "21ST ST GAS CORP         ASTORIA      NY",
+      "simple": "21ST ST GAS CORP         ASTORIA      NY"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814089",
+    "entityid": "35_32814089",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-24",
+    "runningbalance": {
+      "amount": 118774.01,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-24",
+    "createddate": 1429052047856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 18.85,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-24",
+    "description": {
+      "original": "05/08/19 AMAZON.COM*MN0FJ1CC0 AMZN AMZN.COM/BILL WA US",
+      "simple": "Amazon"
+    },
+    "detailcategoryid": "1316",
+    "highlevelcategoryid": "10000010",
+    "id": "32814088",
+    "entityid": "35_32814088",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU",
+        "state": "WA"
+      },
+      "categorylabel": [
+        "Retail"
+      ],
+      "id": "10176609",
+      "name": "Amazon",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-24",
+    "runningbalance": {
+      "amount": 117369.72,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-24",
+    "createddate": 1429051747856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-39d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 28.27,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Transfers",
+    "categoryid": "28",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-23",
+    "description": {
+      "original": "5/3 INTRABANK TRANSFER",
+      "simple": "5/3 INTRABANK TRANSFER"
+    },
+    "detailcategoryid": "1170",
+    "highlevelcategoryid": "10000015",
+    "id": "32814091",
+    "entityid": "35_32814091",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-23",
+    "runningbalance": {
+      "amount": 117388.57,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "TRANSFER",
+    "transactiondate": "2021-04-23",
+    "createddate": 1429051447856,
+    "type": "TRANSFER",
+    "__sampleDataTemplate": {
+      "createddate": "now-26d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 34.56,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Other Expenses",
+    "categoryid": "19",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-23",
+    "description": {
+      "original": "24 YR GOAL CRESCENT CA SAND SPRINGS OK",
+      "simple": "24 YR GOAL CRESCENT CA SAND SPRINGS OK"
+    },
+    "detailcategoryid": "1161",
+    "highlevelcategoryid": "10000009",
+    "id": "32814090",
+    "entityid": "35_32814090",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-23",
+    "runningbalance": {
+      "amount": 117416.84,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-23",
+    "createddate": 1429051147856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-40d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1203.23,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-21",
+    "description": {
+      "original": "#5 S  A GROCERY",
+      "simple": "#5 S A GROCERY"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "32814093",
+    "entityid": "35_32814093",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-21",
+    "runningbalance": {
+      "amount": 117451.4,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2021-04-21",
+    "createddate": 1429050847856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 103.67,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Personal/Family",
+    "categoryid": "20",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-21",
+    "description": {
+      "original": "#7 DELLARIA SALONS  S BROOKLINE MA",
+      "simple": "#7 DELLARIA SALONS S BROOKLINE MA"
+    },
+    "detailcategoryid": "1527",
+    "highlevelcategoryid": "10000010",
+    "id": "32814092",
+    "entityid": "35_32814092",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-21",
+    "runningbalance": {
+      "amount": 116248.17,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-21",
+    "createddate": 1429050547856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-81d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 43.98,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Loans",
+    "categoryid": "17",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-20",
+    "description": {
+      "original": "XXX08 - NY PRESBYTER NEW YORK NY REF# XXXXXXXXX XXXXXX2000",
+      "simple": "XX08 - NY PRESBYTER NEW YORK NY REF# XX2000"
+    },
+    "detailcategoryid": "1158",
+    "highlevelcategoryid": "10000004",
+    "id": "32814095",
+    "entityid": "35_32814095",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2021-04-20",
+    "runningbalance": {
+      "amount": 116351.84,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "LOAN",
+    "transactiondate": "2021-04-20",
+    "createddate": 1429050247856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-62d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 116.24,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-20",
+    "description": {
+      "original": "05/31/19 AsurionWireless Insurance XXX-XXX2535 TN US",
+      "simple": "05/31/19 AsurionWireless Insurance XX2535 TN US"
+    },
+    "detailcategoryid": "1195",
+    "highlevelcategoryid": "10000012",
+    "id": "32814094",
+    "entityid": "35_32814094",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-20",
+    "runningbalance": {
+      "amount": 116395.82,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "DEPOSIT",
+    "transactiondate": "2021-04-20",
+    "createddate": 1429049947856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-19d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 78.54,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Education",
+    "categoryid": "6",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-17",
+    "description": {
+      "original": "4257 AMC FT WAYNE 20",
+      "simple": "4257 AMC FT WAYNE 20"
+    },
+    "detailcategoryid": "1298",
+    "highlevelcategoryid": "10000022",
+    "id": "32814097",
+    "entityid": "35_32814097",
+    "ismanual": false,
+    "isphysical": true,
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-17",
+    "runningbalance": {
+      "amount": 116279.58,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-17",
+    "createddate": 1429049647856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-61d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 3.14,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Loans",
+    "categoryid": "17",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-17",
+    "description": {
+      "original": "XX379-SUN TRUST GARAGE BALTIMORE MD #XXXX9104N03PW9R46",
+      "simple": "SunTrust Banks, Inc"
+    },
+    "detailcategoryid": "1158",
+    "highlevelcategoryid": "10000004",
+    "id": "32814096",
+    "entityid": "35_32814096",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "34795",
+      "name": "SunTrust Banks, Inc",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-17",
+    "runningbalance": {
+      "amount": 116358.12,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-17",
+    "createddate": 1429049347856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-79d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 21.99,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-16",
+    "description": {
+      "original": "06/02/19 CHEWY.COM XXX-XXX-4399 FL US",
+      "simple": "Chewy"
+    },
+    "detailcategoryid": "1557",
+    "highlevelcategoryid": "10000010",
+    "id": "32814099",
+    "entityid": "35_32814099",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "id": "299325",
+      "name": "Chewy",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-16",
+    "runningbalance": {
+      "amount": 116361.26,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-16",
+    "createddate": 1429049047856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-69d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1278.63,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-16",
+    "description": {
+      "original": "3-AVENUE C SECURE PAY TROY MI",
+      "simple": "3-AVENUE C SECURE PAY TROY MI"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814098",
+    "entityid": "35_32814098",
+    "intermediary": [
+      "Securepay"
+    ],
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-16",
+    "runningbalance": {
+      "amount": 116383.25,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-16",
+    "createddate": 1429048747856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-80d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 863.94,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-13",
+    "description": {
+      "original": "4TE*GEXA ENERGY HOUSTON TX",
+      "simple": "4TE*GEXA ENERGY HOUSTON TX"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "32814101",
+    "entityid": "35_32814101",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-13",
+    "runningbalance": {
+      "amount": 115104.62,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2021-04-13",
+    "createddate": 1429048447856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-68d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1083.85,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Other Income",
+    "categoryid": "32",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-13",
+    "description": {
+      "original": "#4 BRAVO! DAYTON",
+      "simple": "#4 BRAVO! DAYTON"
+    },
+    "detailcategoryid": "1182",
+    "highlevelcategoryid": "10000012",
+    "id": "32814100",
+    "entityid": "35_32814100",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "city": "Dayton",
+        "country": "AU",
+        "state": "WA"
+      },
+      "id": "10557156",
+      "name": "Bravo",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-13",
+    "runningbalance": {
+      "amount": 114240.68,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "CREDIT",
+    "transactiondate": "2021-04-13",
+    "createddate": 1429048147856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-51d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 18.85,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-09",
+    "description": {
+      "original": "05/08/19 AMAZON.COM*MN0FJ1CC0 AMZN AMZN.COM/BILL WA US",
+      "simple": "Amazon"
+    },
+    "detailcategoryid": "1316",
+    "highlevelcategoryid": "10000010",
+    "id": "32814103",
+    "entityid": "35_32814103",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU",
+        "state": "WA"
+      },
+      "categorylabel": [
+        "Retail"
+      ],
+      "id": "10176609",
+      "name": "Amazon",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-09",
+    "runningbalance": {
+      "amount": 113156.83,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-09",
+    "createddate": 1429047847856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-27d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 37.7,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Loans",
+    "categoryid": "17",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-09",
+    "description": {
+      "original": "XX379-SUN TRUST GARAGE BALTIMORE MD #XXXX9104N03PW9R46",
+      "simple": "SunTrust Banks, Inc"
+    },
+    "detailcategoryid": "1158",
+    "highlevelcategoryid": "10000004",
+    "id": "32814102",
+    "entityid": "35_32814102",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "34795",
+      "name": "SunTrust Banks, Inc",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-09",
+    "runningbalance": {
+      "amount": 113175.68,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-09",
+    "createddate": 1429047547856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-78d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 150.8,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-08",
+    "description": {
+      "original": "4TE*GEXA ENERGY XXX-XXX-9399 TX",
+      "simple": "4TE*GEXA ENERGY XX-9399 TX"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "32814105",
+    "entityid": "35_32814105",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2021-04-08",
+    "runningbalance": {
+      "amount": 113213.38,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "UTILITIES_PAYMENT",
+    "transactiondate": "2021-04-08",
+    "createddate": 1429047247856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-39d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 860.8,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-08",
+    "description": {
+      "original": "24 YR GOAL CRESCENT CA SAND SPRINGS OK",
+      "simple": "24 YR GOAL CRESCENT CA SAND SPRINGS OK"
+    },
+    "detailcategoryid": "1195",
+    "highlevelcategoryid": "10000012",
+    "id": "32814104",
+    "entityid": "35_32814104",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-08",
+    "runningbalance": {
+      "amount": 113364.18,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "DEPOSIT",
+    "transactiondate": "2021-04-08",
+    "createddate": 1429046947856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-37d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1288.05,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-30",
+    "description": {
+      "original": "05/31/19 AsurionWireless Insurance XXX-XXX2535 TN US",
+      "simple": "05/31/19 AsurionWireless Insurance XX2535 TN US"
+    },
+    "detailcategoryid": "1195",
+    "highlevelcategoryid": "10000012",
+    "id": "32814081",
+    "entityid": "35_32814081",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-30",
+    "runningbalance": {
+      "amount": 121745.94,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "DEPOSIT",
+    "transactiondate": "2021-04-30",
+    "createddate": 1429046647856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-33d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 12.57,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-30",
+    "description": {
+      "original": "*JUST ADD WATER/WATER Ripon WI",
+      "simple": "*JUST ADD WATER/WATER Ripon WI"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "32814080",
+    "entityid": "35_32814080",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2021-04-30",
+    "runningbalance": {
+      "amount": 120457.89,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "UTILITIES_PAYMENT",
+    "transactiondate": "2021-04-30",
+    "createddate": 1429046347856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-22d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 31.42,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Refunds/Adjustments",
+    "categoryid": "227",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-29",
+    "description": {
+      "original": "# 7704 LA QUINTA INNS",
+      "simple": "# 7704 LA QUINTA INNS"
+    },
+    "detailcategoryid": "1188",
+    "highlevelcategoryid": "10000019",
+    "id": "32814083",
+    "entityid": "35_32814083",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-29",
+    "runningbalance": {
+      "amount": 120470.46,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "REFUND",
+    "transactiondate": "2021-04-29",
+    "createddate": 1429046047856,
+    "type": "REFUND",
+    "__sampleDataTemplate": {
+      "createddate": "now-16d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 128.81,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-29",
+    "description": {
+      "original": "4Change* Energy Change XXX-XXX-2426 TX",
+      "simple": "4Change* Energy Change XX-2426 TX"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "32814082",
+    "entityid": "35_32814082",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "BILLERS",
+    "postdate": "2021-04-29",
+    "runningbalance": {
+      "amount": 120439.04,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "UTILITIES_PAYMENT",
+    "transactiondate": "2021-04-29",
+    "createddate": 1429045747856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-44d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 600.04,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-27",
+    "description": {
+      "original": "05/31/19 AsurionWireless Insurance XXX-XXX2535 TN US",
+      "simple": "05/31/19 AsurionWireless Insurance XX2535 TN US"
+    },
+    "detailcategoryid": "1195",
+    "highlevelcategoryid": "10000012",
+    "id": "32814085",
+    "entityid": "35_32814085",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-27",
+    "runningbalance": {
+      "amount": 120567.85,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "DEPOSIT",
+    "transactiondate": "2021-04-27",
+    "createddate": 1429045447856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-46d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 72.26,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Utilities",
+    "categoryid": "39",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-27",
+    "description": {
+      "original": "21ST ST GAS CORP         ASTORIA      NY",
+      "simple": "21ST ST GAS CORP ASTORIA NY"
+    },
+    "detailcategoryid": "1172",
+    "highlevelcategoryid": "10000004",
+    "id": "32814084",
+    "entityid": "35_32814084",
+    "ismanual": false,
+    "isphysical": true,
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-27",
+    "runningbalance": {
+      "amount": 119967.81,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2021-04-27",
+    "createddate": 1429045147856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-31d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 1310.04,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-25",
+    "description": {
+      "original": "05/15/19 HOMEDEPOT.COM XXX-XXX-3376 GA US",
+      "simple": "The Home Depot Deposit"
+    },
+    "detailcategoryid": "1195",
+    "highlevelcategoryid": "10000012",
+    "id": "32814087",
+    "entityid": "35_32814087",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Home Improvement"
+      ],
+      "id": "10000838",
+      "name": "The Home Depot",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-25",
+    "runningbalance": {
+      "amount": 120040.07,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "DEPOSIT",
+    "transactiondate": "2021-04-25",
+    "createddate": 1429044847856,
+    "type": "DEPOSITS_CREDITS",
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099182",
+    "amount": {
+      "amount": 43.98,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Services/Supplies",
+    "categoryid": "16",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2021-04-25",
+    "description": {
+      "original": "05/08/19 ANC*ANCESTRY.COM XXX-XXX3787 UT US",
+      "simple": "Ancestry.com"
+    },
+    "detailcategoryid": "1042",
+    "id": "32814086",
+    "entityid": "35_32814086",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Businesses and Services"
+      ],
+      "id": "10002024",
+      "name": "Ancestry.com",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2021-04-25",
+    "runningbalance": {
+      "amount": 118730.03,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PAYMENT",
+    "transactiondate": "2021-04-25",
+    "createddate": 1429044547856,
+    "type": "PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-51d"
+    }
+  }
+]

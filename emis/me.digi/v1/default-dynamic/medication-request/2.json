@@ -1,0 +1,42 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "GlucoDock testing strips (Medisana Healthcare (UK) Ltd)"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "7 strip",
+              "unit": "strip",
+              "value": 7
+            }
+          }
+        ],
+        "text": "1"
+      }
+    ],
+    "status": "Cancelled",
+    "id": "4d00bfd8-e7d6-47ae-9546-2fd3934c2cde",
+    "entityid": "30_123456789_4d00bfd8-e7d6-47ae-9546-2fd3934c2cde",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-08-31T18:36:52"
+      }
+    },
+    "createddate": 1671299993754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "7684241000033116"
+        }
+      ],
+      "text": "GlucoDock testing strips (Medisana Healthcare (UK) Ltd)"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-33d"
+    }
+  }
+]

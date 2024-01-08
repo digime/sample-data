@@ -1,0 +1,138 @@
+[
+  {
+    "resourceType": "EpisodeOfCare",
+    "id": "gpdata-episodeofcare-icpc-d02",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-03-13T04:51:43.805-04:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b95762bc-041c-11ec-8388-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: voltooid</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Maagpijn</div></td></tr><tr><th>Periode</th><td>2022-12-03 - 2022-12-08</td></tr><tr><th>Zorgmanager</th><td>Dokter Bernard, Aesculaap</td></tr><tr><th>Diagnose</th><td>Maagpijn</td></tr></tbody></table></div>"
+    },
+    "extension": [
+      {
+        "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateFirstEncounter",
+        "valueDateTime": "2022-12-08"
+      },
+      {
+        "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-DateLastEncounter",
+        "valueDateTime": "2022-12-08"
+      },
+      {
+        "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+        "valueString": "Maagpijn"
+      }
+    ],
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "b95762bc-041c-11ec-8388-020000000000"
+      }
+    ],
+    "status": "finished",
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "64572001",
+            "display": "aandoening"
+          }
+        ]
+      }
+    ],
+    "diagnosis": [
+      {
+        "condition": {
+          "reference": "Condition/gpdata-condition-icpc-d02",
+          "display": "Maagpijn"
+        }
+      }
+    ],
+    "patient": {
+      "reference": "Patient/medmij-bgz-patient-ts-01",
+      "display": "Johan XXX_Helleman"
+    },
+    "managingOrganization": {
+      "reference": "Organization/gpdata-organization-kwalificatie1",
+      "display": "Aesculaap"
+    },
+    "period": {
+      "end": "2022-12-08"
+    },
+    "careManager": {
+      "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+      "display": "Dokter Bernard"
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_gpdata-episodeofcare-icpc-d02"
+  },
+  {
+    "resourceType": "EpisodeOfCare",
+    "id": "gpdata-episodeofcare-icpc-k70",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-03-13T04:51:44.665-04:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-episodeofcare"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgepisode. Pati\u00ebnt: Jacqueline XXX_Cevat. Id: b96e1f0c-041c-11ec-1716-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief</caption><tbody><tr><th>Type</th><td><span title=\"aandoening (64572001 - SNOMED CT)\">aandoening</span><div>Endocarditis profylaxe ivm mitralis insufficientie</div></td></tr><tr><th>Periode</th><td>Vanaf 2022-05-17</td></tr><tr><th>Zorgmanager</th><td>Dokter Bernard, Aesculaap</td></tr><tr><th>Diagnose</th><td>Infectieziekte Hartvaatstelsel</td></tr></tbody></table></div>"
+    },
+    "extension": [
+      {
+        "url": "http://nictiz.nl/fhir/StructureDefinition/EpisodeOfCare-Title",
+        "valueString": "Endocarditis profylaxe ivm mitralis insufficientie"
+      }
+    ],
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "b96e1f0c-041c-11ec-1716-020000000000"
+      }
+    ],
+    "status": "active",
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "64572001",
+            "display": "aandoening"
+          }
+        ]
+      }
+    ],
+    "diagnosis": [
+      {
+        "condition": {
+          "reference": "Condition/gpdata-condition-icpc-k70",
+          "display": "Infectieziekte Hartvaatstelsel"
+        }
+      }
+    ],
+    "patient": {
+      "reference": "Patient/medmij-bgz-patient-ts-01",
+      "display": "Johan XXX_Helleman"
+    },
+    "managingOrganization": {
+      "reference": "Organization/gpdata-organization-kwalificatie1",
+      "display": "Aesculaap"
+    },
+    "period": {
+      "start": "2022-05-17"
+    },
+    "careManager": {
+      "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+      "display": "Dokter Bernard"
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_gpdata-episodeofcare-icpc-k70"
+  }
+]

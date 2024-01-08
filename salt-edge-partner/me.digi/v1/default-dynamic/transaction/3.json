@@ -1,0 +1,23 @@
+[
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044179905546348",
+    "entityid": "39_123456789_893044179905546348",
+    "categorytype": "fees_and_charges",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 100,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Proximus Refund"
+    },
+    "createddate": 1666110557667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "__sampleDataTemplate": {
+      "createddate": "now-56d"
+    }
+  }
+]

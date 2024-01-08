@@ -1,0 +1,684 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 22.88,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Restaurants",
+    "categoryid": "22",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-11",
+    "description": {
+      "original": "PURCHASE AUTHORIZED ON READYREFRESH Montgomery:AL",
+      "simple": "READYREFRESH Montgomery:AL"
+    },
+    "detailcategoryid": "1589",
+    "highlevelcategoryid": "10000021",
+    "id": "13480272",
+    "entityid": "35_13480272",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-10",
+    "createddate": 1571322631856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-86d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 17.51,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-11",
+    "description": {
+      "original": "PAYMENT FEEDERS PET SUPPLY Montgomery:AL",
+      "simple": "FEEDERS PET SUPPLY Montgomery:AL"
+    },
+    "detailcategoryid": "1173",
+    "highlevelcategoryid": "10000010",
+    "id": "13480271",
+    "entityid": "35_13480271",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-11",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-10",
+    "createddate": 1571322331856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-41d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 237.86,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Healthcare/Medical",
+    "categoryid": "11",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-10",
+    "description": {
+      "original": "POS PURCHASE CVS/PHARMACY",
+      "simple": "Cvs Pharmacy"
+    },
+    "detailcategoryid": "1471",
+    "highlevelcategoryid": "10000006",
+    "id": "13480274",
+    "entityid": "35_13480274",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Healthcare",
+        " Pharmacies"
+      ],
+      "id": "10002115",
+      "name": "Cvs Pharmacy",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-10",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-09",
+    "createddate": 1571322031856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-55d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 96.53,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Service Charges/Fees",
+    "categoryid": "24",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-10",
+    "description": {
+      "original": "CHARGE WIRE TRANS",
+      "simple": "CHARGE WIRE TRANS"
+    },
+    "detailcategoryid": "1168",
+    "highlevelcategoryid": "10000009",
+    "id": "13480273",
+    "entityid": "35_13480273",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-10",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "OTHER_CHARGES_FEES",
+    "transactiondate": "2020-03-09",
+    "createddate": 1571321731856,
+    "type": "CHARGES_FEES",
+    "__sampleDataTemplate": {
+      "createddate": "now-59d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 90.99,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Office Expenses",
+    "categoryid": "45",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-09",
+    "description": {
+      "original": "OfficeMax",
+      "simple": "Officemax"
+    },
+    "detailcategoryid": "1177",
+    "highlevelcategoryid": "10000007",
+    "id": "13480276",
+    "entityid": "35_13480276",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Businesses and Services",
+        " Financial",
+        " Other Loans"
+      ],
+      "id": "10002027",
+      "name": "Officemax",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-08",
+    "createddate": 1571321431856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-80d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 145.93,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Postage/Shipping",
+    "categoryid": "104",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-09",
+    "description": {
+      "original": "ACH WITHDRAWAL POSTMATES",
+      "simple": "ACH WITHDRAWAL POSTMATES"
+    },
+    "detailcategoryid": "1561",
+    "highlevelcategoryid": "10000007",
+    "id": "13480275",
+    "entityid": "35_13480275",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-08",
+    "createddate": 1571321131856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-49d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 7,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Gifts",
+    "categoryid": "9",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-09",
+    "description": {
+      "original": "POS Debit QVC Gift Saint Paul:MN",
+      "simple": "QVC Gift Saint Paul:MN"
+    },
+    "detailcategoryid": "1420",
+    "highlevelcategoryid": "10000010",
+    "id": "13480277",
+    "entityid": "35_13480277",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-08",
+    "createddate": 1571320831856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 27.13,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Entertainment/Recreation",
+    "categoryid": "7",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-08",
+    "description": {
+      "original": "CARD PURCHASE AMC CINEMA Denver:CO",
+      "simple": "CARD AMC CINEMA Denver:CO"
+    },
+    "detailcategoryid": "1352",
+    "highlevelcategoryid": "10000010",
+    "id": "13480279",
+    "entityid": "35_13480279",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-07",
+    "createddate": 1571320531856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 47.85,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-08",
+    "description": {
+      "original": "ONLINE PAYMENT READYREFRESH Denver:CO",
+      "simple": "Ready Refresh"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480278",
+    "entityid": "35_13480278",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "id": "296884",
+      "name": "Ready Refresh",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-08",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-07",
+    "createddate": 1571320231856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-70d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 668.8,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Electronics/General Merchandise",
+    "categoryid": "43",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-07",
+    "description": {
+      "original": "POS Debit DELL.com Dover:DE",
+      "simple": "Dell"
+    },
+    "detailcategoryid": "1305",
+    "highlevelcategoryid": "10000010",
+    "id": "13480280",
+    "entityid": "35_13480280",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Retail",
+        " Computers and Electronics"
+      ],
+      "id": "10002018",
+      "name": "Dell",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-07",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-06",
+    "createddate": 1571319931856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-33d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 181.42,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Other Expenses",
+    "categoryid": "19",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-06",
+    "description": {
+      "original": "ONLINE PAYMENT Pandora Trenton:NJ",
+      "simple": "Pandora Trenton:NJ"
+    },
+    "detailcategoryid": "1161",
+    "highlevelcategoryid": "10000009",
+    "id": "13480281",
+    "entityid": "35_13480281",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-05",
+    "createddate": 1571319631856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-39d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 97.92,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Healthcare/Medical",
+    "categoryid": "11",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-06",
+    "description": {
+      "original": "Web Authorized Pmt Lawtons Drugs",
+      "simple": "Lawtons Drugs"
+    },
+    "detailcategoryid": "1453",
+    "highlevelcategoryid": "10000006",
+    "id": "13480282",
+    "entityid": "35_13480282",
+    "ismanual": false,
+    "isphysical": false,
+    "merchant": {
+      "id": "22028",
+      "name": "Lawtons Drugs",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-05",
+    "createddate": 1571319331856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 133.96,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Groceries",
+    "categoryid": "10",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-04",
+    "description": {
+      "original": "POS PURCHASE HARLAND CLARKE MARKETING",
+      "simple": "HARLAND CLARKE MARKETING"
+    },
+    "detailcategoryid": "1431",
+    "highlevelcategoryid": "10000021",
+    "id": "13480283",
+    "entityid": "35_13480283",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-04",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-03",
+    "createddate": 1571319031856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 207.34,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Home Improvement",
+    "categoryid": "13",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-03",
+    "description": {
+      "original": "MERCHANT PAYMENT FLOOR & DECOR Charleston:WV",
+      "simple": "Floor and Decor Outlets"
+    },
+    "detailcategoryid": "1153",
+    "highlevelcategoryid": "10000004",
+    "id": "13480284",
+    "entityid": "35_13480284",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "id": "14546",
+      "name": "Floor and Decor Outlets",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-03",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-02",
+    "createddate": 1571318731856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-74d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099184",
+    "amount": {
+      "amount": 39.1,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Pet Care",
+    "categoryid": "42",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "creditCard",
+    "date": "2020-03-12",
+    "description": {
+      "original": "PAYMENT PetSmart Nashville:TN",
+      "simple": "PetSmart Nashville:TN"
+    },
+    "detailcategoryid": "1557",
+    "highlevelcategoryid": "10000010",
+    "id": "13480270",
+    "entityid": "35_13480270",
+    "ismanual": false,
+    "isphysical": true,
+    "merchant": {
+      "address": {
+        "country": "AU"
+      },
+      "categorylabel": [
+        "Deposits"
+      ],
+      "id": "10000820",
+      "source": "YODLEE"
+    },
+    "merchanttype": "OTHERS",
+    "postdate": "2020-03-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "subtype": "PURCHASE",
+    "transactiondate": "2020-03-11",
+    "createddate": 1571318431856,
+    "type": "PURCHASE",
+    "__sampleDataTemplate": {
+      "createddate": "now-46d"
+    }
+  }
+]

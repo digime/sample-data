@@ -1,0 +1,114 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "authtype": "CREDENTIALS",
+    "baseurl": "http://64.14.28.129/dag/index.do",
+    "countryisocode": "US",
+    "dataset": [
+      {
+        "attribute": [
+          {
+            "container": [
+              "bank"
+            ],
+            "name": "FULL_ACCT_NUMBER"
+          },
+          {
+            "container": [
+              "bank"
+            ],
+            "name": "BANK_TRANSFER_CODE"
+          },
+          {
+            "container": [
+              "bank"
+            ],
+            "name": "HOLDER_NAME"
+          }
+        ],
+        "name": "ACCT_PROFILE"
+      },
+      {
+        "attribute": [
+          {
+            "container": [
+              "insurance",
+              "reward",
+              "loan",
+              "bank",
+              "investment",
+              "creditCard"
+            ],
+            "name": "ACCOUNT_DETAILS"
+          },
+          {
+            "container": [
+              "insurance",
+              "investment"
+            ],
+            "name": "HOLDINGS"
+          },
+          {
+            "container": [
+              "insurance",
+              "loan",
+              "creditCard"
+            ],
+            "name": "STATEMENTS"
+          },
+          {
+            "container": [
+              "insurance",
+              "loan",
+              "bank",
+              "investment",
+              "creditCard"
+            ],
+            "containerattributes": {
+              "bank": {
+                "numberoftransactiondays": 365
+              },
+              "creditcard": {
+                "numberoftransactiondays": 90
+              },
+              "insurance": {
+                "numberoftransactiondays": 90
+              },
+              "investment": {
+                "numberoftransactiondays": 90
+              },
+              "loan": {
+                "numberoftransactiondays": 90
+              }
+            },
+            "name": "TRANSACTIONS"
+          },
+          {
+            "container": [
+              "insurance",
+              "reward",
+              "loan",
+              "bank",
+              "investment",
+              "creditCard"
+            ],
+            "name": "BASIC_ACCOUNT_INFO"
+          }
+        ],
+        "name": "BASIC_AGG_DATA"
+      }
+    ],
+    "favicon": "https://yodlee-1.hs.llnwd.net/v1/FAVICON/FAV_16441.SVG",
+    "id": "16441",
+    "entityid": "35_16441",
+    "isautorefreshenabled": true,
+    "isconsentrequired": false,
+    "languageisocode": "EN",
+    "lastmodified": "2022-09-16T11:37:00Z",
+    "loginurl": "http://64.14.28.129/dag/index.do",
+    "logo": "https://yodlee-1.hs.llnwd.net/v1/LOGO/LOGO_16441_1_2.SVG",
+    "name": "Dag Site",
+    "primarylanguageisocode": "EN",
+    "status": "Supported"
+  }
+]

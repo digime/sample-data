@@ -1,0 +1,83 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1062.5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2020-03-02",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167060",
+    "entityid": "35_11167060",
+    "ismanual": false,
+    "price": {
+      "amount": 352.5,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2020-03-05",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-03-02",
+    "createddate": 1608247375856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-60d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1062.5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2020-03-02",
+    "description": {
+      "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167059",
+    "entityid": "35_11167059",
+    "ismanual": false,
+    "price": {
+      "amount": 352.5,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2020-03-05",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "DGAZ",
+    "transactiondate": "2020-03-02",
+    "createddate": 1608247075856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-33d"
+    }
+  }
+]

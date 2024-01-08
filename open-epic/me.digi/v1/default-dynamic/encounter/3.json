@@ -1,0 +1,65 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "class": {
+      "code": "13",
+      "display": "Support OP Encounter",
+      "system": "urn:oid:1.2.840.114350.1.72.1.7.7.10.696784.13260"
+    },
+    "createddate": 1666040505982,
+    "hospitalization": {},
+    "identifier": [
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.698084.8",
+        "use": "usual",
+        "value": "27556"
+      }
+    ],
+    "location": [
+      {
+        "location": {
+          "display": "EMC Family Medicine",
+          "reference": "Location/e4W4rmGe9QzuGm2Dy4NBqVc0KDe6yGld6HW95UuN-Qd03"
+        }
+      }
+    ],
+    "entityid": "20_123456789_e6kBx6PwnxIv.5kCifScsWg3",
+    "id": "e6kBx6PwnxIv.5kCifScsWg3",
+    "period": {
+      "end": "2019-05-28",
+      "start": "2019-05-28"
+    },
+    "reasoncode": [
+      {
+        "coding": [
+          {
+            "code": "83",
+            "display": "Annual Exam",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.728286"
+          }
+        ],
+        "text": "Annual Exam"
+      }
+    ],
+    "status": "in-progress",
+    "subject": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "type": [
+      {
+        "coding": [
+          {
+            "code": "101",
+            "display": "Office Visit",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.30"
+          }
+        ],
+        "text": "Office Visit"
+      }
+    ],
+    "__sampleDataTemplate": {
+      "createddate": "now-27d"
+    }
+  }
+]

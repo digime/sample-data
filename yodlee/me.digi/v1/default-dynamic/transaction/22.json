@@ -1,0 +1,512 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 119.38,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-30",
+    "description": {
+      "original": "ADAMZ K-9 WASTE CLEALINCOLN NE XXXXXXXXXXX XXXXXX7297"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814967",
+    "entityid": "35_32814967",
+    "ismanual": false,
+    "postdate": "2020-06-30",
+    "runningbalance": {
+      "amount": 10775.66,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-30",
+    "createddate": 1566058639856,
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 91.11,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-29",
+    "description": {
+      "original": "AVISTA BILL PAY   #...3013"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814968",
+    "entityid": "35_32814968",
+    "ismanual": false,
+    "postdate": "2020-06-29",
+    "runningbalance": {
+      "amount": 10895.04,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-29",
+    "createddate": 1566058339856,
+    "__sampleDataTemplate": {
+      "createddate": "now-35d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 1539.38,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-28",
+    "description": {
+      "original": "AMERICAN-WATER-PAYMENT XXX-XXX-1325 PA"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814969",
+    "entityid": "35_32814969",
+    "ismanual": false,
+    "postdate": "2020-06-28",
+    "runningbalance": {
+      "amount": 10986.15,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-28",
+    "createddate": 1566058039856,
+    "__sampleDataTemplate": {
+      "createddate": "now-18d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 1372.88,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-27",
+    "description": {
+      "original": "BID2-WATER STREET PARK MILWAUKEE WI"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814970",
+    "entityid": "35_32814970",
+    "ismanual": false,
+    "postdate": "2020-06-27",
+    "runningbalance": {
+      "amount": 9446.77,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-27",
+    "createddate": 1566057739856,
+    "__sampleDataTemplate": {
+      "createddate": "now-36d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 47.12,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-26",
+    "description": {
+      "original": "CARDULLOS GOURMET FO BOSTON MA REF# XXXXXXXXXXX XXXXXX8888"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814971",
+    "entityid": "35_32814971",
+    "ismanual": false,
+    "postdate": "2020-06-26",
+    "runningbalance": {
+      "amount": 8073.89,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-26",
+    "createddate": 1566057439856,
+    "__sampleDataTemplate": {
+      "createddate": "now-78d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 1108.98,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-25",
+    "description": {
+      "original": "ARLINGTON WATER UTL XXX-XXX-2647 TX"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814972",
+    "entityid": "35_32814972",
+    "ismanual": false,
+    "postdate": "2020-06-25",
+    "runningbalance": {
+      "amount": 8121.01,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-25",
+    "createddate": 1566057139856,
+    "__sampleDataTemplate": {
+      "createddate": "now-77d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 1420,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-24",
+    "description": {
+      "original": "CHIPOTLE 1896 PITTSBURGH PA"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814973",
+    "entityid": "35_32814973",
+    "ismanual": false,
+    "postdate": "2020-06-24",
+    "runningbalance": {
+      "amount": 7012.03,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-24",
+    "createddate": 1566056839856,
+    "__sampleDataTemplate": {
+      "createddate": "now-72d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 25.13,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-23",
+    "description": {
+      "original": "ACCESS CHECK     ACCESS CHECK CHECK X1110"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814974",
+    "entityid": "35_32814974",
+    "ismanual": false,
+    "postdate": "2020-06-23",
+    "runningbalance": {
+      "amount": 5592.03,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-23",
+    "createddate": 1566056539856,
+    "__sampleDataTemplate": {
+      "createddate": "now-57d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 1404.29,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-22",
+    "description": {
+      "original": "XX379-SUN TRUST GARAGE BALTIMORE MD #XXXX9104N03PW9R46"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814975",
+    "entityid": "35_32814975",
+    "ismanual": false,
+    "postdate": "2020-06-22",
+    "runningbalance": {
+      "amount": 5617.16,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-22",
+    "createddate": 1566056239856,
+    "__sampleDataTemplate": {
+      "createddate": "now-4d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 69.12,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-21",
+    "description": {
+      "original": "AMZN MKTP US AMZN.COM/BILL WA REF# 48OA27HDG3B BOOK STORE"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814976",
+    "entityid": "35_32814976",
+    "ismanual": false,
+    "postdate": "2020-06-21",
+    "runningbalance": {
+      "amount": 4212.87,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-21",
+    "createddate": 1566055939856,
+    "__sampleDataTemplate": {
+      "createddate": "now-87d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 543.5,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-20",
+    "description": {
+      "original": "ASSURED ENVIRONMENTS NEW YORK NY REF# XXXXXXXXXXX XXXXXX5800"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814977",
+    "entityid": "35_32814977",
+    "ismanual": false,
+    "postdate": "2020-06-20",
+    "runningbalance": {
+      "amount": 4281.99,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-20",
+    "createddate": 1566055639856,
+    "__sampleDataTemplate": {
+      "createddate": "now-90d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 634.6,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-19",
+    "description": {
+      "original": "4TE*GEXA ENERGY XXX-XXX-9399 TX"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814978",
+    "entityid": "35_32814978",
+    "ismanual": false,
+    "postdate": "2020-06-19",
+    "runningbalance": {
+      "amount": 3738.49,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-19",
+    "createddate": 1566055339856,
+    "__sampleDataTemplate": {
+      "createddate": "now-67d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 1479.69,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-18",
+    "description": {
+      "original": "C2 - VANGUARD MARKETNEWARK NJ XXXX XXXX X7114"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814979",
+    "entityid": "35_32814979",
+    "ismanual": false,
+    "postdate": "2020-06-18",
+    "runningbalance": {
+      "amount": 3103.89,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-18",
+    "createddate": 1566055039856,
+    "__sampleDataTemplate": {
+      "createddate": "now-52d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 490.09,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-17",
+    "description": {
+      "original": "06/02/19 CHEWY.COM XXX-XXX-4399 FL US"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814980",
+    "entityid": "35_32814980",
+    "ismanual": false,
+    "postdate": "2020-06-17",
+    "runningbalance": {
+      "amount": 1624.2,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-17",
+    "createddate": 1566054739856,
+    "__sampleDataTemplate": {
+      "createddate": "now-61d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099183",
+    "amount": {
+      "amount": 25.13,
+      "currency": "USD"
+    },
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "checknumber": "998",
+    "container": "bank",
+    "date": "2020-06-16",
+    "description": {
+      "original": "ALL MY SONS DALLAS https://cms.a TX"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "32814981",
+    "entityid": "35_32814981",
+    "ismanual": false,
+    "postdate": "2020-06-16",
+    "runningbalance": {
+      "amount": 1134.11,
+      "currency": "USD"
+    },
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-06-16",
+    "createddate": 1566054439856,
+    "__sampleDataTemplate": {
+      "createddate": "now-74d"
+    }
+  }
+]

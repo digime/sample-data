@@ -1,0 +1,74 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountname": "CashRewardOld - 0784",
+    "accountnumber": "xxxx0784",
+    "accountstatus": "ACTIVE",
+    "accounttype": 5,
+    "aggregationsource": "USER",
+    "amountdue": {
+      "amount": 1939.53,
+      "currency": "USD"
+    },
+    "availablecash": {
+      "amount": 608.62,
+      "currency": "USD"
+    },
+    "availablecredit": {
+      "amount": -6052.63,
+      "currency": "USD"
+    },
+    "balance": {
+      "amount": 9793.63,
+      "currency": "USD"
+    },
+    "cashapr": 1.35,
+    "container": "creditCard",
+    "createddate": 1629304843856,
+    "dataset": [
+      {
+        "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+        "lastupdated": "2022-12-02T12:28:12Z",
+        "lastupdateattempt": "2022-12-02T12:28:12Z",
+        "name": "BASIC_AGG_DATA",
+        "nextupdatescheduled": "2022-12-04T04:10:16Z",
+        "updateeligibility": "ALLOW_UPDATE"
+      }
+    ],
+    "displayedname": "SADIE",
+    "duedate": "2019-10-15",
+    "id": "10099184",
+    "entityid": "35_123456789",
+    "includeinnetworth": true,
+    "isasset": false,
+    "ismanual": false,
+    "lastpaymentamount": {
+      "amount": 641.68,
+      "currency": "USD"
+    },
+    "lastpaymentdate": "2019-10-15",
+    "lastupdated": "2022-12-02T12:28:11Z",
+    "minimumamountdue": {
+      "amount": 10,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "providerid": "16441",
+    "providername": "Dag Site",
+    "runningbalance": {
+      "amount": 9793.63,
+      "currency": "USD"
+    },
+    "totalcashlimit": {
+      "amount": 4870.33,
+      "currency": "USD"
+    },
+    "totalcreditline": {
+      "amount": 3741,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-34d"
+    }
+  }
+]

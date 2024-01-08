@@ -1,0 +1,31 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099190",
+    "amount": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Loans",
+    "categoryid": "17",
+    "categorysource": "SYSTEM",
+    "categorytype": "EXPENSE",
+    "container": "loan",
+    "date": "2020-02-01",
+    "description": {
+      "original": "student loan payment"
+    },
+    "highlevelcategoryid": "10000004",
+    "id": "10250655",
+    "entityid": "35_10250655",
+    "ismanual": false,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-02-01",
+    "createddate": 1639820227856,
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  }
+]

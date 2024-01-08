@@ -1,0 +1,78 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "fa010bfe-68ee-48bc-9c0d-8634053c5a08",
+    "entityid": "30_123456789_fa010bfe-68ee-48bc-9c0d-8634053c5a08",
+    "vaccinecode": {
+      "text": "Influenza vaccination",
+      "coding": [
+        {
+          "code": "142934010"
+        }
+      ]
+    },
+    "createddate": 1676560385754,
+    "occurrencedatetime": "2022-10-31T14:50:04",
+    "__sampleDataTemplate": {
+      "createddate": "now-69d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "563b3198-55e6-483d-9eac-b05ac8bc6a75",
+    "entityid": "30_123456789_563b3198-55e6-483d-9eac-b05ac8bc6a75",
+    "vaccinecode": {
+      "text": "1st hepatitis A vaccination",
+      "coding": [
+        {
+          "code": "264177017"
+        }
+      ]
+    },
+    "createddate": 1676560085754,
+    "occurrencedatetime": "2022-10-31T14:45:04",
+    "__sampleDataTemplate": {
+      "createddate": "now-82d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "3af733e8-bf13-41c5-92f0-d7ec3b4d6687",
+    "entityid": "30_123456789_3af733e8-bf13-41c5-92f0-d7ec3b4d6687",
+    "vaccinecode": {
+      "text": "First pneumococcal conjugated vaccination",
+      "coding": [
+        {
+          "code": "405281000000118"
+        }
+      ]
+    },
+    "createddate": 1676559785754,
+    "occurrencedatetime": "2022-10-31T14:40:04",
+    "__sampleDataTemplate": {
+      "createddate": "now-34d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "2017f075-c45a-4aa5-97bd-3151d9a0667c",
+    "entityid": "30_123456789_2017f075-c45a-4aa5-97bd-3151d9a0667c",
+    "vaccinecode": {
+      "text": "Administration of first intranasal pandemic influenza vacc",
+      "coding": [
+        {
+          "code": "1884411000006110"
+        }
+      ]
+    },
+    "createddate": 1676559485754,
+    "occurrencedatetime": "2022-10-31T14:35:04",
+    "__sampleDataTemplate": {
+      "createddate": "now-4d"
+    }
+  }
+]

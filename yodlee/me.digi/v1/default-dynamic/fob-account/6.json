@@ -1,0 +1,53 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountname": "Chase Mortgage - 0038",
+    "accountnumber": "xxxx0038",
+    "accountstatus": "ACTIVE",
+    "accounttype": 9,
+    "aggregationsource": "USER",
+    "balance": {
+      "amount": 487866.84,
+      "currency": "USD"
+    },
+    "container": "loan",
+    "createddate": 1650344011856,
+    "dataset": [
+      {
+        "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+        "lastupdated": "2022-12-02T12:28:17Z",
+        "lastupdateattempt": "2022-12-02T12:28:17Z",
+        "name": "BASIC_AGG_DATA",
+        "nextupdatescheduled": "2022-12-09T10:35:12Z",
+        "updateeligibility": "ALLOW_UPDATE"
+      }
+    ],
+    "displayedname": "MABLE",
+    "duedate": "2019-11-01",
+    "frequency": "OTHER",
+    "id": "10099188",
+    "entityid": "35_123456789",
+    "includeinnetworth": true,
+    "interestratetype": "UNKNOWN",
+    "isasset": false,
+    "ismanual": false,
+    "lastpaymentdate": "2019-10-05",
+    "lastupdated": "2022-12-02T12:28:17Z",
+    "maturitydate": "2033-10-03",
+    "originalloanamount": {
+      "amount": 520000,
+      "currency": "USD"
+    },
+    "originationdate": "2018-10-03",
+    "principalbalance": {
+      "amount": 487866.84,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "providerid": "16441",
+    "providername": "Dag Site",
+    "__sampleDataTemplate": {
+      "createddate": "now-26d"
+    }
+  }
+]

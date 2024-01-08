@@ -1,0 +1,467 @@
+[
+  {
+    "resourceType": "Condition",
+    "id": "gpdata-condition-icpc-l8601",
+    "meta": {
+      "profile": [
+        "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+      ]
+    },
+    "text": {
+      "status": "additional"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "1546ea03-8fdf-11ec-1922-020000000000"
+      }
+    ],
+    "clinicalStatus": "active",
+    "category": [
+      {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "282291009",
+            "display": "Diagnosis interpretation"
+          }
+        ]
+      }
+    ],
+    "code": {
+      "coding": [
+        {
+          "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+          "code": "L86.01",
+          "display": "HNP (thoracaal/lumbaal)"
+        }
+      ]
+    },
+    "patient": {
+      "reference": "Patient/medmij-bgz-patient-ts-01",
+      "display": "Johan XXX_Helleman"
+    },
+    "onsetDateTime": "2020-03-15",
+    "asserter": {
+      "extension": [
+        {
+          "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+          "valueReference": {
+            "reference": "PractitionerRole/gpdata-practitionerrole-01",
+            "display": "Dr. V. Huisarts 1"
+          }
+        }
+      ],
+      "reference": "Practitioner/gpdata-practitioner-01",
+      "display": "V. Huisarts 1"
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_gpdata-condition-icpc-l8601"
+  },
+  {
+    "fullUrl": "http://nictiz2.wildfhir.org/fhir3-0-2-i2/Condition/gpdata-condition-icpc-d02",
+    "resource": {
+      "resourceType": "Condition",
+      "id": "gpdata-condition-icpc-d02",
+      "meta": {
+        "versionId": "1",
+        "lastUpdated": "2023-11-21T04:33:57.882-05:00",
+        "profile": [
+          "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+        ]
+      },
+      "text": {
+        "status": "extensions",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Jacqueline XXX_Cevat. Id: b6bb340c-041c-11ec-1813-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: inactief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Maagpijn (D02 - sid/icpc-1-nl)\">Maagpijn</span></td></tr><tr><th>Informant</th><td>Dokter Bernard</td></tr><tr><th>Eerste symptomen</th><td>2023-08-12</td></tr><tr><th>Oplossing/remissie</th><td>2023-08-17</td></tr></tbody></table></div>"
+      },
+      "identifier": [
+        {
+          "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+          "value": "b6bb340c-041c-11ec-1813-020000000000"
+        }
+      ],
+      "clinicalStatus": "inactive",
+      "_clinicalStatus": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "http://snomed.info/sct",
+                  "code": "73425007",
+                  "display": "Niet Actueel"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "category": [
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "282291009",
+              "display": "Diagnose"
+            }
+          ]
+        }
+      ],
+      "code": {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+            "code": "D02",
+            "display": "Maagpijn"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "Patient/medmij-bgz-patient-ts-01",
+        "display": "Johan XXX_Helleman"
+      },
+      "onsetDateTime": "2023-08-12",
+      "abatementDateTime": "2023-08-17",
+      "asserter": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_gpdata-condition-icpc-d02"
+  },
+  {
+    "fullUrl": "http://nictiz2.wildfhir.org/fhir3-0-2-i2/Condition/gpdata-condition-icpc-k70",
+    "resource": {
+      "resourceType": "Condition",
+      "id": "gpdata-condition-icpc-k70",
+      "meta": {
+        "versionId": "1",
+        "lastUpdated": "2023-11-21T04:33:58.304-05:00",
+        "profile": [
+          "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+        ]
+      },
+      "text": {
+        "status": "extensions",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Jacqueline XXX_Cevat. Id: b6d39e0c-041c-11ec-4468-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Infectieziekte Hartvaatstelsel (K70 - sid/icpc-1-nl)\">Infectieziekte Hartvaatstelsel</span></td></tr><tr><th>Informant</th><td>Dokter Bernard</td></tr><tr><th>Eerste symptomen</th><td>2023-01-24</td></tr></tbody></table></div>"
+      },
+      "identifier": [
+        {
+          "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+          "value": "b6d39e0c-041c-11ec-4468-020000000000"
+        }
+      ],
+      "clinicalStatus": "active",
+      "_clinicalStatus": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "http://snomed.info/sct",
+                  "code": "55561003",
+                  "display": "Actueel"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "category": [
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "282291009",
+              "display": "Diagnose"
+            }
+          ]
+        }
+      ],
+      "code": {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+            "code": "K70",
+            "display": "Infectieziekte Hartvaatstelsel"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "Patient/medmij-bgz-patient-ts-01",
+        "display": "Johan XXX_Helleman"
+      },
+      "onsetDateTime": "2023-01-24",
+      "asserter": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_gpdata-condition-icpc-k70"
+  },
+  {
+    "fullUrl": "http://nictiz2.wildfhir.org/fhir3-0-2-i2/Condition/gpdata-condition-icpc-k78",
+    "resource": {
+      "resourceType": "Condition",
+      "id": "gpdata-condition-icpc-k78",
+      "meta": {
+        "versionId": "1",
+        "lastUpdated": "2023-11-21T04:33:58.695-05:00",
+        "profile": [
+          "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+        ]
+      },
+      "text": {
+        "status": "extensions",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Jacqueline XXX_Cevat. Id: b6eaa87c-041c-11ec-1473-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Boezemfibrilleren/-fladderen (K78 - sid/icpc-1-nl)\">Boezemfibrilleren/-fladderen</span></td></tr><tr><th>Informant</th><td>Dokter Bernard</td></tr><tr><th>Eerste symptomen</th><td>2022-10-16</td></tr></tbody></table></div>"
+      },
+      "identifier": [
+        {
+          "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+          "value": "b6eaa87c-041c-11ec-1473-020000000000"
+        }
+      ],
+      "clinicalStatus": "active",
+      "_clinicalStatus": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "http://snomed.info/sct",
+                  "code": "55561003",
+                  "display": "Actueel"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "category": [
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "282291009",
+              "display": "Diagnose"
+            }
+          ]
+        }
+      ],
+      "code": {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+            "code": "K78",
+            "display": "Boezemfibrilleren/-fladderen"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "Patient/medmij-bgz-patient-ts-01",
+        "display": "Johan XXX_Helleman"
+      },
+      "onsetDateTime": "2022-10-16",
+      "asserter": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_gpdata-condition-icpc-k78"
+  },
+  {
+    "fullUrl": "http://nictiz2.wildfhir.org/fhir3-0-2-i2/Condition/gpdata-condition-icpc-r2101",
+    "resource": {
+      "resourceType": "Condition",
+      "id": "gpdata-condition-icpc-r2101",
+      "meta": {
+        "versionId": "1",
+        "lastUpdated": "2023-11-21T04:34:00.273-05:00",
+        "profile": [
+          "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+        ]
+      },
+      "text": {
+        "status": "extensions",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Jacqueline XXX_Cevat. Id: b745e7dc-041c-11ec-1871-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Keelpijn (R21.01 - sid/icpc-1-nl)\">Keelpijn</span></td></tr><tr><th>Informant</th><td>Dokter Bernard</td></tr><tr><th>Eerste symptomen</th><td>2023-06-23</td></tr></tbody></table></div>"
+      },
+      "identifier": [
+        {
+          "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+          "value": "b745e7dc-041c-11ec-1871-020000000000"
+        }
+      ],
+      "clinicalStatus": "active",
+      "_clinicalStatus": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "http://snomed.info/sct",
+                  "code": "55561003",
+                  "display": "Actueel"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "category": [
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "282291009",
+              "display": "Diagnose"
+            }
+          ]
+        }
+      ],
+      "code": {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+            "code": "R21.01",
+            "display": "Keelpijn"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "Patient/medmij-bgz-patient-ts-01",
+        "display": "Johan XXX_Helleman"
+      },
+      "onsetDateTime": "2023-06-23",
+      "asserter": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_gpdata-condition-icpc-r2101"
+  },
+  {
+    "fullUrl": "http://nictiz2.wildfhir.org/fhir3-0-2-i2/Condition/gpdata-condition-icpc-r96",
+    "resource": {
+      "resourceType": "Condition",
+      "id": "gpdata-condition-icpc-r96",
+      "meta": {
+        "versionId": "1",
+        "lastUpdated": "2023-11-21T04:34:00.726-05:00",
+        "profile": [
+          "http://nictiz.nl/fhir/StructureDefinition/zib-Problem"
+        ]
+      },
+      "text": {
+        "status": "extensions",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Jacqueline XXX_Cevat. Id: b75d406c-041c-11ec-4314-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief                        \n        </caption><tbody><tr><th>Code</th><td><span title=\"Astma (R96 - sid/icpc-1-nl)\">Astma</span></td></tr><tr><th>Informant</th><td>Dokter Bernard</td></tr><tr><th>Eerste symptomen</th><td>2023-05-04</td></tr></tbody></table></div>"
+      },
+      "identifier": [
+        {
+          "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+          "value": "b75d406c-041c-11ec-4314-020000000000"
+        }
+      ],
+      "clinicalStatus": "active",
+      "_clinicalStatus": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "http://snomed.info/sct",
+                  "code": "55561003",
+                  "display": "Actueel"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "category": [
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "282291009",
+              "display": "Diagnose"
+            }
+          ]
+        }
+      ],
+      "code": {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+            "code": "R96",
+            "display": "Astma"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "Patient/medmij-bgz-patient-ts-01",
+        "display": "Johan XXX_Helleman"
+      },
+      "onsetDateTime": "2023-05-04",
+      "asserter": {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_gpdata-gpdata-condition-icpc-r96"
+  }
+]

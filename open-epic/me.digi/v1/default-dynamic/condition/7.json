@@ -1,0 +1,51 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "category": [
+      {
+        "coding": [
+          {
+            "code": "reason-for-visit",
+            "display": "Reason for Visit",
+            "system": "http://open.epic.com/FHIR/StructureDefinition/condition-category"
+          }
+        ],
+        "text": "Reason for Visit"
+      }
+    ],
+    "code": {
+      "coding": [
+        {
+          "code": "58",
+          "display": "Immunizations",
+          "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.728286"
+        }
+      ],
+      "text": "Immunizations"
+    },
+    "encounter": {
+      "display": "Office Visit",
+      "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+    },
+    "entityid": "20_123456789_eh7nnj8PXeUjbGNhITCO.UfRYV6vTFiyGAiJMEIt8C4g3",
+    "id": "eh7nnj8PXeUjbGNhITCO.UfRYV6vTFiyGAiJMEIt8C4g3",
+    "note": [
+      {
+        "text": "final doses for DTaP and MMR"
+      }
+    ],
+    "recorder": {
+      "display": "Family Medicine Physician, MD",
+      "reference": "Practitioner/eUXiD4IyBLJFoR2VHOjfTdg3"
+    },
+    "createddate": 1645000737982,
+    "recordeddate": "2019-05-28T14:54:56Z",
+    "subject": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-89d"
+    }
+  }
+]

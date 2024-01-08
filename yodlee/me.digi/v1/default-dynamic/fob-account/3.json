@@ -1,0 +1,54 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountname": "Lendin Club personal loan - x7608",
+    "accountnumber": "xxxx7608",
+    "accountstatus": "ACTIVE",
+    "accounttype": 9,
+    "aggregationsource": "USER",
+    "balance": {
+      "amount": 23156.71,
+      "currency": "USD"
+    },
+    "classification": "PERSONAL",
+    "container": "loan",
+    "createddate": 1666123387856,
+    "dataset": [
+      {
+        "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+        "lastupdated": "2022-12-02T12:28:17Z",
+        "lastupdateattempt": "2022-12-02T12:28:17Z",
+        "name": "BASIC_AGG_DATA",
+        "nextupdatescheduled": "2022-12-09T10:35:12Z",
+        "updateeligibility": "ALLOW_UPDATE"
+      }
+    ],
+    "displayedname": "ELIZABET",
+    "duedate": "2019-11-01",
+    "frequency": "OTHER",
+    "id": "10099191",
+    "entityid": "35_123456789",
+    "includeinnetworth": true,
+    "interestratetype": "UNKNOWN",
+    "isasset": false,
+    "ismanual": false,
+    "lastpaymentdate": "2019-10-02",
+    "lastupdated": "2022-12-02T12:28:17Z",
+    "maturitydate": "2021-06-02",
+    "originalloanamount": {
+      "amount": 33000,
+      "currency": "USD"
+    },
+    "originationdate": "2018-06-02",
+    "principalbalance": {
+      "amount": 23156.71,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "providerid": "16441",
+    "providername": "Dag Site",
+    "__sampleDataTemplate": {
+      "createddate": "now-42d"
+    }
+  }
+]

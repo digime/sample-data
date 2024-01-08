@@ -1,0 +1,19 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "amountdue": {
+      "amount": 2783.54,
+      "currency": "USD"
+    },
+    "duedate": "2019-11-01",
+    "id": "10043066",
+    "entityid": "35_10043066",
+    "islatest": true,
+    "lastupdated": "2022-11-16T14:25:42Z",
+    "statementdate": "2019-10-15",
+    "createddate": 1671383179856,
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  }
+]

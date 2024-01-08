@@ -1,0 +1,1858 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1618.9,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167106",
+    "entityid": "35_11167106",
+    "ismanual": false,
+    "price": {
+      "amount": 161.39,
+      "currency": "USD"
+    },
+    "quantity": 10,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613520667856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-4d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1618.9,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167105",
+    "entityid": "35_11167105",
+    "ismanual": false,
+    "price": {
+      "amount": 161.39,
+      "currency": "USD"
+    },
+    "quantity": 10,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "DGAZ",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613520367856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-35d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 489.17,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167104",
+    "entityid": "35_11167104",
+    "ismanual": false,
+    "price": {
+      "amount": 161.39,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613520067856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-29d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 489.17,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167103",
+    "entityid": "35_11167103",
+    "ismanual": false,
+    "price": {
+      "amount": 161.39,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "DGAZ",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613519767856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 489.17,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167102",
+    "entityid": "35_11167102",
+    "ismanual": false,
+    "price": {
+      "amount": 161.39,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613519467856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-81d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 489.17,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167101",
+    "entityid": "35_11167101",
+    "ismanual": false,
+    "price": {
+      "amount": 161.39,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "DGAZ",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613519167856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 749.3,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167100",
+    "entityid": "35_11167100",
+    "ismanual": false,
+    "price": {
+      "amount": 148.86,
+      "currency": "USD"
+    },
+    "quantity": 5,
+    "settledate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613518867856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-74d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 749.3,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167099",
+    "entityid": "35_11167099",
+    "ismanual": false,
+    "price": {
+      "amount": 148.86,
+      "currency": "USD"
+    },
+    "quantity": 5,
+    "settledate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613518567856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 600.44,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167098",
+    "entityid": "35_11167098",
+    "ismanual": false,
+    "price": {
+      "amount": 148.86,
+      "currency": "USD"
+    },
+    "quantity": 4,
+    "settledate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613518267856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-73d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 600.44,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-03",
+    "description": {
+      "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167097",
+    "entityid": "35_11167097",
+    "ismanual": false,
+    "price": {
+      "amount": 148.86,
+      "currency": "USD"
+    },
+    "quantity": 4,
+    "settledate": "2019-12-06",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-03",
+    "createddate": 1613517967856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 301.48,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167085",
+    "entityid": "35_11167085",
+    "ismanual": false,
+    "price": {
+      "amount": 148.24,
+      "currency": "USD"
+    },
+    "quantity": 2,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613517667856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-29d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 301.48,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167084",
+    "entityid": "35_11167084",
+    "ismanual": false,
+    "price": {
+      "amount": 148.24,
+      "currency": "USD"
+    },
+    "quantity": 2,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613517367856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-12d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1407.11,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167083",
+    "entityid": "35_11167083",
+    "ismanual": false,
+    "price": {
+      "amount": 155.79,
+      "currency": "USD"
+    },
+    "quantity": 9,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613517067856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-58d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1407.11,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167082",
+    "entityid": "35_11167082",
+    "ismanual": false,
+    "price": {
+      "amount": 155.79,
+      "currency": "USD"
+    },
+    "quantity": 9,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "DGAZ",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613516767856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-48d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167081",
+    "entityid": "35_11167081",
+    "ismanual": false,
+    "price": {
+      "amount": 578.54,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613516467856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-25d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "Purchase:Sherwin-Williams Co. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167080",
+    "entityid": "35_11167080",
+    "ismanual": false,
+    "price": {
+      "amount": 578.54,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SHW",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613516167856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 3266.28,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167079",
+    "entityid": "35_11167079",
+    "ismanual": false,
+    "price": {
+      "amount": 148.24,
+      "currency": "USD"
+    },
+    "quantity": 22,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613515867856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-56d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 3266.28,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-09",
+    "description": {
+      "original": "Purchase:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167078",
+    "entityid": "35_11167078",
+    "ismanual": false,
+    "price": {
+      "amount": 148.24,
+      "currency": "USD"
+    },
+    "quantity": 22,
+    "settledate": "2019-12-12",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-09",
+    "createddate": 1613515567856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-72d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 154.14,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-05",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167089",
+    "entityid": "35_11167089",
+    "ismanual": false,
+    "price": {
+      "amount": 149.14,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-05",
+    "createddate": 1613515267856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-87d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 154.14,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-05",
+    "description": {
+      "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167088",
+    "entityid": "35_11167088",
+    "ismanual": false,
+    "price": {
+      "amount": 149.14,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-05",
+    "createddate": 1613514967856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 149.38,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-05",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167087",
+    "entityid": "35_11167087",
+    "ismanual": false,
+    "price": {
+      "amount": 144.38,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-05",
+    "createddate": 1613514667856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-34d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 149.38,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-05",
+    "description": {
+      "original": "Purchase:Dniprogaz JSC ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167086",
+    "entityid": "35_11167086",
+    "ismanual": false,
+    "price": {
+      "amount": 144.38,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "DGAZ",
+    "transactiondate": "2019-12-05",
+    "createddate": 1613514367856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1774.96,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-04",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167096",
+    "entityid": "35_11167096",
+    "ismanual": false,
+    "price": {
+      "amount": 1769.96,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-04",
+    "createddate": 1613514067856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-54d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1774.96,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-04",
+    "description": {
+      "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167095",
+    "entityid": "35_11167095",
+    "ismanual": false,
+    "price": {
+      "amount": 1769.96,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-04",
+    "createddate": 1613513767856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-54d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1774.96,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-04",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167094",
+    "entityid": "35_11167094",
+    "ismanual": false,
+    "price": {
+      "amount": 1769.96,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-04",
+    "createddate": 1613513467856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-66d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1774.96,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-04",
+    "description": {
+      "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167093",
+    "entityid": "35_11167093",
+    "ismanual": false,
+    "price": {
+      "amount": 1769.96,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-04",
+    "createddate": 1613513167856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-31d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-04",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167092",
+    "entityid": "35_11167092",
+    "ismanual": false,
+    "price": {
+      "amount": 1769.96,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-04",
+    "createddate": 1613512867856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-78d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-04",
+    "description": {
+      "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167091",
+    "entityid": "35_11167091",
+    "ismanual": false,
+    "price": {
+      "amount": 1769.96,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-04",
+    "createddate": 1613512567856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-67d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 3405.68,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "date": "2019-12-04",
+    "description": {
+      "original": "Funds Received: Wells Fargo Bk NA"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167090",
+    "entityid": "35_11167090",
+    "ismanual": false,
+    "price": {
+      "amount": 1769.96,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-09",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-04",
+    "createddate": 1613512267856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-24",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167062",
+    "entityid": "35_11167062",
+    "ismanual": false,
+    "price": {
+      "amount": 144.97,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-27",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-24",
+    "createddate": 1613511967856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-29d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-24",
+    "description": {
+      "original": "Purchase:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167061",
+    "entityid": "35_11167061",
+    "ismanual": false,
+    "price": {
+      "amount": 144.97,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-27",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-24",
+    "createddate": 1613511667856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-80d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 2702.05,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-23",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167064",
+    "entityid": "35_11167064",
+    "ismanual": false,
+    "price": {
+      "amount": 158.65,
+      "currency": "USD"
+    },
+    "quantity": 17,
+    "settledate": "2019-12-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-23",
+    "createddate": 1613511367856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 2702.05,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-23",
+    "description": {
+      "original": "Purchase:VelocityShares Xx Inverse Natural Gas ETN ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167063",
+    "entityid": "35_11167063",
+    "ismanual": false,
+    "price": {
+      "amount": 158.65,
+      "currency": "USD"
+    },
+    "quantity": 17,
+    "settledate": "2019-12-26",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "DGAZ",
+    "transactiondate": "2019-12-23",
+    "createddate": 1613511067856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-54d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 3589.56,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-20",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167066",
+    "entityid": "35_11167066",
+    "ismanual": false,
+    "price": {
+      "amount": 1792.28,
+      "currency": "USD"
+    },
+    "quantity": 2,
+    "settledate": "2019-12-23",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-20",
+    "createddate": 1613510767856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-18d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 3589.56,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-20",
+    "description": {
+      "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167065",
+    "entityid": "35_11167065",
+    "ismanual": false,
+    "price": {
+      "amount": 1792.28,
+      "currency": "USD"
+    },
+    "quantity": 2,
+    "settledate": "2019-12-23",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-20",
+    "createddate": 1613510467856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-49d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 4479.85,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-16",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167068",
+    "entityid": "35_11167068",
+    "ismanual": false,
+    "price": {
+      "amount": 144.35,
+      "currency": "USD"
+    },
+    "quantity": 31,
+    "settledate": "2019-12-19",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-16",
+    "createddate": 1613510167856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 4479.85,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-16",
+    "description": {
+      "original": "Purchase:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167067",
+    "entityid": "35_11167067",
+    "ismanual": false,
+    "price": {
+      "amount": 144.35,
+      "currency": "USD"
+    },
+    "quantity": 31,
+    "settledate": "2019-12-19",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-16",
+    "createddate": 1613509867856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-82d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 437.03,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-13",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167070",
+    "entityid": "35_11167070",
+    "ismanual": false,
+    "price": {
+      "amount": 144.01,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2019-12-16",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-13",
+    "createddate": 1613509567856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-19d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 437.03,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-13",
+    "description": {
+      "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167069",
+    "entityid": "35_11167069",
+    "ismanual": false,
+    "price": {
+      "amount": 144.01,
+      "currency": "USD"
+    },
+    "quantity": 3,
+    "settledate": "2019-12-16",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-13",
+    "createddate": 1613509267856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-70d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 150.4,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-12",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167072",
+    "entityid": "35_11167072",
+    "ismanual": false,
+    "price": {
+      "amount": 145.4,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-16",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-12",
+    "createddate": 1613508967856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-54d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 150.4,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-12",
+    "description": {
+      "original": "Sale:Simon Property Group, Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167071",
+    "entityid": "35_11167071",
+    "ismanual": false,
+    "price": {
+      "amount": 145.4,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-16",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SPG",
+    "transactiondate": "2019-12-12",
+    "createddate": 1613508667856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-44d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-10",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167077",
+    "entityid": "35_11167077",
+    "ismanual": false,
+    "price": {
+      "amount": 1749.51,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-10",
+    "createddate": 1613508367856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-83d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-10",
+    "description": {
+      "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167076",
+    "entityid": "35_11167076",
+    "ismanual": false,
+    "price": {
+      "amount": 1749.51,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-10",
+    "createddate": 1613508067856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 3624.84,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "date": "2019-12-10",
+    "description": {
+      "original": "Funds Received: FR BAC#XXXXXXXXXXXX"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11167075",
+    "entityid": "35_11167075",
+    "ismanual": false,
+    "price": {
+      "amount": 1749.51,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "settledate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-10",
+    "createddate": 1613507767856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1754.51,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-10",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167074",
+    "entityid": "35_11167074",
+    "ismanual": false,
+    "price": {
+      "amount": 1749.51,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2019-12-10",
+    "createddate": 1613507467856,
+    "type": "WITHDRAWAL",
+    "__sampleDataTemplate": {
+      "createddate": "now-84d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099187",
+    "amount": {
+      "amount": 1754.51,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2019-12-10",
+    "description": {
+      "original": "Purchase:Amazon.com Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11167073",
+    "entityid": "35_11167073",
+    "ismanual": false,
+    "price": {
+      "amount": 1749.51,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2019-12-13",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2019-12-10",
+    "createddate": 1613507167856,
+    "type": "BUY",
+    "__sampleDataTemplate": {
+      "createddate": "now-89d"
+    }
+  }
+]

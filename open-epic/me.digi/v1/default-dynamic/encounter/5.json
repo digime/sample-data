@@ -1,0 +1,150 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "account": [
+      {
+        "display": "MCGINNIS,WARREN JAMES III",
+        "identifier": {
+          "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.726582",
+          "value": "1000477"
+        }
+      }
+    ],
+    "class": {
+      "code": "3",
+      "display": "Admission",
+      "system": "urn:oid:1.2.840.114350.1.72.1.7.7.10.696784.13260"
+    },
+    "createddate": 1655520921982,
+    "hospitalization": {
+      "admitsource": {
+        "coding": [
+          {
+            "code": "2",
+            "display": "Physician or Clinic Office",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.10310"
+          }
+        ],
+        "text": "Physician or Clinic Office"
+      }
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.698084.8",
+        "use": "usual",
+        "value": "27561"
+      }
+    ],
+    "location": [
+      {
+        "location": {
+          "display": "EMH Medical Surgical",
+          "reference": "Location/eO-3e71xq6A5Xp7leBMrw5X-8sAl6UHIF91p7maQKFdU3"
+        },
+        "period": {
+          "start": "2019-05-28T15:22:00Z"
+        }
+      },
+      {
+        "location": {
+          "display": "EMH Medical Surgical",
+          "reference": "Location/eO-3e71xq6A5Xp7leBMrw5X-8sAl6UHIF91p7maQKFdU3"
+        }
+      },
+      {
+        "location": {
+          "display": "Epic Hospital System",
+          "reference": "Location/eQSOrLdbVrMRc68KBcTBG4A3"
+        }
+      }
+    ],
+    "entityid": "20_123456789_eucYt0hPWgEMZqybf6t4c.g3",
+    "id": "eucYt0hPWgEMZqybf6t4c.g3",
+    "participant": [
+      {
+        "individual": {
+          "display": "Physician O. Cardiology, MD",
+          "reference": "Practitioner/ef9TegF2nfECi-0Skirbvpg3",
+          "type": "Practitioner"
+        },
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "ADM",
+                "display": "admitter",
+                "system": "http://hl7.org/fhir/v3/ParticipationType"
+              }
+            ],
+            "text": "admitter"
+          }
+        ]
+      },
+      {
+        "individual": {
+          "display": "Physician O. Cardiology, MD",
+          "reference": "Practitioner/ef9TegF2nfECi-0Skirbvpg3",
+          "type": "Practitioner"
+        },
+        "period": {
+          "start": "2019-05-28T15:22:00Z"
+        },
+        "type": [
+          {
+            "coding": [
+              {
+                "code": "ATND",
+                "display": "attender",
+                "system": "http://hl7.org/fhir/v3/ParticipationType"
+              }
+            ],
+            "text": "attender"
+          }
+        ]
+      }
+    ],
+    "period": {
+      "start": "2019-05-28T15:22:00Z"
+    },
+    "status": "in-progress",
+    "subject": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "type": [
+      {
+        "coding": [
+          {
+            "code": "101",
+            "display": "Inpatient",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.10110"
+          }
+        ],
+        "text": "Inpatient"
+      },
+      {
+        "coding": [
+          {
+            "code": "3",
+            "display": "Hospital Encounter",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.30"
+          }
+        ],
+        "text": "Hospital Encounter"
+      },
+      {
+        "coding": [
+          {
+            "code": "3",
+            "display": "Elective",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.18875"
+          }
+        ],
+        "text": "Elective"
+      }
+    ],
+    "__sampleDataTemplate": {
+      "createddate": "now-51d"
+    }
+  }
+]

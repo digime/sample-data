@@ -1,0 +1,142 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 9088.41,
+      "currency": "USD"
+    },
+    "createddate": 1660811995856,
+    "description": "Vanguard Inflation Protected Securities Fund",
+    "holdingtype": "mutualFund",
+    "id": "10047486",
+    "entityid": "35_10047486",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 13.55,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 689.1856,
+    "symbol": "VIPSX",
+    "value": {
+      "amount": 9338.46,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-82d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 10961.22,
+      "currency": "USD"
+    },
+    "createddate": 1660811695856,
+    "description": "Vanguard Target Retirement 2020 Fund",
+    "holdingtype": "mutualFund",
+    "id": "10047485",
+    "entityid": "35_10047485",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 32.62,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 342.193,
+    "symbol": "VTWNX",
+    "value": {
+      "amount": 11162.34,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-69d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 16339.7,
+      "currency": "USD"
+    },
+    "createddate": 1660811395856,
+    "description": "Vanguard Target Retirement Income Fund",
+    "holdingtype": "mutualFund",
+    "id": "10047484",
+    "entityid": "35_10047484",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 14.2,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 1186.7898,
+    "symbol": "VTINX",
+    "value": {
+      "amount": 16852.42,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 22667.1,
+      "currency": "USD"
+    },
+    "createddate": 1660811095856,
+    "description": "Fidelity Freedom 2050 Fund",
+    "holdingtype": "mutualFund",
+    "id": "10047483",
+    "entityid": "35_10047483",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 11.83,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 1994.9886,
+    "symbol": "FFFHX",
+    "value": {
+      "amount": 23600.72,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 31756.82,
+      "currency": "USD"
+    },
+    "createddate": 1660810795856,
+    "description": "Fidelity Diversified International Fund",
+    "holdingtype": "mutualFund",
+    "id": "10047482",
+    "entityid": "35_10047482",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 39.46,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 852.2213,
+    "symbol": "FDIVX",
+    "value": {
+      "amount": 33628.65,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-57d"
+    }
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "6282650c-ce89-43e4-9d93-dd39f6895cd4",
+    "entityid": "30_123456789_6282650c-ce89-43e4-9d93-dd39f6895cd4",
+    "code": {
+      "coding": [
+        {
+          "display": "Influenza with pneumonia",
+          "code": "778871000006116"
+        }
+      ],
+      "text": "Influenza with pneumonia"
+    },
+    "onsetdatetime": "2022-08-31T19:46:52",
+    "createddate": 1671300593754,
+    "recordeddate": "2022-08-31T19:46:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-77d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "c6ae876d-2f07-4f1f-921f-f9c28ff0091a",
+    "entityid": "30_123456789_c6ae876d-2f07-4f1f-921f-f9c28ff0091a",
+    "code": {
+      "coding": [
+        {
+          "display": "Sclerosing peritonitis",
+          "code": "40905014"
+        }
+      ],
+      "text": "Sclerosing peritonitis"
+    },
+    "onsetdatetime": "2022-08-31T19:41:52",
+    "createddate": 1671300293754,
+    "recordeddate": "2022-08-31T19:41:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-68d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "28d8fb83-8744-491a-a822-d4ffa1a37adb",
+    "entityid": "30_123456789_28d8fb83-8744-491a-a822-d4ffa1a37adb",
+    "code": {
+      "coding": [
+        {
+          "display": "Pathological drug intoxication",
+          "code": "42772010"
+        }
+      ],
+      "text": "Pathological drug intoxication"
+    },
+    "onsetdatetime": "2022-08-31T19:36:52",
+    "createddate": 1671299993754,
+    "recordeddate": "2022-08-31T19:36:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "d0530dcd-768c-4809-8013-f363adfdba17",
+    "entityid": "30_123456789_d0530dcd-768c-4809-8013-f363adfdba17",
+    "code": {
+      "coding": [
+        {
+          "display": "Cervical neoplasia screening",
+          "code": "265193019"
+        }
+      ],
+      "text": "Cervical neoplasia screening"
+    },
+    "onsetdatetime": "2022-08-31T19:31:52",
+    "createddate": 1671299693754,
+    "recordeddate": "2022-08-31T19:31:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-78d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "5291f28c-6afd-419b-bd56-e8196b5524d4",
+    "entityid": "30_123456789_5291f28c-6afd-419b-bd56-e8196b5524d4",
+    "code": {
+      "coding": [
+        {
+          "display": "Tuberculosis NOS",
+          "code": "286338018"
+        }
+      ],
+      "text": "Tuberculosis NOS"
+    },
+    "onsetdatetime": "2022-08-31T19:26:52",
+    "createddate": 1671299393754,
+    "recordeddate": "2022-08-31T19:26:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-21d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "eda354c6-a43a-4da1-8f4e-150859f2ad50",
+    "entityid": "30_123456789_eda354c6-a43a-4da1-8f4e-150859f2ad50",
+    "code": {
+      "coding": [
+        {
+          "display": "Internal haemorrhoids, simple",
+          "code": "300732013"
+        }
+      ],
+      "text": "Internal haemorrhoids, simple"
+    },
+    "onsetdatetime": "2022-08-31T19:21:52",
+    "createddate": 1671299093754,
+    "recordeddate": "2022-08-31T19:21:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-24d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "e9aed1f2-141f-444c-a299-6a67c8e1388c",
+    "entityid": "30_123456789_e9aed1f2-141f-444c-a299-6a67c8e1388c",
+    "code": {
+      "coding": [
+        {
+          "display": "Dyshidrosis unspecified",
+          "code": "309090018"
+        }
+      ],
+      "text": "Dyshidrosis unspecified"
+    },
+    "onsetdatetime": "2022-08-31T19:16:52",
+    "createddate": 1671298793754,
+    "recordeddate": "2022-08-31T19:16:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-72d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "8d051240-9a89-4c03-9062-37c7602117ef",
+    "entityid": "30_123456789_8d051240-9a89-4c03-9062-37c7602117ef",
+    "code": {
+      "coding": [
+        {
+          "display": "Massive multi tissue damage lower leg",
+          "code": "321734013"
+        }
+      ],
+      "text": "Massive multi tissue damage lower leg"
+    },
+    "onsetdatetime": "2022-08-31T19:11:52",
+    "createddate": 1671298493754,
+    "recordeddate": "2022-08-31T19:11:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-17d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "8d547b5f-22f9-42a1-9050-78c02e76f975",
+    "entityid": "30_123456789_8d547b5f-22f9-42a1-9050-78c02e76f975",
+    "code": {
+      "coding": [
+        {
+          "display": "Brittle asthma",
+          "code": "338238011"
+        }
+      ],
+      "text": "Brittle asthma"
+    },
+    "onsetdatetime": "2022-08-31T19:06:52",
+    "createddate": 1671298193754,
+    "recordeddate": "2022-08-31T19:06:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "45633d23-3ae3-41d4-8c9a-91c92164f678",
+    "entityid": "30_123456789_45633d23-3ae3-41d4-8c9a-91c92164f678",
+    "code": {
+      "coding": [
+        {
+          "display": "Peripheral nervous system disorders",
+          "code": "235701000006117"
+        }
+      ],
+      "text": "Peripheral nervous system disorders"
+    },
+    "onsetdatetime": "2022-08-31T19:01:52",
+    "createddate": 1671297893754,
+    "recordeddate": "2022-08-31T19:01:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-41d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "642a113a-a865-4f41-befb-7b22c021789f",
+    "entityid": "30_123456789_642a113a-a865-4f41-befb-7b22c021789f",
+    "code": {
+      "coding": [
+        {
+          "display": "Ectopic bladder",
+          "code": "636131000006115"
+        }
+      ],
+      "text": "Ectopic bladder"
+    },
+    "onsetdatetime": "2022-08-31T18:56:52",
+    "createddate": 1671297593754,
+    "recordeddate": "2022-08-31T18:56:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-22d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "47247030-8d93-43f4-9f7e-9ed07ffd637b",
+    "entityid": "30_123456789_47247030-8d93-43f4-9f7e-9ed07ffd637b",
+    "code": {
+      "coding": [
+        {
+          "display": "O/E - distressed",
+          "code": "253615013"
+        }
+      ],
+      "text": "O/E - distressed"
+    },
+    "onsetdatetime": "2022-08-31T18:51:52",
+    "createddate": 1671297293754,
+    "recordeddate": "2022-08-31T18:51:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "24b63146-7bfc-4f61-adba-725cdd4e0e20",
+    "entityid": "30_123456789_24b63146-7bfc-4f61-adba-725cdd4e0e20",
+    "code": {
+      "coding": [
+        {
+          "display": "O/E - sacral oedema",
+          "code": "253730013"
+        }
+      ],
+      "text": "O/E - sacral oedema"
+    },
+    "onsetdatetime": "2022-08-31T18:46:52",
+    "createddate": 1671296993754,
+    "recordeddate": "2022-08-31T18:46:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "9db6a5f8-2a84-44d7-b284-36f09017ed09",
+    "entityid": "30_123456789_9db6a5f8-2a84-44d7-b284-36f09017ed09",
+    "code": {
+      "coding": [
+        {
+          "display": "O/E - no skin plaque",
+          "code": "255835010"
+        }
+      ],
+      "text": "O/E - no skin plaque"
+    },
+    "onsetdatetime": "2022-08-31T18:41:52",
+    "createddate": 1671296693754,
+    "recordeddate": "2022-08-31T18:41:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-27d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "2a6684cc-b60b-48dc-af93-0bc2c54ea18c",
+    "entityid": "30_123456789_2a6684cc-b60b-48dc-af93-0bc2c54ea18c",
+    "code": {
+      "coding": [
+        {
+          "display": "Rhesus antibody absent",
+          "code": "257756017"
+        }
+      ],
+      "text": "Rhesus antibody absent"
+    },
+    "onsetdatetime": "2022-08-31T18:36:52",
+    "createddate": 1671296393754,
+    "recordeddate": "2022-08-31T18:36:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-81d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "d8bcc74a-7637-45e1-8050-1ef9d4823280",
+    "entityid": "30_123456789_d8bcc74a-7637-45e1-8050-1ef9d4823280",
+    "code": {
+      "coding": [
+        {
+          "display": "Postoperative pneumonia",
+          "code": "459416013"
+        }
+      ],
+      "text": "Postoperative pneumonia"
+    },
+    "onsetdatetime": "2022-08-31T18:31:52",
+    "createddate": 1671296093754,
+    "recordeddate": "2022-08-31T18:31:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-13d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "a476dcdb-00e7-4c39-afac-ef1b1d6bef3e",
+    "entityid": "30_123456789_a476dcdb-00e7-4c39-afac-ef1b1d6bef3e",
+    "code": {
+      "coding": [
+        {
+          "display": "Bone marrow aspirate examination",
+          "code": "1485431013"
+        }
+      ],
+      "text": "Bone marrow aspirate examination"
+    },
+    "onsetdatetime": "2022-08-31T18:26:52",
+    "createddate": 1671295793754,
+    "recordeddate": "2022-08-31T18:26:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-42d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "fdb16c8c-a98f-4fa4-8ed4-651d754abc89",
+    "entityid": "30_123456789_fdb16c8c-a98f-4fa4-8ed4-651d754abc89",
+    "code": {
+      "coding": [
+        {
+          "display": "Lab. test result abnormal",
+          "code": "752991000006111"
+        }
+      ],
+      "text": "Lab. test result abnormal"
+    },
+    "onsetdatetime": "2022-08-31T18:21:52",
+    "createddate": 1671295493754,
+    "recordeddate": "2022-08-31T18:21:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-48d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "ad9ed10e-dcf0-4e67-9c0d-eeabe44e83a1",
+    "entityid": "30_123456789_ad9ed10e-dcf0-4e67-9c0d-eeabe44e83a1",
+    "code": {
+      "coding": [
+        {
+          "display": "Mild frailty",
+          "code": "2373871000000117"
+        }
+      ],
+      "text": "Mild frailty"
+    },
+    "onsetdatetime": "2022-08-31T18:16:52",
+    "createddate": 1671295193754,
+    "recordeddate": "2022-08-31T18:16:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Active"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Minor"
+        }
+      ]
+    },
+    "id": "6b7400eb-4da7-4692-8f74-1ee861060b72",
+    "entityid": "30_123456789_6b7400eb-4da7-4692-8f74-1ee861060b72",
+    "code": {
+      "coding": [
+        {
+          "display": "O/E - thyroid gland - NOS",
+          "code": "274441000006110"
+        }
+      ],
+      "text": "O/E - thyroid gland - NOS"
+    },
+    "onsetdatetime": "2022-08-31T18:11:52",
+    "createddate": 1671294893754,
+    "recordeddate": "2022-08-31T18:11:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-68d"
+    }
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10100879",
+    "amount": {
+      "amount": 0.8,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Transfers",
+    "categoryid": "28",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "container": "investment",
+    "date": "2021-01-20",
+    "description": {
+      "original": "NET PLATFORM CREDIT PLATFORM FEE          ($40.56) PLATFORM CREDIT        $41.36"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11178255",
+    "entityid": "35_11178255",
+    "ismanual": false,
+    "price": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2021-01-20",
+    "createddate": 1671382879856,
+    "type": "TRANSFER_CASH_IN",
+    "__sampleDataTemplate": {
+      "createddate": "now-81d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10100879",
+    "amount": {
+      "amount": 72,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Investment/Retirement Income",
+    "categoryid": "30",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "cusipnumber": "17275R102",
+    "date": "2021-01-20",
+    "description": {
+      "original": "CISCO SYS INC"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11178254",
+    "entityid": "35_11178254",
+    "ismanual": false,
+    "price": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "CSCO",
+    "transactiondate": "2021-01-20",
+    "createddate": 1671382579856,
+    "type": "DIVIDEND_PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10100879",
+    "amount": {
+      "amount": 31.5,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Investment/Retirement Income",
+    "categoryid": "30",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "cusipnumber": "609207105",
+    "date": "2021-01-14",
+    "description": {
+      "original": "MONDELEZ INTL INC COM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11178256",
+    "entityid": "35_11178256",
+    "ismanual": false,
+    "price": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "MDLZ",
+    "transactiondate": "2021-01-14",
+    "createddate": 1671382279856,
+    "type": "DIVIDEND_PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10100879",
+    "amount": {
+      "amount": 345.24,
+      "currency": "USD"
+    },
+    "basetype": "DEBIT",
+    "category": "Superannuation",
+    "categoryid": "41",
+    "categorysource": "SYSTEM",
+    "categorytype": "DEFERRED_COMPENSATION",
+    "container": "investment",
+    "date": "2021-01-08",
+    "description": {
+      "original": "ADV FEE 01/X1-01/31 IRA/653"
+    },
+    "highlevelcategoryid": "10000016",
+    "id": "11178258",
+    "entityid": "35_11178258",
+    "ismanual": false,
+    "price": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2021-01-08",
+    "createddate": 1671381979856,
+    "type": "MISCELLANEOUS_EXPENSE",
+    "__sampleDataTemplate": {
+      "createddate": "now-53d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10100879",
+    "amount": {
+      "amount": 65,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Investment/Retirement Income",
+    "categoryid": "30",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "cusipnumber": "58933Y105",
+    "date": "2021-01-08",
+    "description": {
+      "original": "MERCK  CO INC NEW COM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11178257",
+    "entityid": "35_11178257",
+    "ismanual": false,
+    "price": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "MRK",
+    "transactiondate": "2021-01-08",
+    "createddate": 1671381679856,
+    "type": "DIVIDEND_PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-36d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10100879",
+    "amount": {
+      "amount": 108,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Investment/Retirement Income",
+    "categoryid": "30",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "cusipnumber": "931142103",
+    "date": "2021-01-04",
+    "description": {
+      "original": "WALMART INC"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11178259",
+    "entityid": "35_11178259",
+    "ismanual": false,
+    "price": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "quantity": 0,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "WMT",
+    "transactiondate": "2021-01-04",
+    "createddate": 1671381379856,
+    "type": "DIVIDEND_PAYMENT",
+    "__sampleDataTemplate": {
+      "createddate": "now-71d"
+    }
+  }
+]

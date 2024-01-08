@@ -1,0 +1,30 @@
+[
+  {
+    "accountentityid": "33_123456789",
+    "deepsleepduration": 0,
+    "duration": 0,
+    "lightsleepduration": 0,
+    "minutesasleep": 0,
+    "minutesawake": 0,
+    "createddate": 1602913700388,
+    "entityid": "33_123456789_754759b919ecec8aa9cff03e87529856",
+    "id": "754759b919ecec8aa9cff03e87529856",
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "deepsleepduration": 0,
+    "duration": 0,
+    "lightsleepduration": 0,
+    "minutesasleep": 0,
+    "minutesawake": 0,
+    "createddate": 1602913400388,
+    "entityid": "33_123456789_fcc9d9ecdc9bd33c1931444fedc5ffea",
+    "id": "fcc9d9ecdc9bd33c1931444fedc5ffea",
+    "__sampleDataTemplate": {
+      "createddate": "now-37d"
+    }
+  }
+]

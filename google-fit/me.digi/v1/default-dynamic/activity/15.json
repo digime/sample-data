@@ -1,0 +1,716 @@
+[
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 380,
+    "createddate": 1602564200388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_55edc5e8b16a9a7facfc6d7a430a14fe",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "55edc5e8b16a9a7facfc6d7a430a14fe",
+    "speed": 0,
+    "steps": 666,
+    "__sampleDataTemplate": {
+      "createddate": "now-88d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 190,
+    "createddate": 1602563900388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 1800000
+    },
+    "entityid": "33_123456789_9f9119c8f2e3cbb120595d12a793655a",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "9f9119c8f2e3cbb120595d12a793655a",
+    "speed": 0.33,
+    "steps": 500,
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 380,
+    "createddate": 1602563600388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_60e274ecd5f3c632babdff71c10f8dcd",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "60e274ecd5f3c632babdff71c10f8dcd",
+    "speed": 0,
+    "steps": 666,
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 380,
+    "createddate": 1602563300388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_b45bc0485a4ccda2092b102c2c2ee05b",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "b45bc0485a4ccda2092b102c2c2ee05b",
+    "speed": 0,
+    "steps": 666,
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 350,
+    "createddate": 1602563000388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 2100000
+    },
+    "entityid": "33_123456789_c8c8eeae283cec86ea95a29333f8b122",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "c8c8eeae283cec86ea95a29333f8b122",
+    "speed": 0,
+    "steps": 777,
+    "__sampleDataTemplate": {
+      "createddate": "now-69d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 190,
+    "createddate": 1602562700388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 1800000
+    },
+    "entityid": "33_123456789_8d50fe90e9ffdc1c4be74c968b224641",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "8d50fe90e9ffdc1c4be74c968b224641",
+    "speed": 0,
+    "steps": 555,
+    "__sampleDataTemplate": {
+      "createddate": "now-88d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 380,
+    "createddate": 1602562400388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_bf5af04f45a873ef7277965f76bf2e73",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "bf5af04f45a873ef7277965f76bf2e73",
+    "speed": 0,
+    "steps": 666,
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 190,
+    "createddate": 1602562100388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 1800000
+    },
+    "entityid": "33_123456789_b46b4907d0d960f39061951b8613d62c",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "b46b4907d0d960f39061951b8613d62c",
+    "speed": 0,
+    "steps": 666,
+    "__sampleDataTemplate": {
+      "createddate": "now-59d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 1200,
+    "createddate": 1602561800388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_8f1965cb69e8b18e2d881ba1af29f5da",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "8f1965cb69e8b18e2d881ba1af29f5da",
+    "speed": 0.89,
+    "steps": 3500,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 380,
+    "createddate": 1602561500388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_5553806a79924ca73ff934c9f9869a53",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "5553806a79924ca73ff934c9f9869a53",
+    "speed": 0,
+    "steps": 666,
+    "__sampleDataTemplate": {
+      "createddate": "now-73d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 666,
+    "createddate": 1602561200388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 1800000
+    },
+    "entityid": "33_123456789_141053d2f114c7e37492e285c784032f",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "141053d2f114c7e37492e285c784032f",
+    "speed": 0.63,
+    "steps": 1500,
+    "__sampleDataTemplate": {
+      "createddate": "now-44d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 500,
+    "createddate": 1602560900388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_d3453b35377e38783c92c1821b8d949a",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "d3453b35377e38783c92c1821b8d949a",
+    "speed": 0.54,
+    "steps": 2500,
+    "__sampleDataTemplate": {
+      "createddate": "now-40d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 6.81,
+    "createddate": 1602560600388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 60000
+    },
+    "entityid": "33_123456789_7732aa9ec5f05f98a1148b57194fce1d",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "7732aa9ec5f05f98a1148b57194fce1d",
+    "speed": 0.81,
+    "steps": 80,
+    "__sampleDataTemplate": {
+      "createddate": "now-4d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 14.46,
+    "createddate": 1602560300388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 120000
+    },
+    "entityid": "33_123456789_909e365e862f66d12e2769651ff6a983",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "909e365e862f66d12e2769651ff6a983",
+    "speed": 1.49,
+    "steps": 272,
+    "__sampleDataTemplate": {
+      "createddate": "now-25d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 7.5,
+    "createddate": 1602560000388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 60000
+    },
+    "entityid": "33_123456789_10dc4c5618c61e7d8396764518ac81bc",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "10dc4c5618c61e7d8396764518ac81bc",
+    "speed": 0.72,
+    "steps": 17,
+    "__sampleDataTemplate": {
+      "createddate": "now-37d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 14.1,
+    "createddate": 1602559700388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 120000
+    },
+    "entityid": "33_123456789_233c623ab078deadf0f53b2555d066b5",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "233c623ab078deadf0f53b2555d066b5",
+    "speed": 1.18,
+    "steps": 217,
+    "__sampleDataTemplate": {
+      "createddate": "now-44d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 6.84,
+    "createddate": 1602559400388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 60000
+    },
+    "entityid": "33_123456789_16e4538a4e073f1e8ca821bcde2f07a5",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "16e4538a4e073f1e8ca821bcde2f07a5",
+    "speed": 1.58,
+    "steps": 124,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 600,
+    "createddate": 1602559100388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 1800000
+    },
+    "entityid": "33_123456789_b2adc8a2ecf700fc85c7d3daf44d9245",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "b2adc8a2ecf700fc85c7d3daf44d9245",
+    "speed": 0.72,
+    "steps": 2000,
+    "__sampleDataTemplate": {
+      "createddate": "now-73d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 16.72,
+    "createddate": 1602558800388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 120000
+    },
+    "entityid": "33_123456789_c09065116f1dcd0bbe5fa811f0830e22",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "c09065116f1dcd0bbe5fa811f0830e22",
+    "speed": 0.78,
+    "steps": 123,
+    "__sampleDataTemplate": {
+      "createddate": "now-22d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "in vehicle",
+    "activitytypeid": "",
+    "calories": 10.54,
+    "createddate": 1602558500388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 0
+    },
+    "entityid": "33_123456789_fb3a2d72e1d134be2fc51aced314be73",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "fb3a2d72e1d134be2fc51aced314be73",
+    "speed": 2.64,
+    "steps": 0,
+    "__sampleDataTemplate": {
+      "createddate": "now-87d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 16.33,
+    "createddate": 1602558200388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 180000
+    },
+    "entityid": "33_123456789_f6f9ee8c567f3f5192ebc44f9fc9fce6",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "f6f9ee8c567f3f5192ebc44f9fc9fce6",
+    "speed": 1.07,
+    "steps": 177,
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 7.23,
+    "createddate": 1602557900388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 60000
+    },
+    "entityid": "33_123456789_b32ff59fc653de9ab125d896fccb9920",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "b32ff59fc653de9ab125d896fccb9920",
+    "speed": 0.89,
+    "steps": 94,
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 0.85,
+    "createddate": 1602557600388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 0
+    },
+    "entityid": "33_123456789_9c43681fefb870cdba4df9e187955130",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "9c43681fefb870cdba4df9e187955130",
+    "speed": 0,
+    "steps": 10,
+    "__sampleDataTemplate": {
+      "createddate": "now-57d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 7.27,
+    "createddate": 1602557300388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 60000
+    },
+    "entityid": "33_123456789_f7fdf34014ebd7f6bee04dc20608d296",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "f7fdf34014ebd7f6bee04dc20608d296",
+    "speed": 0.66,
+    "steps": 56,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 7.28,
+    "createddate": 1602557000388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 60000
+    },
+    "entityid": "33_123456789_b6ff076c3f944da9dd6f67721c51c7ac",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "b6ff076c3f944da9dd6f67721c51c7ac",
+    "speed": 0,
+    "steps": 30,
+    "__sampleDataTemplate": {
+      "createddate": "now-68d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 0.02,
+    "createddate": 1602556700388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 0
+    },
+    "entityid": "33_123456789_3e81311ec2798dc71420e9d8bf52b42a",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "3e81311ec2798dc71420e9d8bf52b42a",
+    "speed": 0,
+    "steps": 0,
+    "__sampleDataTemplate": {
+      "createddate": "now-21d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 4.71,
+    "createddate": 1602556400388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 0
+    },
+    "entityid": "33_123456789_d0bc16afbe059c3a47e610956331650a",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "d0bc16afbe059c3a47e610956331650a",
+    "speed": 1.05,
+    "steps": 69,
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 0.65,
+    "createddate": 1602556100388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 0
+    },
+    "entityid": "33_123456789_f5fd4c27dfa37f91905999d5133d3474",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "f5fd4c27dfa37f91905999d5133d3474",
+    "speed": 0,
+    "steps": 10,
+    "__sampleDataTemplate": {
+      "createddate": "now-71d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "in vehicle",
+    "activitytypeid": "",
+    "calories": 11.15,
+    "createddate": 1602555800388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 0
+    },
+    "entityid": "33_123456789_bd76b3f10514135d94b1c2cd4c89859c",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "bd76b3f10514135d94b1c2cd4c89859c",
+    "speed": 14.85,
+    "steps": 0,
+    "__sampleDataTemplate": {
+      "createddate": "now-24d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "swimming",
+    "activitytypeid": "82",
+    "calories": 500,
+    "createddate": 1602555500388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 1800000
+    },
+    "entityid": "33_123456789_447ca28029973343754118df47c8ece6",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "447ca28029973343754118df47c8ece6",
+    "speed": 0.81,
+    "steps": 365,
+    "__sampleDataTemplate": {
+      "createddate": "now-48d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 75.36,
+    "createddate": 1602555200388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 720000
+    },
+    "entityid": "33_123456789_949e1eb2bd04f46e41a79fec0590293d",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "949e1eb2bd04f46e41a79fec0590293d",
+    "speed": 1.09,
+    "steps": 1207,
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 11.92,
+    "createddate": 1602554900388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 60000
+    },
+    "entityid": "33_123456789_b68832f98394b932c7c812ff876e291b",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "b68832f98394b932c7c812ff876e291b",
+    "speed": 0.78,
+    "steps": 141,
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 1000,
+    "createddate": 1602554600388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 1800000
+    },
+    "entityid": "33_123456789_f8fe0b18b39d954599d7fcac1f1ff7d2",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "f8fe0b18b39d954599d7fcac1f1ff7d2",
+    "speed": 0.89,
+    "steps": 1500,
+    "__sampleDataTemplate": {
+      "createddate": "now-46d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "activityname": "walking",
+    "activitytypeid": "7",
+    "calories": 380,
+    "createddate": 1602554300388,
+    "distance": 0,
+    "bikecadence": 0,
+    "durations": {
+      "total": 3600000
+    },
+    "entityid": "33_123456789_70431b57d7e68cd0f23272abf9a14964",
+    "averageheartrate": 0,
+    "heartratezones": [],
+    "id": "70431b57d7e68cd0f23272abf9a14964",
+    "speed": 0.91,
+    "steps": 5000,
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  }
+]

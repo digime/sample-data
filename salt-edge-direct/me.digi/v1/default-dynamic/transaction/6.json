@@ -1,0 +1,98 @@
+[
+  {
+    "accountentityid": "38_123456789",
+    "id": "818875113389693765",
+    "entityid": "38_123456789_818875113389693765",
+    "categorytype": "income",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 10000,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Income"
+    },
+    "createddate": 1650260832897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10020",
+    "__sampleDataTemplate": {
+      "createddate": "now-52d"
+    }
+  },
+  {
+    "accountentityid": "38_123456789",
+    "id": "818871437174512593",
+    "entityid": "38_123456789_818871437174512593",
+    "categorytype": "transfer",
+    "basetype": "DEBIT",
+    "amount": {
+      "amount": 13,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Transfer"
+    },
+    "createddate": 1650260532897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10025",
+    "__sampleDataTemplate": {
+      "createddate": "now-41d"
+    }
+  },
+  {
+    "accountentityid": "38_123456789",
+    "id": "818871437174512595",
+    "entityid": "38_123456789_818871437174512595",
+    "categorytype": "provider_fee",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 13,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Diamond Energy"
+    },
+    "createddate": 1650260232897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "merchant": {
+      "name": "Diamond Energy",
+      "address": {
+        "country": "XF"
+      }
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "38_123456789",
+    "id": "818871437182901204",
+    "entityid": "38_123456789_818871437182901204",
+    "categorytype": "fees_and_charges",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 0.05,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Interest fee"
+    },
+    "createddate": 1650259932897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "merchant": {
+      "name": "Bank Australia",
+      "address": {
+        "country": "XF"
+      }
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  }
+]

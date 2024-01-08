@@ -1,0 +1,92 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "active": true,
+    "entityid": "20_123456789_eM5CWtq15N0WJeuCet5bJlQ3",
+    "id": "eM5CWtq15N0WJeuCet5bJlQ3",
+    "gender": "male",
+    "identifier": [
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "type": {
+          "text": "NPI"
+        },
+        "use": "usual",
+        "value": "1627363736"
+      },
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.697780",
+        "type": {
+          "text": "INTERNAL"
+        },
+        "use": "usual",
+        "value": "  FAMMD"
+      },
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.697780",
+        "type": {
+          "text": "EXTERNAL"
+        },
+        "use": "usual",
+        "value": "FAMMD"
+      },
+      {
+        "system": "PROVID",
+        "type": {
+          "text": "PROVID"
+        },
+        "use": "usual",
+        "value": "1000"
+      },
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.5.737384.7",
+        "type": {
+          "text": "EPIC"
+        },
+        "use": "usual",
+        "value": "207Q00000X"
+      },
+      {
+        "system": "NPI",
+        "type": {
+          "text": "NPI"
+        },
+        "use": "usual",
+        "value": "1627363736"
+      },
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.5.737384.63",
+        "type": {
+          "text": "Epic"
+        },
+        "use": "usual",
+        "value": "6011"
+      },
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.836982",
+        "type": {
+          "text": "INTERNAL"
+        },
+        "use": "usual",
+        "value": "   E1000"
+      },
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.836982",
+        "type": {
+          "text": "EXTERNAL"
+        },
+        "use": "usual",
+        "value": "E1000"
+      }
+    ],
+    "name": [
+      {
+        "given": [
+          "Physician"
+        ],
+        "text": "Physician",
+        "use": "usual"
+      }
+    ]
+  }
+]

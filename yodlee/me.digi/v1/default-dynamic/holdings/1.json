@@ -1,0 +1,2581 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 10459.9,
+      "currency": "USD"
+    },
+    "createddate": 1676642971856,
+    "cusipnumber": "983134107",
+    "description": "WYNN RESORTS LTD",
+    "holdingtype": "stock",
+    "id": "10048292",
+    "entityid": "35_10048292",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 99.53,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "WYNN",
+    "value": {
+      "amount": 9953,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-17d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 13893.02,
+      "currency": "USD"
+    },
+    "createddate": 1676642671856,
+    "cusipnumber": "254687106",
+    "description": "WALT DISNEY CO HLDG CO",
+    "holdingtype": "stock",
+    "id": "10048290",
+    "entityid": "35_10048290",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 168.17,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "DIS",
+    "value": {
+      "amount": 16817,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 27640,
+      "currency": "USD"
+    },
+    "createddate": 1676642371856,
+    "cusipnumber": "931142103",
+    "description": "WALMART INC",
+    "holdingtype": "stock",
+    "id": "10048287",
+    "entityid": "35_10048287",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 140.49,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "WMT",
+    "value": {
+      "amount": 28098,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-79d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 360.5,
+      "currency": "USD"
+    },
+    "createddate": 1676642071856,
+    "cusipnumber": "92556V106",
+    "description": "VIATRIS INC",
+    "holdingtype": "stock",
+    "id": "10048286",
+    "entityid": "35_10048286",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 16.99,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 24,
+    "symbol": "VTRS",
+    "value": {
+      "amount": 407.76,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 9639.36,
+      "currency": "USD"
+    },
+    "createddate": 1676641771856,
+    "cusipnumber": "91913Y100",
+    "description": "VALERO ENERGY CP DELA NEW",
+    "holdingtype": "stock",
+    "id": "10048283",
+    "entityid": "35_10048283",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 56.43,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "VLO",
+    "value": {
+      "amount": 11286,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-49d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 9450,
+      "currency": "USD"
+    },
+    "createddate": 1676641471856,
+    "cusipnumber": "89832Q109",
+    "description": "TRUIST FINL CORP",
+    "holdingtype": "stock",
+    "id": "10048281",
+    "entityid": "35_10048281",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 47.98,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "TFC",
+    "value": {
+      "amount": 9596,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-30d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 20005.28,
+      "currency": "USD"
+    },
+    "createddate": 1676641171856,
+    "cusipnumber": "863667101",
+    "description": "STRYKER CORP",
+    "holdingtype": "stock",
+    "id": "10048279",
+    "entityid": "35_10048279",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 221.01,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "SYK",
+    "value": {
+      "amount": 22101,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-33d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 4573.97,
+      "currency": "USD"
+    },
+    "createddate": 1676640871856,
+    "cusipnumber": "80105N105",
+    "description": "SANOFI ADR",
+    "holdingtype": "stock",
+    "id": "10048277",
+    "entityid": "35_10048277",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 47.21,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "SNY",
+    "value": {
+      "amount": 4721,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-62d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 7205.76,
+      "currency": "USD"
+    },
+    "createddate": 1676640571856,
+    "cusipnumber": "75513E101",
+    "description": "RAYTHEON TECHNOLOGIES CORP",
+    "holdingtype": "stock",
+    "id": "10048275",
+    "entityid": "35_10048275",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 66.73,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "RTX",
+    "value": {
+      "amount": 6673,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-84d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 11636.87,
+      "currency": "USD"
+    },
+    "createddate": 1676640271856,
+    "cusipnumber": "747525103",
+    "description": "QUALCOMM INC",
+    "holdingtype": "stock",
+    "id": "10048273",
+    "entityid": "35_10048273",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 156.28,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "QCOM",
+    "value": {
+      "amount": 15628,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-57d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 4810.19,
+      "currency": "USD"
+    },
+    "createddate": 1676639971856,
+    "cusipnumber": "718546104",
+    "description": "PHILLIPS 66 COM",
+    "holdingtype": "stock",
+    "id": "10048271",
+    "entityid": "35_10048271",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 67.8,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "PSX",
+    "value": {
+      "amount": 6780,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-32d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 6758.72,
+      "currency": "USD"
+    },
+    "createddate": 1676639671856,
+    "cusipnumber": "717081103",
+    "description": "PFIZER INC",
+    "holdingtype": "stock",
+    "id": "10048269",
+    "entityid": "35_10048269",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 35.9,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "PFE",
+    "value": {
+      "amount": 7180,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 5834.5,
+      "currency": "USD"
+    },
+    "createddate": 1676639371856,
+    "cusipnumber": "609207105",
+    "description": "MONDELEZ INTL INC COM",
+    "holdingtype": "stock",
+    "id": "10048267",
+    "entityid": "35_10048267",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 55.44,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "MDLZ",
+    "value": {
+      "amount": 5544,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-47d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 9761.31,
+      "currency": "USD"
+    },
+    "createddate": 1676639071856,
+    "cusipnumber": "595017104",
+    "description": "MICROCHIP TECHNOLOGY INC",
+    "holdingtype": "stock",
+    "id": "10048265",
+    "entityid": "35_10048265",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 136.11,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "MCHP",
+    "value": {
+      "amount": 13611,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-56d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 8412.5,
+      "currency": "USD"
+    },
+    "createddate": 1676638771856,
+    "cusipnumber": "58933Y105",
+    "description": "MERCK  CO INC NEW COM",
+    "holdingtype": "stock",
+    "id": "10048263",
+    "entityid": "35_10048263",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 77.07,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "MRK",
+    "value": {
+      "amount": 7707,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-45d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 6279.82,
+      "currency": "USD"
+    },
+    "createddate": 1676638471856,
+    "cusipnumber": "56585A102",
+    "description": "MARATHON PETROLEUM CORP",
+    "holdingtype": "stock",
+    "id": "10048260",
+    "entityid": "35_10048260",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 43.16,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "MPC",
+    "value": {
+      "amount": 8632,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-84d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 15835,
+      "currency": "USD"
+    },
+    "createddate": 1676638171856,
+    "cusipnumber": "548661107",
+    "description": "LOWES COMPANIES INC",
+    "holdingtype": "stock",
+    "id": "10048258",
+    "entityid": "35_10048258",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 166.85,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "LOW",
+    "value": {
+      "amount": 16685,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-73d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 10964.7,
+      "currency": "USD"
+    },
+    "createddate": 1676637871856,
+    "cusipnumber": "46625H100",
+    "description": "JPMORGAN CHASE  CO",
+    "holdingtype": "stock",
+    "id": "10048256",
+    "entityid": "35_10048256",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 128.67,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "JPM",
+    "value": {
+      "amount": 12867,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-27d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 14363,
+      "currency": "USD"
+    },
+    "createddate": 1676637571856,
+    "cusipnumber": "478160104",
+    "description": "JOHNSON  JOHNSON",
+    "holdingtype": "stock",
+    "id": "10048254",
+    "entityid": "35_10048254",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 163.13,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "JNJ",
+    "value": {
+      "amount": 16313,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 5764.71,
+      "currency": "USD"
+    },
+    "createddate": 1676637271856,
+    "cusipnumber": "458140100",
+    "description": "INTEL CORP",
+    "holdingtype": "stock",
+    "id": "10048252",
+    "entityid": "35_10048252",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 55.51,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "INTC",
+    "value": {
+      "amount": 5551,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-13d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 15827.42,
+      "currency": "USD"
+    },
+    "createddate": 1676636971856,
+    "cusipnumber": "438516106",
+    "description": "HONEYWELL INTERNATIONAL INC",
+    "holdingtype": "stock",
+    "id": "10048250",
+    "entityid": "35_10048250",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 195.37,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "HON",
+    "value": {
+      "amount": 19537,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-54d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 14334.94,
+      "currency": "USD"
+    },
+    "createddate": 1676636671856,
+    "cusipnumber": "42809H107",
+    "description": "HESS CORPORATION",
+    "holdingtype": "stock",
+    "id": "10048247",
+    "entityid": "35_10048247",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 53.98,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 300,
+    "symbol": "HES",
+    "value": {
+      "amount": 16194,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 7509.5,
+      "currency": "USD"
+    },
+    "createddate": 1676636371856,
+    "cusipnumber": "35671D857",
+    "description": "FREEPORT-MCMORAN CL-B",
+    "holdingtype": "stock",
+    "id": "10048245",
+    "entityid": "35_10048245",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 26.91,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 500,
+    "symbol": "FCX",
+    "value": {
+      "amount": 13455,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 5123.5,
+      "currency": "USD"
+    },
+    "createddate": 1676636071856,
+    "cusipnumber": "30231G102",
+    "description": "EXXON MOBIL CORP",
+    "holdingtype": "stock",
+    "id": "10048243",
+    "entityid": "35_10048243",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 44.84,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "XOM",
+    "value": {
+      "amount": 4484,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-49d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 4632.99,
+      "currency": "USD"
+    },
+    "createddate": 1676635771856,
+    "cusipnumber": "30161N101",
+    "description": "EXELON CORP",
+    "holdingtype": "stock",
+    "id": "10048241",
+    "entityid": "35_10048241",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 41.56,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "EXC",
+    "value": {
+      "amount": 4156,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-82d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 8428,
+      "currency": "USD"
+    },
+    "createddate": 1676635471856,
+    "cusipnumber": "29272W109",
+    "description": "ENERGIZER HLDGS INC",
+    "holdingtype": "stock",
+    "id": "10048239",
+    "entityid": "35_10048239",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 43.84,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "ENR",
+    "value": {
+      "amount": 8768,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-82d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 4422,
+      "currency": "USD"
+    },
+    "createddate": 1676635171856,
+    "cusipnumber": "23355L106",
+    "description": "DXC TECHNOLOGY COMPANY",
+    "holdingtype": "stock",
+    "id": "10048237",
+    "entityid": "35_10048237",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 28.2,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "DXC",
+    "value": {
+      "amount": 5640,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 10617.55,
+      "currency": "USD"
+    },
+    "createddate": 1676634871856,
+    "cusipnumber": "260003108",
+    "description": "DOVER CORP",
+    "holdingtype": "stock",
+    "id": "10048235",
+    "entityid": "35_10048235",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 116.49,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "DOV",
+    "value": {
+      "amount": 11649,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-33d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 5587.5,
+      "currency": "USD"
+    },
+    "createddate": 1676634571856,
+    "cusipnumber": "191216100",
+    "description": "COCA COLA CO",
+    "holdingtype": "stock",
+    "id": "10048233",
+    "entityid": "35_10048233",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 48.15,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "KO",
+    "value": {
+      "amount": 4815,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-55d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 9929.25,
+      "currency": "USD"
+    },
+    "createddate": 1676634271856,
+    "cusipnumber": "17275R102",
+    "description": "CISCO SYS INC",
+    "holdingtype": "stock",
+    "id": "10048231",
+    "entityid": "35_10048231",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 44.58,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "CSCO",
+    "value": {
+      "amount": 8916,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-75d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 6379.43,
+      "currency": "USD"
+    },
+    "createddate": 1676633971856,
+    "cusipnumber": "15135B101",
+    "description": "CENTENE CORPORATION",
+    "holdingtype": "stock",
+    "id": "10048229",
+    "entityid": "35_10048229",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 60.3,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "CNC",
+    "value": {
+      "amount": 6030,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 2159.95,
+      "currency": "USD"
+    },
+    "createddate": 1676633671856,
+    "cusipnumber": "14448C104",
+    "description": "CARRIER GLOBAL CORPORATION",
+    "holdingtype": "stock",
+    "id": "10048227",
+    "entityid": "35_10048227",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 38.5,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "CARR",
+    "value": {
+      "amount": 3850,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-18d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 5170.5,
+      "currency": "USD"
+    },
+    "createddate": 1676633371856,
+    "cusipnumber": "08579W103",
+    "description": "BERRY GLOBAL GROUP INC",
+    "holdingtype": "stock",
+    "id": "10048225",
+    "entityid": "35_10048225",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 49.37,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "BERY",
+    "value": {
+      "amount": 4937,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-42d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 7978.9,
+      "currency": "USD"
+    },
+    "createddate": 1676633071856,
+    "cusipnumber": "058498106",
+    "description": "BALL CORPORATION",
+    "holdingtype": "stock",
+    "id": "10048222",
+    "entityid": "35_10048222",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 88.02,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "BLL",
+    "value": {
+      "amount": 8802,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 14719.03,
+      "currency": "USD"
+    },
+    "createddate": 1676632771856,
+    "cusipnumber": "00206R102",
+    "description": "ATT INC",
+    "holdingtype": "stock",
+    "id": "10048220",
+    "entityid": "35_10048220",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 28.63,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 400,
+    "symbol": "T",
+    "value": {
+      "amount": 11452,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-60d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 22613.56,
+      "currency": "USD"
+    },
+    "createddate": 1676632471856,
+    "cusipnumber": "037833100",
+    "description": "APPLE INC",
+    "holdingtype": "stock",
+    "id": "10048218",
+    "entityid": "35_10048218",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 131.96,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 200,
+    "symbol": "AAPL",
+    "value": {
+      "amount": 26392,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-65d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 11555.7,
+      "currency": "USD"
+    },
+    "createddate": 1676632171856,
+    "cusipnumber": "025816109",
+    "description": "AMERICAN EXPRESS CO",
+    "holdingtype": "stock",
+    "id": "10048216",
+    "entityid": "35_10048216",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 116.26,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "AXP",
+    "value": {
+      "amount": 11626,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-12d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 28774.11,
+      "currency": "USD"
+    },
+    "createddate": 1676631871856,
+    "cusipnumber": "009158106",
+    "description": "AIR PROD  CHEM INC",
+    "holdingtype": "stock",
+    "id": "10048214",
+    "entityid": "35_10048214",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 266.76,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "APD",
+    "value": {
+      "amount": 26676,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-83d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 7990,
+      "currency": "USD"
+    },
+    "createddate": 1676631571856,
+    "cusipnumber": "00507V109",
+    "description": "ACTIVISION BLIZZARD INC",
+    "holdingtype": "stock",
+    "id": "10048212",
+    "entityid": "35_10048212",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 91,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": 100,
+    "symbol": "ATVI",
+    "value": {
+      "amount": 9100,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -1164.97,
+      "currency": "USD"
+    },
+    "createddate": 1676631271856,
+    "description": "CALL WYNN RESORTS LTD AT      120.000 EXPIRES 06/18/2021",
+    "expirationdate": "2021-06-18",
+    "holdingtype": "option",
+    "id": "10048293",
+    "entityid": "35_10048293",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 7.8,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 120,
+      "currency": "USD"
+    },
+    "symbol": "WYNN  210618C00120000",
+    "value": {
+      "amount": -780,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-24d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -570.98,
+      "currency": "USD"
+    },
+    "createddate": 1676630971856,
+    "description": "CALL WALT DISNEY CO HLDG CO AT140.000 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048291",
+    "entityid": "35_10048291",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 31.1,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 140,
+      "currency": "USD"
+    },
+    "symbol": "DIS   210416C00140000",
+    "value": {
+      "amount": -3110,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -307.99,
+      "currency": "USD"
+    },
+    "createddate": 1676630671856,
+    "description": "CALL WAL MART STORES INC AT   160.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048289",
+    "entityid": "35_10048289",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 1.25,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 160,
+      "currency": "USD"
+    },
+    "symbol": "WMT   210319C00160000",
+    "value": {
+      "amount": -125,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-89d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -616.98,
+      "currency": "USD"
+    },
+    "createddate": 1676630371856,
+    "description": "CALL WAL MART STORES INC AT   150.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048288",
+    "entityid": "35_10048288",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 3,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 150,
+      "currency": "USD"
+    },
+    "symbol": "WMT   210319C00150000",
+    "value": {
+      "amount": -300,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-71d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -387.99,
+      "currency": "USD"
+    },
+    "createddate": 1676630071856,
+    "description": "CALL VALERO ENERGY CP DEL AT  60.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048285",
+    "entityid": "35_10048285",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 2.44,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 60,
+      "currency": "USD"
+    },
+    "symbol": "VLO   210319C00060000",
+    "value": {
+      "amount": -244,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-62d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -324.99,
+      "currency": "USD"
+    },
+    "createddate": 1676629771856,
+    "description": "CALL VALERO ENERGY CP DEL AT  50.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048284",
+    "entityid": "35_10048284",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 7.7,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 50,
+      "currency": "USD"
+    },
+    "symbol": "VLO   210319C00050000",
+    "value": {
+      "amount": -770,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -471.98,
+      "currency": "USD"
+    },
+    "createddate": 1676629471856,
+    "description": "CALL TRUIST FINL CORP AT      40.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048282",
+    "entityid": "35_10048282",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 8.1,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -2,
+    "strikeprice": {
+      "amount": 40,
+      "currency": "USD"
+    },
+    "symbol": "TFC   210319C00040000",
+    "value": {
+      "amount": -1620,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-55d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -968.97,
+      "currency": "USD"
+    },
+    "createddate": 1676629171856,
+    "description": "CALL STRYKER CORP AT 220.000  EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048280",
+    "entityid": "35_10048280",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 10.4,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 220,
+      "currency": "USD"
+    },
+    "symbol": "SYK   210319C00220000",
+    "value": {
+      "amount": -1040,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -206.99,
+      "currency": "USD"
+    },
+    "createddate": 1676628871856,
+    "description": "CALL SANOFI SYNTHELABO SA AT  55.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048278",
+    "entityid": "35_10048278",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.15,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 55,
+      "currency": "USD"
+    },
+    "symbol": "SNY   210319C00055000",
+    "value": {
+      "amount": -15,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-21d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -267.99,
+      "currency": "USD"
+    },
+    "createddate": 1676628571856,
+    "description": "CALL RAYTHEON TECHNOLOGIES CO AT 70.000 EXPIRES 02/19/2021",
+    "expirationdate": "2021-02-19",
+    "holdingtype": "option",
+    "id": "10048276",
+    "entityid": "35_10048276",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 1.03,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 70,
+      "currency": "USD"
+    },
+    "symbol": "RTX   210219C00070000",
+    "value": {
+      "amount": -103,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-84d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -872.98,
+      "currency": "USD"
+    },
+    "createddate": 1676628271856,
+    "description": "CALL QUALCOMM INC AT 130.000  EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048274",
+    "entityid": "35_10048274",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 28.7,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 130,
+      "currency": "USD"
+    },
+    "symbol": "QCOM  210416C00130000",
+    "value": {
+      "amount": -2870,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-46d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -334.99,
+      "currency": "USD"
+    },
+    "createddate": 1676627971856,
+    "description": "CALL PHILLIPS 66 COM AT 55.000EXPIRES 05/21/2021",
+    "expirationdate": "2021-05-21",
+    "holdingtype": "option",
+    "id": "10048272",
+    "entityid": "35_10048272",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 13.6,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 55,
+      "currency": "USD"
+    },
+    "symbol": "PSX   210521C00055000",
+    "value": {
+      "amount": -1360,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-77d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -237.99,
+      "currency": "USD"
+    },
+    "createddate": 1676627671856,
+    "description": "CALL PFIZER INC AT 40.000     EXPIRES 03/19/2021",
+    "holdingtype": "option",
+    "id": "10048270",
+    "entityid": "35_10048270",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.84,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -2,
+    "strikeprice": {
+      "amount": 40,
+      "currency": "USD"
+    },
+    "symbol": "PFE1  210319C00040000",
+    "value": {
+      "amount": -168,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-66d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -105.99,
+      "currency": "USD"
+    },
+    "createddate": 1676627371856,
+    "description": "CALL MONDELEZ INTL INC COM AT 65.000 EXPIRES 06/18/2021",
+    "expirationdate": "2021-06-18",
+    "holdingtype": "option",
+    "id": "10048268",
+    "entityid": "35_10048268",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.43,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 65,
+      "currency": "USD"
+    },
+    "symbol": "MDLZ  210618C00065000",
+    "value": {
+      "amount": -43,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-52d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -581.98,
+      "currency": "USD"
+    },
+    "createddate": 1676627071856,
+    "description": "CALL MICROCHIP TECHNOLOGY INC AT 115.000 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048266",
+    "entityid": "35_10048266",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 24.4,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 115,
+      "currency": "USD"
+    },
+    "symbol": "MCHP  210416C00115000",
+    "value": {
+      "amount": -2440,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-24d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -244.99,
+      "currency": "USD"
+    },
+    "createddate": 1676626771856,
+    "description": "CALL MERCK  CO INC NEW COM AT92.500 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048264",
+    "entityid": "35_10048264",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.3,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 92.5,
+      "currency": "USD"
+    },
+    "symbol": "MRK   210416C00092500",
+    "value": {
+      "amount": -30,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-43d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -316.99,
+      "currency": "USD"
+    },
+    "createddate": 1676626471856,
+    "description": "CALL MARATHON PETROLEUM CORP  AT 40.000 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048262",
+    "entityid": "35_10048262",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 4.85,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 40,
+      "currency": "USD"
+    },
+    "symbol": "MPC   210416C00040000",
+    "value": {
+      "amount": -485,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-59d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -185.99,
+      "currency": "USD"
+    },
+    "createddate": 1676626171856,
+    "description": "CALL MARATHON PETROLEUM CORP  AT 35.000 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048261",
+    "entityid": "35_10048261",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 8.5,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 35,
+      "currency": "USD"
+    },
+    "symbol": "MPC   210416C00035000",
+    "value": {
+      "amount": -850,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-44d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -802.98,
+      "currency": "USD"
+    },
+    "createddate": 1676625871856,
+    "description": "CALL LOWE'S COMPANIES AT      180.000 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048259",
+    "entityid": "35_10048259",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 4.9,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 180,
+      "currency": "USD"
+    },
+    "symbol": "LOW   210416C00180000",
+    "value": {
+      "amount": -490,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-89d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -276.99,
+      "currency": "USD"
+    },
+    "createddate": 1676625571856,
+    "description": "CALL JP MORGAN CHASECO AT    110.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048257",
+    "entityid": "35_10048257",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 19.75,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 110,
+      "currency": "USD"
+    },
+    "symbol": "JPM   210319C00110000",
+    "value": {
+      "amount": -1975,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-63d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -339.99,
+      "currency": "USD"
+    },
+    "createddate": 1676625271856,
+    "description": "CALL JOHNSON  JOHNSON AT     160.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048255",
+    "entityid": "35_10048255",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 7.15,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 160,
+      "currency": "USD"
+    },
+    "symbol": "JNJ   210319C00160000",
+    "value": {
+      "amount": -715,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -274.99,
+      "currency": "USD"
+    },
+    "createddate": 1676624971856,
+    "description": "CALL INTEL CORP AT 55.000     EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048253",
+    "entityid": "35_10048253",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 3.65,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 55,
+      "currency": "USD"
+    },
+    "symbol": "INTC  210416C00055000",
+    "value": {
+      "amount": -365,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-32d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -472.98,
+      "currency": "USD"
+    },
+    "createddate": 1676624671856,
+    "description": "CALL HONEYWELL INTERNATIONAL  AT 180.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048251",
+    "entityid": "35_10048251",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 17.7,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 180,
+      "currency": "USD"
+    },
+    "symbol": "HON   210319C00180000",
+    "value": {
+      "amount": -1770,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-75d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -641.98,
+      "currency": "USD"
+    },
+    "createddate": 1676624371856,
+    "description": "CALL HESS CORPORATION AT      55.000 EXPIRES 02/19/2021",
+    "expirationdate": "2021-02-19",
+    "holdingtype": "option",
+    "id": "10048249",
+    "entityid": "35_10048249",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 2.15,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -2,
+    "strikeprice": {
+      "amount": 55,
+      "currency": "USD"
+    },
+    "symbol": "HES   210219C00055000",
+    "value": {
+      "amount": -430,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-56d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -294.99,
+      "currency": "USD"
+    },
+    "createddate": 1676624071856,
+    "description": "CALL HESS CORPORATION AT      45.000 EXPIRES 02/19/2021",
+    "expirationdate": "2021-02-19",
+    "holdingtype": "option",
+    "id": "10048248",
+    "entityid": "35_10048248",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 9.45,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 45,
+      "currency": "USD"
+    },
+    "symbol": "HES   210219C00045000",
+    "value": {
+      "amount": -945,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-57d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -669.98,
+      "currency": "USD"
+    },
+    "createddate": 1676623771856,
+    "description": "CALL FREEPORT MCMORAN CP AT  17.000 EXPIRES 02/19/2021",
+    "expirationdate": "2021-02-19",
+    "holdingtype": "option",
+    "id": "10048246",
+    "entityid": "35_10048246",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 9.85,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -5,
+    "strikeprice": {
+      "amount": 17,
+      "currency": "USD"
+    },
+    "symbol": "FCX   210219C00017000",
+    "value": {
+      "amount": -4925,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-80d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -166.99,
+      "currency": "USD"
+    },
+    "createddate": 1676623471856,
+    "description": "CALL EXXON MOBIL CORP AT      40.000 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048244",
+    "entityid": "35_10048244",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 5.8,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 40,
+      "currency": "USD"
+    },
+    "symbol": "XOM   210416C00040000",
+    "value": {
+      "amount": -580,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -123.99,
+      "currency": "USD"
+    },
+    "createddate": 1676623171856,
+    "description": "CALL EXELON CORP AT 46.000    EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048242",
+    "entityid": "35_10048242",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.5,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 46,
+      "currency": "USD"
+    },
+    "symbol": "EXC   210416C00046000",
+    "value": {
+      "amount": -50,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-42d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -351.99,
+      "currency": "USD"
+    },
+    "createddate": 1676622871856,
+    "description": "CALL ENERGIZER HLDGS INC AT   50.000 EXPIRES 05/21/2021",
+    "expirationdate": "2021-05-21",
+    "holdingtype": "option",
+    "id": "10048240",
+    "entityid": "35_10048240",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 1.6,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -2,
+    "strikeprice": {
+      "amount": 50,
+      "currency": "USD"
+    },
+    "symbol": "ENR   210521C00050000",
+    "value": {
+      "amount": -320,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-32d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -423.99,
+      "currency": "USD"
+    },
+    "createddate": 1676622571856,
+    "description": "CALL DXC TECHNOLOGY COMPANY N AT 26.000 EXPIRES 06/18/2021",
+    "expirationdate": "2021-06-18",
+    "holdingtype": "option",
+    "id": "10048238",
+    "entityid": "35_10048238",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 4.2,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -2,
+    "strikeprice": {
+      "amount": 26,
+      "currency": "USD"
+    },
+    "symbol": "DXC   210618C00026000",
+    "value": {
+      "amount": -840,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-27d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -438.99,
+      "currency": "USD"
+    },
+    "createddate": 1676622271856,
+    "description": "CALL DOVER CORP AT 120.000    EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048236",
+    "entityid": "35_10048236",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 2.8,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 120,
+      "currency": "USD"
+    },
+    "symbol": "DOV   210319C00120000",
+    "value": {
+      "amount": -280,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -77.99,
+      "currency": "USD"
+    },
+    "createddate": 1676621971856,
+    "description": "CALL COCA COLA CO AT 55.000   EXPIRES 02/19/2021",
+    "expirationdate": "2021-02-19",
+    "holdingtype": "option",
+    "id": "10048234",
+    "entityid": "35_10048234",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.07,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 55,
+      "currency": "USD"
+    },
+    "symbol": "KO    210219C00055000",
+    "value": {
+      "amount": -7,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-29d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -183.99,
+      "currency": "USD"
+    },
+    "createddate": 1676621671856,
+    "description": "CALL CISCO SYS INC AT 45.000  EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048232",
+    "entityid": "35_10048232",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 2.15,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -2,
+    "strikeprice": {
+      "amount": 45,
+      "currency": "USD"
+    },
+    "symbol": "CSCO  210416C00045000",
+    "value": {
+      "amount": -430,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-16d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -435.99,
+      "currency": "USD"
+    },
+    "createddate": 1676621371856,
+    "description": "CALL CENTENE CORPORATION AT   70.000 EXPIRES 06/18/2021",
+    "expirationdate": "2021-06-18",
+    "holdingtype": "option",
+    "id": "10048230",
+    "entityid": "35_10048230",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 2.26,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 70,
+      "currency": "USD"
+    },
+    "symbol": "CNC   210618C00070000",
+    "value": {
+      "amount": -226,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -231.99,
+      "currency": "USD"
+    },
+    "createddate": 1676621071856,
+    "description": "CALL CARRIER GLOBAL CORPORATI AT 35.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048228",
+    "entityid": "35_10048228",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 4.4,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 35,
+      "currency": "USD"
+    },
+    "symbol": "CARR  210319C00035000",
+    "value": {
+      "amount": -440,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-76d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -237.99,
+      "currency": "USD"
+    },
+    "createddate": 1676620771856,
+    "description": "CALL BERRY PLASTICS GROUP INC AT 60.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048226",
+    "entityid": "35_10048226",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.1,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 60,
+      "currency": "USD"
+    },
+    "symbol": "BERY  210319C00060000",
+    "value": {
+      "amount": -10,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-62d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -276.99,
+      "currency": "USD"
+    },
+    "createddate": 1676620471856,
+    "description": "CALL BALL CORPORATION AT      90.000 EXPIRES 02/19/2021",
+    "expirationdate": "2021-02-19",
+    "holdingtype": "option",
+    "id": "10048223",
+    "entityid": "35_10048223",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 2.05,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 90,
+      "currency": "USD"
+    },
+    "symbol": "BLL   210219C00090000",
+    "value": {
+      "amount": -205,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-34d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -171.99,
+      "currency": "USD"
+    },
+    "createddate": 1676620171856,
+    "description": "CALL ATT INC AT 32.000       EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048221",
+    "entityid": "35_10048221",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 0.29,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -4,
+    "strikeprice": {
+      "amount": 32,
+      "currency": "USD"
+    },
+    "symbol": "T     210416C00032000",
+    "value": {
+      "amount": -116,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-66d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -1109.97,
+      "currency": "USD"
+    },
+    "createddate": 1676619871856,
+    "description": "CALL APPLE INC AT 130.000     EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048219",
+    "entityid": "35_10048219",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 9.3,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -2,
+    "strikeprice": {
+      "amount": 130,
+      "currency": "USD"
+    },
+    "symbol": "AAPL  210319C00130000",
+    "value": {
+      "amount": -1860,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-52d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -239.99,
+      "currency": "USD"
+    },
+    "createddate": 1676619571856,
+    "description": "CALL AMERICAN EXPRESS CO AT   115.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048217",
+    "entityid": "35_10048217",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 7.1,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 115,
+      "currency": "USD"
+    },
+    "symbol": "AXP   210319C00115000",
+    "value": {
+      "amount": -710,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-52d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -1138.97,
+      "currency": "USD"
+    },
+    "createddate": 1676619271856,
+    "description": "CALL AIR PROD  CHEM INC AT   320.000 EXPIRES 03/19/2021",
+    "expirationdate": "2021-03-19",
+    "holdingtype": "option",
+    "id": "10048215",
+    "entityid": "35_10048215",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 1.5,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 320,
+      "currency": "USD"
+    },
+    "symbol": "APD   210319C00320000",
+    "value": {
+      "amount": -150,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-50d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": -429.99,
+      "currency": "USD"
+    },
+    "createddate": 1676618971856,
+    "description": "CALL ACTIVISION BLIZZARD INC  AT 90.000 EXPIRES 04/16/2021",
+    "expirationdate": "2021-04-16",
+    "holdingtype": "option",
+    "id": "10048213",
+    "entityid": "35_10048213",
+    "isshort": true,
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "call",
+    "price": {
+      "amount": 6.4,
+      "currency": "USD"
+    },
+    "provideraccountid": "10028066",
+    "quantity": -1,
+    "strikeprice": {
+      "amount": 90,
+      "currency": "USD"
+    },
+    "symbol": "ATVI  210416C00090000",
+    "value": {
+      "amount": -640,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-44d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "createddate": 1676618671856,
+    "cusipnumber": "061871901",
+    "description": "Recon Error: Price is missing for Holding",
+    "holdingtype": "moneyMarketFund",
+    "id": "10048224",
+    "entityid": "35_10048224",
+    "lastupdated": "2022-12-02T09:35:42Z",
+    "optiontype": "unknown",
+    "provideraccountid": "10028066",
+    "quantity": 6206.29,
+    "symbol": "BDPS",
+    "value": {
+      "amount": 6206.29,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-59d"
+    }
+  }
+]

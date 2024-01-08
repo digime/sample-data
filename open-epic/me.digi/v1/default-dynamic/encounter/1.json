@@ -1,0 +1,79 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "class": {
+      "code": "13",
+      "display": "Support OP Encounter",
+      "system": "urn:oid:1.2.840.114350.1.72.1.7.7.10.696784.13260"
+    },
+    "createddate": 1676560389982,
+    "hospitalization": {},
+    "identifier": [
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.3.698084.8",
+        "use": "usual",
+        "value": "27554"
+      }
+    ],
+    "location": [
+      {
+        "location": {
+          "display": "EMC Family Medicine",
+          "reference": "Location/e4W4rmGe9QzuGm2Dy4NBqVc0KDe6yGld6HW95UuN-Qd03"
+        }
+      }
+    ],
+    "entityid": "20_123456789_emhwuharfnf8VhCQg97qP7Q3",
+    "id": "emhwuharfnf8VhCQg97qP7Q3",
+    "participant": [
+      {
+        "individual": {
+          "display": "Family Medicine Physician, MD",
+          "reference": "Practitioner/eM5CWtq15N0WJeuCet5bJlQ3",
+          "type": "Practitioner"
+        },
+        "type": [
+          {
+            "text": "losAuthorizingPhysician"
+          }
+        ]
+      }
+    ],
+    "period": {
+      "end": "2019-05-24",
+      "start": "2019-05-24"
+    },
+    "reasoncode": [
+      {
+        "coding": [
+          {
+            "code": "160050",
+            "display": "Arm Injury",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.728286"
+          }
+        ],
+        "text": "Arm Injury"
+      }
+    ],
+    "status": "finished",
+    "subject": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "type": [
+      {
+        "coding": [
+          {
+            "code": "101",
+            "display": "Office Visit",
+            "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.698084.30"
+          }
+        ],
+        "text": "Office Visit"
+      }
+    ],
+    "__sampleDataTemplate": {
+      "createddate": "now-60d"
+    }
+  }
+]

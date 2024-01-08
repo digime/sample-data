@@ -1,0 +1,32 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "aggregationsource": "USER",
+    "createddate": 1676642971856,
+    "dataset": [
+      {
+        "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+        "lastupdated": "2022-12-02T09:35:42Z",
+        "lastupdateattempt": "2022-12-02T09:35:42Z",
+        "name": "BASIC_AGG_DATA",
+        "nextupdatescheduled": "2022-12-04T07:21:36Z",
+        "updateeligibility": "ALLOW_UPDATE"
+      }
+    ],
+    "basicaggdataset": {
+      "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+      "lastupdated": "2022-12-02T09:35:42Z",
+      "lastupdateattempt": "2022-12-02T09:35:42Z",
+      "name": "BASIC_AGG_DATA",
+      "nextupdatescheduled": "2022-12-04T07:21:36Z",
+      "updateeligibility": "ALLOW_UPDATE"
+    },
+    "id": "10028066",
+    "entityid": "35_10028066",
+    "ismanual": false,
+    "providerid": "16441",
+    "__sampleDataTemplate": {
+      "createddate": "now-38d"
+    }
+  }
+]

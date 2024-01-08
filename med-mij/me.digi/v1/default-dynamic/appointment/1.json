@@ -1,0 +1,101 @@
+[
+  {
+    "resourceType": "Appointment",
+    "id": "medmij-bgz-appointment-ts-01",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-02-22T10:42:29.770-05:00",
+      "profile": [
+        "http://nictiz.nl/fhir/StructureDefinition/eAfspraak-Appointment"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Afspraak. Id: 112233 (http://example-ehr.nl/NamingSystem/appointmentId), Status: geboekt</caption><tbody><tr><th>Specialisme</th><td><span title=\"Orthopedie (0305 - AGB-medisch specialisme)\">Orthopedie</span></td></tr><tr><th>Type</th><td><span title=\"Ambulatory (AMB - v3/ActCode)\">Ambulatory</span></td></tr><tr><th>Omschrijving</th><td>Fysiotherapie Controle afspraak</td></tr><tr><th>Timing</th><td>11:30 - 11:40 op 12 juli 2022</td></tr><tr><th>Deelnemers</th><td><ul><li>geaccepteerd - Johan XXX_Helleman</li><li>geaccepteerd - G.Z.M. de Wit                                                      \n                  <div>Zorgverlenerrol: Orthopedie</div></li><li>geaccepteerd - Test Medisch Centrum, West vleugel</li></ul></td></tr></tbody></table></div>"
+    },
+    "identifier": [
+      {
+        "system": "http://example-ehr.nl/NamingSystem/appointmentId",
+        "value": "112233"
+      }
+    ],
+    "status": "booked",
+    "_status": {
+      "extension": [
+        {
+          "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+          "valueCodeableConcept": {
+            "coding": [
+              {
+                "system": "http://hl7.org/fhir/v3/ActStatus",
+                "code": "active",
+                "display": "Pending"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "specialty": [
+      {
+        "coding": [
+          {
+            "system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+            "code": "0305",
+            "display": "Orthopedie"
+          }
+        ]
+      }
+    ],
+    "appointmentType": {
+      "coding": [
+        {
+          "system": "http://hl7.org/fhir/v3/ActCode",
+          "code": "AMB",
+          "display": "Ambulatory"
+        }
+      ]
+    },
+    "description": "Fysiotherapie Controle afspraak",
+    "start": "2022-07-12T11:30:00+02:00",
+    "end": "2022-07-12T11:40:00+02:00",
+    "participant": [
+      {
+        "actor": {
+          "reference": "Patient/medmij-bgz-patient-ts-01",
+          "display": "Johan XXX_Helleman"
+        },
+        "status": "accepted"
+      },
+      {
+        "actor": {
+          "extension": [
+            {
+              "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+              "valueReference": {
+                "reference": "PractitionerRole/medmij-bgz-practitionerrole-ts-03",
+                "display": "Orthopedie"
+              }
+            }
+          ],
+          "reference": "Practitioner/medmij-bgz-practitioner-ts-01",
+          "display": "G.Z.M. de Wit"
+        },
+        "status": "accepted"
+      },
+      {
+        "actor": {
+          "reference": "Location/medmij-bgz-location-ts-01",
+          "display": "Test Medisch Centrum, West vleugel"
+        },
+        "status": "accepted"
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_medmij-bgz-appointment-ts-01",
+    "createddate": 1657576800,
+    "__sampleDataTemplate": {
+      "createddate": "now-61d"
+    }
+  }
+]

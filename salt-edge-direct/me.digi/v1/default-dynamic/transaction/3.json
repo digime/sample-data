@@ -1,0 +1,77 @@
+[
+  {
+    "accountentityid": "38_123456789",
+    "id": "818875113020595012",
+    "entityid": "38_123456789_818875113020595012",
+    "categorytype": "income",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 10000,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Income"
+    },
+    "createddate": 1666040808897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10020",
+    "__sampleDataTemplate": {
+      "createddate": "now-61d"
+    }
+  },
+  {
+    "accountentityid": "38_123456789",
+    "id": "818871436771859393",
+    "entityid": "38_123456789_818871436771859393",
+    "categorytype": "fees_and_charges",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 3,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Amazon refund"
+    },
+    "createddate": 1666040508897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "merchant": {
+      "name": "Amazon",
+      "address": {
+        "country": "XF"
+      }
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-88d"
+    }
+  },
+  {
+    "accountentityid": "38_123456789",
+    "id": "818871436771859394",
+    "entityid": "38_123456789_818871436771859394",
+    "categorytype": "provider_fee",
+    "basetype": "DEBIT",
+    "amount": {
+      "amount": 13,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Diamond Energy"
+    },
+    "createddate": 1666040208897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "merchant": {
+      "name": "Diamond Energy",
+      "address": {
+        "country": "XF"
+      }
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-53d"
+    }
+  }
+]
