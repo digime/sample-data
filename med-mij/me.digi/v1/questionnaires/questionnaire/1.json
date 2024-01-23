@@ -1,0 +1,421 @@
+[
+    {
+        "resourceType": "Questionnaire",
+        "id": "INTAKE-NIEUWE-PATIENT",
+        "meta": {
+            "versionId": "32",
+            "lastUpdated": "2024-01-22T09:53:45.585+01:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/vl-Questionnaire"
+            ]
+        },
+        "language": "nl-NL",
+        "text": {
+            "status": "extensions",
+            "div": "<div xml:lang=\"nl-NL\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"nl-NL\"><table><caption>Vragenlijst. Status: concept</caption><tbody><tr><th>waarde</th><td>intake-nieuwe-patient</td></tr><tr><th>Titel</th><td>Intake nieuwe patiënt</td></tr><tr><th>Onderwerp type</th><td>Patient</td></tr><tr><th colspan=\"2\">Experimenteel</th></tr><tr><th>Doel</th><td>Deze vragenlijst is ontwikkeld voor test- en kwalificatiedoeleinden binnen de informatiestandaard MedMij Vragenlijsten.</td></tr><tr><th>Publisher</th><td>Nictiz</td></tr></tbody></table><div class=\"questionnaireContent\"><ol><li id=\"_introductie\">Met het beantwoorden van deze vragenlijst voorziet u ons van enkele basisgegevens die we opnemen in uw dossier.                                    \n            <div>Type: display</div></li><li id=\"_algemeen\">Algemene vragen                                    \n            <div>Type: group</div><ol><li id=\"_gewicht\">Wat is uw gewicht in kg?                                                \n                <div>Type: decimal</div><div>Verplicht</div></li><li id=\"_lengte\">Wat is uw lengte in cm?                                                \n                <div>Type: integer</div><div>Verplicht</div></li><li id=\"_roken\">Rookt u?                                                \n                <div>Type: boolean</div></li><li id=\"_ooitgerookt\">U rookt niet meer, maar heeft u ooit gerookt?                                                \n                <div>Type: boolean</div></li><li id=\"_jarensindsroken\">Hoe lang is het geleden dat u heeft gerookt (in jaren)?                                                \n                <div>Type: decimal</div></li><li id=\"_hoevaakroken\">Hoe vaak rookt u?                                                \n                <div>Type: choice</div></li><li id=\"_drinken\">Drinkt u alcohol?                                                \n                <div>Type: boolean</div></li><li id=\"_hoevaakdrinken\">Hoe vaak per week drinkt u alcohol?                                                \n                <div>Type: quantity</div></li><li id=\"_lichamelijkegezondheid\">Hoe omschrijft u uw algemene lichamelijke gezondheid?                                                \n                <div>Type: text</div></li><li id=\"_opstaan\">Hoe laat staat u meestal op?                                                \n                <div>Type: time</div></li><li id=\"_sport\">Beoefent u een sport?                                                \n                <div>Type: boolean</div></li><li id=\"_welkesport\">Welke sport(en) beoefent u?                                                \n                <div>Type: choice</div><div>Optioneel, Meerdere mogelijk</div></li><li id=\"_welkeanderesport\">Anders, namelijk                                                \n                <div>Type: string</div><div>Optioneel, Meerdere mogelijk</div></li></ol></li><li id=\"_voorgeschiedenis\">Voorgeschiedenis                                    \n            <div>Type: group</div><ol><li id=\"_onderbehandeling\">Bent u op dit moment onder behandeling van een specialist?                                                \n                <div>Type: boolean</div><div>Verplicht</div></li><li id=\"_datumlaatstebehandeling\">Wanneer was uw laatste contact met een specialist?                                                \n                <div>Type: date</div></li><li id=\"_geneesmiddelen\">Gebruikt u geneesmiddelen?                                                \n                <div>Type: boolean</div><div>Verplicht</div></li></ol></li><li id=\"_socialemedia\">Sociale media                                    \n            <div>Type: group</div><ol><li id=\"_actiefsocialemedia\">Bent u actief op sociale media?                                                \n                <div>Type: display</div></li><li id=\"_facebook\">Facebook                                                \n                <div>Type: boolean</div></li><li id=\"_instagram\">Instagram                                                \n                <div>Type: boolean</div></li><li id=\"_linkedin\">LinkedIn                                                \n                <div>Type: boolean</div></li><li id=\"_anderplatform\">Van een ander platform dat hier niet is genoemd?                                                \n                <div>Type: boolean</div></li><li id=\"_hoeveelandere\">Hoeveel andere platforms zijn dit dan? (maximaal 5)                                                \n                <div>Type: integer</div></li><li id=\"_welkplatform\">Welk of welke platforms zijn dit dan?                                                \n                <div>Type: string</div></li></ol></li><li id=\"_contactgegevens\">Contactgegevens                                    \n            <div>Type: group</div><ol><li id=\"_uitlegcontact\">Om u beter van dienst te kunnen zijn gebruiken we graag uw mobiele telefoonnummer en e-mailadres, bijvoorbeeld voor afspraakherinneringen en herhaalrecepten.                                                \n                <div>Type: display</div></li><li id=\"_mobiel\">Wat is uw mobiele telefoonnummer?                                                \n                <div>Type: string</div></li><li id=\"_mail\">Wat is uw e-mailadres?                                                \n                <div>Type: string</div></li></ol></li><li id=\"_belafspraak\"><div>Type: group</div><ol><li id=\"_uitlegbelafspraak\">Graag zouden we telefonisch contact met u opnemen om uw inschrijving te voltooien.                                                \n                <div>Type: display</div></li><li id=\"_toestemmingbelafspraak\">Mogen we u telefonisch benaderen?                                                \n                <div>Type: boolean</div></li><li id=\"_datumtijdbelafspraak\">Als u voorkeur heeft voor een datum/tijd, dan kunt u deze hier opgeven.                                                \n                <div>Type: dateTime</div></li></ol></li></ol></div></div>"
+        },
+        "url": "http://examplerepository.nl/Questionnaire/intake-nieuwe-patient--20200327",
+        "version": "20200327",
+        "name": "intake-nieuwe-patient",
+        "title": "Intake nieuwe patiënt",
+        "status": "draft",
+        "experimental": true,
+        "date": "2020-03-27",
+        "publisher": "Nictiz",
+        "purpose": "Deze vragenlijst is ontwikkeld voor test- en kwalificatiedoeleinden binnen de informatiestandaard MedMij Vragenlijsten.",
+        "subjectType": [
+            "Patient"
+        ],
+        "item": [
+            {
+                "linkId": "introductie",
+                "text": "Met het beantwoorden van deze vragenlijst voorziet u ons van enkele basisgegevens die we opnemen in uw dossier.",
+                "type": "display"
+            },
+            {
+                "linkId": "algemeen",
+                "text": "Algemene vragen",
+                "type": "group",
+                "item": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-unit",
+                                "valueCoding": {
+                                    "system": "http://unitsofmeasure.org",
+                                    "code": "kg"
+                                }
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/maxDecimalPlaces",
+                                "valueInteger": 1
+                            }
+                        ],
+                        "linkId": "gewicht",
+                        "text": "Wat is uw gewicht in kg?",
+                        "type": "decimal",
+                        "required": true
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-unit",
+                                "valueCoding": {
+                                    "system": "http://unitsofmeasure.org",
+                                    "code": "cm"
+                                }
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/minLength",
+                                "valueInteger": 0
+                            }
+                        ],
+                        "linkId": "lengte",
+                        "text": "Wat is uw lengte in cm?",
+                        "type": "integer",
+                        "required": true
+                    },
+                    {
+                        "linkId": "roken",
+                        "text": "Rookt u?",
+                        "type": "boolean"
+                    },
+                    {
+                        "linkId": "ooitgerookt",
+                        "text": "U rookt niet meer, maar heeft u ooit gerookt?",
+                        "type": "boolean",
+                        "enableWhen": [
+                            {
+                                "question": "roken",
+                                "answerBoolean": false
+                            }
+                        ]
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/questionnaire-unit",
+                                "valueCoding": {
+                                    "system": "http://unitsofmeasure.org",
+                                    "code": "a"
+                                }
+                            }
+                        ],
+                        "linkId": "jarensindsroken",
+                        "text": "Hoe lang is het geleden dat u heeft gerookt (in jaren)?",
+                        "type": "decimal",
+                        "enableWhen": [
+                            {
+                                "question": "ooitgerookt",
+                                "answerBoolean": true
+                            }
+                        ]
+                    },
+                    {
+                        "linkId": "hoevaakroken",
+                        "text": "Hoe vaak rookt u?",
+                        "type": "choice",
+                        "enableWhen": [
+                            {
+                                "question": "roken",
+                                "answerBoolean": true
+                            }
+                        ],
+                        "option": [
+                            {
+                                "valueCoding": {
+                                    "code": "DAG",
+                                    "display": "Dagelijks"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "BDA",
+                                    "display": "Bijna dagelijks"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "PDW",
+                                    "display": "Een paar dagen per week"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "WKD",
+                                    "display": "Alleen in het weekend"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "AFT",
+                                    "display": "Af en toe"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "ZEL",
+                                    "display": "Zelden"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "linkId": "drinken",
+                        "text": "Drinkt u alcohol?",
+                        "type": "boolean"
+                    },
+                    {
+                        "linkId": "hoevaakdrinken",
+                        "text": "Hoe vaak per week drinkt u alcohol?",
+                        "type": "quantity",
+                        "enableWhen": [
+                            {
+                                "question": "drinken",
+                                "answerBoolean": true
+                            }
+                        ]
+                    },
+                    {
+                        "linkId": "lichamelijkegezondheid",
+                        "text": "Hoe omschrijft u uw algemene lichamelijke gezondheid?",
+                        "type": "text"
+                    },
+                    {
+                        "linkId": "opstaan",
+                        "text": "Hoe laat staat u meestal op?",
+                        "type": "time"
+                    },
+                    {
+                        "linkId": "sport",
+                        "text": "Beoefent u een sport?",
+                        "type": "boolean"
+                    },
+                    {
+                        "linkId": "welkesport",
+                        "text": "Welke sport(en) beoefent u?",
+                        "type": "choice",
+                        "enableWhen": [
+                            {
+                                "question": "sport",
+                                "answerBoolean": true
+                            }
+                        ],
+                        "repeats": true,
+                        "option": [
+                            {
+                                "valueCoding": {
+                                    "code": "VOE",
+                                    "display": "Voetbal"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "TEN",
+                                    "display": "Tennis"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "HOC",
+                                    "display": "Hockey"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "VOL",
+                                    "display": "Volleybal"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "BAS",
+                                    "display": "Basketbal"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "ZWE",
+                                    "display": "Zwemmen"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "YOG",
+                                    "display": "Yoga"
+                                }
+                            },
+                            {
+                                "valueCoding": {
+                                    "code": "AND",
+                                    "display": "Anders, namelijk"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "linkId": "welkeanderesport",
+                        "text": "Anders, namelijk",
+                        "type": "string",
+                        "enableWhen": [
+                            {
+                                "question": "welkesport",
+                                "answerCoding": {
+                                    "code": "AND",
+                                    "display": "Anders, namelijk"
+                                }
+                            }
+                        ],
+                        "repeats": true
+                    }
+                ]
+            },
+            {
+                "linkId": "voorgeschiedenis",
+                "text": "Voorgeschiedenis",
+                "type": "group",
+                "item": [
+                    {
+                        "linkId": "onderbehandeling",
+                        "text": "Bent u op dit moment onder behandeling van een specialist?",
+                        "type": "boolean",
+                        "required": true
+                    },
+                    {
+                        "linkId": "datumlaatstebehandeling",
+                        "text": "Wanneer was uw laatste contact met een specialist?",
+                        "type": "date",
+                        "enableWhen": [
+                            {
+                                "question": "onderbehandeling",
+                                "answerBoolean": true
+                            }
+                        ]
+                    },
+                    {
+                        "linkId": "geneesmiddelen",
+                        "text": "Gebruikt u geneesmiddelen?",
+                        "type": "boolean",
+                        "required": true
+                    }
+                ]
+            },
+            {
+                "linkId": "socialemedia",
+                "text": "Sociale media",
+                "type": "group",
+                "item": [
+                    {
+                        "linkId": "actiefsocialemedia",
+                        "text": "Bent u actief op sociale media?",
+                        "type": "display"
+                    },
+                    {
+                        "linkId": "facebook",
+                        "text": "Facebook",
+                        "type": "boolean"
+                    },
+                    {
+                        "linkId": "instagram",
+                        "text": "Instagram",
+                        "type": "boolean"
+                    },
+                    {
+                        "linkId": "linkedin",
+                        "text": "LinkedIn",
+                        "type": "boolean"
+                    },
+                    {
+                        "linkId": "anderplatform",
+                        "text": "Van een ander platform dat hier niet is genoemd?",
+                        "type": "boolean"
+                    },
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/minValue",
+                                "valueInteger": 1
+                            },
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/maxValue",
+                                "valueInteger": 5
+                            }
+                        ],
+                        "linkId": "hoeveelandere",
+                        "text": "Hoeveel andere platforms zijn dit dan? (maximaal 5)",
+                        "type": "integer",
+                        "enableWhen": [
+                            {
+                                "question": "anderplatform",
+                                "answerBoolean": true
+                            }
+                        ]
+                    },
+                    {
+                        "linkId": "welkplatform",
+                        "text": "Welk of welke platforms zijn dit dan?",
+                        "type": "string",
+                        "enableWhen": [
+                            {
+                                "question": "anderplatform",
+                                "answerBoolean": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "linkId": "contactgegevens",
+                "text": "Contactgegevens",
+                "type": "group",
+                "item": [
+                    {
+                        "linkId": "uitlegcontact",
+                        "text": "Om u beter van dienst te kunnen zijn gebruiken we graag uw mobiele telefoonnummer en e-mailadres, bijvoorbeeld voor afspraakherinneringen en herhaalrecepten.",
+                        "type": "display"
+                    },
+                    {
+                        "linkId": "mobiel",
+                        "text": "Wat is uw mobiele telefoonnummer?",
+                        "type": "string"
+                    },
+                    {
+                        "linkId": "mail",
+                        "text": "Wat is uw e-mailadres?",
+                        "type": "string"
+                    }
+                ]
+            },
+            {
+                "linkId": "belafspraak",
+                "type": "group",
+                "item": [
+                    {
+                        "linkId": "uitlegbelafspraak",
+                        "text": "Graag zouden we telefonisch contact met u opnemen om uw inschrijving te voltooien.",
+                        "type": "display"
+                    },
+                    {
+                        "linkId": "toestemmingbelafspraak",
+                        "text": "Mogen we u telefonisch benaderen?",
+                        "type": "boolean"
+                    },
+                    {
+                        "linkId": "datumtijdbelafspraak",
+                        "text": "Als u voorkeur heeft voor een datum/tijd, dan kunt u deze hier opgeven.",
+                        "type": "dateTime",
+                        "enableWhen": [
+                            {
+                                "question": "toestemmingbelafspraak",
+                                "answerBoolean": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_vl-INTAKE-NIEUWE-PATIENT",
+        "createddate": 1585267200
+    }
+]

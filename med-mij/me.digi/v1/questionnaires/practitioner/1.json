@@ -1,0 +1,76 @@
+[
+    {
+        "resourceType": "Practitioner",
+        "id": "000001111FRANSLIJSTER",
+        "meta": {
+            "versionId": "32",
+            "lastUpdated": "2024-01-22T09:53:44.429+01:00",
+            "profile": [
+                "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div>Id 000001111 (UZI-NR-PERS),                         \n        <span title=\"Naamsamenstelling: Eigennaam\">Frans Lijster</span> (Frans), Man                  \n      </div></div>"
+        },
+        "identifier": [
+            {
+                "system": "http://fhir.nl/fhir/NamingSystem/uzi-nr-pers",
+                "value": "000001111"
+            }
+        ],
+        "name": [
+            {
+                "extension": [
+                    {
+                        "url": "http://hl7.org/fhir/StructureDefinition/humanname-assembly-order",
+                        "valueCode": "NL1"
+                    }
+                ],
+                "text": "Frans Lijster",
+                "family": "Lijster",
+                "_family": {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                            "valueString": "Lijster"
+                        }
+                    ]
+                },
+                "given": [
+                    "Frans"
+                ],
+                "_given": [
+                    {
+                        "extension": [
+                            {
+                                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                "valueCode": "CL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "_gender": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://hl7.org/fhir/v3/AdministrativeGender",
+                                "code": "M",
+                                "display": "Man"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_000001111FRANSLIJSTER",
+        "createddate": "Invalid"
+    }
+]
