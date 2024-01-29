@@ -1,0 +1,166 @@
+[
+    {
+        "resourceType": "DocumentManifest",
+        "id": "pdfa-documentmanifest1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-04T01:56:09.147-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.DocumentManifest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentManifest. Subject: Eva XXX_Schulte. Set\u2011Id: urn:oid:1.2.276.0.7230010.3.1.2.1787205428.8024.1526514975.220899 (urn:ietf:rfc:3986), Id: 789987 (http://xis.org/fhir/NamingSystem/DocumentManifestID), Status: actueel                              \n          <span style=\"display: block;\">Auteur: B. Kneder</span></caption><tbody><tr><th>Type</th><td><span title=\"Discharge summary (18842-5 - LOINC)\">Discharge summary</span></td></tr><tr><th>Gemaakt</th><td>2022-09-14</td></tr><tr><th>Bron</th><td>http://xis.org/example</td></tr><tr><th>Content</th><td>Allergy and immunology Discharge summary</td></tr></tbody></table></div>"
+        },
+        "contained": [
+            {
+                "resourceType": "Practitioner",
+                "id": "p1",
+                "name": [
+                    {
+                        "family": "Kneder",
+                        "given": [
+                            "B."
+                        ],
+                        "_given": [
+                            {
+                                "extension": [
+                                    {
+                                        "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                        "valueCode": "IN"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "masterIdentifier": {
+            "system": "urn:ietf:rfc:3986",
+            "value": "urn:oid:1.2.276.0.7230010.3.1.2.1787205428.8024.1526514975.220899"
+        },
+        "identifier": [
+            {
+                "system": "http://xis.org/fhir/NamingSystem/DocumentManifestID",
+                "value": "789987"
+            }
+        ],
+        "status": "current",
+        "type": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "18842-5",
+                    "display": "Discharge summary"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "created": "2022-09-14",
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "B. Kneder"
+            }
+        ],
+        "source": "http://xis.org/example",
+        "content": [
+            {
+                "pReference": {
+                    "reference": "DocumentReference/pdfa-documentreference1",
+                    "display": "Example PDF - Anterior Cervical Discectomy Fusion - Discharge Summary"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_pdfa-documentmanifest1",
+        "createddate": "Invalid"
+    },
+    {
+        "resourceType": "DocumentManifest",
+        "id": "pdfa-documentmanifest3",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-09-04T01:56:10.131-04:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.DocumentManifest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentManifest. Subject: Eva XXX_Schulte. Set\u2011Id: urn:oid:1.2.276.0.7230010.3.1.2.9857205428.8024.1526514975.440899 (urn:ietf:rfc:3986), Id: 7895463 (http://xis.org/fhir/NamingSystem/DocumentManifestID), Status: actueel                              \n          <span style=\"display: block;\">Auteur: B. Kneder</span></caption><tbody><tr><th>Type</th><td><span title=\"Consultverslag [bevinding] in {instelling} d.m.v. radiologie (document) (73575-3 - LOINC)\">Consultverslag [bevinding] in {instelling} d.m.v. radiologie (document)</span></td></tr><tr><th>Gemaakt</th><td>2023-08-05T00:00:00+01:00</td></tr><tr><th>Bron</th><td>http://xis.org/example</td></tr><tr><th>Content</th><td>Kopie van ontslagbrief</td></tr><tr><th>Content</th><td>Verwijsbrief Arts</td></tr></tbody></table></div>"
+        },
+        "contained": [
+            {
+                "resourceType": "Practitioner",
+                "id": "p1",
+                "name": [
+                    {
+                        "family": "Kneder",
+                        "given": [
+                            "B."
+                        ],
+                        "_given": [
+                            {
+                                "extension": [
+                                    {
+                                        "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                                        "valueCode": "IN"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "masterIdentifier": {
+            "system": "urn:ietf:rfc:3986",
+            "value": "urn:oid:1.2.276.0.7230010.3.1.2.9857205428.8024.1526514975.440899"
+        },
+        "identifier": [
+            {
+                "system": "http://xis.org/fhir/NamingSystem/DocumentManifestID",
+                "value": "7895463"
+            }
+        ],
+        "status": "current",
+        "type": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "73575-3",
+                    "display": "Consultverslag [bevinding] in {instelling} d.m.v. radiologie (document)"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "created": "2023-08-05T00:00:00+01:00",
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "B. Kneder"
+            }
+        ],
+        "source": "http://xis.org/example",
+        "content": [
+            {
+                "pReference": {
+                    "reference": "DocumentReference/pdfa-documentreference2",
+                    "display": "Kopie van ontslagbrief"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_pdfa-documentmanifest3",
+        "createddate": "Invalid"
+    }
+]
