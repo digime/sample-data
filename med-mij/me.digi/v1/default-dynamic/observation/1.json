@@ -149,7 +149,7 @@
     "entityid": "37_123456789_selfmeasurements-bloodpressure-kwalificatie1",
     "createddate": 1677106800,
     "__sampleDataTemplate": {
-      "createddate": "now-2d"
+      "createddate": "now-3d"
     }
   },
   {
@@ -302,7 +302,7 @@
     "entityid": "37_123456789_selfmeasurements-bloodpressure-kwalificatie2",
     "createddate": 1677193200,
     "__sampleDataTemplate": {
-      "createddate": "now-7d"
+      "createddate": "now-4d"
     }
   },
   {
@@ -386,7 +386,7 @@
     "entityid": "37_123456789_selfmeasurements-bloodglucose-kwalificatie3",
     "createddate": 1677193200,
     "__sampleDataTemplate": {
-      "createddate": "now-18d"
+      "createddate": "now-5d"
     }
   },
   {
@@ -479,7 +479,7 @@
     "entityid": "37_123456789_selfmeasurements-bloodglucose-kwalificatie2",
     "createddate": 1677106800,
     "__sampleDataTemplate": {
-      "createddate": "now-35d"
+      "createddate": "now-6d"
     }
   },
   {
@@ -563,7 +563,7 @@
     "entityid": "37_123456789_selfmeasurements-bloodglucose-kwalificatie1",
     "createddate": 1677106800,
     "__sampleDataTemplate": {
-      "createddate": "now-44d"
+      "createddate": "now-9d"
     }
   },
   {
@@ -646,7 +646,7 @@
     "entityid": "37_123456789_medmij-selfmeasurements-HeartRate-kwalificatie1",
     "createddate": 1676242800,
     "__sampleDataTemplate": {
-      "createddate": "now-46d"
+      "createddate": "now-12d"
     }
   },
   {
@@ -729,7 +729,7 @@
     "entityid": "37_123456789_medmij-selfmeasurements-HeartRate-kwalificatie2",
     "createddate": 1677193200,
     "__sampleDataTemplate": {
-      "createddate": "now-56d"
+      "createddate": "now-13d"
     }
   }
 ]
