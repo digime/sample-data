@@ -31,7 +31,7 @@
     "createddate": 1671382879856,
     "type": "TRANSFER_CASH_IN",
     "__sampleDataTemplate": {
-      "createddate": "now-87d"
+      "createddate": "now-1d"
     }
   },
   {
@@ -68,7 +68,7 @@
     "createddate": 1671382579856,
     "type": "DIVIDEND_PAYMENT",
     "__sampleDataTemplate": {
-      "createddate": "now-87d"
+      "createddate": "now-1d"
     }
   },
   {
@@ -105,7 +105,7 @@
     "createddate": 1671382279856,
     "type": "DIVIDEND_PAYMENT",
     "__sampleDataTemplate": {
-      "createddate": "now-87d"
+      "createddate": "now-1d"
     }
   },
   {
@@ -140,7 +140,7 @@
     "createddate": 1671381979856,
     "type": "MISCELLANEOUS_EXPENSE",
     "__sampleDataTemplate": {
-      "createddate": "now-87d"
+      "createddate": "now-1d"
     }
   },
   {
@@ -177,7 +177,7 @@
     "createddate": 1671381679856,
     "type": "DIVIDEND_PAYMENT",
     "__sampleDataTemplate": {
-      "createddate": "now-87d"
+      "createddate": "now-1d"
     }
   },
   {
@@ -214,7 +214,7 @@
     "createddate": 1671381379856,
     "type": "DIVIDEND_PAYMENT",
     "__sampleDataTemplate": {
-      "createddate": "now-87d"
+      "createddate": "now-1d"
     }
   }
 ]
