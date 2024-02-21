@@ -1,0 +1,73 @@
+[
+    {
+        "resourceType": "Task",
+        "id": "vl-QuestionnaireProvisioningTask-XXXVink-Intake-Et3XqIw0G0",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2024-01-23T09:10:33.474+01:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/vl-QuestionnaireProvisioningTask"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Taak. Status: aangevraagd                              \n          <span style=\"display: block;\">Intentie: aanvraag</span></caption><tbody><tr><th>Code</th><td><span title=\"Questionnaire form definition Document (74468-0 - LOINC)\">Questionnaire form definition Document</span></td></tr><tr><th>Omschrijving</th><td>De vragenlijst 'Intake nieuwe pati\u00ebnt' is beschikbaar om in te vullen</td></tr><tr><th>Gemaakt</th><td>2024-01-20T10:00:00Z</td></tr><tr><th>Wijzigingsdatum</th><td>2024-01-20T10:00:00Z</td></tr><tr><th>Aanvrager</th><td>Frans Lijster | Huisarts | Gezondheidscentrum Quaestionario</td></tr><tr><th>Verantwoordelijk eigenaar</th><td>Eduard XXX_Vink</td></tr><tr><th>Input</th><td><ul><li>Questionnaire: Vragenlijst: Intake nieuwe pati\u00ebnt</li><li>Subject: Eduard XXX_Vink</li></ul></td></tr></tbody></table></div>"
+        },
+        "status": "requested",
+        "intent": "order",
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "74468-0",
+                    "display": "Questionnaire form definition Document"
+                }
+            ]
+        },
+        "description": "De vragenlijst 'Intake nieuwe pati\u00ebnt' is beschikbaar om in te vullen",
+        "authoredOn": "2024-01-20T10:00:00Z",
+        "lastModified": "2024-01-20T10:00:00Z",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/000001111010000001112",
+                            "display": "Frans Lijster | Huisarts | Gezondheidscentrum Quaestionario"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/000001111FRANSLIJSTER",
+                "display": "Frans Lijster"
+            }
+        },
+        "owner": {
+            "reference": "Patient/XXXVINK",
+            "display": "Eduard XXX_Vink"
+        },
+        "input": [
+            {
+                "type": {
+                    "text": "Questionnaire"
+                },
+                "valueReference": {
+                    "reference": "Questionnaire/INTAKE-NIEUWE-PATIENT",
+                    "display": "Vragenlijst: Intake nieuwe pati\u00ebnt"
+                }
+            },
+            {
+                "type": {
+                    "text": "Subject"
+                },
+                "valueReference": {
+                    "reference": "Patient/XXXVINK",
+                    "display": "Eduard XXX_Vink"
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_vl-QuestionnaireProvisioningTask-XXXVink-Intake-Et3XqIw0G0",
+        "createddate": "Invalid"
+    }
+]
