@@ -1,0 +1,44 @@
+[
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044180048152690",
+    "entityid": "39_123456789_893044180048152690",
+    "categorytype": "fees_and_charges",
+    "basetype": "DEBIT",
+    "amount": {
+      "amount": 134,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Mechanics service Fee"
+    },
+    "createddate": 1655590073667,
+    "transactiondate": "2022-12-01",
+    "postdate": "2022-12-01",
+    "categoryid": "10015",
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044180048152691",
+    "entityid": "39_123456789_893044180048152691",
+    "categorytype": "fees_and_charges",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 100,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Banking fee refund"
+    },
+    "createddate": 1655589773667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  }
+]

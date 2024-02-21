@@ -1,0 +1,36 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "clinicalstatus": {
+      "coding": [
+        {
+          "display": "Past"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "display": "Significant"
+        }
+      ]
+    },
+    "id": "71395883-6e2f-4a06-afcf-29f8a2162486",
+    "entityid": "30_123456789_71395883-6e2f-4a06-afcf-29f8a2162486",
+    "code": {
+      "coding": [
+        {
+          "display": "Disorder of gastrointestinal tract",
+          "code": "2469926016"
+        }
+      ],
+      "text": "Disorder of gastrointestinal tract"
+    },
+    "onsetdatetime": "2022-10-31T14:50:04",
+    "createddate": 1676560385754,
+    "recordeddate": "2022-10-31T14:50:04",
+    "__sampleDataTemplate": {
+      "createddate": "now-4d"
+    }
+  }
+]

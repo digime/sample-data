@@ -1,0 +1,82 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "Omeprazole 20mg gastro-resistant capsules"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "28 capsule",
+              "unit": "capsule",
+              "value": 28
+            }
+          }
+        ],
+        "text": "One To Be Taken Each Day"
+      }
+    ],
+    "status": "Active",
+    "id": "44f571ca-676d-46a2-84bb-b1f7edd548a1",
+    "entityid": "30_123456789_44f571ca-676d-46a2-84bb-b1f7edd548a1",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-07-01T21:33:40"
+      }
+    },
+    "createddate": 1666040201754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "1003941000033118"
+        }
+      ],
+      "text": "Omeprazole 20mg gastro-resistant capsules"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "Trimethoprim 200mg tablets"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "14 tablet",
+              "unit": "tablet",
+              "value": 14
+            }
+          }
+        ],
+        "text": "One To Be Taken Twice A Day"
+      }
+    ],
+    "status": "Active",
+    "id": "47a859a1-2d56-429e-ba4a-d753d416a69b",
+    "entityid": "30_123456789_47a859a1-2d56-429e-ba4a-d753d416a69b",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-07-01T21:28:40"
+      }
+    },
+    "createddate": 1666039901754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "1471241000033114"
+        }
+      ],
+      "text": "Trimethoprim 200mg tablets"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  }
+]

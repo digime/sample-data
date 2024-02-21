@@ -1,0 +1,86 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "entityid": "20_123456789_eetjoXy-TbdryRS.SobVHBqoCMs8lmt2inFn0657-Y4snqwFF2gPkel3GYPuh2Ofk3",
+    "id": "eetjoXy-TbdryRS.SobVHBqoCMs8lmt2inFn0657-Y4snqwFF2gPkel3GYPuh2Ofk3",
+    "batch": {},
+    "code": {
+      "coding": [
+        {
+          "code": "10519",
+          "system": "urn:oid:2.16.840.1.113883.6.253"
+        },
+        {
+          "code": "66100020000330",
+          "system": "urn:oid:2.16.840.1.113883.6.68"
+        },
+        {
+          "code": "03715",
+          "system": "urn:oid:2.16.840.1.113883.6.162"
+        },
+        {
+          "code": "5640",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "197806",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        }
+      ],
+      "text": "ibuprofen 600 MG tablet"
+    },
+    "form": {
+      "coding": [
+        {
+          "code": "TABS",
+          "display": "tablet",
+          "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.310"
+        }
+      ],
+      "text": "tablet"
+    },
+    "ingredient": [
+      {
+        "itemcodeableconcept": {
+          "coding": [
+            {
+              "code": "10519",
+              "system": "urn:oid:2.16.840.1.113883.6.253"
+            },
+            {
+              "code": "66100020000330",
+              "system": "urn:oid:2.16.840.1.113883.6.68"
+            },
+            {
+              "code": "03715",
+              "system": "urn:oid:2.16.840.1.113883.6.162"
+            },
+            {
+              "code": "5640",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "197806",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            }
+          ],
+          "text": "ibuprofen 600 MG tablet"
+        },
+        "strength": {
+          "denominator": {
+            "value": 600,
+            "unit": "MG",
+            "system": "http://unitsofmeasure.org",
+            "code": "mg"
+          },
+          "numerator": {
+            "value": 600,
+            "unit": "MG",
+            "system": "http://unitsofmeasure.org",
+            "code": "mg"
+          }
+        }
+      }
+    ]
+  }
+]

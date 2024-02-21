@@ -1,0 +1,122 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "Desloratadine 5mg tablets"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "30 tablet",
+              "unit": "tablet",
+              "value": 30
+            }
+          }
+        ],
+        "text": "One To Be Taken Each Day"
+      }
+    ],
+    "status": "Cancelled",
+    "id": "98eb1105-b18e-49c3-a150-2940dbbcdd6b",
+    "entityid": "30_123456789_98eb1105-b18e-49c3-a150-2940dbbcdd6b",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-10-31T14:50:04"
+      }
+    },
+    "createddate": 1676560385754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "2261441000033117"
+        }
+      ],
+      "text": "Desloratadine 5mg tablets"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "Sudafed Decongestant 60mg tablets (McNeil Products Ltd)"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "12 tablet",
+              "unit": "tablet",
+              "value": 12
+            }
+          }
+        ],
+        "text": "One To Be Taken Four Times A Day"
+      }
+    ],
+    "status": "Cancelled",
+    "id": "d6e6f89a-3a0c-4791-b861-d06efd66eb9e",
+    "entityid": "30_123456789_d6e6f89a-3a0c-4791-b861-d06efd66eb9e",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-10-31T14:45:04"
+      }
+    },
+    "createddate": 1676560085754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "1397741000033114"
+        }
+      ],
+      "text": "Sudafed Decongestant 60mg tablets (McNeil Products Ltd)"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "Zantac 150mg tablets (GlaxoSmithKline UK Ltd)"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "60 tablet",
+              "unit": "tablet",
+              "value": 60
+            }
+          }
+        ],
+        "text": "One To Be Taken Four Times A Day"
+      }
+    ],
+    "status": "Cancelled",
+    "id": "cf1d380c-6312-4349-a01e-fc634e629aa3",
+    "entityid": "30_123456789_cf1d380c-6312-4349-a01e-fc634e629aa3",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-10-31T14:40:04"
+      }
+    },
+    "createddate": 1676559785754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "1550441000033113"
+        }
+      ],
+      "text": "Zantac 150mg tablets (GlaxoSmithKline UK Ltd)"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-4d"
+    }
+  }
+]

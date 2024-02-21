@@ -1,0 +1,23 @@
+[
+  {
+    "accountentityid": "38_123456789",
+    "id": "818871437459725281",
+    "entityid": "38_123456789_818871437459725281",
+    "categorytype": "income",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 10000,
+      "currency": "AUD"
+    },
+    "description": {
+      "original": "Income"
+    },
+    "createddate": 1639740348897,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10020",
+    "__sampleDataTemplate": {
+      "createddate": "now-23d"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "createddate": 1676560386292,
+    "id": "1556582400000",
+    "entityid": "18_123456789_1556582400000",
+    "accountentityid": "18_123456789",
+    "steps": 0,
+    "activescore": -1,
+    "activitycalories": 0,
+    "caloriesbmr": 1691,
+    "caloriesout": 1691,
+    "distances": [
+      {
+        "distance": 0,
+        "activity": "total"
+      },
+      {
+        "distance": 0,
+        "activity": "tracker"
+      },
+      {
+        "distance": 0,
+        "activity": "loggedActivities"
+      },
+      {
+        "distance": 0,
+        "activity": "veryActive"
+      },
+      {
+        "distance": 0,
+        "activity": "moderatelyActive"
+      },
+      {
+        "distance": 0,
+        "activity": "lightlyActive"
+      },
+      {
+        "distance": 0,
+        "activity": "sedentaryActive"
+      }
+    ],
+    "elevation": 0,
+    "fairlyactiveminutes": 0,
+    "floors": 0,
+    "goals": {
+      "distance": 8.05,
+      "steps": 10000,
+      "caloriesout": 2820,
+      "floors": 10,
+      "activeminutes": 30
+    },
+    "lightlyactiveminutes": 0,
+    "marginalcalories": 0,
+    "restingheartrate": 0,
+    "sedentaryminutes": 1440,
+    "veryactiveminutes": 0,
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  }
+]

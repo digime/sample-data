@@ -1,0 +1,146 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099185",
+    "amount": {
+      "amount": 466.01,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "date": "2020-02-28",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11166101",
+    "entityid": "35_11166101",
+    "ismanual": false,
+    "settledate": "2020-03-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-02-28",
+    "createddate": 1597693291856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099185",
+    "amount": {
+      "amount": 466.01,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2020-02-28",
+    "description": {
+      "original": "Sale:Charles Schwab Corp. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11166100",
+    "entityid": "35_11166100",
+    "ismanual": false,
+    "price": {
+      "amount": 41.91,
+      "currency": "USD"
+    },
+    "quantity": 11,
+    "settledate": "2020-03-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "SCHW",
+    "transactiondate": "2020-02-28",
+    "createddate": 1597692991856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099185",
+    "amount": {
+      "amount": 1984.59,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Deposits",
+    "categoryid": "27",
+    "categorysource": "SYSTEM",
+    "categorytype": "INCOME",
+    "container": "investment",
+    "date": "2020-02-27",
+    "description": {
+      "original": "DIRECT DEPOSIT PROGRM"
+    },
+    "highlevelcategoryid": "10000012",
+    "id": "11166103",
+    "entityid": "35_11166103",
+    "ismanual": false,
+    "settledate": "2020-03-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-02-27",
+    "createddate": 1597692691856,
+    "type": "DEPOSIT",
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099185",
+    "amount": {
+      "amount": 1984.59,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Securities Trades",
+    "categoryid": "36",
+    "categorysource": "SYSTEM",
+    "categorytype": "TRANSFER",
+    "commission": {
+      "amount": 5,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "date": "2020-02-27",
+    "description": {
+      "original": "Sale:Amazon.com Inc. ACTUAL PRICES"
+    },
+    "highlevelcategoryid": "10000015",
+    "id": "11166102",
+    "entityid": "35_11166102",
+    "ismanual": false,
+    "price": {
+      "amount": 1979.59,
+      "currency": "USD"
+    },
+    "quantity": 1,
+    "settledate": "2020-03-02",
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "symbol": "AMZN",
+    "transactiondate": "2020-02-27",
+    "createddate": 1597692391856,
+    "type": "SELL",
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  }
+]

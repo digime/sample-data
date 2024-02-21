@@ -1,0 +1,82 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "Paracetamol 500mg tablets"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "30 tablet",
+              "unit": "tablet",
+              "value": 30
+            }
+          }
+        ],
+        "text": "One To Be Taken Every 4-6 Hours Up To Four Times A Day"
+      }
+    ],
+    "status": "Active",
+    "id": "357ff26d-fbee-4507-9127-a2e6f9ef6199",
+    "entityid": "30_123456789_357ff26d-fbee-4507-9127-a2e6f9ef6199",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-05-02T00:25:28"
+      }
+    },
+    "createddate": 1660780109754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "1040441000033114"
+        }
+      ],
+      "text": "Paracetamol 500mg tablets"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "medicationreference": {
+      "display": "COVID-19 Vaccine AZD2816 AstraZeneca (ChAdOx1 nCOV-19) 3.5x10,000,000,000 viral particles/0.5ml dose solution for injection multidose vials (AstraZeneca AB)"
+    },
+    "dosageinstruction": [
+      {
+        "doseandrate": [
+          {
+            "dosequantity": {
+              "code": "10 dose",
+              "unit": "dose",
+              "value": 10
+            }
+          }
+        ],
+        "text": "1 dose via intramuscular injection"
+      }
+    ],
+    "status": "Active",
+    "id": "c2989bd3-9f94-4257-b22d-b4277b8af66e",
+    "entityid": "30_123456789_c2989bd3-9f94-4257-b22d-b4277b8af66e",
+    "dispenserequest": {
+      "validityperiod": {
+        "start": "2022-05-02T00:20:28"
+      }
+    },
+    "createddate": 1660779809754,
+    "medicationcodeableconcept": {
+      "coding": [
+        {
+          "code": "13979741000033114"
+        }
+      ],
+      "text": "COVID-19 Vaccine AZD2816 AstraZeneca (ChAdOx1 nCOV-19) 3.5x10,000,000,000 viral particles/0.5ml dose solution for injection multidose vials (AstraZeneca AB)"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  }
+]

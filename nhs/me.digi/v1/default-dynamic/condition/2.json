@@ -1,0 +1,74 @@
+[
+  {
+    "accountentityid": "41_4336029403",
+    "clinicalstatus": "Active",
+    "severity": {
+      "text": "Minor"
+    },
+    "id": "23511aff-efe6-4a94-8e4b-c17d241943ff",
+    "entityid": "41_4336029403_23511aff-efe6-4a94-8e4b-c17d241943ff",
+    "code": {
+      "coding": [
+        {
+          "display": "Ear pressure sensation",
+          "code": "253250011"
+        }
+      ],
+      "text": "Ear pressure sensation"
+    },
+    "onsetdatetime": 1652832000000,
+    "createddate": 1671300297913,
+    "recordeddate": 1652832000000,
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "41_4336029403",
+    "clinicalstatus": "Active",
+    "severity": {
+      "text": "Minor"
+    },
+    "id": "06ecbced-5328-412d-b8da-2287ae4a9312",
+    "entityid": "41_4336029403_06ecbced-5328-412d-b8da-2287ae4a9312",
+    "code": {
+      "coding": [
+        {
+          "display": "Fall from steps",
+          "code": "329300013"
+        }
+      ],
+      "text": "Fall from steps"
+    },
+    "onsetdatetime": 1652832000000,
+    "createddate": 1671299997913,
+    "recordeddate": 1652832000000,
+    "__sampleDataTemplate": {
+      "createddate": "now-16d"
+    }
+  },
+  {
+    "accountentityid": "41_4336029403",
+    "clinicalstatus": "Active",
+    "severity": {
+      "text": "Significant"
+    },
+    "id": "68c2c0e7-bcf4-4379-b626-6fa1a9d45f78",
+    "entityid": "41_4336029403_68c2c0e7-bcf4-4379-b626-6fa1a9d45f78",
+    "code": {
+      "coding": [
+        {
+          "display": "Alcohol overdose",
+          "code": "854651000006117"
+        }
+      ],
+      "text": "Alcohol overdose"
+    },
+    "onsetdatetime": 1652832000000,
+    "createddate": 1671299697913,
+    "recordeddate": 1652832000000,
+    "__sampleDataTemplate": {
+      "createddate": "now-31d"
+    }
+  }
+]

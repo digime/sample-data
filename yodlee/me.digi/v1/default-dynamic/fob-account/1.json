@@ -1,0 +1,42 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountname": "Consulting Group Advisor IRA",
+    "accountnumber": "xxxx3456",
+    "accountstatus": "ACTIVE",
+    "accounttype": 7,
+    "aggregationsource": "USER",
+    "balance": {
+      "amount": 404004.05,
+      "currency": "USD"
+    },
+    "cash": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "container": "investment",
+    "createddate": 1676642971856,
+    "dataset": [
+      {
+        "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+        "lastupdated": "2022-12-02T09:35:42Z",
+        "lastupdateattempt": "2022-12-02T09:35:42Z",
+        "name": "BASIC_AGG_DATA",
+        "nextupdatescheduled": "2022-12-04T07:21:36Z",
+        "updateeligibility": "ALLOW_UPDATE"
+      }
+    ],
+    "id": "10100879",
+    "entityid": "35_123456789",
+    "includeinnetworth": true,
+    "isasset": true,
+    "ismanual": false,
+    "lastupdated": "2022-12-02T09:35:45Z",
+    "provideraccountid": "10028066",
+    "providerid": "16441",
+    "providername": "Dag Site",
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

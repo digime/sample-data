@@ -1,0 +1,53 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountname": "College Loan - x8946",
+    "accountnumber": "xxxx8946",
+    "accountstatus": "ACTIVE",
+    "accounttype": 9,
+    "aggregationsource": "USER",
+    "balance": {
+      "amount": 120180.5,
+      "currency": "USD"
+    },
+    "container": "loan",
+    "createddate": 1660863595856,
+    "dataset": [
+      {
+        "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+        "lastupdated": "2022-12-02T12:28:17Z",
+        "lastupdateattempt": "2022-12-02T12:28:17Z",
+        "name": "BASIC_AGG_DATA",
+        "nextupdatescheduled": "2022-12-09T10:35:12Z",
+        "updateeligibility": "ALLOW_UPDATE"
+      }
+    ],
+    "displayedname": "HATTIE",
+    "duedate": "2019-11-01",
+    "frequency": "OTHER",
+    "id": "10099190",
+    "entityid": "35_123456789",
+    "includeinnetworth": true,
+    "interestratetype": "UNKNOWN",
+    "isasset": false,
+    "ismanual": false,
+    "lastpaymentdate": "2019-10-02",
+    "lastupdated": "2022-12-02T12:28:17Z",
+    "maturitydate": "2023-07-02",
+    "originalloanamount": {
+      "amount": 150000,
+      "currency": "USD"
+    },
+    "originationdate": "2018-07-02",
+    "principalbalance": {
+      "amount": 120180.5,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "providerid": "16441",
+    "providername": "Dag Site",
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

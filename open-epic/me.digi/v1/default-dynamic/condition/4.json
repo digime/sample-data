@@ -1,0 +1,70 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "category": [
+      {
+        "coding": [
+          {
+            "code": "problem-list-item",
+            "display": "Problem List Item",
+            "system": "http://terminology.hl7.org/CodeSystem/condition-category"
+          }
+        ],
+        "text": "Problem List Item"
+      }
+    ],
+    "clinicalstatus": {
+      "coding": [
+        {
+          "code": "active",
+          "display": "Active",
+          "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+          "version": "4.0.0"
+        }
+      ],
+      "text": "Active"
+    },
+    "code": {
+      "coding": [
+        {
+          "code": "E28.2",
+          "system": "urn:oid:2.16.840.1.113883.6.90"
+        },
+        {
+          "code": "69878008",
+          "system": "urn:oid:2.16.840.1.113883.6.96"
+        }
+      ],
+      "text": "Polycystic ovaries"
+    },
+    "entityid": "20_123456789_euDDjG6i1-OkhZii5APxOiw3",
+    "id": "euDDjG6i1-OkhZii5APxOiw3",
+    "onsetperiod": {
+      "end": "2005-09-20",
+      "start": "2005-09-20"
+    },
+    "createddate": 1660780413982,
+    "recordeddate": "2019-05-28",
+    "severity": {
+      "text": "Medium"
+    },
+    "subject": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "verificationstatus": {
+      "coding": [
+        {
+          "code": "confirmed",
+          "display": "Confirmed",
+          "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+          "version": "4.0.0"
+        }
+      ],
+      "text": "Confirmed"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

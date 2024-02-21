@@ -1,0 +1,31 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099189",
+    "amount": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "container": "loan",
+    "date": "2020-02-01",
+    "description": {
+      "original": "loan payment"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "10250584",
+    "entityid": "35_10250584",
+    "ismanual": false,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-02-01",
+    "createddate": 1629300343856,
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

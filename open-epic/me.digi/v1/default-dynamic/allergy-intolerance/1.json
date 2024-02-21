@@ -1,0 +1,179 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "category": [
+      "medication"
+    ],
+    "clinicalstatus": {
+      "coding": [
+        {
+          "code": "active",
+          "display": "Active",
+          "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+          "version": "4.0.0"
+        }
+      ]
+    },
+    "code": {
+      "coding": [
+        {
+          "code": "6211",
+          "display": "LACTOSE",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "1305527",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "1307662",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "3SY5LH9PMK",
+          "system": "urn:oid:2.16.840.1.113883.4.9"
+        },
+        {
+          "code": "EWQ57Q8I5X",
+          "system": "urn:oid:2.16.840.1.113883.4.9"
+        },
+        {
+          "code": "J2B2A4N98G",
+          "system": "urn:oid:2.16.840.1.113883.4.9"
+        }
+      ],
+      "text": "LACTOSE"
+    },
+    "createddate": 1676560389982,
+    "entityid": "20_123456789_eND7CmZvBZzYkROEJRaJNPg3",
+    "id": "eND7CmZvBZzYkROEJRaJNPg3",
+    "onsetperiod": {
+      "start": "2010"
+    },
+    "patient": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "reaction": [
+      {
+        "description": "GI intolerance",
+        "manifestation": [
+          {
+            "coding": [
+              {
+                "code": "Nausea",
+                "system": "http://snomed.info/sct"
+              }
+            ],
+            "text": "GI intolerance"
+          }
+        ],
+        "severity": "moderate"
+      }
+    ],
+    "recordeddate": "2019-05-24T20:18:04Z",
+    "verificationstatus": {
+      "coding": [
+        {
+          "code": "confirmed",
+          "display": "Confirmed",
+          "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-verification",
+          "version": "4.0.0"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  },
+  {
+    "accountentityid": "20_123456789",
+    "category": [
+      "medication"
+    ],
+    "clinicalstatus": {
+      "coding": [
+        {
+          "code": "active",
+          "display": "Active",
+          "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+          "version": "4.0.0"
+        }
+      ]
+    },
+    "code": {
+      "coding": [
+        {
+          "code": "1314891",
+          "display": "LATEX",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "2LQ0UUW8IN",
+          "system": "urn:oid:2.16.840.1.113883.4.9"
+        },
+        {
+          "code": "544D0W9VKA",
+          "system": "urn:oid:2.16.840.1.113883.4.9"
+        }
+      ],
+      "text": "LATEX"
+    },
+    "createddate": 1676560089982,
+    "entityid": "20_123456789_ebQl6qITL5qCOEvKKdxylgg3",
+    "id": "ebQl6qITL5qCOEvKKdxylgg3",
+    "onsetperiod": {
+      "start": "2015-06-17"
+    },
+    "patient": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "reaction": [
+      {
+        "description": "Hives",
+        "manifestation": [
+          {
+            "coding": [
+              {
+                "code": "Hives",
+                "system": "http://snomed.info/sct"
+              }
+            ],
+            "text": "Hives"
+          }
+        ],
+        "severity": "moderate"
+      },
+      {
+        "description": "Itching",
+        "manifestation": [
+          {
+            "coding": [
+              {
+                "code": "Itching",
+                "system": "http://snomed.info/sct"
+              }
+            ],
+            "text": "Itching"
+          }
+        ],
+        "severity": "moderate"
+      }
+    ],
+    "recordeddate": "2019-05-24T20:19:17Z",
+    "verificationstatus": {
+      "coding": [
+        {
+          "code": "confirmed",
+          "display": "Confirmed",
+          "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-verification",
+          "version": "4.0.0"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

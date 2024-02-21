@@ -1,0 +1,53 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountname": "Citi Automobile Loan - x1563",
+    "accountnumber": "xxxx1563",
+    "accountstatus": "ACTIVE",
+    "accounttype": 9,
+    "aggregationsource": "USER",
+    "balance": {
+      "amount": 21847.55,
+      "currency": "USD"
+    },
+    "container": "loan",
+    "createddate": 1655603803856,
+    "dataset": [
+      {
+        "additionalstatus": "AVAILABLE_DATA_RETRIEVED",
+        "lastupdated": "2022-12-02T12:28:17Z",
+        "lastupdateattempt": "2022-12-02T12:28:17Z",
+        "name": "BASIC_AGG_DATA",
+        "nextupdatescheduled": "2022-12-09T10:35:12Z",
+        "updateeligibility": "ALLOW_UPDATE"
+      }
+    ],
+    "displayedname": "JEAN",
+    "duedate": "2019-11-01",
+    "frequency": "OTHER",
+    "id": "10099189",
+    "entityid": "35_123456789",
+    "includeinnetworth": true,
+    "interestratetype": "UNKNOWN",
+    "isasset": false,
+    "ismanual": false,
+    "lastpaymentdate": "2019-10-04",
+    "lastupdated": "2022-12-02T12:28:17Z",
+    "maturitydate": "2023-10-04",
+    "originalloanamount": {
+      "amount": 27000,
+      "currency": "USD"
+    },
+    "originationdate": "2018-10-04",
+    "principalbalance": {
+      "amount": 21847.55,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "providerid": "16441",
+    "providername": "Dag Site",
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

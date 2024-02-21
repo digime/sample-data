@@ -1,0 +1,48 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "dosequantity": {
+      "value": 0.5,
+      "unit": "mL",
+      "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.768076.4019",
+      "code": "1"
+    },
+    "encounter": {
+      "display": "Office Visit",
+      "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+    },
+    "entityid": "20_123456789_eLfCxkFfWmaDt5ZdAaMYZYw3",
+    "id": "eLfCxkFfWmaDt5ZdAaMYZYw3",
+    "identifier": [
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.768076",
+        "use": "usual",
+        "value": "29338"
+      }
+    ],
+    "lotnumber": "156",
+    "manufacturer": {
+      "display": "GlaxoSmithKline"
+    },
+    "createddate": 1676560389982,
+    "occurrencedatetime": "2015-01-06",
+    "patient": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "primarysource": false,
+    "status": "completed",
+    "vaccinecode": {
+      "coding": [
+        {
+          "code": "20",
+          "system": "http://hl7.org/fhir/sid/cvx"
+        }
+      ],
+      "text": "DTaP"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

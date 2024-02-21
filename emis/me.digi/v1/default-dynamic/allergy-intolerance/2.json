@@ -1,0 +1,116 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "9606e124-2b6b-4103-8513-7c713edbfbe6",
+    "entityid": "30_123456789_9606e124-2b6b-4103-8513-7c713edbfbe6",
+    "code": {
+      "coding": [
+        {
+          "code": "7696111000006116"
+        }
+      ],
+      "text": "Allergy to hazelnut"
+    },
+    "createddate": 1671299993754,
+    "recordeddate": "2022-08-31T19:36:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "8758e34c-5e82-4035-8f9d-0524d919a858",
+    "entityid": "30_123456789_8758e34c-5e82-4035-8f9d-0524d919a858",
+    "code": {
+      "coding": [
+        {
+          "code": "1043311000006112"
+        }
+      ],
+      "text": "Adverse reaction to Aspirin Paracetamol And Codeine"
+    },
+    "createddate": 1671299693754,
+    "recordeddate": "2022-08-31T19:31:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "94991770-f716-4bd9-a11a-7a979e60f5f9",
+    "entityid": "30_123456789_94991770-f716-4bd9-a11a-7a979e60f5f9",
+    "code": {
+      "coding": [
+        {
+          "code": "1076071000006114"
+        }
+      ],
+      "text": "Adverse reaction to Clinutren Fruit"
+    },
+    "createddate": 1671299393754,
+    "recordeddate": "2022-08-31T19:26:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "f709065d-2c8a-433e-93fd-a16eb34d1e2f",
+    "entityid": "30_123456789_f709065d-2c8a-433e-93fd-a16eb34d1e2f",
+    "code": {
+      "coding": [
+        {
+          "code": "1129541000006111"
+        }
+      ],
+      "text": "Adverse reaction to Lactose"
+    },
+    "createddate": 1671299093754,
+    "recordeddate": "2022-08-31T19:21:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "b17c96e4-e4b2-432e-94bb-b203c2fa2404",
+    "entityid": "30_123456789_b17c96e4-e4b2-432e-94bb-b203c2fa2404",
+    "code": {
+      "coding": [
+        {
+          "code": "1674771000006111"
+        }
+      ],
+      "text": "Adverse reaction to Allergycare Gluten Free"
+    },
+    "createddate": 1671298793754,
+    "recordeddate": "2022-08-31T19:16:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "30_123456789",
+    "note": [],
+    "id": "97a6cfa1-5301-400d-806a-3044acccf1eb",
+    "entityid": "30_123456789_97a6cfa1-5301-400d-806a-3044acccf1eb",
+    "code": {
+      "coding": [
+        {
+          "code": "2005951000006117"
+        }
+      ],
+      "text": "Allergy to kiwi fruit"
+    },
+    "createddate": 1671298493754,
+    "recordeddate": "2022-08-31T19:11:52",
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  }
+]

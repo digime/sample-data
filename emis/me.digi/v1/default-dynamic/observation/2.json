@@ -1,0 +1,23 @@
+[
+  {
+    "accountentityid": "30_123456789",
+    "valuequantity": {},
+    "id": "8936bdea-0d56-4abc-8459-05c49822c762",
+    "entityid": "30_123456789_8936bdea-0d56-4abc-8459-05c49822c762_1555372800000",
+    "createddate": 1671298193754,
+    "effectivedatetime": "2022-08-31T18:06:52",
+    "code": {
+      "coding": [
+        {
+          "display": "Allergy screening test",
+          "code": "1488840015"
+        }
+      ],
+      "text": "Allergy screening test"
+    },
+    "component": [],
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  }
+]

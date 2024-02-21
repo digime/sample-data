@@ -1,0 +1,23 @@
+[
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044179653888104",
+    "entityid": "39_123456789_893044179653888104",
+    "categorytype": "fees_and_charges",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 100,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Energy Refund"
+    },
+    "createddate": 1676630141667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  }
+]

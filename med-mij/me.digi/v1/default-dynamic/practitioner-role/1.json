@@ -1,0 +1,212 @@
+[
+  {
+    "resourceType": "PractitionerRole",
+    "id": "medmij-bgz-practitionerrole-ts-03",
+    "meta": {
+      "versionId": "5",
+      "lastUpdated": "2023-10-24T04:19:52.721-04:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-practitionerrole"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgverlenerrol. Id: 32e047ec-e3e4-11eb-1733-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6)</caption><tbody><tr><th>Zorgverlener</th><td><div>G.Z.M. de Wit</div><div>Orthopedie - UMCG</div></td></tr><tr><th>Specialisme</th><td><span title=\"Orthopedie (0305 - AGB-medisch specialisme)\">Orthopedie</span></td></tr></tbody></table></div>"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "32e047ec-e3e4-11eb-1733-020000000000"
+      }
+    ],
+    "practitioner": {
+      "reference": "Practitioner/medmij-bgz-practitioner-ts-01",
+      "display": "G.Z.M. de Wit"
+    },
+    "organization": {
+      "reference": "Organization/medmij-bgz-healthcareprovider-ts-02",
+      "display": "Orthopedie - UMCG"
+    },
+    "specialty": [
+      {
+        "coding": [
+          {
+            "system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+            "code": "0305",
+            "display": "Orthopedie"
+          }
+        ]
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_medmij-bgz-practitionerrole-ts-03",
+    "createddate": 1657576800,
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  },
+  {
+    "resourceType": "PractitionerRole",
+    "id": "medmij-bgz-practitionerrole-ts-05",
+    "meta": {
+      "versionId": "5",
+      "lastUpdated": "2023-10-24T04:19:53.675-04:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-practitionerrole"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgverlenerrol. Id: f9be58e8-13a3-48ee-916a-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6)</caption><tbody><tr><th>Zorgverlener</th><td><div>J.H.R. Peters</div><div>SEH - UMCG</div></td></tr><tr><th>Specialisme</th><td><span title=\"Overige artsen, SEH-arts (8417 - AGB-medisch specialisme)\">Overige artsen, SEH-arts</span></td></tr></tbody></table></div>"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "f9be58e8-13a3-48ee-916a-020000000000"
+      }
+    ],
+    "practitioner": {
+      "reference": "Practitioner/medmij-bgz-practitioner-ts-04",
+      "display": "J.H.R. Peters"
+    },
+    "organization": {
+      "reference": "Organization/medmij-bgz-healthcareprovider-ts-06",
+      "display": "SEH - UMCG"
+    },
+    "specialty": [
+      {
+        "coding": [
+          {
+            "system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+            "code": "8417",
+            "display": "Overige artsen, SEH-arts"
+          }
+        ]
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_medmij-bgz-practitionerrole-ts-05",
+    "createddate": 1657576800,
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "resourceType": "PractitionerRole",
+    "id": "gpdata-practitionerrole-kwalificatie1",
+    "meta": {
+      "versionId": "19",
+      "lastUpdated": "2023-10-30T06:47:31.244-04:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-practitionerrole"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgverlenerrol. Id: 000001111 (UZI-NR-PERS)</caption><tbody><tr><th>Zorgverlener</th><td><div>Dokter Bernard</div><div>Aesculaap</div></td></tr><tr><th>Specialisme</th><td><span title=\"Huisarts (01.015 - http://fhir.nl/fhir/NamingSystem/uzi-rolcode)\">Huisarts</span></td></tr><tr><th>Contactgegevens</th><td><div><a href=\"tel:+31434073576\">+31434073576</a> (Vast telefoonnummer Werk)                                          \n              </div><div><a href=\"mailto:dokterbernard@aesculaap.nl\">dokterbernard@aesculaap.nl</a> (E-mail Werk)                                          \n              </div></td></tr></tbody></table></div>"
+    },
+    "identifier": [
+      {
+        "system": "http://fhir.nl/fhir/NamingSystem/uzi-nr-pers",
+        "value": "000001111"
+      }
+    ],
+    "practitioner": {
+      "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+      "display": "Dokter Bernard"
+    },
+    "organization": {
+      "reference": "Organization/gpdata-organization-kwalificatie1",
+      "display": "Aesculaap"
+    },
+    "specialty": [
+      {
+        "coding": [
+          {
+            "system": "http://fhir.nl/fhir/NamingSystem/uzi-rolcode",
+            "code": "01.015",
+            "display": "Huisarts"
+          }
+        ]
+      }
+    ],
+    "telecom": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.22.1",
+                  "code": "LL",
+                  "display": "Vast telefoonnummer"
+                }
+              ]
+            }
+          }
+        ],
+        "system": "phone",
+        "value": "+31434073576",
+        "use": "work"
+      },
+      {
+        "system": "email",
+        "value": "dokterbernard@aesculaap.nl",
+        "use": "work"
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_gpdata-practitionerrole-kwalificatie1",
+    "createddate": 1657576800,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "resourceType": "PractitionerRole",
+    "id": "medmij-bgz-practitionerrole-ts-04",
+    "meta": {
+      "versionId": "5",
+      "lastUpdated": "2023-10-24T04:19:53.221-04:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-practitionerrole"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Zorgverlenerrol. Id: 3302c40c-e3e4-11eb-1168-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6)</caption><tbody><tr><th>Zorgverlener</th><td><div>Peter van Pulver</div><div>Huisartsenpraktijk Pulver &amp; Partners</div></td></tr><tr><th>Specialisme</th><td><span title=\"Huisartsen, niet nader gespecificeerd (0100 - AGB-medisch specialisme)\">Huisartsen, niet nader gespecificeerd</span></td></tr></tbody></table></div>"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "3302c40c-e3e4-11eb-1168-020000000000"
+      }
+    ],
+    "practitioner": {
+      "reference": "Practitioner/medmij-bgz-practitioner-ts-03",
+      "display": "Peter van Pulver"
+    },
+    "organization": {
+      "reference": "Organization/medmij-bgz-healthcareprovider-ts-04",
+      "display": "Huisartsenpraktijk Pulver & Partners"
+    },
+    "specialty": [
+      {
+        "coding": [
+          {
+            "system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+            "code": "0100",
+            "display": "Huisartsen, niet nader gespecificeerd"
+          }
+        ]
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_medmij-bgz-practitionerrole-ts-04",
+    "createddate": 1657576800,
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  }
+]

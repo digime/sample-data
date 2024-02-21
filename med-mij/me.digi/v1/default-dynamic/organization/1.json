@@ -1,0 +1,482 @@
+[
+  {
+    "resourceType": "Organization",
+    "id": "medmij-bgz-insurer-ts-01",
+    "meta": {
+      "versionId": "18",
+      "lastUpdated": "2023-02-22T10:42:54.364-05:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Organisatie. Id: 3332 (UZOVI)</caption><tbody><tr><th>Naam</th><td>Menzis Zorgverzekeraar N.V.</td></tr><tr><th>Contactgegevens</th><td><a href=\"tel:+31505233333\">+31505233333</a> (Vast telefoonnummer)                                    \n            </td></tr><tr><th>Adres</th><td>Postbus 34000, 7500KC Enschede, NLD (Post)</td></tr></tbody></table></div>"
+    },
+    "identifier": [
+      {
+        "system": "http://fhir.nl/fhir/NamingSystem/uzovi",
+        "value": "3332"
+      }
+    ],
+    "name": "Menzis Zorgverzekeraar N.V.",
+    "telecom": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.22.1",
+                  "code": "LL",
+                  "display": "Vast telefoonnummer"
+                }
+              ]
+            }
+          }
+        ],
+        "system": "phone",
+        "value": "+31505233333",
+        "use": "work"
+      }
+    ],
+    "address": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-AddressInformation-AddressType",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "http://hl7.org/fhir/v3/AddressUse",
+                  "code": "PST",
+                  "display": "Postadres"
+                }
+              ]
+            }
+          }
+        ],
+        "type": "postal",
+        "line": [
+          "Postbus 34000"
+        ],
+        "_line": [
+          {
+            "extension": [
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                "valueString": "Postbus"
+              },
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                "valueString": "34000"
+              }
+            ]
+          }
+        ],
+        "city": "Enschede",
+        "postalCode": "7500KC",
+        "country": "NLD",
+        "_country": {
+          "extension": [
+            {
+              "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34",
+                    "code": "6030",
+                    "display": "Nederland"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_medmij-bgz-insurer-ts-01"
+  },
+  {
+    "resourceType": "Organization",
+    "id": "gpdata-organization-01",
+    "meta": {
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions"
+    },
+    "identifier": [
+      {
+        "system": "http://fhir.nl/fhir/NamingSystem/ura",
+        "value": "00003333"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "15942c41-8fdf-11ec-1334-020000000000"
+      }
+    ],
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "http://nictiz.nl/fhir/NamingSystem/organization-type",
+            "code": "Z3",
+            "display": "Huisartspraktijk (zelfstandig of groepspraktijk)"
+          }
+        ]
+      }
+    ],
+    "name": "Aesculaap",
+    "address": [
+      {
+        "use": "work",
+        "line": [
+          "Valkendael 45"
+        ],
+        "_line": [
+          {
+            "extension": [
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                "valueString": "Valkendael"
+              },
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                "valueString": "45"
+              }
+            ]
+          }
+        ],
+        "city": "Maastricht",
+        "postalCode": "6245HK",
+        "country": "NLD",
+        "_country": {
+          "extension": [
+            {
+              "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34",
+                    "code": "6030",
+                    "display": "Nederland"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_gpdata-organization-01"
+  },
+  {
+    "resourceType": "Organization",
+    "id": "nl-core-organization-01",
+    "meta": {
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "162abc65-8fdf-11ec-1585-020000000000"
+      }
+    ],
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "http://nictiz.nl/fhir/NamingSystem/organization-type",
+            "code": "Z3",
+            "display": "Huisartspraktijk (zelfstandig of groepspraktijk)"
+          }
+        ]
+      }
+    ],
+    "name": "Maatschap Vaste Huisarts",
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_nl-core-organization-01"
+  },
+  {
+    "resourceType": "Organization",
+    "id": "nl-core-organization-02",
+    "meta": {
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "16369fdf-8fdf-11ec-1349-020000000000"
+      }
+    ],
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+            "code": "0305",
+            "display": "Medisch specialisten, orthopedie"
+          }
+        ]
+      }
+    ],
+    "name": "Orthopedie - UMCG",
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_nl-core-organization-02"
+  },
+  {
+    "resourceType": "Organization",
+    "id": "nl-core-organization-03",
+    "meta": {
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "1642a7d5-8fdf-11ec-4396-020000000000"
+      }
+    ],
+    "name": "Test Medisch Centrum",
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_nl-core-organization-03"
+  },
+  {
+    "resourceType": "Organization",
+    "id": "nl-core-organization-05",
+    "meta": {
+      "versionId": "6",
+      "lastUpdated": "2016-11-09T17:27:51.255+00:00",
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions"
+    },
+    "identifier": [
+      {
+        "system": "http://fhir.nl/fhir/NamingSystem/agb-z",
+        "value": "12341234"
+      },
+      {
+        "system": "http://fhir.nl/fhir/NamingSystem/ura",
+        "value": "12341234"
+      },
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "165c4ed3-8fdf-11ec-1779-020000000000"
+      }
+    ],
+    "active": true,
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+            "code": "0329",
+            "display": "Psychiatrie"
+          }
+        ]
+      },
+      {
+        "coding": [
+          {
+            "system": "http://nictiz.nl/fhir/NamingSystem/organization-type",
+            "code": "V4",
+            "display": "Ziekenhuis"
+          }
+        ]
+      }
+    ],
+    "name": "Ziekenhuis Gooi en Overvecht",
+    "alias": [
+      "ZGO"
+    ],
+    "telecom": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-ContactInformation-TelecomType",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.40.4.22.1",
+                  "code": "LL",
+                  "display": "Vast telefoonnummer"
+                }
+              ]
+            }
+          }
+        ],
+        "system": "phone",
+        "value": "030-1234567",
+        "use": "work"
+      }
+    ],
+    "address": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/zib-AddressInformation-AddressType",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "http://hl7.org/fhir/v3/AddressUse",
+                  "code": "WP",
+                  "display": "Werkadres"
+                }
+              ]
+            }
+          }
+        ],
+        "use": "work",
+        "line": [
+          "Ventweg 12"
+        ],
+        "_line": [
+          {
+            "extension": [
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName",
+                "valueString": "Ventweg"
+              },
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber",
+                "valueString": "12"
+              }
+            ]
+          }
+        ],
+        "city": "Utrecht",
+        "postalCode": "1000AA",
+        "country": "NLD",
+        "_country": {
+          "extension": [
+            {
+              "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+              "valueCodeableConcept": {
+                "coding": [
+                  {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.16.34",
+                    "code": "6030",
+                    "display": "Nederland"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "contact": [
+      {
+        "purpose": {
+          "coding": [
+            {
+              "system": "http://hl7.org/fhir/contactentity-type",
+              "code": "ADMIN",
+              "display": "Administrative"
+            }
+          ]
+        },
+        "name": {
+          "text": "Mevrouw Pietersen"
+        }
+      }
+    ],
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_nl-core-organization-05"
+  },
+  {
+    "resourceType": "Organization",
+    "id": "nl-core-organization-06",
+    "meta": {
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "16699485-8fdf-11ec-1770-020000000000"
+      }
+    ],
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "http://nictiz.nl/fhir/NamingSystem/organization-type",
+            "code": "J8",
+            "display": "Openbare apotheek"
+          }
+        ]
+      }
+    ],
+    "name": "Apotheek De Gulle Gaper",
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_nl-core-organization-06"
+  },
+  {
+    "resourceType": "Organization",
+    "id": "nl-core-organization-07",
+    "meta": {
+      "profile": [
+        "http://fhir.nl/fhir/StructureDefinition/nl-core-organization"
+      ]
+    },
+    "text": {
+      "status": "extensions"
+    },
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "1675c629-8fdf-11ec-1727-020000000000"
+      }
+    ],
+    "type": [
+      {
+        "coding": [
+          {
+            "system": "http://nictiz.nl/fhir/NamingSystem/organization-type",
+            "code": "T2",
+            "display": "Thuiszorg"
+          }
+        ]
+      }
+    ],
+    "name": "Zorg@Home B.V. | Vestiging van Ziekenhuis Gooi en Overvecht",
+    "alias": [
+      "Zorg@Home B.V."
+    ],
+    "partOf": {
+      "reference": "Organization/nl-core-organization-05",
+      "display": "Ziekenhuis Gooi en Overvecht"
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_nl-core-organization-07"
+  }
+]

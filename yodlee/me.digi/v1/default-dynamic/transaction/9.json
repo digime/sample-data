@@ -1,0 +1,60 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099189",
+    "amount": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "container": "loan",
+    "date": "2020-01-01",
+    "description": {
+      "original": "loan payment"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "10250586",
+    "entityid": "35_10250586",
+    "ismanual": false,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-01-01",
+    "createddate": 1634560435856,
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "accountid": "10099189",
+    "amount": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "basetype": "CREDIT",
+    "category": "Uncategorised",
+    "categoryid": "1",
+    "categorysource": "SYSTEM",
+    "categorytype": "UNCATEGORIZE",
+    "container": "loan",
+    "date": "2020-01-01",
+    "description": {
+      "original": "loan payment"
+    },
+    "highlevelcategoryid": "10000017",
+    "id": "10250585",
+    "entityid": "35_10250585",
+    "ismanual": false,
+    "sourcetype": "AGGREGATED",
+    "status": "POSTED",
+    "transactiondate": "2020-01-01",
+    "createddate": 1634560135856,
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "accountentityid": "21_123456789",
+    "createddate": 1644972536134,
+    "entityid": "21_123456789_1627776000000",
+    "id": 1627776000000,
+    "floors": 0,
+    "steps": 0,
+    "duration": 65100000,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "heartrate": 0,
+    "minheartrate": 0,
+    "maxheartrate": 0,
+    "restingheartrate": 0,
+    "fairlyactiveminutes": 0,
+    "activitycalories": 0,
+    "caloriesbmr": 1283,
+    "caloriesout": 1283,
+    "goals": {
+      "steps": 8000,
+      "floors": 10,
+      "caloriesout": 0,
+      "activeminutes": 150
+    },
+    "averagestresslevel": -1,
+    "maxstresslevel": 0,
+    "stressduration": 0,
+    "reststressduration": 0,
+    "activitystressduration": 0,
+    "lowstressduration": 0,
+    "mediumstressduration": 0,
+    "highstressduration": 0,
+    "stressqualifier": "unknown",
+    "__sampleDataTemplate": {
+      "createddate": "now-53d"
+    }
+  }
+]

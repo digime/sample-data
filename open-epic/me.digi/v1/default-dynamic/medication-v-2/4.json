@@ -1,0 +1,246 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "entityid": "20_123456789_eBfGfhp5IU58AmHmWFWP4EXp9K0UWW7jH12qAWUVfrnkzq7WHPrdiciYxWMfvUtP63",
+    "id": "eBfGfhp5IU58AmHmWFWP4EXp9K0UWW7jH12qAWUVfrnkzq7WHPrdiciYxWMfvUtP63",
+    "batch": {},
+    "code": {
+      "coding": [
+        {
+          "code": "28477",
+          "system": "urn:oid:2.16.840.1.113883.6.253"
+        },
+        {
+          "code": "17109903102200",
+          "system": "urn:oid:2.16.840.1.113883.6.68"
+        },
+        {
+          "code": "762817",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "798372",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "804179",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "804183",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "1007534",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "00504",
+          "system": "urn:oid:2.16.840.1.113883.6.162"
+        }
+      ],
+      "text": "measles, mumps and rubella injection"
+    },
+    "form": {
+      "coding": [
+        {
+          "code": "INJ",
+          "display": "injection",
+          "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.310"
+        }
+      ],
+      "text": "injection"
+    },
+    "ingredient": [
+      {
+        "itemcodeableconcept": {
+          "coding": [
+            {
+              "code": "28477",
+              "system": "urn:oid:2.16.840.1.113883.6.253"
+            },
+            {
+              "code": "17109903102200",
+              "system": "urn:oid:2.16.840.1.113883.6.68"
+            },
+            {
+              "code": "762817",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "798372",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "804179",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "804183",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "1007534",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "00504",
+              "system": "urn:oid:2.16.840.1.113883.6.162"
+            }
+          ],
+          "text": "measles, mumps and rubella injection"
+        }
+      }
+    ]
+  },
+  {
+    "accountentityid": "20_123456789",
+    "entityid": "20_123456789_ezyvMgXjJJXCzy4mAZJ1CeXzHMXaPkS53MywzG9BlfnmbiC1-4zxXWgm4r8UF.spU3",
+    "id": "ezyvMgXjJJXCzy4mAZJ1CeXzHMXaPkS53MywzG9BlfnmbiC1-4zxXWgm4r8UF.spU3",
+    "batch": {},
+    "code": {
+      "coding": [
+        {
+          "code": "52441",
+          "system": "urn:oid:2.16.840.1.113883.6.253"
+        },
+        {
+          "code": "18990004351820",
+          "system": "urn:oid:2.16.840.1.113883.6.68"
+        },
+        {
+          "code": "763096",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "763098",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "763100",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "798302",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "798304",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "798306",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "830549",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "830555",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "1007290",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "1607802",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "1607803",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "1657884",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "20815",
+          "system": "urn:oid:2.16.840.1.113883.6.162"
+        }
+      ],
+      "text": "DTaP-IPV injection"
+    },
+    "form": {
+      "coding": [
+        {
+          "code": "SUSP",
+          "display": "suspension",
+          "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.310"
+        }
+      ],
+      "text": "suspension"
+    },
+    "ingredient": [
+      {
+        "itemcodeableconcept": {
+          "coding": [
+            {
+              "code": "52441",
+              "system": "urn:oid:2.16.840.1.113883.6.253"
+            },
+            {
+              "code": "18990004351820",
+              "system": "urn:oid:2.16.840.1.113883.6.68"
+            },
+            {
+              "code": "763096",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "763098",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "763100",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "798302",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "798304",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "798306",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "830549",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "830555",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "1007290",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "1607802",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "1607803",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "1657884",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "20815",
+              "system": "urn:oid:2.16.840.1.113883.6.162"
+            }
+          ],
+          "text": "DTaP-IPV injection"
+        }
+      }
+    ]
+  }
+]

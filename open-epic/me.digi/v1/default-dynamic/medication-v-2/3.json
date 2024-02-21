@@ -1,0 +1,86 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "entityid": "20_123456789_e.Y79OPS9YTaZQWUR-O58gvsRhtkshFVW4BzxPQ526sVNcwxFTSnnXA5x9oQ7uQyV3",
+    "id": "e.Y79OPS9YTaZQWUR-O58gvsRhtkshFVW4BzxPQ526sVNcwxFTSnnXA5x9oQ7uQyV3",
+    "batch": {},
+    "code": {
+      "coding": [
+        {
+          "code": "1925",
+          "system": "urn:oid:2.16.840.1.113883.6.253"
+        },
+        {
+          "code": "64100010000315",
+          "system": "urn:oid:2.16.840.1.113883.6.68"
+        },
+        {
+          "code": "03385",
+          "system": "urn:oid:2.16.840.1.113883.6.162"
+        },
+        {
+          "code": "1191",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        },
+        {
+          "code": "212033",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+        }
+      ],
+      "text": "aspirin 325 MG tablet"
+    },
+    "form": {
+      "coding": [
+        {
+          "code": "TABS",
+          "display": "tablet",
+          "system": "urn:oid:1.2.840.114350.1.13.0.1.7.4.698288.310"
+        }
+      ],
+      "text": "tablet"
+    },
+    "ingredient": [
+      {
+        "itemcodeableconcept": {
+          "coding": [
+            {
+              "code": "1925",
+              "system": "urn:oid:2.16.840.1.113883.6.253"
+            },
+            {
+              "code": "64100010000315",
+              "system": "urn:oid:2.16.840.1.113883.6.68"
+            },
+            {
+              "code": "03385",
+              "system": "urn:oid:2.16.840.1.113883.6.162"
+            },
+            {
+              "code": "1191",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            },
+            {
+              "code": "212033",
+              "system": "http://www.nlm.nih.gov/research/umls/rxnorm"
+            }
+          ],
+          "text": "aspirin 325 MG tablet"
+        },
+        "strength": {
+          "denominator": {
+            "value": 325,
+            "unit": "MG",
+            "system": "http://unitsofmeasure.org",
+            "code": "mg"
+          },
+          "numerator": {
+            "value": 325,
+            "unit": "MG",
+            "system": "http://unitsofmeasure.org",
+            "code": "mg"
+          }
+        }
+      }
+    ]
+  }
+]

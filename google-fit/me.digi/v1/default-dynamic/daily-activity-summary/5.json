@@ -1,0 +1,622 @@
+[
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1865.75,
+    "createddate": 1655495120388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 60000,
+    "entityid": "33_123456789_1553990400000",
+    "heartrate": 83.83,
+    "id": "1553990400000",
+    "steps": 210,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2813.46,
+    "createddate": 1655494820388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 9540000,
+    "entityid": "33_123456789_1553904000000",
+    "heartrate": 95.47,
+    "id": "1553904000000",
+    "steps": 14490,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2149.14,
+    "createddate": 1655494520388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 6960000,
+    "entityid": "33_123456789_1553817600000",
+    "heartrate": 87.38,
+    "id": "1553817600000",
+    "steps": 11856,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2187.59,
+    "createddate": 1655494220388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 9420000,
+    "entityid": "33_123456789_1553731200000",
+    "heartrate": 86.7,
+    "id": "1553731200000",
+    "steps": 13751,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2374.83,
+    "createddate": 1655493920388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 15420000,
+    "entityid": "33_123456789_1553644800000",
+    "heartrate": 95.56,
+    "id": "1553644800000",
+    "steps": 18312,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2114.37,
+    "createddate": 1655493620388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 7320000,
+    "entityid": "33_123456789_1553558400000",
+    "heartrate": 86.11,
+    "id": "1553558400000",
+    "steps": 11060,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1924.52,
+    "createddate": 1655493320388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 8460000,
+    "entityid": "33_123456789_1553472000000",
+    "heartrate": 93.82,
+    "id": "1553472000000",
+    "steps": 12964,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1865.75,
+    "createddate": 1655493020388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 0,
+    "entityid": "33_123456789_1553385600000",
+    "heartrate": 69.01,
+    "id": "1553385600000",
+    "steps": 182,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2126.57,
+    "createddate": 1655492720388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 6000000,
+    "entityid": "33_123456789_1553299200000",
+    "heartrate": 86.44,
+    "id": "1553299200000",
+    "steps": 7550,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2416.49,
+    "createddate": 1655492420388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 8280000,
+    "entityid": "33_123456789_1553212800000",
+    "heartrate": 89.51,
+    "id": "1553212800000",
+    "steps": 11362,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2242.66,
+    "createddate": 1655492120388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 6000000,
+    "entityid": "33_123456789_1553126400000",
+    "heartrate": 88.32,
+    "id": "1553126400000",
+    "steps": 9082,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1865.75,
+    "createddate": 1655491820388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 8700000,
+    "entityid": "33_123456789_1553040000000",
+    "heartrate": 93.84,
+    "id": "1553040000000",
+    "steps": 13256,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1865.75,
+    "createddate": 1655491520388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 2700000,
+    "entityid": "33_123456789_1552953600000",
+    "heartrate": 82.03,
+    "id": "1552953600000",
+    "steps": 4015,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1023.11,
+    "createddate": 1655491220388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 2700000,
+    "entityid": "33_123456789_1552867200000",
+    "heartrate": 84.91,
+    "id": "1552867200000",
+    "steps": 3861,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2633.14,
+    "createddate": 1655490920388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 6660000,
+    "entityid": "33_123456789_1552780800000",
+    "heartrate": 87.88,
+    "id": "1552780800000",
+    "steps": 9562,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2239.56,
+    "createddate": 1655490620388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 7620000,
+    "entityid": "33_123456789_1552694400000",
+    "heartrate": 92.03,
+    "id": "1552694400000",
+    "steps": 10936,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2194.06,
+    "createddate": 1655490320388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0.01
+      }
+    ],
+    "duration": 9060000,
+    "entityid": "33_123456789_1552608000000",
+    "heartrate": 94.87,
+    "id": "1552608000000",
+    "steps": 12834,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2569.18,
+    "createddate": 1655490020388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0.008
+      }
+    ],
+    "duration": 7860000,
+    "entityid": "33_123456789_1552521600000",
+    "heartrate": 93.92,
+    "id": "1552521600000",
+    "steps": 11418,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2012.64,
+    "createddate": 1655489720388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 5520000,
+    "entityid": "33_123456789_1552435200000",
+    "heartrate": 87.84,
+    "id": "1552435200000",
+    "steps": 7922,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2421.1,
+    "createddate": 1655489420388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 9120000,
+    "entityid": "33_123456789_1552348800000",
+    "heartrate": 86.89,
+    "id": "1552348800000",
+    "steps": 15012,
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2360.14,
+    "createddate": 1655489120388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 8280000,
+    "entityid": "33_123456789_1552262400000",
+    "heartrate": 93.42,
+    "id": "1552262400000",
+    "steps": 12372,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2194.06,
+    "createddate": 1655488820388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 8460000,
+    "entityid": "33_123456789_1552176000000",
+    "heartrate": 93.64,
+    "id": "1552176000000",
+    "steps": 13275,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2011.64,
+    "createddate": 1655488520388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 5520000,
+    "entityid": "33_123456789_1552089600000",
+    "heartrate": 95.55,
+    "id": "1552089600000",
+    "steps": 7473,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1983.64,
+    "createddate": 1655488220388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 10560000,
+    "entityid": "33_123456789_1552003200000",
+    "heartrate": 95.09,
+    "id": "1552003200000",
+    "steps": 14356,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2235.72,
+    "createddate": 1655487920388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 8700000,
+    "entityid": "33_123456789_1551916800000",
+    "heartrate": 89.95,
+    "id": "1551916800000",
+    "steps": 14219,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2029.01,
+    "createddate": 1655487620388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 9060000,
+    "entityid": "33_123456789_1551830400000",
+    "heartrate": 92.07,
+    "id": "1551830400000",
+    "steps": 12913,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1933.6,
+    "createddate": 1655487320388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 8220000,
+    "entityid": "33_123456789_1551744000000",
+    "heartrate": 95.06,
+    "id": "1551744000000",
+    "steps": 12524,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2298.18,
+    "createddate": 1655487020388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 9240000,
+    "entityid": "33_123456789_1551657600000",
+    "heartrate": 95.64,
+    "id": "1551657600000",
+    "steps": 15712,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2017.54,
+    "createddate": 1655486720388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 7140000,
+    "entityid": "33_123456789_1551571200000",
+    "heartrate": 95.47,
+    "id": "1551571200000",
+    "steps": 11388,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 1865.75,
+    "createddate": 1655486420388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 4980000,
+    "entityid": "33_123456789_1551484800000",
+    "heartrate": 89.11,
+    "id": "1551484800000",
+    "steps": 7198,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "33_123456789",
+    "caloriesbmr": 0,
+    "caloriesout": 2152.12,
+    "createddate": 1655486120388,
+    "distances": [
+      {
+        "activity": "total",
+        "distance": 0
+      }
+    ],
+    "duration": 5220000,
+    "entityid": "33_123456789_1551398400000",
+    "heartrate": 85.4,
+    "id": "1551398400000",
+    "steps": 7750,
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  }
+]

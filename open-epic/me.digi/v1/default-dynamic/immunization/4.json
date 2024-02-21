@@ -1,0 +1,94 @@
+[
+  {
+    "accountentityid": "20_123456789",
+    "dosequantity": {
+      "value": 0.5,
+      "unit": "mL",
+      "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.768076.4019",
+      "code": "1"
+    },
+    "encounter": {
+      "display": "Office Visit",
+      "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+    },
+    "entityid": "20_123456789_eP9iaYOhVjU5lAja0sOn8fw3",
+    "id": "eP9iaYOhVjU5lAja0sOn8fw3",
+    "identifier": [
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.768076",
+        "use": "usual",
+        "value": "29341"
+      }
+    ],
+    "lotnumber": "2693",
+    "manufacturer": {
+      "display": "GlaxoSmithKline"
+    },
+    "createddate": 1660781013982,
+    "occurrencedatetime": "2016-01-20",
+    "patient": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "primarysource": false,
+    "status": "completed",
+    "vaccinecode": {
+      "coding": [
+        {
+          "code": "20",
+          "system": "http://hl7.org/fhir/sid/cvx"
+        }
+      ],
+      "text": "DTaP"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  },
+  {
+    "accountentityid": "20_123456789",
+    "dosequantity": {
+      "value": 0.5,
+      "unit": "mL",
+      "system": "urn:oid:1.2.840.114350.1.13.0.1.7.10.768076.4019",
+      "code": "1"
+    },
+    "encounter": {
+      "display": "Office Visit",
+      "reference": "Encounter/es09oReoYsZk20hcbnd7r4A3"
+    },
+    "entityid": "20_123456789_e2Y6vNZ-vOq0qM9mMKjdRsA3",
+    "id": "e2Y6vNZ-vOq0qM9mMKjdRsA3",
+    "identifier": [
+      {
+        "system": "urn:oid:1.2.840.114350.1.13.0.1.7.2.768076",
+        "use": "usual",
+        "value": "29342"
+      }
+    ],
+    "lotnumber": "8741",
+    "manufacturer": {
+      "display": "Novavax Inc"
+    },
+    "createddate": 1660780713982,
+    "occurrencedatetime": "2016-01-20",
+    "patient": {
+      "display": "Powell, Desiree Caroline",
+      "reference": "Patient/eAB3mDIBBcyUKviyzrxsnAw3"
+    },
+    "primarysource": false,
+    "status": "completed",
+    "vaccinecode": {
+      "coding": [
+        {
+          "code": "03",
+          "system": "http://hl7.org/fhir/sid/cvx"
+        }
+      ],
+      "text": "MMR"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-1d"
+    }
+  }
+]

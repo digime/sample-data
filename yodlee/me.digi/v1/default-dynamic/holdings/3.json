@@ -1,0 +1,306 @@
+[
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 18719.02,
+      "currency": "USD"
+    },
+    "createddate": 1666074787856,
+    "description": "Cisco Systems, Inc.",
+    "holdingtype": "stock",
+    "id": "10047494",
+    "entityid": "35_10047494",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 44,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 381,
+    "symbol": "CSCO",
+    "value": {
+      "amount": 16764,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 426.16,
+      "currency": "USD"
+    },
+    "createddate": 1666074487856,
+    "description": "Sherwin-Williams Co.",
+    "holdingtype": "stock",
+    "id": "10047493",
+    "entityid": "35_10047493",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 567.1,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 1,
+    "symbol": "SHW",
+    "value": {
+      "amount": 567.1,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 20238.91,
+      "currency": "USD"
+    },
+    "createddate": 1666074187856,
+    "description": "Envestnet Inc.",
+    "holdingtype": "stock",
+    "id": "10047492",
+    "entityid": "35_10047492",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 77.5,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 362,
+    "symbol": "ENV",
+    "value": {
+      "amount": 28055,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 9579.83,
+      "currency": "USD"
+    },
+    "createddate": 1666073887856,
+    "description": "Simon Property Group, Inc.",
+    "holdingtype": "stock",
+    "id": "10047488",
+    "entityid": "35_10047488",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 140.78,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 55,
+    "symbol": "SPG",
+    "value": {
+      "amount": 7742.9,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 151003.84,
+      "currency": "USD"
+    },
+    "createddate": 1666073587856,
+    "description": "Amazon.com Inc.",
+    "holdingtype": "stock",
+    "id": "10047487",
+    "entityid": "35_10047487",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 2009.29,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 100,
+    "symbol": "AMZN",
+    "value": {
+      "amount": 200929,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 78963.97,
+      "currency": "USD"
+    },
+    "createddate": 1666073287856,
+    "description": "Mfs Series Trust I - MFS Value Fund Class A",
+    "holdingtype": "mutualFund",
+    "id": "10047496",
+    "entityid": "35_10047496",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 43.71,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 1995,
+    "symbol": "MEIAX",
+    "value": {
+      "amount": 87201.45,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 21447.25,
+      "currency": "USD"
+    },
+    "createddate": 1666072987856,
+    "description": "Dodge Cox International Stock Fund",
+    "holdingtype": "mutualFund",
+    "id": "10047495",
+    "entityid": "35_10047495",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 40.58,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 516,
+    "symbol": "DODFX",
+    "value": {
+      "amount": 20939.28,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 80352.54,
+      "currency": "USD"
+    },
+    "createddate": 1666072687856,
+    "description": "Vanguard Target Retirement 2020 Fund",
+    "holdingtype": "mutualFund",
+    "id": "10047491",
+    "entityid": "35_10047491",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 32.62,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 2557,
+    "symbol": "VTWNX",
+    "value": {
+      "amount": 83409.34,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 37347.77,
+      "currency": "USD"
+    },
+    "createddate": 1666072387856,
+    "description": "VelocityShares 3x Inverse Natural Gas ETN",
+    "holdingtype": "mutualFund",
+    "id": "10047490",
+    "entityid": "35_10047490",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 272.76,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 776,
+    "symbol": "DGAZ",
+    "value": {
+      "amount": 211661.76,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "costbasis": {
+      "amount": 34362.7,
+      "currency": "USD"
+    },
+    "createddate": 1666072087856,
+    "description": "BlackRock Institutional Trust Company N.A. - BTC iShares Core S&P Mid-Cap ETF",
+    "holdingtype": "mutualFund",
+    "id": "10047489",
+    "entityid": "35_10047489",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 208.33,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 194,
+    "symbol": "IJH",
+    "value": {
+      "amount": 40416.02,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  },
+  {
+    "accountentityid": "35_123456789",
+    "createddate": 1666071787856,
+    "description": "FDIC INSURED DEPOSIT AT FIFTH THIRD IRA NOT COVERED BY SIPC",
+    "holdingtype": "moneyMarketFund",
+    "id": "10047497",
+    "entityid": "35_10047497",
+    "lastupdated": "2022-12-02T12:28:16Z",
+    "optiontype": "unknown",
+    "price": {
+      "amount": 1,
+      "currency": "USD"
+    },
+    "provideraccountid": "10023548",
+    "quantity": 54.99,
+    "symbol": "QPIKQ",
+    "value": {
+      "amount": 54.99,
+      "currency": "USD"
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  }
+]

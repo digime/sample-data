@@ -1,0 +1,125 @@
+[
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044180266256501",
+    "entityid": "39_123456789_893044180266256501",
+    "categorytype": "fees_and_charges",
+    "basetype": "CREDIT",
+    "amount": {
+      "amount": 100,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Property tax refund"
+    },
+    "createddate": 1650329981667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10015",
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044180266256502",
+    "entityid": "39_123456789_893044180266256502",
+    "categorytype": "shopping",
+    "basetype": "DEBIT",
+    "amount": {
+      "amount": 15.39,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Carrefour"
+    },
+    "createddate": 1650329681667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10024",
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044180274645111",
+    "entityid": "39_123456789_893044180274645111",
+    "categorytype": "shopping",
+    "basetype": "DEBIT",
+    "amount": {
+      "amount": 12.21,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "AMAZON WEB SERVICES AWS.AMAZON.COM"
+    },
+    "createddate": 1650329381667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10024",
+    "merchant": {
+      "name": "Amazon",
+      "address": {
+        "country": "XF"
+      }
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-7d"
+    }
+  },
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044180274645112",
+    "entityid": "39_123456789_893044180274645112",
+    "categorytype": "groceries",
+    "basetype": "DEBIT",
+    "amount": {
+      "amount": 80.71,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Delhaize"
+    },
+    "createddate": 1650329081667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10016",
+    "merchant": {
+      "name": "Delhaize",
+      "address": {
+        "country": "XF"
+      }
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "39_123456789",
+    "id": "893044180274645113",
+    "entityid": "39_123456789_893044180274645113",
+    "categorytype": "shopping",
+    "basetype": "DEBIT",
+    "amount": {
+      "amount": 17.8,
+      "currency": "EUR"
+    },
+    "description": {
+      "original": "Flying Tiger"
+    },
+    "createddate": 1650328781667,
+    "transactiondate": "2022-12-02",
+    "postdate": "2022-12-02",
+    "categoryid": "10024",
+    "merchant": {
+      "name": "Flying Tiger",
+      "address": {
+        "country": "XF"
+      }
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  }
+]
