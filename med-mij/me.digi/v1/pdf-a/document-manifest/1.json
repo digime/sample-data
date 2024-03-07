@@ -58,8 +58,8 @@
             ]
         },
         "subject": {
-            "reference": "Patient/example-pdfa-kwalificatie2",
-            "display": "Eva XXX_Schulte"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
         },
         "created": "2022-09-14",
         "author": [
@@ -72,8 +72,8 @@
         "content": [
             {
                 "pReference": {
-                    "reference": "DocumentReference/pdfa-documentreference4",
-                    "display": "Allergy and immunology Discharge summary"
+                    "reference": "DocumentReference/pdfa-documentreference1",
+                    "display": "Example PDF - Anterior Cervical Discectomy Fusion - Discharge Summary"
                 }
             }
         ],
@@ -139,8 +139,8 @@
             ]
         },
         "subject": {
-            "reference": "Patient/example-pdfa-kwalificatie2",
-            "display": "Eva XXX_Schulte"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
         },
         "created": "2023-08-05T00:00:00+01:00",
         "author": [
@@ -153,14 +153,8 @@
         "content": [
             {
                 "pReference": {
-                    "reference": "DocumentReference/pdfa-documentreference6",
+                    "reference": "DocumentReference/pdfa-documentreference2",
                     "display": "Kopie van ontslagbrief"
-                }
-            },
-            {
-                "pReference": {
-                    "reference": "DocumentReference/pdfa-documentreference7",
-                    "display": "Verwijsbrief Arts"
                 }
             }
         ],
