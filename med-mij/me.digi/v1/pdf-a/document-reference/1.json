@@ -67,8 +67,8 @@
             ]
         },
         "subject": {
-            "reference": "Patient/example-pdfa-kwalificatie1",
-            "display": "E XXX_Baltus"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
         },
         "indexed": "2022-09-14T00:00:00+01:00",
         "author": [
@@ -170,8 +170,8 @@
             ]
         },
         "subject": {
-            "reference": "Patient/example-pdfa-kwalificatie1",
-            "display": "E XXX_Baltus"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
         },
         "indexed": "2023-07-06T00:00:00+01:00",
         "author": [
@@ -207,17 +207,17 @@
     },
     {
         "resourceType": "DocumentReference",
-        "id": "pdfa-documentreference3",
+        "id": "pdfa-documentreference4",
         "meta": {
             "versionId": "1",
-            "lastUpdated": "2023-09-04T01:56:12.475-04:00",
+            "lastUpdated": "2023-09-04T01:56:12.975-04:00",
             "profile": [
                 "http://nictiz.nl/fhir/StructureDefinition/IHE.MHD.Minimal.DocumentReference"
             ]
         },
         "text": {
             "status": "extensions",
-            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentReference. Subject: E XXX_Baltus. Set\u2011Id: urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220879 (urn:ietf:rfc:3986), Id: 741147 (http://xis.org/fhir/NamingSystem/DocumentReferenceID), Status: actueel                              \n          <span style=\"display: block;\">Auteur: F. Kiek</span></caption><tbody><tr><th>Type</th><td><span title=\"Consultverslag [bevinding] in {instelling} d.m.v. neurologie (document) (34797-1 - LOINC)\">Consultverslag [bevinding] in {instelling} d.m.v. neurologie (document)</span></td></tr><tr><th>Ge\u00efndexeerd</th><td>2022-09-14T00:00:00+01:00</td></tr><tr><th>Securitylabel</th><td/></tr><tr><th>Omschrijving</th><td>Neurology Consult note</td></tr><tr><th>Content</th><td><img src=\"Binary/foutieve-en-onbekend-id\" alt=\"null\" title=\"Example PDF - Neurology Consult note\"/></td></tr></tbody></table></div>"
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>DocumentReference. Subject: Johan XXX_Helleman. Set‑Id: urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.287798 (urn:ietf:rfc:3986), Id: 852852 (http://xis.org/fhir/NamingSystem/DocumentReferenceID), Status: actueel                              \n          <span style=\"display: block;\">Auteur: A.F. Snijder</span></caption><tbody><tr><th>Type</th><td><span title=\"Samenvattende ontslagbrief [bevinding] in {instelling} d.m.v. allergie+immunologie (document) (68626-1 - LOINC)\">Samenvattende ontslagbrief [bevinding] in {instelling} d.m.v. allergie+immunologie (document)</span></td></tr><tr><th>Geïndexeerd</th><td>2022-10-19T00:00:00+01:00</td></tr><tr><th>Securitylabel</th><td/></tr><tr><th>Omschrijving</th><td>Discharge summary</td></tr><tr><th>Content</th><td><img src=\"https://informatiestandaarden.nictiz.nl/images/2/29/Example_PDF_-_Discharge_Summary.pdf\" alt=\"null\" title=\"Example PDF - Discharge Summary\"/></td></tr></tbody></table></div>"
         },
         "contained": [
             {
@@ -225,9 +225,9 @@
                 "id": "p1",
                 "name": [
                     {
-                        "family": "Kiek",
+                        "family": "Snijder",
                         "given": [
-                            "F."
+                            "A.F."
                         ],
                         "_given": [
                             {
@@ -245,12 +245,12 @@
         ],
         "masterIdentifier": {
             "system": "urn:ietf:rfc:3986",
-            "value": "urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.220879"
+            "value": "urn:oid:1.2.276.0.7230010.3.1.2.1787205428.3024.1522314975.287798"
         },
         "identifier": [
             {
                 "system": "http://xis.org/fhir/NamingSystem/DocumentReferenceID",
-                "value": "741147"
+                "value": "852852"
             }
         ],
         "status": "current",
@@ -258,8 +258,8 @@
             "coding": [
                 {
                     "system": "http://loinc.org",
-                    "code": "34797-1",
-                    "display": "Consultverslag [bevinding] in {instelling} d.m.v. neurologie (document)"
+                    "code": "68626-1",
+                    "display": "Samenvattende ontslagbrief [bevinding] in {instelling} d.m.v. allergie+immunologie (document)"
                 }
             ]
         },
@@ -267,23 +267,23 @@
             "coding": [
                 {
                     "system": "http://loinc.org",
-                    "code": "11488-4",
-                    "display": "Consult Note"
+                    "code": "18842-5",
+                    "display": "Discharge summary"
                 }
             ]
         },
         "subject": {
-            "reference": "Patient/example-pdfa-kwalificatie1",
-            "display": "E XXX_Baltus"
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
         },
-        "indexed": "2022-09-14T00:00:00+01:00",
+        "indexed": "2022-10-19T00:00:00+01:00",
         "author": [
             {
                 "reference": "#p1",
-                "display": "F. Kiek"
+                "display": "A.F. Snijder"
             }
         ],
-        "description": "Neurology Consult note",
+        "description": "Discharge summary",
         "securityLabel": [
             {
                 "coding": [
@@ -300,12 +300,12 @@
                 "attachment": {
                     "contentType": "application/pdf",
                     "language": "en",
-                    "url": "Binary/foutieve-en-onbekend-id",
-                    "title": "Example PDF - Neurology Consult note"
+                    "url": "https://informatiestandaarden.nictiz.nl/images/2/29/Example_PDF_-_Discharge_Summary.pdf",
+                    "title": "Example PDF - Discharge Summary"
                 }
             }
         ],
         "accountentityid": "37_123456789",
-        "entityid": "37_123456789_pdfa-documentreference3"
+        "entityid": "37_123456789_pdfa-documentreference4"
     }
 ]
