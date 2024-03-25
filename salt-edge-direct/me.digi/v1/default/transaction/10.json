@@ -12,7 +12,7 @@
         "description": {
             "original": "Starbucks coffee"
         },
-        "createddate": 1629220764897,
+        "createddate": 1643192175044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10016",
@@ -28,7 +28,7 @@
         "id": "818875114144668488",
         "entityid": "38_123456789_818875114144668488",
         "categorytype": "shopping",
-        "basetype": "DEBIT",        
+        "basetype": "DEBIT",
         "amount": {
             "amount": 20.09,
             "currency": "AUD"
@@ -36,7 +36,7 @@
         "description": {
             "original": "AMAZON WEB SERVICES AWS.AMAZON.COM"
         },
-        "createddate": 1629220464897,
+        "createddate": 1643191875044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10024",
@@ -60,7 +60,7 @@
         "description": {
             "original": "Woolworths"
         },
-        "createddate": 1629220464897,
+        "createddate": 1643191575044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10024",
@@ -78,13 +78,13 @@
         "categorytype": "groceries",
         "basetype": "DEBIT",
         "amount": {
-            "amount": 80.60,
+            "amount": 80.6,
             "currency": "AUD"
         },
         "description": {
             "original": "Coles"
         },
-        "createddate": 1629219864897,
+        "createddate": 1643191275044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10016",
@@ -100,7 +100,7 @@
         "id": "818871437946264560",
         "entityid": "38_123456789_818871437946264560",
         "categorytype": "shopping",
-        "basetype": "DEBIT",                
+        "basetype": "DEBIT",
         "amount": {
             "amount": 5,
             "currency": "AUD"
@@ -108,7 +108,7 @@
         "description": {
             "original": "Woolworths"
         },
-        "createddate": 1629219564897,
+        "createddate": 1643190975044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10024",
@@ -124,7 +124,7 @@
         "id": "818871437946264561",
         "entityid": "38_123456789_818871437946264561",
         "categorytype": "groceries",
-        "basetype": "DEBIT",                
+        "basetype": "DEBIT",
         "amount": {
             "amount": 150,
             "currency": "AUD"
@@ -132,7 +132,7 @@
         "description": {
             "original": "Coles"
         },
-        "createddate": 1629219264897,
+        "createddate": 1643190675044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10016",
@@ -156,7 +156,7 @@
         "description": {
             "original": "Starbucks coffee"
         },
-        "createddate": 1629218964897,
+        "createddate": 1643190375044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10016",
@@ -172,7 +172,7 @@
         "id": "818871437954653171",
         "entityid": "38_123456789_818871437954653171",
         "categorytype": "shopping",
-        "basetype": "DEBIT",        
+        "basetype": "DEBIT",
         "amount": {
             "amount": 14.76,
             "currency": "AUD"
@@ -180,7 +180,7 @@
         "description": {
             "original": "AMAZON WEB SERVICES AWS.AMAZON.COM"
         },
-        "createddate": 1629218664897,
+        "createddate": 1643190075044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10024",
@@ -196,7 +196,7 @@
         "id": "818871437954653172",
         "entityid": "38_123456789_818871437954653172",
         "categorytype": "groceries",
-        "basetype": "DEBIT",        
+        "basetype": "DEBIT",
         "amount": {
             "amount": 16.45,
             "currency": "AUD"
@@ -204,7 +204,7 @@
         "description": {
             "original": "Shelley's Cordial"
         },
-        "createddate": 1629218364897,
+        "createddate": 1643189775044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10016",
@@ -220,7 +220,7 @@
         "id": "818871437954653173",
         "entityid": "38_123456789_818871437954653173",
         "categorytype": "shopping",
-        "basetype": "DEBIT",        
+        "basetype": "DEBIT",
         "amount": {
             "amount": 295.95,
             "currency": "AUD"
@@ -228,7 +228,7 @@
         "description": {
             "original": "JOHN LEWIS"
         },
-        "createddate": 1629218064897,
+        "createddate": 1643189475044,
         "transactiondate": "2022-12-02",
         "postdate": "2022-12-02",
         "categoryid": "10024",
