@@ -307,5 +307,43 @@
         ],
         "accountentityid": "37_123456789",
         "entityid": "37_123456789_pdfa-documentreference4"
-    }
+    },
+    {
+        "resourceType": "DocumentReference",
+        "id": "missing-binary-documentreference",
+        "status": "current",
+        "type": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "55108-7",
+              "display": "Consent Document"
+            }
+          ]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "author": [
+            {
+                "reference": "#p1",
+                "display": "B. Kneder"
+            }
+        ],
+        "description": "PDF Missing Binary",
+        "content": [
+            {
+                "attachment": {
+                    "contentType": "application/pdf",
+                    "language": "en",
+                    "url": "Binary/missing-binary",
+                    "title": "Example PDF - Missing binary"
+                }
+            }
+        ],
+        "indexed": "2024-04-10T08:00:00Z",
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_missing-binary-documentreference"
+    }  
 ]
