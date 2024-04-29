@@ -1,0 +1,372 @@
+[
+    {
+        "resourceType": "Observation",
+        "id": "90feb2d3-af81-45bc-9c66-e3584ff26caf",
+        "status": "amended",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "laboratory",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/cc1818f5-9888-4b6b-b361-7c5db9eeb141"
+        },
+        "effectiveDateTime": "2024-03-18T14:21:40.903677",
+        "valueQuantity": {
+            "value": 163,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "9cc3f7bb-e2e5-401c-a191-b9bc7d6c3e42",
+        "status": "final",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "laboratory",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/2f526760-383b-4451-914d-73c76dd24057"
+        },
+        "effectiveDateTime": "2024-04-13T14:21:40.903701",
+        "valueQuantity": {
+            "value": 139,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "e199adb9-c46a-4e2d-b428-c67800d21fb2",
+        "status": "final",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "imaging",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/71cbed01-f75b-430f-b75d-c2e028602c53"
+        },
+        "effectiveDateTime": "2024-03-10T14:21:40.903724",
+        "valueQuantity": {
+            "value": 184,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "4c6490a9-34b9-4847-9732-b8a947800912",
+        "status": "amended",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "vital-signs",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/aeab7d93-5da1-438d-8e94-0e0ee8a09f5b"
+        },
+        "effectiveDateTime": "2024-03-01T14:21:40.903748",
+        "valueQuantity": {
+            "value": 99,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "8a0eb22f-eb6a-4919-851c-b3e98fb71816",
+        "status": "preliminary",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "vital-signs",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/18461c32-f02a-410b-8060-4d45411f01dd"
+        },
+        "effectiveDateTime": "2024-03-27T14:21:40.903771",
+        "valueQuantity": {
+            "value": 168,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "46e93886-f783-46b9-ac69-1875b7e1d600",
+        "status": "preliminary",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "imaging",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/e5ff4ced-a4c4-4f17-bed8-d071eecc7ff4"
+        },
+        "effectiveDateTime": "2024-03-08T14:21:40.903794",
+        "valueQuantity": {
+            "value": 110,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "8b44f609-4b2f-41db-bba3-9e14c1466320",
+        "status": "final",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "vital-signs",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/32dab505-243c-4f61-88a0-d52a161fe84e"
+        },
+        "effectiveDateTime": "2024-03-02T14:21:40.903817",
+        "valueQuantity": {
+            "value": 74,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "b616ada0-ed96-4e4d-af5b-90304d8ec34c",
+        "status": "final",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "vital-signs",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/9580f50d-5127-4cae-b198-0093c9017349"
+        },
+        "effectiveDateTime": "2024-03-11T14:21:40.903843",
+        "valueQuantity": {
+            "value": 82,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "6069ae97-1727-44c4-8e64-eed0e4a9e6a0",
+        "status": "amended",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "imaging",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/f2ee9ca9-de62-4f94-9269-162396e1967d"
+        },
+        "effectiveDateTime": "2024-03-31T14:21:40.903867",
+        "valueQuantity": {
+            "value": 100,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    },
+    {
+        "resourceType": "Observation",
+        "id": "487dd47a-49c6-4a5a-9555-8d997bb4ce0b",
+        "status": "amended",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "imaging",
+                    "display": "Vital Signs"
+                }
+            ]
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "http://loinc.org",
+                    "code": "85354-9",
+                    "display": "Blood pressure systolic & diastolic"
+                }
+            ],
+            "text": "Blood pressure"
+        },
+        "subject": {
+            "reference": "Patient/c08a24ac-47fb-4d43-9373-baa0c99d6cc4"
+        },
+        "effectiveDateTime": "2024-03-09T14:21:40.903890",
+        "valueQuantity": {
+            "value": 84,
+            "unit": "mmHg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mm[Hg]"
+        },
+        "__sampleDataTemplate": {
+            "createddate": "now"
+        }
+    }
+]
