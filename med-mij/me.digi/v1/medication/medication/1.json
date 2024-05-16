@@ -1,0 +1,1266 @@
+[
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6939",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:51:01.841-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Acetylsalicylzuur tabletmsr 100mg (6939 - G-Standaard PRK)\">Acetylsalicylzuur tabletmsr 100mg</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "6939",
+                    "display": "Acetylsalicylzuur tabletmsr 100mg",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "63630",
+                    "display": "Acetylsalicylzuur tabletmsr 100mg"
+                }
+            ],
+            "text": "Acetylsalicylzuur tabletmsr 100mg"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6939"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-7-615560",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:24.834-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"ZESTRIL TABLET 10MG (615560 - G-Standaard HPK)\">ZESTRIL TABLET 10MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "615560",
+                    "display": "ZESTRIL TABLET 10MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "26638",
+                    "display": "LISINOPRIL 10MG TABLET"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "71587",
+                    "display": "LISINOPRIL 10MG TABLET"
+                }
+            ],
+            "text": "ZESTRIL TABLET 10MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-7-615560"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-3891",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:50:58.903-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"APACOF 250/250/50MG TABLET (3891 - G-Standaard PRK)\">APACOF 250/250/50MG TABLET</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "3891",
+                    "display": "APACOF 250/250/50MG TABLET",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "61433",
+                    "display": "APACOF 250/250/50MG TABLET"
+                }
+            ],
+            "text": "APACOF 250/250/50MG TABLET"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-3891"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-48291",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:51:00.356-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"MIZOLASTINE TABLET MGA  10MG (48291 - G-Standaard PRK)\">MIZOLASTINE TABLET MGA 10MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "48291",
+                    "display": "MIZOLASTINE TABLET MGA  10MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "102164",
+                    "display": "MIZOLASTINE TABLET MGA  10MG"
+                }
+            ],
+            "text": "MIZOLASTINE TABLET MGA  10MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-48291"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-16292",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:08.115-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"ETHINYLESTRADIOL/DESOGESTREL TABLET 30/150UG (16292 - G-Standaard PRK)\">ETHINYLESTRADIOL/DESOGESTREL TABLET 30/150UG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "16292",
+                    "display": "ETHINYLESTRADIOL/DESOGESTREL TABLET 30/150UG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "39578",
+                    "display": "ETHINYLESTRADIOL/DESOGESTREL TABLET 30/150UG"
+                }
+            ],
+            "text": "ETHINYLESTRADIOL/DESOGESTREL TABLET 30/150UG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-16292"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-16705",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:08.396-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"FUSIDINEZUUR CREME 20MG/G (16705 - G-Standaard PRK)\">FUSIDINEZUUR CREME 20MG/G</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "16705",
+                    "display": "FUSIDINEZUUR CREME 20MG/G",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "73466",
+                    "display": "FUSIDINEZUUR CREME 20MG/G"
+                }
+            ],
+            "text": "FUSIDINEZUUR CREME 20MG/G"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-16705"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-42773",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:11.631-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"CODEINE TABLET 10MG (FOSFAAT) (42773 - G-Standaard PRK)\">CODEINE TABLET 10MG (FOSFAAT)</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "42773",
+                    "display": "CODEINE TABLET 10MG (FOSFAAT)",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "23086",
+                    "display": "CODEINE TABLET 10MG (FOSFAAT)"
+                }
+            ],
+            "text": "CODEINE TABLET 10MG (FOSFAAT)"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-42773"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-44520",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:11.912-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"NITROGLYCERINE PLEISTER 5MG/24UUR (DEPONIT T) (44520 - G-Standaard PRK)\">NITROGLYCERINE PLEISTER 5MG/24UUR (DEPONIT T)</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "44520",
+                    "display": "NITROGLYCERINE PLEISTER 5MG/24UUR (DEPONIT T)",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "98477",
+                    "display": "NITROGLYCERINE PLEISTER 5MG/24UUR (DEPONIT T)"
+                }
+            ],
+            "text": "NITROGLYCERINE PLEISTER 5MG/24UUR (DEPONIT T)"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-44520"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-UREUM-10-IN-EUCERINE-CUM-AQUA-100GR",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:27.194-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td>Ureum 10% in eucerine cum aqua 100gr</td><th>Ingredients</th><td><ul><li><span title=\"UREUM (15219127 - G-Standaard HPK)\">UREUM</span></li><li><span title=\"EUCERINE MET WATER FAGRON (14740877 - G-Standaard HPK)\">EUCERINE MET WATER FAGRON</span></li></ul></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Product-Description",
+                "valueString": "Titel: Ureum 10% in eucerine cum aqua 100gr           Regel: UREUM 10gr           Regel: EUCERINE MET WATER FAGRON ad 100gr"
+            }
+        ],
+        "code": {
+            "extension": [
+                {
+                    "url": "http://hl7.org/fhir/StructureDefinition/iso21090-nullFlavor",
+                    "valueCode": "OTH"
+                }
+            ],
+            "text": "Ureum 10% in eucerine cum aqua 100gr"
+        },
+        "ingredient": [
+            {
+                "itemCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                            "code": "15219127",
+                            "display": "UREUM"
+                        }
+                    ]
+                },
+                "amount": {
+                    "numerator": {
+                        "value": 10,
+                        "unit": "gram",
+                        "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                        "code": "215"
+                    },
+                    "denominator": {
+                        "value": 100,
+                        "unit": "gram",
+                        "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                        "code": "215"
+                    }
+                }
+            },
+            {
+                "itemCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                            "code": "14740877",
+                            "display": "EUCERINE MET WATER FAGRON"
+                        }
+                    ]
+                },
+                "amount": {
+                    "numerator": {
+                        "value": 90,
+                        "unit": "gram",
+                        "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                        "code": "215"
+                    },
+                    "denominator": {
+                        "value": 100,
+                        "unit": "gram",
+                        "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                        "code": "215"
+                    }
+                }
+            }
+        ],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-UREUM-10-IN-EUCERINE-CUM-AQUA-100GR"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-34851",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:50:58.294-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"INSULINE ISOFAAN 100IE/ML (34851 - G-Standaard PRK)\">INSULINE ISOFAAN 100IE/ML</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "34851",
+                    "display": "INSULINE ISOFAAN 100IE/ML",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "111325",
+                    "display": "INSULINE ISOFAAN 100IE/ML"
+                }
+            ],
+            "text": "INSULINE ISOFAAN 100IE/ML"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-34851"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-67903",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:15.334-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"PARACETAMOL 500MG TABLET (67903 - G-Standaard PRK)\">PARACETAMOL 500MG TABLET</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "67903",
+                    "display": "PARACETAMOL 500MG TABLET",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "2194",
+                    "display": "PARACETAMOL 500MG TABLET"
+                }
+            ],
+            "text": "PARACETAMOL 500MG TABLET"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-67903"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-92789",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:18.522-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Cetomacrogolcreme met vaseline (92789 - G-Standaard PRK)\">Cetomacrogolcreme met vaseline</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "92789",
+                    "display": "Cetomacrogolcreme met vaseline",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "133329",
+                    "display": "Cetomacrogolcreme met vaseline"
+                }
+            ],
+            "text": "Cetomacrogolcreme met vaseline"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-92789"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-7-1017209",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:19.334-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Naproxen CF tablet 500mg (1017209 - G-Standaard HPK)\">Naproxen CF tablet 500mg</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "1017209",
+                    "display": "Naproxen CF tablet 500mg",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "20850",
+                    "display": "NAPROXEN 500MG TABLET"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "51233",
+                    "display": "NAPROXEN 500MG TABLET"
+                }
+            ],
+            "text": "Naproxen CF tablet 500mg"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-7-1017209"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-67016",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:15.037-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"WATERSTOFPEROXIDE 30MG/ML (67016 - G-Standaard PRK)\">WATERSTOFPEROXIDE 30MG/ML</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "67016",
+                    "display": "WATERSTOFPEROXIDE 30MG/ML",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "116041",
+                    "display": "WATERSTOFPEROXIDE 30MG/ML"
+                }
+            ],
+            "text": "WATERSTOFPEROXIDE 30MG/ML"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-67016"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-55050",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:13.428-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"IMIQUIMOD CREME 50MG/G (55050 - G-Standaard PRK)\">IMIQUIMOD CREME 50MG/G</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "55050",
+                    "display": "IMIQUIMOD CREME 50MG/G",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "109398",
+                    "display": "IMIQUIMOD CREME 50MG/G"
+                }
+            ],
+            "text": "IMIQUIMOD CREME 50MG/G"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-55050"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-77038",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:17.131-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"EZETIMIB/SIMVASTATINE TABLET 10/20MG (77038 - G-Standaard PRK)\">EZETIMIB/SIMVASTATINE TABLET 10/20MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "77038",
+                    "display": "EZETIMIB/SIMVASTATINE TABLET 10/20MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "123129",
+                    "display": "EZETIMIB/SIMVASTATINE TABLET 10/20MG"
+                }
+            ],
+            "text": "EZETIMIB/SIMVASTATINE TABLET 10/20MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-77038"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6939",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:51:01.841-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Acetylsalicylzuur tabletmsr 100mg (6939 - G-Standaard PRK)\">Acetylsalicylzuur tabletmsr 100mg</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "6939",
+                    "display": "Acetylsalicylzuur tabletmsr 100mg",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "63630",
+                    "display": "Acetylsalicylzuur tabletmsr 100mg"
+                }
+            ],
+            "text": "Acetylsalicylzuur tabletmsr 100mg"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6939"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-7-615560",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:24.834-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"ZESTRIL TABLET 10MG (615560 - G-Standaard HPK)\">ZESTRIL TABLET 10MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "615560",
+                    "display": "ZESTRIL TABLET 10MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "26638",
+                    "display": "LISINOPRIL 10MG TABLET"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "71587",
+                    "display": "LISINOPRIL 10MG TABLET"
+                }
+            ],
+            "text": "ZESTRIL TABLET 10MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-7-615560"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-3891",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:50:58.903-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"APACOF 250/250/50MG TABLET (3891 - G-Standaard PRK)\">APACOF 250/250/50MG TABLET</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "3891",
+                    "display": "APACOF 250/250/50MG TABLET",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "61433",
+                    "display": "APACOF 250/250/50MG TABLET"
+                }
+            ],
+            "text": "APACOF 250/250/50MG TABLET"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-3891"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-1-133329",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:06.927-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Cetomacrogolcreme met vaseline (133329 - G-Standaard GPK)\">Cetomacrogolcreme met vaseline</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "133329",
+                    "display": "Cetomacrogolcreme met vaseline",
+                    "userSelected": true
+                }
+            ],
+            "text": "Cetomacrogolcreme met vaseline"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-1-133329"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-48291",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:51:00.356-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"MIZOLASTINE TABLET MGA  10MG (48291 - G-Standaard PRK)\">MIZOLASTINE TABLET MGA 10MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "48291",
+                    "display": "MIZOLASTINE TABLET MGA  10MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "102164",
+                    "display": "MIZOLASTINE TABLET MGA  10MG"
+                }
+            ],
+            "text": "MIZOLASTINE TABLET MGA  10MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-48291"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-7-1101099",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:19.615-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"MIZOLLEN TABLET MGA 10MG (1101099 - G-Standaard HPK)\">MIZOLLEN TABLET MGA 10MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "1101099",
+                    "display": "MIZOLLEN TABLET MGA 10MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "48291",
+                    "display": "MIZOLASTINE TABLET MGA  10MG"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "102164",
+                    "display": "MIZOLASTINE TABLET MGA  10MG"
+                }
+            ],
+            "text": "MIZOLLEN TABLET MGA 10MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-7-1101099"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-1-133329",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:06.927-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Cetomacrogolcreme met vaseline (133329 - G-Standaard GPK)\">Cetomacrogolcreme met vaseline</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "133329",
+                    "display": "Cetomacrogolcreme met vaseline",
+                    "userSelected": true
+                }
+            ],
+            "text": "Cetomacrogolcreme met vaseline"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-1-133329"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-7-2121522",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:21.678-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"ADVIL BRUIS BRUISTABLET 400MG CITRUSSMAAK (2121522 - G-Standaard HPK)\">ADVIL BRUIS BRUISTABLET 400MG CITRUSSMAAK</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "2121522",
+                    "display": "ADVIL BRUIS BRUISTABLET 400MG CITRUSSMAAK",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "94358",
+                    "display": "IBUPROFEN 400MG BRUISTABLET"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "101494",
+                    "display": "IBUPROFEN 400MG BRUISTABLET"
+                }
+            ],
+            "text": "ADVIL BRUIS BRUISTABLET 400MG CITRUSSMAAK"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-7-2121522"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-5967",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:51:01.559-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"FUROSEMIDE 40MG TABLET (5967 - G-Standaard PRK)\">FUROSEMIDE 40MG TABLET</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "5967",
+                    "display": "FUROSEMIDE 40MG TABLET",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "16810",
+                    "display": "FUROSEMIDE 40MG TABLET"
+                }
+            ],
+            "text": "FUROSEMIDE 40MG TABLET"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-5967"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6009",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:14.428-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"METHOTREXAAT TABLET 2,5MG (6009 - G-Standaard PRK)\">METHOTREXAAT TABLET 2,5MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "6009",
+                    "display": "METHOTREXAAT TABLET 2,5MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "42609",
+                    "display": "METHOTREXAAT TABLET 2,5MG"
+                }
+            ],
+            "text": "METHOTREXAAT TABLET 2,5MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6009"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-17205",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:50:55.387-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"FENETICILLINE CAPSULE 500MG (17205 - G-Standaard PRK)\">FENETICILLINE CAPSULE 500MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "17205",
+                    "display": "FENETICILLINE CAPSULE 500MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "41092",
+                    "display": "FENETICILLINE CAPSULE 500MG"
+                }
+            ],
+            "text": "FENETICILLINE CAPSULE 500MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-17205"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-8-13806769",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:26.412-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"TEMAZEPAM APOTEX TABLET 10MG (13806769 - G-Standaard ZI_nummer)\">TEMAZEPAM APOTEX TABLET 10MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.8",
+                    "code": "13806769",
+                    "display": "TEMAZEPAM APOTEX TABLET 10MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "677965",
+                    "display": "TEMAZEPAM APOTEX TABLET 10MG"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "32956",
+                    "display": "TEMAZEPAM TABLET 10MG"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "84190",
+                    "display": "TEMAZEPAM TABLET 10MG"
+                }
+            ],
+            "text": "TEMAZEPAM APOTEX TABLET 10MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-8-13806769"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-1-133329",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:06.927-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Cetomacrogolcreme met vaseline (133329 - G-Standaard GPK)\">Cetomacrogolcreme met vaseline</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "133329",
+                    "display": "Cetomacrogolcreme met vaseline",
+                    "userSelected": true
+                }
+            ],
+            "text": "Cetomacrogolcreme met vaseline"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-1-133329"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6939",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:51:01.841-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Acetylsalicylzuur tabletmsr 100mg (6939 - G-Standaard PRK)\">Acetylsalicylzuur tabletmsr 100mg</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "6939",
+                    "display": "Acetylsalicylzuur tabletmsr 100mg",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "63630",
+                    "display": "Acetylsalicylzuur tabletmsr 100mg"
+                }
+            ],
+            "text": "Acetylsalicylzuur tabletmsr 100mg"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6939"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-7-615560",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:24.834-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"ZESTRIL TABLET 10MG (615560 - G-Standaard HPK)\">ZESTRIL TABLET 10MG</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.7",
+                    "code": "615560",
+                    "display": "ZESTRIL TABLET 10MG",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "26638",
+                    "display": "LISINOPRIL 10MG TABLET"
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "71587",
+                    "display": "LISINOPRIL 10MG TABLET"
+                }
+            ],
+            "text": "ZESTRIL TABLET 10MG"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-7-615560"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-3891",
+        "meta": {
+            "versionId": "44",
+            "lastUpdated": "2023-11-21T04:50:58.903-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"APACOF 250/250/50MG TABLET (3891 - G-Standaard PRK)\">APACOF 250/250/50MG TABLET</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "3891",
+                    "display": "APACOF 250/250/50MG TABLET",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "61433",
+                    "display": "APACOF 250/250/50MG TABLET"
+                }
+            ],
+            "text": "APACOF 250/250/50MG TABLET"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-3891"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-59919",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:14.037-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Tiotropium inhalatiecapsule 18ug (59919 - G-Standaard PRK)\">Tiotropium inhalatiecapsule 18ug</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "59919",
+                    "display": "Tiotropium inhalatiecapsule 18ug",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "115371",
+                    "display": "TIOTROPIUM 18UG INHALCAPS"
+                }
+            ],
+            "text": "Tiotropium inhalatiecapsule 18ug"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-59919"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-60526",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:14.740-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Timolol/Latanoprost oogdr 5mg/50ug/ml fl 2,5ml (60526 - G-Standaard PRK)\">Timolol/Latanoprost oogdr 5mg/50ug/ml fl 2,5ml</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "60526",
+                    "display": "Timolol/Latanoprost oogdr 5mg/50ug/ml fl 2,5ml",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "114251",
+                    "display": "TIMOL/LATA 5MG/50UG/ML OOGD"
+                }
+            ],
+            "text": "Timolol/Latanoprost oogdr 5mg/50ug/ml fl 2,5ml"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-60526"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-13072",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:07.505-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"CARBASALAATCALCIUM 100MG PO (13072 - G-Standaard PRK)\">CARBASALAATCALCIUM 100MG PO</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "13072",
+                    "display": "CARBASALAATCALCIUM 100MG PO",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "82562",
+                    "display": "CARBASALAATCALCIUM 100MG PO"
+                }
+            ],
+            "text": "CARBASALAATCALCIUM 100MG PO"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-13072"
+    },
+    {
+        "resourceType": "Medication",
+        "id": "zib-Product-mp9-2-16-840-1-113883-2-4-4-10-88803",
+        "meta": {
+            "versionId": "26",
+            "lastUpdated": "2023-11-21T04:48:18.271-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-Product"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><tbody><tr><th>Code</th><td><span title=\"Omeprazol tablet MSR 40mg (88803 - G-Standaard PRK)\">Omeprazol tablet MSR 40mg</span></td></tr></tbody></table></div>"
+        },
+        "code": {
+            "coding": [
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.10",
+                    "code": "88803",
+                    "display": "Omeprazol tablet MSR 40mg",
+                    "userSelected": true
+                },
+                {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.4.1",
+                    "code": "130621",
+                    "display": "OMEPRAZOL 40MG TABLET MSR"
+                }
+            ],
+            "text": "Omeprazol tablet MSR 40mg"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-Product-mp9-2-16-840-1-113883-2-4-4-10-88803"
+    }
+]
