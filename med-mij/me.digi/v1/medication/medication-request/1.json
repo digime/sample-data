@@ -1,0 +1,924 @@
+[
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-113-1-VV-1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:20.290-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: R. XXX_Dirksz. Id: MBH_113_1_VV_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_113_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_113_1_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_113_1_MA_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>Metoclopramide zetpil 20mg</td></tr><tr><th>Gemaakt</th><td>2023-10-01T11:25:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_113_1_MA_1"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_113_1_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_113_1"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_113_1_VV_1"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-10-6939",
+            "display": "Metoclopramide zetpil 20mg"
+        },
+        "subject": {
+            "reference": "Patient/XXX-DIRKSZ",
+            "display": "R. XXX_Dirksz"
+        },
+        "authoredOn": "2023-10-01T11:25:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f1fdd-6a95-11ec-0000-020000000000",
+                            "display": "Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001111",
+                "display": "Peter van Pulver"
+            }
+        },
+        "dispenseRequest": {
+            "quantity": {
+                "value": 30,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-113-1-VV-1"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-113-2-VV-1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:20.712-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: R. XXX_Dirksz. Id: MBH_113_2_VV_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_113_2 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_113_2_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_113_2_MA_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>ZESTRIL TABLET 10MG</td></tr><tr><th>Gemaakt</th><td>2023-10-21T14:55:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_113_2_MA_1"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_113_2_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_113_2"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_113_2_VV_1"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-7-615560",
+            "display": "ZESTRIL TABLET 10MG"
+        },
+        "subject": {
+            "reference": "Patient/XXX-DIRKSZ",
+            "display": "R. XXX_Dirksz"
+        },
+        "authoredOn": "2023-10-21T14:55:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f1fdd-6a95-11ec-0000-020000000000",
+                            "display": "Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001111",
+                "display": "Peter van Pulver"
+            }
+        },
+        "dispenseRequest": {
+            "quantity": {
+                "value": 21,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-113-2-VV-1"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-113-3-VV-1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:21.118-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: R. XXX_Dirksz. Id: MBH_113_3_VV_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_113_3 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_113_3_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_113_3_MA_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>ACETYLSALICYLZUUR/PARACETAMOL/COF TAB 250/250/50MG</td></tr><tr><th>Gemaakt</th><td>2023-10-21T14:57:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_113_3_MA_1"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_113_3_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_113_3"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_113_3_VV_1"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-10-3891",
+            "display": "ACETYLSALICYLZUUR/PARACETAMOL/COF TAB 250/250/50MG"
+        },
+        "subject": {
+            "reference": "Patient/XXX-DIRKSZ",
+            "display": "R. XXX_Dirksz"
+        },
+        "authoredOn": "2023-10-21T14:57:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f1fdd-6a95-11ec-0000-020000000000",
+                            "display": "Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001111",
+                "display": "Peter van Pulver"
+            }
+        },
+        "dispenseRequest": {
+            "quantity": {
+                "value": 21,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-113-3-VV-1"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-513-2-VV-2",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:23.524-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: J. XXX_Amaya. Id: MBH_513_2_VV_2 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Hans van Doorn || Huisartsen, niet nader gespecificeerd || Ziekenhuis Stitswerd</span></caption><tfoot><tr><td colspan=\"2\">Extra verstrekkingsverzoek omdat pati\u00ebnt de medicatie is kwijt geraakt</td></tr></tfoot><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_513_2 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_513_2_MA_2 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_513_2_MA_2 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>FUROSEMIDE TABLET 40MG</td></tr><tr><th>Gemaakt</th><td>2023-11-20T14:32:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_513_2_MA_2"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_513_2_MA_2 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_513_2"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_513_2_VV_2"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-10-5967",
+            "display": "FUROSEMIDE TABLET 40MG"
+        },
+        "subject": {
+            "reference": "Patient/XXX-AMAYA",
+            "display": "J. XXX_Amaya"
+        },
+        "authoredOn": "2023-11-20T14:32:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f1932-6a95-11ec-0000-020000000000",
+                            "display": "Hans van Doorn || Huisartsen, niet nader gespecificeerd || Ziekenhuis Stitswerd"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-999001112",
+                "display": "Hans van Doorn"
+            }
+        },
+        "note": [
+            {
+                "text": "Extra verstrekkingsverzoek omdat pati\u00ebnt de medicatie is kwijt geraakt"
+            }
+        ],
+        "dispenseRequest": {
+            "quantity": {
+                "value": 30,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-513-2-VV-2"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-513-4-VV-1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:23.915-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: J. XXX_Amaya. Id: MBH_513_4_VV_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_513_4 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_513_4_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_513_4_MA_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>FENETICILLINE CAPSULE 500MG</td></tr><tr><th>Ondersteunende informatie</th><td><div><span title=\"Bezorgen (3 - 2.16.840.1.113883.2.4.3.11.60.20.77.5.2.14.2051)\">Bezorgen</span></div></td></tr><tr><th>Gemaakt</th><td>2023-11-15T09:35:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-AdditionalInformation",
+                "valueCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.60.20.77.5.2.14.2051",
+                            "code": "3",
+                            "display": "Bezorgen"
+                        }
+                    ]
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_513_4_MA_1"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_513_4_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_513_4"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_513_4_VV_1"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-10-17205",
+            "display": "FENETICILLINE CAPSULE 500MG"
+        },
+        "subject": {
+            "reference": "Patient/XXX-AMAYA",
+            "display": "J. XXX_Amaya"
+        },
+        "authoredOn": "2023-11-15T09:35:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f05de-6a95-11ec-0000-020000000000",
+                            "display": "Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001111",
+                "display": "Peter van Pulver"
+            }
+        },
+        "dispenseRequest": {
+            "extension": [
+                {
+                    "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Dispense-Location",
+                    "valueReference": {
+                        "reference": "Location/nl-core-location-mp9-HUISADRES-PATINT",
+                        "display": "Huisadres pati\u00ebnt"
+                    }
+                }
+            ],
+            "quantity": {
+                "value": 40,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-513-4-VV-1"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-123-1-VV-1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:21.508-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: Pauline P. XXX_Bourgonje. Id: MBH_123_1_VV_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Bertine van Doorn || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Stitswerd Oost</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_123_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_123_1_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_123_1_MA_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>Cetomacrogolcreme met vaseline</td></tr><tr><th>Gemaakt</th><td>2023-11-13</td></tr><tr><th>Toedieningsverzoek</th><td><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_123_1_MA_1"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_123_1_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_123_1"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_123_1_VV_1"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-1-133329",
+            "display": "Cetomacrogolcreme met vaseline"
+        },
+        "subject": {
+            "reference": "Patient/XXX-BOURGONJE",
+            "display": "Pauline P. XXX_Bourgonje"
+        },
+        "authoredOn": "2023-11-13",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f047b-6a95-11ec-0000-020000000000",
+                            "display": "Bertine van Doorn || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Stitswerd Oost"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001112",
+                "display": "Bertine van Doorn"
+            }
+        },
+        "dispenseRequest": {
+            "quantity": {
+                "value": 100,
+                "unit": "gram",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "215"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-123-1-VV-1"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-213-1-VV-1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:22.008-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: R. XXX_Gobee. Id: MBH_213_1_VV_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_213_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_213_1_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_213_1_MA_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>MIZOLASTINE TABLET MGA 10MG</td></tr><tr><th>Gemaakt</th><td>2023-10-01T11:25:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Max Repeats: 1</div><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_213_1_MA_1"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_213_1_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_213_1"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_213_1_VV_1"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-10-48291",
+            "display": "MIZOLASTINE TABLET MGA  10MG"
+        },
+        "subject": {
+            "reference": "Patient/XXX-GOBEE",
+            "display": "R. XXX_Gobee"
+        },
+        "authoredOn": "2023-10-01T11:25:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f0a34-6a95-11ec-0000-020000000000",
+                            "display": "Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001111",
+                "display": "Peter van Pulver"
+            }
+        },
+        "dispenseRequest": {
+            "numberOfRepeatsAllowed": 1,
+            "quantity": {
+                "value": 40,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-213-1-VV-1"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-213-1-VV-2",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:22.399-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: R. XXX_Gobee. Id: MBH_213_1_VV_2 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: John de Vries || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_213_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_213_1_MA_3 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_213_1_MA_3 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>MIZOLASTINE TABLET MGA 10MG</td></tr><tr><th>Gemaakt</th><td>2023-10-11T09:13:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Max Repeats: 1</div><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_213_1_MA_3"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_213_1_MA_3 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_213_1"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_213_1_VV_2"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-10-48291",
+            "display": "MIZOLASTINE TABLET MGA  10MG"
+        },
+        "subject": {
+            "reference": "Patient/XXX-GOBEE",
+            "display": "R. XXX_Gobee"
+        },
+        "authoredOn": "2023-10-11T09:13:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f0a8b-6a95-11ec-0000-020000000000",
+                            "display": "John de Vries || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-c33f0e1a-6a95-11ec-0000-020000000000",
+                "display": "John de Vries"
+            }
+        },
+        "dispenseRequest": {
+            "numberOfRepeatsAllowed": 1,
+            "quantity": {
+                "value": 60,
+                "unit": "stuk",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "245"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-213-1-VV-2"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-213-1-VV-3",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:22.758-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: R. XXX_Gobee. Id: MBH_213_1_VV_3 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_213_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_213_1_MA_5 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_213_1_MA_5 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>MIZOLASTINE TABLET MGA 10MG</td></tr><tr><th>Gemaakt</th><td>2023-11-05T16:25:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Geldigheidsperiode: Vanaf 2023-11-06T00:00:00+02:00</div><div>Verwachte duur voorraad: 30 dag</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_213_1_MA_5"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_213_1_MA_5 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_213_1"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_213_1_VV_3"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-2-16-840-1-113883-2-4-4-10-48291",
+            "display": "MIZOLASTINE TABLET MGA  10MG"
+        },
+        "subject": {
+            "reference": "Patient/XXX-GOBEE",
+            "display": "R. XXX_Gobee"
+        },
+        "authoredOn": "2023-11-05T16:25:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f0a34-6a95-11ec-0000-020000000000",
+                            "display": "Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001111",
+                "display": "Peter van Pulver"
+            }
+        },
+        "dispenseRequest": {
+            "validityPeriod": {
+                "start": "2023-11-06T00:00:00+02:00"
+            },
+            "expectedSupplyDuration": {
+                "value": 30,
+                "unit": "dag",
+                "system": "http://unitsofmeasure.org",
+                "code": "d"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-213-1-VV-3"
+    },
+    {
+        "resourceType": "MedicationRequest",
+        "id": "zib-DispenseRequest-mp9-MBH-413-15-VV-1",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-11-21T04:49:23.149-05:00",
+            "profile": [
+                "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest"
+            ]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Toedieningsverzoek. Subject: R. XXX_Strengersz. Id: MBH_413_15_VV_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1), Categorie:                               \n          <span title=\"Request to dispense medication to patient (situation) (52711000146108 - SNOMED CT)\">Request to dispense medication to patient (situation)</span>,                               \n          <span style=\"display: block;\">Intentie: aanvraag</span><span style=\"display: block;\">Aangevraagd door: Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver &amp; Partners</span></caption><tbody><tr><th>Medicamenteuze behandel-id</th><td>MBH_413_15 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1)</td></tr><tr><th>Gebaseerd op</th><td>Relatie naar medicatieafspraak, id = MBH_413_15_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1 (Id: MBH_413_15_MA_1 (urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1))</td></tr><tr><th>Medicatie</th><td>Ureum 10% in eucerine cum aqua 100gr</td></tr><tr><th>Gemaakt</th><td>2023-11-20T09:35:00+02:00</td></tr><tr><th>Toedieningsverzoek</th><td><div>Max Repeats: 1</div><div>Hoeveelheid:</div><div>Uitvoerende: Apotheek De Gulle Gaper</div></td></tr></tbody></table></div>"
+        },
+        "extension": [
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-DispenseRequest-RelatedMedicationAgreement",
+                "valueReference": {
+                    "identifier": {
+                        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.16076005.1",
+                        "value": "MBH_413_15_MA_1"
+                    },
+                    "display": "Relatie naar medicatieafspraak, id = MBH_413_15_MA_1 || 2.16.840.1.113883.2.4.3.11.999.77.16076005.1"
+                }
+            },
+            {
+                "url": "http://nictiz.nl/fhir/StructureDefinition/zib-Medication-MedicationTreatment",
+                "valueIdentifier": {
+                    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.1.1",
+                    "value": "MBH_413_15"
+                }
+            }
+        ],
+        "identifier": [
+            {
+                "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.77.52711000146108.1",
+                "value": "MBH_413_15_VV_1"
+            }
+        ],
+        "intent": "order",
+        "category": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "52711000146108",
+                    "display": "Request to dispense medication to patient (situation)"
+                }
+            ],
+            "text": "Verstrekkingsverzoek"
+        },
+        "medicationReference": {
+            "reference": "Medication/zib-Product-mp9-UREUM-10-IN-EUCERINE-CUM-AQUA-100GR",
+            "display": "Ureum 10% in eucerine cum aqua 100gr"
+        },
+        "subject": {
+            "reference": "Patient/XXX-STRENGERSZ",
+            "display": "R. XXX_Strengersz"
+        },
+        "authoredOn": "2023-11-20T09:35:00+02:00",
+        "requester": {
+            "agent": {
+                "extension": [
+                    {
+                        "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                        "valueReference": {
+                            "reference": "PractitionerRole/l-core-practitionerrole-mp9-c33f11c5-6a95-11ec-0000-020000000000",
+                            "display": "Peter van Pulver || Huisartsen, niet nader gespecificeerd || Huisartsenpraktijk Pulver & Partners"
+                        }
+                    }
+                ],
+                "reference": "Practitioner/nl-core-practitioner-mp9-2-16-528-1-1007-3-1-000001111",
+                "display": "Peter van Pulver"
+            }
+        },
+        "dispenseRequest": {
+            "numberOfRepeatsAllowed": 1,
+            "quantity": {
+                "value": 100,
+                "unit": "milliliter",
+                "system": "urn:oid:2.16.840.1.113883.2.4.4.1.900.2",
+                "code": "233"
+            },
+            "performer": {
+                "reference": "Organization/nl-core-organization-mp9-2-16-528-1-1007-3-3-01236578",
+                "display": "Apotheek De Gulle Gaper"
+            }
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_zib-DispenseRequest-mp9-MBH-413-15-VV-1"
+    }
+]
