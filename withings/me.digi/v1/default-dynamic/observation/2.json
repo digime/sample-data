@@ -1,0 +1,898 @@
+[
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 77
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 114
+        }
+      }
+    ],
+    "createddate": 1716900448000,
+    "effectiveDateTime": "2024-05-28T12:47:28.000+00:00",
+    "entityid": "42_38673905_5567298116",
+    "id": 5567298116,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 80
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 111
+        }
+      }
+    ],
+    "createddate": 1716899816000,
+    "effectiveDateTime": "2024-05-28T12:36:56.000+00:00",
+    "entityid": "42_38673905_5567271909",
+    "id": 5567271909,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 75
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 106
+        }
+      }
+    ],
+    "createddate": 1716899657000,
+    "effectiveDateTime": "2024-05-28T12:34:17.000+00:00",
+    "entityid": "42_38673905_5567265386",
+    "id": 5567265386,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-5d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 80
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 120
+        }
+      }
+    ],
+    "createddate": 1716897427000,
+    "effectiveDateTime": "2024-05-28T11:57:07.000+00:00",
+    "entityid": "42_38673905_5567171188",
+    "id": 5567171188,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-6d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 96
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 150
+        }
+      }
+    ],
+    "createddate": 1716896309000,
+    "effectiveDateTime": "2024-05-28T11:38:29.000+00:00",
+    "entityid": "42_38673905_5567120427",
+    "id": 5567120427,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-8d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 91
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 138
+        }
+      }
+    ],
+    "createddate": 1716896180000,
+    "effectiveDateTime": "2024-05-28T11:36:20.000+00:00",
+    "entityid": "42_38673905_5567115046",
+    "id": 5567115046,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-9d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 71
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 116
+        }
+      }
+    ],
+    "createddate": 1716895247000,
+    "effectiveDateTime": "2024-05-28T11:20:47.000+00:00",
+    "entityid": "42_38673905_5567073023",
+    "id": 5567073023,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 84
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 145
+        }
+      }
+    ],
+    "createddate": 1716895247000,
+    "effectiveDateTime": "2024-05-28T11:20:47.000+00:00",
+    "entityid": "42_38673905_5567072998",
+    "id": 5567072998,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 91
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 154
+        }
+      }
+    ],
+    "createddate": 1716895246000,
+    "effectiveDateTime": "2024-05-28T11:20:46.000+00:00",
+    "entityid": "42_38673905_5567072974",
+    "id": 5567072974,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-10d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 69
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 104
+        }
+      }
+    ],
+    "createddate": 1716895245000,
+    "effectiveDateTime": "2024-05-28T11:20:45.000+00:00",
+    "entityid": "42_38673905_5567072958",
+    "id": 5567072958,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 72
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 111
+        }
+      }
+    ],
+    "createddate": 1716895244000,
+    "effectiveDateTime": "2024-05-28T11:20:44.000+00:00",
+    "entityid": "42_38673905_5567072929",
+    "id": 5567072929,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 71
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 102
+        }
+      }
+    ],
+    "createddate": 1716895244000,
+    "effectiveDateTime": "2024-05-28T11:20:44.000+00:00",
+    "entityid": "42_38673905_5567072892",
+    "id": 5567072892,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-11d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 67
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 110
+        }
+      }
+    ],
+    "createddate": 1716895243000,
+    "effectiveDateTime": "2024-05-28T11:20:43.000+00:00",
+    "entityid": "42_38673905_5567072864",
+    "id": 5567072864,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-12d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 60
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 120
+        }
+      }
+    ],
+    "createddate": 1716895242000,
+    "effectiveDateTime": "2024-05-28T11:20:42.000+00:00",
+    "entityid": "42_38673905_5567072834",
+    "id": 5567072834,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 74
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 126
+        }
+      }
+    ],
+    "createddate": 1716895241000,
+    "effectiveDateTime": "2024-05-28T11:20:41.000+00:00",
+    "entityid": "42_38673905_5567072801",
+    "id": 5567072801,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-14d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 91
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 147
+        }
+      }
+    ],
+    "createddate": 1716461501000,
+    "effectiveDateTime": "2024-05-23T10:51:41.000+00:00",
+    "entityid": "42_38673905_5554339177",
+    "id": 5554339177,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-15d"
+    }
+  }
+]
