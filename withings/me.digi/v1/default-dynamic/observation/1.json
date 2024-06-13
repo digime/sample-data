@@ -1,0 +1,114 @@
+[
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 80
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 110
+        }
+      }
+    ],
+    "createddate": 1713169936000,
+    "effectiveDateTime": "2024-04-15T08:32:16.000+00:00",
+    "entityid": "42_38673905_5438166660",
+    "id": 5438166660,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-2d"
+    }
+  },
+  {
+    "accountentityid": "42_38673905",
+    "component": [
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271650006",
+              "display": "Diastolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 71
+        }
+      },
+      {
+        "code": {
+          "coding": [
+            {
+              "code": "271649006",
+              "display": "Systolic Blood Pressure",
+              "system": "http://snomed.info/sct"
+            }
+          ]
+        },
+        "valueQuantity": {
+          "code": "mm[Hg]",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mmHg",
+          "value": 104
+        }
+      }
+    ],
+    "createddate": 1713169816000,
+    "effectiveDateTime": "2024-04-15T08:30:16.000+00:00",
+    "entityid": "42_38673905_5438163680",
+    "id": 5438163680,
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "code": "85354-9",
+          "display": "Blood pressure panel with all children optional",
+          "system": "http://loinc.org"
+        }
+      ]
+    },
+    "__sampleDataTemplate": {
+      "createddate": "now-3d"
+    }
+  }
+]
