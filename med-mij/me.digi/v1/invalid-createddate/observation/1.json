@@ -1,0 +1,258 @@
+[
+  {
+    "resourceType": "Observation",
+    "id": "gpdata-observation-contact01-bpsystolic",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-03-13T04:51:59.040-04:00",
+      "profile": [
+        "http://nictiz.nl/fhir/StructureDefinition/gp-DiagnosticResult"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Jacqueline XXX_Cevat. Id: bafb75cb-041c-11ec-1770-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dokter Bernard</span></caption><tbody><tr><th>Context</th><td><ul><li>Boezemfibrilleren/-fladderen</li><li>Consult voor Boezemfibrilleren/-fladderen met Dokter Bernard</li></ul></td></tr><tr><th>Bepalingdatum/tijd</th><td>2022-02-06</td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"systolische bloeddruk (1744 - nhg-tabel-45-diagnostische-bepalingen)\">systolische bloeddruk</span></td><td>184 mmHg</td></tr></tbody></table></div>"
+    },
+    "extension": [
+      {
+        "url": "http://nictiz.nl/fhir/StructureDefinition/extension-context-nl-core-episodeofcare",
+        "valueReference": {
+          "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-k78",
+          "display": "Boezemfibrilleren/-fladderen"
+        }
+      }
+    ],
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "bafb75cb-041c-11ec-1770-020000000000"
+      }
+    ],
+    "status": "final",
+    "category": [
+      {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/observation-category",
+            "code": "vital-signs",
+            "display": "Vital Signs"
+          }
+        ]
+      }
+    ],
+    "code": {
+      "coding": [
+        {
+          "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen",
+          "code": "1744",
+          "display": "systolische bloeddruk"
+        },
+        {
+          "system": "http://loinc.org",
+          "code": "8480-6",
+          "display": "Intravasculaire systolische bloeddruk [druk] in arterieel vaatstelsel"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/medmij-bgz-patient-ts-01",
+      "display": "Johan XXX_Helleman"
+    },
+    "context": {
+      "reference": "Encounter/gpdata-encounter-contact01",
+      "display": "Consult voor Boezemfibrilleren/-fladderen met Dokter Bernard"
+    },
+    "effectiveDateTime": "2022-02-06",
+    "performer": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    ],
+    "valueQuantity": {
+      "value": 184,
+      "unit": "mmHg",
+      "system": "http://unitsofmeasure.org",
+      "code": "mm[Hg]"
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_gpdata-observation-contact01-bpsystolic"
+  },
+  {
+    "resourceType": "Observation",
+    "id": "gpdata-observation-contact01-pulsefrequency",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-03-13T04:52:01.649-04:00",
+      "profile": [
+        "http://nictiz.nl/fhir/StructureDefinition/gp-DiagnosticResult"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Jacqueline XXX_Cevat. Id: bb4f140b-041c-11ec-6152-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dokter Bernard</span></caption><tbody><tr><th>Context</th><td><ul><li>Boezemfibrilleren/-fladderen</li><li>Consult voor Boezemfibrilleren/-fladderen met Dokter Bernard</li></ul></td></tr><tr><th>Bepalingdatum/tijd</th><td>2022-02-06</td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"polsfrequentie (1875 - nhg-tabel-45-diagnostische-bepalingen)\">polsfrequentie</span></td><td>120 /min</td></tr></tbody></table></div>"
+    },
+    "extension": [
+      {
+        "url": "http://nictiz.nl/fhir/StructureDefinition/extension-context-nl-core-episodeofcare",
+        "valueReference": {
+          "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-k78",
+          "display": "Boezemfibrilleren/-fladderen"
+        }
+      }
+    ],
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "bb4f140b-041c-11ec-6152-020000000000"
+      }
+    ],
+    "status": "final",
+    "category": [
+      {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/observation-category",
+            "code": "vital-signs",
+            "display": "Vital Signs"
+          }
+        ]
+      }
+    ],
+    "code": {
+      "coding": [
+        {
+          "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen",
+          "code": "1875",
+          "display": "polsfrequentie"
+        },
+        {
+          "system": "http://loinc.org",
+          "code": "8893-0",
+          "display": "Heart rate Peripheral artery by Palpation"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/medmij-bgz-patient-ts-01",
+      "display": "Johan XXX_Helleman"
+    },
+    "context": {
+      "reference": "Encounter/gpdata-encounter-contact01",
+      "display": "Consult voor Boezemfibrilleren/-fladderen met Dokter Bernard"
+    },
+    "effectiveDateTime": "2022-02-06",
+    "performer": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    ],
+    "valueQuantity": {
+      "value": 120,
+      "unit": "/min",
+      "system": "http://unitsofmeasure.org",
+      "code": "/min"
+    },
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_gpdata-observation-contact01-pulsefrequency",
+    "createddate": "invalid"
+  },
+  {
+    "resourceType": "Observation",
+    "id": "gpdata-observation-contact01-pulseremarks",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-03-13T04:52:02.571-04:00",
+      "profile": [
+        "http://nictiz.nl/fhir/StructureDefinition/gp-DiagnosticResult"
+      ]
+    },
+    "text": {
+      "status": "extensions",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Observatie/bepaling. Subject: Jacqueline XXX_Cevat. Id: bb6ad96b-041c-11ec-1170-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie:                               \n          <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief                              \n          <span style=\"display: block;\">Uitvoerende: Dokter Bernard</span></caption><tbody><tr><th>Context</th><td><ul><li>Boezemfibrilleren/-fladderen</li><li>Consult voor Boezemfibrilleren/-fladderen met Dokter Bernard</li></ul></td></tr><tr><th>Bepalingdatum/tijd</th><td>2022-02-06</td></tr><tr><th>Code</th><th>Waarde</th></tr><tr><td><span title=\"polsopmerkingen (2126 - nhg-tabel-45-diagnostische-bepalingen)\">polsopmerkingen</span></td><td>linker pols</td></tr></tbody></table></div>"
+    },
+    "extension": [
+      {
+        "url": "http://nictiz.nl/fhir/StructureDefinition/extension-context-nl-core-episodeofcare",
+        "valueReference": {
+          "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-k78",
+          "display": "Boezemfibrilleren/-fladderen"
+        }
+      }
+    ],
+    "identifier": [
+      {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "bb6ad96b-041c-11ec-1170-020000000000"
+      }
+    ],
+    "status": "final",
+    "category": [
+      {
+        "coding": [
+          {
+            "system": "http://hl7.org/fhir/observation-category",
+            "code": "vital-signs",
+            "display": "Vital Signs"
+          }
+        ]
+      }
+    ],
+    "code": {
+      "coding": [
+        {
+          "system": "https://referentiemodel.nhg.org/tabellen/nhg-tabel-45-diagnostische-bepalingen",
+          "code": "2126",
+          "display": "polsopmerkingen"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/medmij-bgz-patient-ts-01",
+      "display": "Johan XXX_Helleman"
+    },
+    "context": {
+      "reference": "Encounter/gpdata-encounter-contact01",
+      "display": "Consult voor Boezemfibrilleren/-fladderen met Dokter Bernard"
+    },
+    "effectiveDateTime": "2022-02-06",
+    "performer": [
+      {
+        "extension": [
+          {
+            "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+            "valueReference": {
+              "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+              "display": "Dokter Bernard"
+            }
+          }
+        ],
+        "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+        "display": "Dokter Bernard"
+      }
+    ],
+    "valueString": "linker pols",
+    "accountentityid": "37_123456789",
+    "entityid": "37_123456789_gpdata-observation-contact01-pulseremarks",
+    "createddate": 10
+  }
+]
