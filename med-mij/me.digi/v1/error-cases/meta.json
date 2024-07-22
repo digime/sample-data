@@ -1,0 +1,14 @@
+{
+    "errors": [
+        {
+        "code": "AUTHORIZATION_ERROR",
+        "statusCode": "403",
+        "message": "Access token expired"
+        },
+        {
+            "code": "MAX_RETRY_DELAY_EXCEEDED",
+            "statusCode": "429",
+            "message": "Max retry delay exceeded. Next retry should be at 2024-07-22T12:59:55.263Z"
+        }
+    ]
+}
