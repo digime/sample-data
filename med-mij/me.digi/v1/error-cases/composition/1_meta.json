@@ -3,7 +3,7 @@
         {
             "code": "AccountTypeNotWhitelistedError",
             "message": "Account Type Not Whitelisted",
-            "partial": true,
+            "partialError": true,
             "statusCode": 400
         }
     ]
