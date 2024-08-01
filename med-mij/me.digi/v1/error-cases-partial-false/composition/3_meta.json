@@ -1,0 +1,10 @@
+{
+    "errors": [
+        {
+            "code": "AccountTypeNotWhitelistedError",
+            "message": "Account Type Not Whitelisted",
+            "partialError": false,
+            "statusCode": 400
+        }
+    ]
+}

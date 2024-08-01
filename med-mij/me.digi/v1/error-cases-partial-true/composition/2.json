@@ -1,0 +1,537 @@
+[
+    {
+        "resourceType": "Composition",
+        "id": "gp-EncounterReport-gpdata-encounter-contact07",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T09:51:15.321+01:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2022-12-08</b><table><caption>Samengestelde informatie. Subject: Jacqueline XXX_Cevat. Id: b5b053bc-041c-11ec-1117-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief                              \n          <span style=\"display: block;\">Auteur: Dokter Bernard</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>2022-12-08</td></tr><tr><th>Contact</th><td>Consult voor Maagpijn met Dokter Bernard</td></tr></tbody></table></div>"
+        },
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b5b053bc-041c-11ec-1117-020000000000"
+        },
+        "status": "final",
+        "type": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "67781-5",
+                "display": "Summarization of encounter note Narrative"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "encounter": {
+            "reference": "Encounter/gpdata-encounter-contact07",
+            "display": "Consult voor Maagpijn met Dokter Bernard"
+        },
+        "date": "2022-12-08",
+        "author": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                "valueReference": {
+                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                    "display": "Dokter Bernard"
+                }
+            }],
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
+        }],
+        "title": "Contactverslag dd. 2022-12-08",
+        "section": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                        "code": "D02",
+                        "display": "Maagpijn"
+                    }]
+                }
+            }],
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "E",
+                    "display": "Evaluatie"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Maag/duodenum problemen?</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact07-e",
+                "display": "Maag/duodenum problemen?"
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-d02",
+                "display": "Condition Maagpijn"
+            }]
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact07",
+        "createddate": 1670454000
+    }, {
+        "resourceType": "Composition",
+        "id": "gp-EncounterReport-gpdata-encounter-contact08",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T09:51:15.915+01:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2022-09-19</b><table><caption>Samengestelde informatie. Subject: Jacqueline XXX_Cevat. Id: b5c4c61c-041c-11ec-1432-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief                              \n          <span style=\"display: block;\">Auteur: Dokter Bernard</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>2022-09-19</td></tr><tr><th>Contact</th><td>Consult voor Lokale zwelling/papel/knobbel huid/subcutis met Dokter Bernard</td></tr></tbody></table></div>"
+        },
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b5c4c61c-041c-11ec-1432-020000000000"
+        },
+        "status": "final",
+        "type": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "67781-5",
+                "display": "Summarization of encounter note Narrative"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "encounter": {
+            "reference": "Encounter/gpdata-encounter-contact08",
+            "display": "Consult voor Lokale zwelling/papel/knobbel huid/subcutis met Dokter Bernard"
+        },
+        "date": "2022-09-19",
+        "author": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                "valueReference": {
+                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                    "display": "Dokter Bernard"
+                }
+            }],
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
+        }],
+        "title": "Contactverslag dd. 2022-09-19",
+        "section": [{
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "P",
+                    "display": "Plan"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Echo.</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact08-p",
+                "display": "Echo."
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s04",
+                "display": "Condition Lokale zwelling/papel"
+            }]
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact08",
+        "createddate": 1663538400
+    }, {
+        "resourceType": "Composition",
+        "id": "gp-EncounterReport-gpdata-encounter-contact09",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T09:51:16.431+01:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2022-09-24</b><table><caption>Samengestelde informatie. Subject: Jacqueline XXX_Cevat. Id: b5da49ec-041c-11ec-7009-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief                              \n          <span style=\"display: block;\">Auteur: Dokter Bernard</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>2022-09-24</td></tr><tr><th>Contact</th><td>Consult voor Tinea Pedis met Dokter Bernard</td></tr></tbody></table></div>"
+        },
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b5da49ec-041c-11ec-7009-020000000000"
+        },
+        "status": "final",
+        "type": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "67781-5",
+                "display": "Summarization of encounter note Narrative"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "encounter": {
+            "reference": "Encounter/gpdata-encounter-contact09",
+            "display": "Consult voor Tinea Pedis met Dokter Bernard"
+        },
+        "date": "2022-09-24",
+        "author": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                "valueReference": {
+                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                    "display": "Dokter Bernard"
+                }
+            }],
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
+        }],
+        "title": "Contactverslag dd. 2022-09-24",
+        "section": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                        "code": "S74.01",
+                        "display": "Tinea pedis"
+                    }]
+                }
+            }],
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "E",
+                    "display": "Evaluatie"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Mycose.</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact09-e",
+                "display": "Mycose."
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s7401",
+                "display": "Condition Tinea pedis"
+            }]
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "P",
+                    "display": "Plan"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Heeft nog canesten via drogist; 2x daags gebruiken.</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact09-p",
+                "display": "Heeft nog canesten via drogist; 2x daags gebruiken."
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-s7401",
+                "display": "Condition Tinea pedis"
+            }]
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact09",
+        "createddate": 1663970400
+    }, {
+        "resourceType": "Composition",
+        "id": "gp-EncounterReport-gpdata-encounter-contact10",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T09:51:17.165+01:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2022-11-18</b><table><caption>Samengestelde informatie. Subject: Jacqueline XXX_Cevat. Id: b5f042ec-041c-11ec-1507-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief                              \n          <span style=\"display: block;\">Auteur: Dokter Bernard</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>2022-11-18</td></tr><tr><th>Contact</th><td>Consult voor Keelpijn met Dokter Bernard</td></tr></tbody></table></div>"
+        },
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b5f042ec-041c-11ec-1507-020000000000"
+        },
+        "status": "final",
+        "type": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "67781-5",
+                "display": "Summarization of encounter note Narrative"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "encounter": {
+            "reference": "Encounter/gpdata-encounter-contact10",
+            "display": "Consult voor Keelpijn met Dokter Bernard"
+        },
+        "date": "2022-11-18",
+        "author": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                "valueReference": {
+                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                    "display": "Dokter Bernard"
+                }
+            }],
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
+        }],
+        "title": "Contactverslag dd. 2022-11-18",
+        "section": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                        "code": "R21.01",
+                        "display": "Keelpijn"
+                    }]
+                }
+            }],
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "E",
+                    "display": "Evaluatie"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact10-e",
+                "display": "Keelpijn eci."
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                "display": "Condition Keelpijn"
+            }]
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "P",
+                    "display": "Plan"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Afwachten, zn. Medicatie is nog beschikbaar</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact10-p",
+                "display": "Afwachten, zn. Medicatie is nog beschikbaar"
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                "display": "Condition Keelpijn"
+            }]
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact10",
+        "createddate": 1668726000
+    }, {
+        "resourceType": "Composition",
+        "id": "gp-EncounterReport-gpdata-encounter-contact11",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T09:51:18.180+01:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2022-12-13</b><table><caption>Samengestelde informatie. Subject: Jacqueline XXX_Cevat. Id: b606b11c-041c-11ec-9179-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief                              \n          <span style=\"display: block;\">Auteur: Dokter Bernard</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>2022-12-13</td></tr><tr><th>Contact</th><td>Consult voor Keelpijn met Dokter Bernard</td></tr></tbody></table></div>"
+        },
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b606b11c-041c-11ec-9179-020000000000"
+        },
+        "status": "final",
+        "type": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "67781-5",
+                "display": "Summarization of encounter note Narrative"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "encounter": {
+            "reference": "Encounter/gpdata-encounter-contact11",
+            "display": "Consult voor Keelpijn met Dokter Bernard"
+        },
+        "date": "2022-12-13",
+        "author": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                "valueReference": {
+                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                    "display": "Dokter Bernard"
+                }
+            }],
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
+        }],
+        "title": "Contactverslag dd. 2022-12-13",
+        "section": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                        "code": "R21.01",
+                        "display": "Keelpijn"
+                    }]
+                }
+            }],
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "E",
+                    "display": "Evaluatie"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact11-e",
+                "display": "Keelpijn eci."
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                "display": "Condition Keelpijn"
+            }]
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "P",
+                    "display": "Plan"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Kweek van aanslag keel</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact11-p",
+                "display": "Kweek van aanslag keel"
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                "display": "Condition Keelpijn"
+            }]
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact11",
+        "createddate": 1670886000
+    }, {
+        "resourceType": "Composition",
+        "id": "gp-EncounterReport-gpdata-encounter-contact12",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-03-13T09:51:18.696+01:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/gp-EncounterReport"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><b>Contactverslag dd. 2023-01-22</b><table><caption>Samengestelde informatie. Subject: Jacqueline XXX_Cevat. Id: b61c0ddc-041c-11ec-1102-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: definitief                              \n          <span style=\"display: block;\">Auteur: Dokter Bernard</span></caption><tbody><tr><th>Type</th><td><span title=\"Summarization of encounter note Narrative (67781-5 - LOINC)\">Summarization of encounter note Narrative</span></td></tr><tr><th>Gemaakt</th><td>2023-01-22</td></tr><tr><th>Contact</th><td>Consult voor Keelpijn met Dokter Bernard</td></tr></tbody></table></div>"
+        },
+        "identifier": {
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "b61c0ddc-041c-11ec-1102-020000000000"
+        },
+        "status": "final",
+        "type": {
+            "coding": [{
+                "system": "http://loinc.org",
+                "code": "67781-5",
+                "display": "Summarization of encounter note Narrative"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "encounter": {
+            "reference": "Encounter/gpdata-encounter-contact12",
+            "display": "Consult voor Keelpijn met Dokter Bernard"
+        },
+        "date": "2023-01-22",
+        "author": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
+                "valueReference": {
+                    "reference": "PractitionerRole/gpdata-practitionerrole-kwalificatie1",
+                    "display": "Dokter Bernard"
+                }
+            }],
+            "reference": "Practitioner/gpdata-practitioner-kwalificatie1",
+            "display": "Dokter Bernard"
+        }],
+        "title": "Contactverslag dd. 2023-01-22",
+        "section": [{
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-icpc-1-nl",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://hl7.org/fhir/sid/icpc-1-nl",
+                        "code": "R21.01",
+                        "display": "Keelpijn"
+                    }]
+                }
+            }],
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "E",
+                    "display": "Evaluatie"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Keelpijn eci.</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact12-e",
+                "display": "Keelpijn eci."
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                "display": "Condition Keelpijn"
+            }]
+        }, {
+            "code": {
+                "coding": [{
+                    "system": "http://fhir.nl/fhir/NamingSystem/journaalregeltypen",
+                    "code": "P",
+                    "display": "Plan"
+                }]
+            },
+            "text": {
+                "status": "generated",
+                "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Bezoek brengen aan de tandarts, wellicht zit er daar iets.</div>"
+            },
+            "entry": [{
+                "reference": "Observation/gpdata-observation-contact12-p",
+                "display": "Bezoek brengen aan de tandarts, wellicht zit er daar iets."
+            }, {
+                "reference": "EpisodeOfCare/gpdata-episodeofcare-icpc-r2101",
+                "display": "Condition Keelpijn"
+            }]
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_gp-EncounterReport-gpdata-encounter-contact12",
+        "createddate": 1674342000
+    }
+]
