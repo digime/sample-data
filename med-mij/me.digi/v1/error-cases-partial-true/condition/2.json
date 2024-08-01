@@ -1,0 +1,165 @@
+[
+    {
+        "resourceType": "Condition",
+        "id": "medmij-bgz-condition-ts-04",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:31.911-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Problem"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Johan XXX_Helleman. Id: 2e0b8e5c-e3e4-11eb-1411-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: actief / bevestigd</caption><tfoot><tr><td colspan=\"2\">Beperking bij het bewegen van het gewricht, drukpijn door slijtage van twee compartimenten van de linker knie.</td></tr></tfoot><tbody><tr><th>Code</th><td><span title=\"Artropathie (aandoening) (399269003 - SNOMED CT)\">Artropathie (aandoening)</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "2e0b8e5c-e3e4-11eb-1411-020000000000"
+        }],
+        "clinicalStatus": "active",
+        "_clinicalStatus": {
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://snomed.info/sct",
+                        "code": "55561003",
+                        "display": "Actueel"
+                    }]
+                }
+            }]
+        },
+        "verificationStatus": "confirmed",
+        "_verificationStatus": {
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://snomed.info/sct",
+                        "code": "410605003",
+                        "display": "aanwezigheid bevestigd (kwalificatiewaarde)"
+                    }]
+                }
+            }]
+        },
+        "code": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "399269003",
+                "display": "Artropathie (aandoening)"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "note": [{
+            "text": "Beperking bij het bewegen van het gewricht, drukpijn door slijtage van twee compartimenten van de linker knie."
+        }],
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-condition-ts-04"
+    }, {
+        "resourceType": "Condition",
+        "id": "medmij-bgz-condition-ts-05",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:32.317-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Problem"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Johan XXX_Helleman. Id: 2e38dfec-e3e4-11eb-5680-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: opgelost / bevestigd</caption><tbody><tr><th>Code</th><td><span title=\"Fractuur van onderste extremiteit (aandoening) (46866001 - SNOMED CT)\">Fractuur van onderste extremiteit (aandoening)</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "2e38dfec-e3e4-11eb-5680-020000000000"
+        }],
+        "clinicalStatus": "resolved",
+        "_clinicalStatus": {
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://snomed.info/sct",
+                        "code": "73425007",
+                        "display": "inactief (kwalificatiewaarde)"
+                    }]
+                }
+            }]
+        },
+        "verificationStatus": "confirmed",
+        "_verificationStatus": {
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://snomed.info/sct",
+                        "code": "410605003",
+                        "display": "aanwezigheid bevestigd (kwalificatiewaarde)"
+                    }]
+                }
+            }]
+        },
+        "code": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "46866001",
+                "display": "Fractuur van onderste extremiteit (aandoening)"
+            }]
+        },
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-condition-ts-05"
+    }, {
+        "resourceType": "Condition",
+        "id": "medmij-bgz-condition-ts-06",
+        "meta": {
+            "versionId": "1",
+            "lastUpdated": "2023-02-22T10:42:32.723-05:00",
+            "profile": ["http://nictiz.nl/fhir/StructureDefinition/zib-Problem"]
+        },
+        "text": {
+            "status": "extensions",
+            "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><caption>Aandoening. Subject: Johan XXX_Helleman. Id: 2e64aadc-e3e4-11eb-7041-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Status: opgelost</caption><tbody><tr><th>Code</th><td><span title=\"Naevus naevocellularis - geen ICD-O-subtype (afwijkende morfologie) (21119008 - SNOMED CT)\">Naevus naevocellularis - geen ICD-O-subtype (afwijkende morfologie)</span></td></tr></tbody></table></div>"
+        },
+        "identifier": [{
+            "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+            "value": "2e64aadc-e3e4-11eb-7041-020000000000"
+        }],
+        "clinicalStatus": "resolved",
+        "_clinicalStatus": {
+            "extension": [{
+                "url": "http://nictiz.nl/fhir/StructureDefinition/code-specification",
+                "valueCodeableConcept": {
+                    "coding": [{
+                        "system": "http://snomed.info/sct",
+                        "code": "73425007",
+                        "display": "inactief (kwalificatiewaarde)"
+                    }]
+                }
+            }]
+        },
+        "code": {
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "21119008",
+                "display": "Naevus naevocellularis - geen ICD-O-subtype (afwijkende morfologie)"
+            }]
+        },
+        "bodySite": [{
+            "coding": [{
+                "system": "http://snomed.info/sct",
+                "code": "60819002",
+                "display": "Structuur van bucca (lichaamsstructuur)"
+            }]
+        }],
+        "subject": {
+            "reference": "Patient/medmij-bgz-patient-ts-01",
+            "display": "Johan XXX_Helleman"
+        },
+        "accountentityid": "37_123456789",
+        "entityid": "37_123456789_medmij-bgz-condition-ts-06"
+    }
+]
