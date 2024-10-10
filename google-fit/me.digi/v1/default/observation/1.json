@@ -1,0 +1,327 @@
+[
+    {
+        "accountentityid": "33_103658247457031333684",
+        "resourceType": "Observation",
+        "createddate": 1700179200000,
+        "effectiveDateTime": "2023-11-17T00:00:00.000+00:00",
+        "id": "0ad62677e6afe0918fbd50457b21b841",
+        "entityid": "33_103658247457031333684_0ad62677e6afe0918fbd50457b21b841",
+        "status": "final",
+        "valueQuantity": {
+            "value": 2550,
+            "unit": "steps"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "41950-7",
+                    "display": "Steps taken",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "resourceType": "Observation",
+        "createddate": 1699574400000,
+        "effectiveDateTime": "2023-11-10T00:00:00.000+00:00",
+        "id": "e2e6c1cd7ecf56b0031cf81d15da74ee",
+        "entityid": "33_103658247457031333684_e2e6c1cd7ecf56b0031cf81d15da74ee",
+        "status": "final",
+        "valueQuantity": {
+            "value": 10000,
+            "unit": "steps"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "41950-7",
+                    "display": "Steps taken",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "2c625a94b83b2786f8b98cc3be1040fe",
+        "resourceType": "Observation",
+        "createddate": 1700179200000,
+        "effectiveDateTime": "2023-11-17T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_2c625a94b83b2786f8b98cc3be1040fe",
+        "status": "final",
+        "valueQuantity": {
+            "value": 882.02,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "a9e9dec376c2269fd9dc75beddb3afd6",
+        "resourceType": "Observation",
+        "createddate": 1700092800000,
+        "effectiveDateTime": "2023-11-16T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_a9e9dec376c2269fd9dc75beddb3afd6",
+        "status": "final",
+        "valueQuantity": {
+            "value": 1915.75,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "d04da0dbf625f1aad893a607d1a48917",
+        "resourceType": "Observation",
+        "createddate": 1700006400000,
+        "effectiveDateTime": "2023-11-15T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_d04da0dbf625f1aad893a607d1a48917",
+        "status": "final",
+        "valueQuantity": {
+            "value": 1915.75,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "bcaa75cf30004d60307faddf9415c03e",
+        "resourceType": "Observation",
+        "createddate": 1699920000000,
+        "effectiveDateTime": "2023-11-14T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_bcaa75cf30004d60307faddf9415c03e",
+        "status": "final",
+        "valueQuantity": {
+            "value": 1915.75,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "ade5a3f722d054289287f8963747099c",
+        "resourceType": "Observation",
+        "createddate": 1699833600000,
+        "effectiveDateTime": "2023-11-13T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_ade5a3f722d054289287f8963747099c",
+        "status": "final",
+        "valueQuantity": {
+            "value": 1915.75,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "cd3532bd9e05caef0476a7ff43b5f164",
+        "resourceType": "Observation",
+        "createddate": 1699747200000,
+        "effectiveDateTime": "2023-11-12T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_cd3532bd9e05caef0476a7ff43b5f164",
+        "status": "final",
+        "valueQuantity": {
+            "value": 2234.41,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "726b4cb8ac430384c46fd6eb70664bee",
+        "resourceType": "Observation",
+        "createddate": 1699660800000,
+        "effectiveDateTime": "2023-11-11T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_726b4cb8ac430384c46fd6eb70664bee",
+        "status": "final",
+        "valueQuantity": {
+            "value": 1915.75,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "f1f1fb7e61fb4b18dc1c63449665be36",
+        "resourceType": "Observation",
+        "createddate": 1699574400000,
+        "effectiveDateTime": "2023-11-10T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_f1f1fb7e61fb4b18dc1c63449665be36",
+        "status": "final",
+        "valueQuantity": {
+            "value": 2713.69,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "0d429883b21f365f9d2be2285ab23eb3",
+        "resourceType": "Observation",
+        "createddate": 1699488000000,
+        "effectiveDateTime": "2023-11-09T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_0d429883b21f365f9d2be2285ab23eb3",
+        "status": "final",
+        "valueQuantity": {
+            "value": 1915.75,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "68f870ccbfb95634394ec75efb78d67d",
+        "resourceType": "Observation",
+        "createddate": 1699401600000,
+        "effectiveDateTime": "2023-11-08T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_68f870ccbfb95634394ec75efb78d67d",
+        "status": "final",
+        "valueQuantity": {
+            "value": 908.79,
+            "unit": "kcal"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "55423-8",
+                    "display": "Calories burned",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    },
+    {
+        "accountentityid": "33_103658247457031333684",
+        "id": "b86a14c8cebe3ce74b78b3c7fb865575",
+        "resourceType": "Observation",
+        "createddate": 1699747200000,
+        "effectiveDateTime": "2023-11-12T00:00:00.000+00:00",
+        "entityid": "33_103658247457031333684_b86a14c8cebe3ce74b78b3c7fb865575",
+        "status": "final",
+        "valueQuantity": {
+            "value": 30,
+            "unit": "minutes"
+        },
+        "code": {
+            "coding": [
+                {
+                    "code": "41950-7",
+                    "display": "Active minutes",
+                    "system": "http://loinc.org"
+                }
+            ]
+        },
+        "subject": {
+            "reference": "103658247457031333684"
+        }
+    }
+]
