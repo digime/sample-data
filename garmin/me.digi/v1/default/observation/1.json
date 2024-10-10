@@ -1,0 +1,353 @@
+[
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 7619,
+        "unit": "steps"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "41950-7",
+            "display": "Steps taken",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514070000000,
+      "effectiveDateTime": "2017-12-23T23:00:00.000+00:00",
+      "id": 1514070000000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514070000000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 7619,
+        "unit": "steps"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "41950-7",
+            "display": "Steps taken",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 654,
+        "unit": "kcal"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "55423-8",
+            "display": "Active kilocalories",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 1234,
+        "unit": "kcal"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "55423-8",
+            "display": "BMR kilocalories",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 5000,
+        "unit": "m"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "55411-3",
+            "display": "Distance",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 46,
+        "unit": "bpm"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "8867-4",
+            "display": "Average heart rate",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514070000000,
+      "effectiveDateTime": "2017-12-23T23:00:00.000+00:00",
+      "id": 1514070000000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514070000000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 46,
+        "unit": "bpm"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "8867-4",
+            "display": "Average heart rate",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 46,
+        "unit": "bpm"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "8867-4",
+            "display": "Min heart rate",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514070000000,
+      "effectiveDateTime": "2017-12-23T23:00:00.000+00:00",
+      "id": 1514070000000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514070000000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 46,
+        "unit": "bpm"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "8867-4",
+            "display": "Min heart rate",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 46,
+        "unit": "bpm"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "8867-4",
+            "display": "Min heart rate",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514070000000,
+      "effectiveDateTime": "2017-12-23T23:00:00.000+00:00",
+      "id": 1514070000000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514070000000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 46,
+        "unit": "bpm"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "8867-4",
+            "display": "Min heart rate",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 4,
+        "unit": "floors"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "41949-9",
+            "display": "Floor climbed",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514070000000,
+      "effectiveDateTime": "2017-12-23T23:00:00.000+00:00",
+      "id": 1514070000000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514070000000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 4,
+        "unit": "floors"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "41949-9",
+            "display": "Floor climbed",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    },
+    {
+      "accountentityid": "21_dc6fb64cf0956f79737ccc53b273163b",
+      "resourceType": "Observation",
+      "createddate": 1514073600000,
+      "effectiveDateTime": "2017-12-24T00:00:00.000+00:00",
+      "id": 1514073600000,
+      "entityid": "21_dc6fb64cf0956f79737ccc53b273163b_1514073600000",
+      "status": "final",
+      "valueQuantity": {
+        "value": 12540,
+        "unit": "seconds"
+      },
+      "code": {
+        "coding": [
+          {
+            "code": "55423-8",
+            "display": "Stress duration",
+            "system": "http://loinc.org"
+          }
+        ]
+      },
+      "subject": {
+        "reference": "4aacafe82427c251df9c9592d0c06768"
+      }
+    }
+  ]
+  
